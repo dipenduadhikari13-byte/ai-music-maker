@@ -1,3 +1,9 @@
 streamlit
 google-genai
 python-dotenv
+moviepy
+librosa
+numpy
+requests
+Pillow
+soundfile
