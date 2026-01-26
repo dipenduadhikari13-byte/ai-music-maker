@@ -12,6 +12,33 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+# --- 🔐 VIP LOCK SCREEN ---
+# Load the password from Environment or Cloud Secrets
+if "ACCESS_CODE" in st.secrets:
+    correct_password = st.secrets["ACCESS_CODE"] # Cloud
+else:
+    correct_password = os.getenv("ACCESS_CODE")  # Local
+
+# Initialize session state for login
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
+
+# Show Lock Screen if not logged in
+if not st.session_state.authenticated:
+    st.markdown("## 🔒 VIP Access Only")
+    st.write("This tool is protected. Please enter your access code.")
+    
+    password_input = st.text_input("Enter Passcode:", type="password")
+    
+    if st.button("Unlock App"):
+        if password_input == correct_password:
+            st.session_state.authenticated = True
+            st.success("Access Granted! Loading Studio...")
+            st.rerun() # Reloads the app to show the content
+        else:
+            st.error("🚫 Incorrect Code. Please contact the admin.")
+    
+    st.stop() # 🛑 STOPS everything below this line until unlocked!
 
 # --- 2. LOAD API KEY (Cloud & Local Support) ---
 env_path = Path(__file__).parent / ".env"
