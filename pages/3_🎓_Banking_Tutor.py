@@ -30,6 +30,7 @@ def get_pdf_text(uploaded_file):
         text += page.extract_text()
     return text
 
+@st.cache_data(show_spinner=False)
 def generate_quiz(text, topic, difficulty):
     client = genai.Client(api_key=api_key)
     

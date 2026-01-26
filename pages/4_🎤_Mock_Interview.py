@@ -23,6 +23,7 @@ if "current_question" not in st.session_state:
     st.session_state.current_question = "Tell me about yourself and why you want to join the Banking sector?"
 
 # --- 3. AI FUNCTIONS ---
+@st.cache_data(show_spinner=False)
 def get_feedback(audio_bytes, question):
     client = genai.Client(api_key=api_key)
     
