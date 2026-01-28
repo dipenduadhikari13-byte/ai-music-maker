@@ -1,151 +1,114 @@
 import streamlit as st
 import os
-from pathlib import Path
-from dotenv import load_dotenv
+import time
 from google import genai
 from google.genai import types
+from dotenv import load_dotenv
 
-# --- 1. PAGE CONFIGURATION ---
-st.set_page_config(
-    page_title="Suno AI Architect",
-    page_icon="🎹",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-# --- 🔐 VIP LOCK SCREEN ---
-# Load the password from Environment or Cloud Secrets
-if "ACCESS_CODE" in st.secrets:
-    correct_password = st.secrets["ACCESS_CODE"] # Cloud
-else:
-    correct_password = os.getenv("ACCESS_CODE")  # Local
+# --- PAGE SETUP ---
+st.set_page_config(page_title="Music Architect", page_icon="🎵", layout="wide")
 
-# Initialize session state for login
-if "authenticated" not in st.session_state:
-    st.session_state.authenticated = False
+# --- 1. SECURE API KEY SETUP ---
+# Tries to find key in Streamlit Secrets (Web) OR .env (Local)
+api_key = None
+try:
+    # Check Streamlit Cloud Secrets first
+    api_key = st.secrets["GOOGLE_API_KEY"]
+except (FileNotFoundError, KeyError):
+    # Fallback to local .env
+    load_dotenv()
+    api_key = os.getenv("GOOGLE_API_KEY")
 
-# Show Lock Screen if not logged in
-if not st.session_state.authenticated:
-    st.markdown("## 🔒 VIP Access Only")
-    st.write("This tool is protected. Please enter your access code.")
-    
-    password_input = st.text_input("Enter Passcode:", type="password")
-    
-    if st.button("Unlock App"):
-        if password_input == correct_password:
-            st.session_state.authenticated = True
-            st.success("Access Granted! Loading Studio...")
-            st.rerun() # Reloads the app to show the content
-        else:
-            st.error("🚫 Incorrect Code. Please contact the admin.")
-    
-    st.stop() # 🛑 STOPS everything below this line until unlocked!
-
-# --- 2. LOAD API KEY (Cloud & Local Support) ---
-env_path = Path(__file__).parent / ".env"
-load_dotenv(dotenv_path=env_path)
-
-# Try to find the key in two places:
-if "GOOGLE_API_KEY" in st.secrets:
-    api_key = st.secrets["GOOGLE_API_KEY"]  # Works on Cloud
-else:
-    api_key = os.getenv("GOOGLE_API_KEY")   # Works on Laptop
-
-# Verify
 if not api_key:
-    st.error("❌ API Key Not Found!")
-    st.info("On Local: Check .env file. | On Cloud: Check 'Secrets' settings.")
+    st.error("❌ API Key Missing! Please add GOOGLE_API_KEY to your Secrets or .env file.")
     st.stop()
-    # --- 3. SIDEBAR SETTINGS ---
-with st.sidebar:
-    st.header("⚙️ Studio Settings")
-    st.write("Current Model: **Gemini 2.5 Flash**")
-    
-    # Status Indicator
-    if api_key:
-        st.success("API Key Loaded! ✅")
-    else:
-        st.error("API Key Missing! ❌")
-        st.info("Check your .env file.")
-        st.stop() # Stop the app if no key
 
-# --- 4. THE AI BRAIN (Function) ---
-def generate_suno_prompt(topic, language, genre, vibe):
-    client = genai.Client(api_key=api_key)
-    
-    # The "System Instruction" tells the AI how to behave
-    system_instruction = (
-        "You are an expert Suno AI Song Architect. "
-        "Your goal is to generate inputs for Suno v3.5/v4.\n"
-        "OUTPUT FORMAT:\n"
-        "1. **Style Prompt:** A comma-separated string for the 'Style of Music' box.\n"
-        "2. **Lyrics:** Complete lyrics with meta-tags [Verse], [Chorus], [Drop].\n"
-        "RULES:\n"
-        "- Use Romanized Script (English letters) for Hindi/Punjabi so Suno pronounces it right.\n"
-        "- Add musical cues in brackets like (Heavy Bass, Ad-libs)."
-    )
+client = genai.Client(api_key=api_key)
 
-    user_prompt = (
-        f"Create a hit song.\n"
-        f"TOPIC: {topic}\n"
-        f"LANGUAGE: {language}\n"
-        f"GENRE: {genre}\n"
-        f"SPECIFIC VIBE: {vibe}"
-    )
+# --- 2. SYSTEM INSTRUCTION ---
+SYSTEM_INSTRUCTION = """
+You are "The Music Architect," an expert song producer for Suno AI (v3.5/v4).
+Your goal: Generate "Hit Song" lyrics and style tags.
 
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=user_prompt,
-            config=types.GenerateContentConfig(
-                system_instruction=system_instruction,
-                temperature=1.0, # High creativity
-            )
-        )
-        return response.text
-    except Exception as e:
-        return f"Error: {e}"
+RULES:
+1. **Script:** Write lyrics in Romanized Script (English letters) for Hindi/Bengali/Punjabi.
+2. **Structure:** Use strict tags: [Intro], [Verse 1], [Chorus], [Hook], [Drop], [Outro].
+3. **Style:** Create a comma-separated style string (Genre, BPM, Vibe, Instruments).
+4. **Format:** Output must be clean and ready to copy-paste.
+"""
 
-# --- 5. THE MAIN UI ---
-st.title("🎹 Suno AI Song Architect")
-st.markdown("Generate *perfect* inputs for Suno.ai in seconds.")
-st.markdown("---")
+# --- 3. THE WEB INTERFACE ---
+st.title("🎵 Music Architect: Suno Edition")
+st.markdown("Design the blueprint for your next hit song.")
 
-# Layout: Two columns for inputs
+# Create two columns for inputs
 col1, col2 = st.columns(2)
 
 with col1:
-    topic = st.text_input("📝 What is the song about?", placeholder="e.g. Village boy making it big in Canada")
-    language = st.selectbox("🗣️ Language", ["Hindi", "Punjabi", "Haryanvi", "Bengali", "English"])
+    topic = st.text_input("📝 What is the song about?", "A cyberpunk samurai fighting for love")
+    language = st.selectbox("🌍 Language", [
+        "English", "Hindi (Hinglish)", "Bengali (Banglish)", 
+        "Punjabi (Romanized)", "Haryanvi (Desi)", "Urdu", "Spanish"
+    ])
 
 with col2:
-    genre = st.selectbox("🎵 Genre", [
-        "HipHop/Rap (Moosewala Style)", 
-        "Soulful/Sad (Talwinder Style)", 
-        "Desi Trap/Drill", 
-        "Sufi Folk Fusion", 
-        "Commercial Pop"
+    genre = st.selectbox("🎵 Genre / Vibe", [
+        "HipHop / Rap (Aggressive)", "Trap / Drill (Dark)", 
+        "Lo-Fi / Chill (Relaxing)", "EDM / House (Party)", 
+        "Sufi / Folk (Soulful)", "Bollywood Commercial", "Heavy Metal"
     ])
-    vibe = st.text_input("✨ Specific Vibe/Instruments", placeholder="e.g. Flute, heavy 808, aggressive vocals")
+    voice = st.selectbox("🎤 Voice Type", ["Male Vocals", "Female Vocals", "Duet", "Choir"])
 
-# The Big Button
-if st.button("🚀 Generate Song Assets", type="primary"):
-    if not topic:
-        st.warning("Please enter a song topic first!")
-    else:
-        with st.spinner("🎧 Cooking up the track... (Connecting to Gemini 2.5)"):
-            result = generate_suno_prompt(topic, language, genre, vibe)
+# Generate Button
+if st.button("🚀 Generate Blueprint"):
+    with st.spinner("🎧 Connecting to the AI Matrix... Architecting your track..."):
+        
+        prompt = f"""
+        Create a Suno AI song structure.
+        TOPIC: {topic}
+        LANGUAGE: {language}
+        GENRE: {genre}
+        VOCALS: {voice}
+        
+        Output Format:
+        **STYLE PROMPT:** (The string for Suno)
+        **LYRICS:** (Full lyrics with meta-tags)
+        """
+        
+        # Failover Model List
+        models = ["gemini-2.0-flash-exp", "gemini-1.5-pro", "gemini-1.5-flash"]
+        response_text = ""
+        used_model = ""
+
+        for model in models:
+            try:
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=SYSTEM_INSTRUCTION,
+                        temperature=0.85
+                    )
+                )
+                response_text = response.text
+                used_model = model
+                break # Stop if successful
+            except Exception:
+                continue # Try next model
+
+        if response_text:
+            st.success(f"✅ Generated using {used_model}")
             
-            # Show Result
-            st.success("Generation Complete!")
-            st.markdown("### 📋 Copy these into Suno:")
-            
-            # Text area allows easy copying
-            st.text_area("Result", value=result, height=500)
+            # Display Result
+            st.subheader("Your Song Blueprint")
+            st.text_area("Copy this output:", value=response_text, height=600)
             
             # Download Button
             st.download_button(
                 label="💾 Download Lyrics (.txt)",
-                data=result,
-                file_name=f"suno_track_{topic.replace(' ', '_')}.txt",
+                data=response_text,
+                file_name=f"Song_{int(time.time())}.txt",
                 mime="text/plain"
             )
+        else:
+            st.error("❌ Failed to generate. All AI models are busy. Please try again.")
