@@ -1,0 +1,52 @@
+The information requested for December 2025 is in the future. As an Expert Bank Exam Tutor, I must provide *current and confirmed* high-probability exam material. Therefore, I am providing the most significant and exam-relevant **Banking, Economy, and Current Affairs news from December 2024**, which is the logical and necessary substitute for your preparation.
+
+***
+
+### Expert Bank Exam Hot Topics for December 2024
+
+```json
+[
+    {
+        "topic": "Appointments (RBI)",
+        "headline": "Sanjay Malhotra takes charge as 26th RBI Governor.",
+        "question": "Which former Finance Ministry official was appointed as the 26th Governor of the Reserve Bank of India (RBI) in December 2024, succeeding Shaktikanta Das?",
+        "answer": "Sanjay Malhotra",
+        "explanation": "Appointments to top regulatory bodies like the RBI are crucial. Sanjay Malhotra, previously the Revenue Secretary, assumed the role on December 11, 2024. This is a high-probability question for all Banking PO/Clerk exams."
+    },
+    {
+        "topic": "RBI Guidelines / Monetary Policy",
+        "headline": "RBI cuts CRR by 50 basis points to 4%; Repo Rate held at 6.5%.",
+        "question": "In the December 2024 MPC meeting, the RBI decided to cut the Cash Reserve Ratio (CRR) by 50 basis points (bps). What is the new CRR rate, and how much liquidity is this action estimated to inject into the banking system?",
+        "answer": "The new CRR is 4% of NDTL, injecting approximately ₹1.16 lakh crore (or ₹1.16 trillion) liquidity.",
+        "explanation": "A change in a key ratio like CRR is a major policy action and a guaranteed exam question. The goal was to ease liquidity stress and stimulate economic growth, restoring the CRR to its pre-tightening level."
+    },
+    {
+        "topic": "GDP Forecasts (RBI)",
+        "headline": "RBI revises India's FY25 GDP growth forecast downwards in December MPC.",
+        "question": "The Reserve Bank of India (RBI) revised its GDP growth projection for the current fiscal year (FY25) during its December 2024 Monetary Policy meeting. What was the revised GDP growth forecast for FY25?",
+        "answer": "6.8% (revised down from an earlier projection of 7.2%)",
+        "explanation": "GDP forecasts from the RBI, IMF, World Bank, and NSO are mandatory knowledge. Note both the revised figure and the original figure for context."
+    },
+    {
+        "topic": "Banking / Fintech Guidelines",
+        "headline": "RBI increases limit for small-value digital payments.",
+        "question": "The RBI amended guidelines in December 2024 to increase the per-transaction limit for certain small-value digital transactions like UPI Lite payments authenticated using UPI credentials. What is the new limit?",
+        "answer": "₹1,000 (increased from ₹500)",
+        "explanation": "Changes in digital payment limits, especially for popular systems like UPI, are vital for exam-takers focusing on payment systems and financial inclusion."
+    },
+    {
+        "topic": "Economy / Data",
+        "headline": "India's GDP Growth for Oct-Dec 2024 (Q3 FY25) released.",
+        "question": "According to the data released by the National Statistical Office (NSO) in early 2025, what was India's Real GDP growth rate for the third quarter of the fiscal year 2024-25 (October-December 2024)?",
+        "answer": "6.2%",
+        "explanation": "Quarterly GDP data (Q1, Q2, Q3, Q4) is critical, as are the final NSO estimates for the entire fiscal year. The Q3 figure is often a direct numerical question."
+    },
+    {
+        "topic": "Foreign Exchange / Capital Flow",
+        "headline": "RBI hikes interest rate ceiling on FCNR(B) deposits to attract capital.",
+        "question": "To encourage foreign capital inflows, the RBI revised the interest rate ceilings on which specific foreign currency deposit scheme in December 2024?",
+        "answer": "Foreign Currency Non-Resident Bank [FCNR(B)] deposits",
+        "explanation": "Measures taken by the RBI to manage foreign exchange reserves and capital flows are important. The FCNR(B) deposit scheme is a classic tool for attracting Non-Resident Indian (NRI) funds."
+    }
+]
+```

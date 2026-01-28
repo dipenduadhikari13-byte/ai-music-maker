@@ -1,36 +1,62 @@
-# 🎹 Suno AI Song Architect
+# 🎵 Music Architect
 
-### *The Professional Songwriting Companion for Suno v3.5 & v4*
+> **"Design Your Sound. Architect Your Soul."**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dipenduadhikari13-byte/ai-music-maker/main/app.py)
-![Status](https://img.shields.io/badge/Status-Live-green)
-![Tech](https://img.shields.io/badge/Powered%20By-Google%20Gemini%202.5-blue)
+[![Status](https://img.shields.io/badge/Status-Proprietary-red.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
+[![YouTube](https://img.shields.io/badge/Channel-Soul%20Note%20Originals-red.svg)](https://www.youtube.com/@genmusiccreator)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)](LICENSE)
 
-## 🚀 Overview
-**Suno AI Architect** is a next-generation prompt engineering tool designed for professional music producers using Suno AI. 
+**Music Architect** is a proprietary software suite developed by **Soul Note Originals**. It provides advanced audio analysis, automated structuring, and AI-driven composition tools for professional music production.
 
-Unlike standard prompt generators, this application leverages **Google's Gemini 2.5 Flash** model to architect complex song structures, ensuring:
-- **Phonetically Accurate Lyrics:** Uses Romanized script for Hindi/Punjabi to ensure correct AI pronunciation.
-- **Structural Integrity:** Enforces Meta-Tags like `[Verse]`, `[Chorus]`, and `[Drop]`.
-- **Style Optimization:** Generates precise style strings that trigger specific Suno instrumentals (e.g., "Heavy 808", "Sitar Solo").
+⚠️ **NOTICE:** This software is **not open source**. Unauthorized use, distribution, or modification is strictly prohibited.
 
-## 🛠️ Tech Stack
-* **Core Engine:** Python 3.10
-* **AI Model:** Google Gemini 2.5 Flash (via `google-genai` SDK)
-* **Frontend:** Streamlit Community Cloud
-* **Environment Management:** Dotenv for secure API key handling
+---
 
-## ✨ Key Features
-1.  **Multi-Language Support:** Optimized for Hindi, Punjabi, Haryanvi, and Bengali.
-2.  **Genre-Specific Algorithms:** * *Moosewala Mode:* Aggressive flow, high tempo.
-    * *Talwinder Mode:* Melodic, lo-fi, emotional depth.
-3.  **One-Click Asset Generation:** Exports both Style Prompts and Lyrics in a copy-paste ready format.
+## 🎹 Capabilities
 
-## ⚠️ License & Usage
-**Copyright (c) 2026 Dipendu Adhikari. All Rights Reserved.**
+* **🎧 Intelligent Analysis:** Advanced algorithms to detect BPM, Key, and timbral characteristics of local libraries.
+* **🎼 Structure Builder:** Automated arrangement engine for stems and project files.
+* **🤖 AI Integration:** Custom-tuned GenAI models for lyrical and harmonic suggestions.
+* **🔐 Secure Library:** Encrypted management of project assets and copyright data.
 
-This project is **PROPRIETARY**. 
-- You may view this code for educational purposes or to evaluate the author's portfolio.
-- **Commercial use, reproduction, or distribution is strictly prohibited** without a paid license.
+## 🛠️ System Requirements
 
-To purchase a usage license, please contact the author directly.
+* **OS:** Windows 10/11 or macOS Sonoma+
+* **Runtime:** Python 3.13+ (Runtime environment provided with license)
+* **Hardware:** Minimum 8GB RAM, Apple M1 or Intel i5+
+
+## 🚀 Access & Installation
+
+**This software is available by invitation or license only.**
+
+If you have received a license key from Soul Note Originals, follow these steps:
+
+1.  **Download the Secured Build**
+    (Link provided in your welcome email).
+
+2.  **Activate Your License**
+    Run the activation script in your terminal:
+    ```bash
+    py music_architect.py --activate <YOUR_LICENSE_KEY>
+    ```
+
+3.  **Launch**
+    ```bash
+    py music_architect.py
+    ```
+
+## 📄 License & Legal
+
+**Copyright © 2026 Soul Note Originals. All Rights Reserved.**
+
+This project and its source code are protected by intellectual property laws.
+* **You may not** mirror, modify, or redistribute this code.
+* **You may not** use this software for commercial purposes without a specific commercial license.
+* **You may not** reverse engineer the proprietary algorithms contained within.
+
+For usage permissions or enterprise licensing, please contact us via our official channel:
+**[Soul Note Originals](https://www.youtube.com/@genmusiccreator)**
+
+---
+*Architect Your Legacy.*
