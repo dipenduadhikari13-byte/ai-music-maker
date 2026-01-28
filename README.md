@@ -26,9 +26,6 @@ Unlike standard prompt generators, this application leverages **Google's Gemini 
     * *Talwinder Mode:* Melodic, lo-fi, emotional depth.
 3.  **One-Click Asset Generation:** Exports both Style Prompts and Lyrics in a copy-paste ready format.
 
-## 📸 Screenshots
-*(Add a screenshot of your app here later)*
-
 ## ⚠️ License & Usage
 **Copyright (c) 2026 Dipendu Adhikari. All Rights Reserved.**
 
