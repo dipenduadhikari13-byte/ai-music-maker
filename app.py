@@ -5,110 +5,163 @@ from google import genai
 from google.genai import types
 from dotenv import load_dotenv
 
-# --- PAGE SETUP ---
-st.set_page_config(page_title="Music Architect", page_icon="🎵", layout="wide")
+# --- PAGE CONFIGURATION ---
+st.set_page_config(
+    page_title="Music Architect Pro",
+    page_icon="🎹",
+    layout="wide"
+)
 
-# --- 1. SECURE API KEY SETUP ---
-# Tries to find key in Streamlit Secrets (Web) OR .env (Local)
+# --- 1. SECURE API KEY & CLIENT SETUP ---
 api_key = None
 try:
-    # Check Streamlit Cloud Secrets first
     api_key = st.secrets["GOOGLE_API_KEY"]
 except (FileNotFoundError, KeyError):
-    # Fallback to local .env
     load_dotenv()
     api_key = os.getenv("GOOGLE_API_KEY")
 
 if not api_key:
-    st.error("❌ API Key Missing! Please add GOOGLE_API_KEY to your Secrets or .env file.")
+    st.error("❌ API Key Missing! Please add GOOGLE_API_KEY to secrets.")
     st.stop()
 
 client = genai.Client(api_key=api_key)
 
-# --- 2. SYSTEM INSTRUCTION ---
-SYSTEM_INSTRUCTION = """
-You are "The Music Architect," an expert song producer for Suno AI (v3.5/v4).
-Your goal: Generate "Hit Song" lyrics and style tags.
+# --- 2. DYNAMIC MODEL FETCHING (The Fix) ---
+@st.cache_resource(ttl=3600) # Cache this for 1 hour so we don't spam Google
+def get_best_models():
+    """
+    Asks Google which models are currently available to your key.
+    Sorts them by power: 2.0 Flash -> 1.5 Pro -> 1.5 Flash.
+    """
+    try:
+        all_models = list(client.models.list())
+        # Filter for models that can generate content (Gemini only)
+        # We look for "generateContent" capability and "gemini" in the name
+        valid_models = [
+            m.name.replace("models/", "") 
+            for m in all_models 
+            if "gemini" in m.name and "vision" not in m.name
+        ]
+        
+        # Custom Sorter: Prioritize the best models
+        def model_priority(name):
+            if "2.0-flash" in name: return 0      # 1st Priority (Newest/Fastest)
+            if "1.5-pro" in name: return 1        # 2nd Priority (Smartest)
+            if "1.5-flash" in name: return 2      # 3rd Priority (Reliable)
+            return 3                              # Others
 
-RULES:
-1. **Script:** Write lyrics in Romanized Script (English letters) for Hindi/Bengali/Punjabi.
-2. **Structure:** Use strict tags: [Intro], [Verse 1], [Chorus], [Hook], [Drop], [Outro].
-3. **Style:** Create a comma-separated style string (Genre, BPM, Vibe, Instruments).
-4. **Format:** Output must be clean and ready to copy-paste.
+        valid_models.sort(key=model_priority)
+        return valid_models
+    except Exception as e:
+        # Fallback list if the API fails to list models
+        return ["gemini-2.0-flash-exp", "gemini-1.5-pro", "gemini-1.5-flash"]
+
+# --- 3. THE "HIT MAKER" BRAIN (System Prompt v2.0) ---
+SYSTEM_INSTRUCTION = """
+You are "The Music Architect," a world-class producer for Suno AI (v3.5/v4).
+Your goal is to engineer the perfect text prompt that results in a high-fidelity, structurally complex song.
+
+### CRITICAL RULES:
+1. **Script:** For Hindi/Bengali/Punjabi, you MUST use **Romanized Script** (English letters).
+   - Bad: "मैं तुमसे प्यार करता हूँ" (Suno fails this).
+   - Good: "Main tumse pyaar karta hoon" (Suno sings this perfectly).
+2. **Meta-Tags:** Drive the song structure using strict tags:
+   - [Intro], [Verse], [Chorus], [Bridge], [Hook], [Instrumental Solo], [Drop], [Outro].
+   - Add performance cues: (whispered), (screamed), (autotune heavy), (choir backing).
+3. **Style String:** Generate a focused style description (max 120 chars) for Suno's style box.
+   - Format: Genre, BPM, Key Instruments, Vibe.
+4. **Lyrics:** Create rhyme schemes (AABB, ABAB) that flow naturally. Use slang/ad-libs appropriate to the genre.
+
+### OUTPUT FORMAT:
+Provide the output in a clean format ready for copy-pasting.
 """
 
-# --- 3. THE WEB INTERFACE ---
-st.title("🎵 Music Architect: Suno Edition")
-st.markdown("Design the blueprint for your next hit song.")
+# --- 4. UI INTERFACE ---
+st.title("🎹 Music Architect: Suno Edition")
+st.markdown("### *Design Your Next Hit Song*")
 
-# Create two columns for inputs
 col1, col2 = st.columns(2)
 
 with col1:
-    topic = st.text_input("📝 What is the song about?", "A cyberpunk samurai fighting for love")
+    topic = st.text_input("📝 Song Concept", "A cyberpunk samurai fighting for love in Tokyo")
     language = st.selectbox("🌍 Language", [
         "English", "Hindi (Hinglish)", "Bengali (Banglish)", 
-        "Punjabi (Romanized)", "Haryanvi (Desi)", "Urdu", "Spanish"
+        "Punjabi (Romanized)", "Haryanvi (Desi)", "Urdu", "Spanish", "Japanese"
     ])
 
 with col2:
     genre = st.selectbox("🎵 Genre / Vibe", [
-        "HipHop / Rap (Aggressive)", "Trap / Drill (Dark)", 
-        "Lo-Fi / Chill (Relaxing)", "EDM / House (Party)", 
-        "Sufi / Folk (Soulful)", "Bollywood Commercial", "Heavy Metal"
+        "HipHop / Rap (Aggressive)", "Trap / Drill (Dark 808s)", 
+        "Lo-Fi / Chill (Study Beats)", "EDM / Progressive House", 
+        "Sufi / Folk (Soulful)", "Bollywood Commercial (Party)", 
+        "Heavy Metal / Rock", "Cinematic / Orchestral"
     ])
-    voice = st.selectbox("🎤 Voice Type", ["Male Vocals", "Female Vocals", "Duet", "Choir"])
+    voice = st.selectbox("🎤 Vocals", ["Male", "Female", "Duet", "Choir", "Instrumental Only"])
 
-# Generate Button
-if st.button("🚀 Generate Blueprint"):
-    with st.spinner("🎧 Connecting to the AI Matrix... Architecting your track..."):
+# --- 5. GENERATION LOGIC ---
+if st.button("🚀 Architect Blueprint", type="primary"):
+    
+    # 1. Get the list of working models
+    available_models = get_best_models()
+    if not available_models:
+        st.error("❌ Could not connect to Google AI. Check your API Key.")
+        st.stop()
         
-        prompt = f"""
-        Create a Suno AI song structure.
-        TOPIC: {topic}
-        LANGUAGE: {language}
-        GENRE: {genre}
-        VOCALS: {voice}
-        
-        Output Format:
-        **STYLE PROMPT:** (The string for Suno)
-        **LYRICS:** (Full lyrics with meta-tags)
-        """
-        
-        # Failover Model List
-        models = ["gemini-2.0-flash-exp", "gemini-1.5-pro", "gemini-1.5-flash"]
-        response_text = ""
-        used_model = ""
-
-        for model in models:
-            try:
-                response = client.models.generate_content(
-                    model=model,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        system_instruction=SYSTEM_INSTRUCTION,
-                        temperature=0.85
-                    )
-                )
-                response_text = response.text
-                used_model = model
-                break # Stop if successful
-            except Exception:
-                continue # Try next model
-
-        if response_text:
-            st.success(f"✅ Generated using {used_model}")
+    status_box = st.empty()
+    result_area = st.empty()
+    
+    prompt = f"""
+    Create a detailed Suno AI song blueprint.
+    TOPIC: {topic}
+    LANGUAGE: {language}
+    GENRE: {genre}
+    VOCALS: {voice}
+    
+    Ensure the lyrics are catchy, rhythmic, and use Romanized script for non-English parts.
+    Include a "Style Description" optimized for Suno v4.
+    """
+    
+    success = False
+    
+    # 2. Try models one by one
+    for model_name in available_models:
+        try:
+            status_box.info(f"🤖 Contacting **{model_name}**...")
             
-            # Display Result
-            st.subheader("Your Song Blueprint")
-            st.text_area("Copy this output:", value=response_text, height=600)
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_INSTRUCTION,
+                    temperature=0.9, # Higher creativity for music
+                )
+            )
+            
+            # If we get here, it worked!
+            status_box.success(f"✅ Generated using **{model_name}**")
+            result_area.text_area("Your Blueprint (Copy-Paste to Suno):", value=response.text, height=600)
             
             # Download Button
             st.download_button(
                 label="💾 Download Lyrics (.txt)",
-                data=response_text,
-                file_name=f"Song_{int(time.time())}.txt",
+                data=response.text,
+                file_name=f"Suno_Blueprint_{int(time.time())}.txt",
                 mime="text/plain"
             )
-        else:
-            st.error("❌ Failed to generate. All AI models are busy. Please try again.")
+            success = True
+            break # Stop the loop
+            
+        except Exception as e:
+            # Check for specific "Busy" errors
+            error_str = str(e).lower()
+            if "429" in error_str or "quota" in error_str:
+                status_box.warning(f"⚠️ {model_name} is out of quota. Switching...")
+            elif "503" in error_str or "overloaded" in error_str:
+                status_box.warning(f"⚠️ {model_name} is overloaded. Switching...")
+            else:
+                # If it's a weird error, print it but keep trying
+                print(f"Error with {model_name}: {e}")
+                continue
+    
+    if not success:
+        status_box.error("❌ All AI models are currently busy or down. Please try again in 2 minutes.")
