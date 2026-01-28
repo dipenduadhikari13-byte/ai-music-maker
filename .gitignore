@@ -1,1 +1,9 @@
 .env
+app.py
+check_model.py
+get-pip.py
+hearing.py
+jarvis.py
+mic_check.py
+vision_controller.py
+vision_direct.py
