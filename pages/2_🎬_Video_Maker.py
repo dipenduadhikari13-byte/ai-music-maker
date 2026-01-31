@@ -133,7 +133,7 @@ with col2:
     st.subheader("👁️ Preview")
     if image_file:
         preview_img = Image.open(image_file)
-        st.image(preview_img, caption="Your Background Image", use_column_width=True)
+        st.image(preview_img, caption="Your Background Image", width=600)
     else:
         st.info("Upload an image to see preview")
 
