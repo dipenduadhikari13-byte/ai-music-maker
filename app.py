@@ -94,16 +94,18 @@ Your mission: Create emotionally compelling, structurally perfect songs optimize
 - **Avoid Clichés:** NO overused phrases like "baby I love you" without context.
 - **SUNO VOCALIZATION:** For non-English words, use simplified romanization with natural syllable breaks.
 
-**4. PERFORMANCE CUES (Critical for Suno):**
-- (whispered) - intimate moments
-- (screamed) - emotional peaks
-- (autotune heavy) - modern pop/trap
-- (breathy) - sensual verses
-- (staccato) - rap/spoken word
-- (choir backing) - anthemic chorus
-- (doubled vocals) - power moments
-- (note: sustain on 'aa' sounds) - for Hindi words ending in आ
-- (crisp consonants) - for clear pronunciation of 'ch', 'kh', 'th' sounds
+**4. PERFORMANCE CUES (Critical for Suno - Use ONLY these formats):**
+IMPORTANT: Suno will NOT vocalize text inside asterisks or in ALL CAPS tags.
+- Use *whispered* or *soft* for intimate moments
+- Use *intense* or *powerful* for emotional peaks
+- Use *melodic* or *autotuned* for modern pop/trap effects
+- Use *breathy* for sensual verses
+- Use *rap-style* or *spoken* for rap/spoken word
+- Use *choir* or *layered* for anthemic chorus
+- NEVER use parentheses like (whispered) - Suno will sing them!
+- Place performance directions BEFORE the line, like:
+  *whispered* Main tumse pyaar karta hoon
+  *intense* Dil ki baat sun le
 
 **5. STYLE STRING (For Suno Style Box):**
 Format: [Genre], [BPM], [Key Instruments], [Mood/Vibe]
@@ -124,6 +126,7 @@ Max 120 characters. Make it SPECIFIC and PRODUCTION-READY.
 - Break long words: "samjhauta" as "sam-jhau-ta" across multiple beats
 - Use aspirated sounds naturally: "kh" (ख), "th" (थ), "ch" (छ), "ph" (फ)
 - Emphasize vowel sounds: "aa" (आ), "ee" (ई), "oo" (ऊ) for better vocalization
+- NEVER add English pronunciation guides in parentheses - they will be sung!
 
 ### OUTPUT STRUCTURE:
 ---
@@ -132,7 +135,7 @@ Max 120 characters. Make it SPECIFIC and PRODUCTION-READY.
 **KEY:** [Musical key recommendation]
 
 [Intro]
-[Lyrics here]
+[Lyrics here - use *performance-direction* before lines if needed]
 
 [Verse 1]
 [Lyrics here]
@@ -151,10 +154,11 @@ Max 120 characters. Make it SPECIFIC and PRODUCTION-READY.
 
 **PRODUCTION NOTES:**
 - [Any special effects or layering notes]
-- [Pronunciation guides for difficult words]
+- [General pronunciation guidance - NOT in lyrics]
 ---
 
 Remember: Every lyric must be singable, emotionally resonant, and optimized for Suno's voice synthesis.
+CRITICAL: Never use (parentheses) or [brackets] inside lyric lines - only use *asterisks* for cues.
 """
 
 # --- 3.5. LYRIC QUALITY VALIDATOR ---
@@ -208,71 +212,57 @@ def is_response_complete(lyrics_text):
 # --- 3.8. POST-PROCESS LYRICS FOR SUNO VOCALIZATION ---
 def optimize_for_suno_vocalization(lyrics_text, language):
     """Enhance lyrics for better Suno vocalization based on language."""
+    import re
+    
+    # Remove any parenthetical performance cues that might have slipped through
+    # Replace (whispered) with *whispered*, etc.
+    performance_cues = [
+        'whispered', 'screamed', 'autotune heavy', 'breathy', 'staccato',
+        'choir backing', 'doubled vocals', 'intense', 'soft', 'melodic',
+        'rap-style', 'spoken', 'powerful', 'layered', 'choir'
+    ]
+    
+    for cue in performance_cues:
+        # Replace (cue) with *cue* at the start of lines
+        lyrics_text = re.sub(
+            rf'\(({cue})\)',
+            r'*\1*',
+            lyrics_text,
+            flags=re.IGNORECASE
+        )
+    
+    # Remove any remaining parentheses with English text that might be vocalized
+    # Keep only parentheses with actual lyric ad-libs like (yeah), (uh)
+    lyrics_text = re.sub(
+        r'\(note:.*?\)',
+        '',
+        lyrics_text,
+        flags=re.IGNORECASE
+    )
+    
+    # Remove inline phonetic guides like [py-aar], [dil] etc.
+    lyrics_text = re.sub(r'\[[\w-]+\]', '', lyrics_text)
+    
     if language in ["Hindi (Hinglish)", "Haryanvi (Desi)"]:
-        # Add phonetic hints for common Haryanvi/Hindi words
-        lyrics_text = add_phonetic_hints(lyrics_text, language)
-        
         # Add production note for Suno about Hindi pronunciation
         if "PRODUCTION NOTES:" in lyrics_text:
-            production_note = "\n- **Hindi/Haryanvi Vocalization:** Use clear, sustained vowels. Emphasize 'aa', 'ee', 'oo' sounds. Keep consonants crisp."
+            production_note = """
+- **Hindi/Haryanvi Vocalization Guide:**
+  - Common words: pyaar (love), dil (heart), raat (night), baat (talk), jaan (life)
+  - Emphasize vowel sounds: 'aa', 'ee', 'oo' for clarity
+  - Keep consonants crisp: 'kh', 'th', 'ch', 'ph'
+  - Multi-syllable words broken for rhythm: sam-jhau-ta, a-ke-la
+  - No inline pronunciation guides used (to prevent vocalization)"""
             lyrics_text = lyrics_text.replace("PRODUCTION NOTES:", f"PRODUCTION NOTES:{production_note}")
     
     return lyrics_text
 
 # --- 3.7.5. PHONETIC GUIDE HELPER ---
-PHONETIC_GUIDE = {
-    # Hindi/Haryanvi commonly mispronounced words
-    "मुझे": "mujhe",
-    "तुम्हें": "tumhein",
-    "प्यार": "pyaar",
-    "दिल": "dil",
-    "रात": "raat",
-    "बात": "baat",
-    "जाना": "jana",
-    "आना": "aana",
-    "खुशी": "khushi",
-    "दर्द": "dard",
-    "चाहना": "chahna",
-    "सुनना": "sunna",
-    "देखना": "dekhna",
-    "कहना": "kehna",
-    "चलना": "chalna",
-    "रहना": "rehna",
-}
-
 def add_phonetic_hints(lyrics_text, language):
-    """Add phonetic pronunciation hints for non-English languages."""
-    if language not in ["Hindi (Hinglish)", "Bengali (Banglish)", "Punjabi (Romanized)", "Haryanvi (Desi)"]:
-        return lyrics_text
-    
-    # For Hindi/Haryanvi: Add hints for commonly difficult words
-    if language in ["Hindi (Hinglish)", "Haryanvi (Desi)"]:
-        difficult_words = {
-            "pyaar": "[py-aar]",
-            "dil": "[dil]",
-            "raat": "[raat]",
-            "baat": "[baat]",
-            "jaan": "[jaan]",
-            "khushboo": "[khush-boo]",
-            "chaah": "[chah]",
-            "dhoom": "[dhoom]",
-            "hardam": "[har-dum]",
-            "akela": "[a-ke-la]",
-            "sanam": "[sa-nam]",
-            "jawani": "[ja-wa-ni]",
-        }
-        
-        # Wrap difficult words with hints in brackets after the word
-        for word, hint in difficult_words.items():
-            # Case-insensitive replacement with word boundaries
-            import re
-            lyrics_text = re.sub(
-                rf'\b{word}\b',
-                f'{word} {hint}',
-                lyrics_text,
-                flags=re.IGNORECASE
-            )
-    
+    """Add phonetic pronunciation hints for non-English languages.
+    NOTE: These hints go in PRODUCTION NOTES only, NOT in lyrics."""
+    # We no longer add inline hints since Suno vocalizes them
+    # Instead, we'll add them to production notes
     return lyrics_text
 
 # --- 4. UI INTERFACE ---
@@ -322,14 +312,15 @@ if st.button("🚀 Architect Blueprint", type="primary"):
     2. Write lyrics that are CATCHY, MEMORABLE, and SINGABLE.
     3. Include 2-3 clever metaphors or wordplay elements.
     4. Maintain consistent rhyme schemes (AABB or ABAB).
-    5. Add 5-7 performance cues for emotional delivery.
+    5. Add 3-5 performance cues using *asterisk* format (NOT parentheses).
     6. Create a unique STYLE STRING optimized for Suno v4.
     7. For non-English: Use ONLY Romanized Script (no Devanagari/Bengali/Arabic).
     8. Each verse should have 8-12 lines with natural flow.
     9. Chorus must be highly repetitive and catchy (4-6 lines).
     10. Include production notes for layering/effects.
     11. For Hindi/Haryanvi: Use phonetically clear words and break multi-syllable words into beats.
-    12. Prioritize words that are easy for AI voice synthesis to pronounce.
+    12. CRITICAL: NEVER use (parentheses) or [brackets] inside lyric lines - only *asterisks* for cues.
+    13. NO inline pronunciation guides like [py-aar] - put those in PRODUCTION NOTES only.
     
     Prioritize QUALITY over quantity. Every word must serve the song.
     """

@@ -85,6 +85,67 @@ def get_ai_images(prompt, count=3):
     progress_bar.empty()
     return images
 
+# --- 2.5. STUDIO ENHANCEMENT FUNCTIONS ---
+
+def enhance_contrast(img, factor=1.2):
+    """Enhance image contrast for more vibrant visuals"""
+    enhancer = ImageEnhance.Contrast(img)
+    return enhancer.enhance(factor)
+
+def enhance_saturation(img, factor=1.3):
+    """Boost color saturation for cinematic look"""
+    enhancer = ImageEnhance.Color(img)
+    return enhancer.enhance(factor)
+
+def add_vignette(img, intensity=0.3):
+    """Add dark vignette effect around edges"""
+    width, height = img.size
+    mask = Image.new('L', (width, height), 0)
+    draw = ImageDraw.Draw(mask)
+    
+    # Create radial gradient
+    for i in range(min(width, height) // 2):
+        alpha = int(255 * (1 - (i / (min(width, height) / 2)) ** 2) * intensity)
+        draw.ellipse(
+            [width//2 - i, height//2 - i, width//2 + i, height//2 + i],
+            fill=alpha
+        )
+    
+    # Apply mask
+    dark_overlay = Image.new('RGB', (width, height), (0, 0, 0))
+    return Image.composite(img, dark_overlay, mask)
+
+def get_frequency_color(freq_ratio):
+    """Return color based on frequency range (bass=red, mid=cyan, high=green)"""
+    if freq_ratio < 0.33:  # Bass
+        return COLOR_BASS
+    elif freq_ratio < 0.66:  # Mids
+        return COLOR_MID
+    else:  # Highs
+        return COLOR_HIGH
+
+def apply_glow_effect(draw, x, y, radius, color, intensity=1):
+    """Draw a glowing effect at specified position"""
+    for i in range(radius, 0, -1):
+        alpha = int(80 * (1 - i/radius) * intensity)
+        draw.ellipse(
+            [x - i, y - i, x + i, y + i],
+            fill=(*color, alpha)
+        )
+
+def add_film_grain(img, intensity=5):
+    """Add subtle film grain for cinematic effect"""
+    width, height = img.size
+    pixels = np.array(img)
+    
+    # Generate random noise
+    noise = np.random.randint(-intensity, intensity, (height, width, 3), dtype=np.int16)
+    
+    # Add noise to image
+    noisy = np.clip(pixels.astype(np.int16) + noise, 0, 255).astype(np.uint8)
+    
+    return Image.fromarray(noisy)
+
 # --- 3. UI LAYOUT ---
 st.title("🎬 Pro Music Video Studio")
 st.markdown("Create professional visualizations for your Suno tracks.")
