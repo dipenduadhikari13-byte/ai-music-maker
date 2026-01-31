@@ -170,6 +170,14 @@ def calculate_seo_score(metadata_text):
     
     return score, checks
 
+def extract_text(response):
+    """Safely extract text from model response."""
+    if hasattr(response, "text") and response.text:
+        return response.text.strip()
+    if hasattr(response, "content") and response.content:
+        return response.content.strip()
+    return None
+
 # --- 5. UI INTERFACE ---
 st.title("📺 YouTube Studio Pro")
 st.markdown("### *Complete Metadata Suite for Music Channels*")
@@ -338,8 +346,6 @@ with tab1:
                     mime="application/json",
                     use_container_width=True
                 )
-        else:
-            st.error("❌ Could not generate metadata. All models failed or are unavailable.")
 
 with tab2:
     st.subheader("📊 SEO Performance Analyzer")
@@ -393,11 +399,3 @@ st.markdown("""
     <p>🎯 YouTube Studio Pro | Optimized for Music Channels | Powered by Gemini AI</p>
 </div>
 """, unsafe_allow_html=True)
-
-def extract_text(response):
-    """Safely extract text from model response."""
-    if hasattr(response, "text") and response.text:
-        return response.text.strip()
-    if hasattr(response, "content") and response.content:
-        return response.content.strip()
-    return None

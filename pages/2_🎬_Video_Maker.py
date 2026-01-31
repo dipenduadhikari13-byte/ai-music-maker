@@ -1,9 +1,18 @@
 import streamlit as st
 import os
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter, ImageEnhance
-import tempfile
+# import librosa
+# from moviepy.editor import VideoClip, AudioFileClip
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter
+try:
+    from PIL import ImageFont
+except ImportError:
+    ImageFont = None  # Graceful fallback if module unavailable
+
+import requests
 from io import BytesIO
+import random
+import tempfile
 
 # --- CONFIGURATION ---
 st.set_page_config(page_title="Music Video Maker", page_icon="🎵", layout="wide")
@@ -128,7 +137,7 @@ with col2:
     else:
         st.info("Upload an image to see preview")
 
-# --- VIDEO GENERATION ---
+# --- 4. PROCESSING LOGIC ---
 if render_button:
     if not audio_file:
         st.error("❌ Please upload an audio file!")
@@ -140,132 +149,113 @@ if render_button:
     
     try:
         # Import heavy libraries only when needed
+        # import librosa
+        # from moviepy.editor import VideoClip, AudioFileClip
         import librosa
-        from moviepy.editor import VideoClip, AudioFileClip, CompositeVideoClip, TextClip
+        from moviepy.editor import VideoClip, AudioFileClip
         
-        with st.spinner("🎧 Processing audio..."):
-            # Save audio to temp file
-            audio_temp = tempfile.NamedTemporaryFile(delete=False, suffix=".mp3")
-            audio_temp.write(audio_file.read())
-            audio_temp.close()
-            audio_path = audio_temp.name
-            
-            # Load audio and get duration
-            y, sr = librosa.load(audio_path, sr=22050)
+        with st.spinner("🎧 Initializing Studio Engine..."):
+            try:
+                import librosa
+                from moviepy.editor import VideoClip, AudioFileClip
+            except Exception as e:
+                st.error(f"Missing dependency: {e}. Please install required packages.")
+                st.stop()
+
+        # A. Setup Audio
+        tfile = tempfile.NamedTemporaryFile(delete=False, suffix=".mp3")
+        tfile.write(audio_file.read())
+        audio_path = tfile.name
+
+        try:
+            y, sr = librosa.load(audio_path, sr=None)
             duration = librosa.get_duration(y=y, sr=sr)
-            
-            st.success(f"✅ Audio loaded: {duration:.1f} seconds")
+        except Exception as e:
+            st.error("Audio File Error. Please try a different MP3.")
+            if os.path.exists(audio_path):
+                os.remove(audio_path)
+            st.stop()
+
+        # B. Load and prepare image
+        base_image = Image.open(image_file)
+        base_image = resize_image_to_fit(base_image, WIDTH, HEIGHT)
         
-        with st.spinner("🖼️ Processing image..."):
-            # Load and prepare image
-            base_image = Image.open(image_file)
-            base_image = resize_image_to_fit(base_image, WIDTH, HEIGHT)
-            
-            # Enhance if requested
-            if enhance_colors:
-                base_image = enhance_image(base_image)
-            
-            # Add text if requested
-            if add_text and overlay_text:
-                text_position = (50, HEIGHT - 150)
-                # Convert hex to RGB
-                text_rgb = tuple(int(text_color.lstrip('#')[i:i+2], 16) for i in (0, 2, 4))
-                base_image = add_overlay_text(base_image, overlay_text, text_position, color=text_rgb)
-            
-            st.success("✅ Image processed")
+        # Enhance if requested
+        if enhance_colors:
+            base_image = enhance_image(base_image)
         
-        with st.spinner("🎬 Rendering video... This may take a few minutes"):
-            # Frame generation function
-            def make_frame(t):
-                # Calculate progress (0 to 1)
-                progress = t / duration
-                
-                # Create a copy of the base image
-                frame = base_image.copy()
-                
-                # Apply selected effect
-                if effect_type == "Slow Zoom In":
-                    zoom = 1.0 + (progress * 0.2)  # Zoom from 1.0 to 1.2
-                    frame = apply_zoom_effect(frame, zoom)
-                
-                elif effect_type == "Slow Zoom Out":
-                    zoom = 1.2 - (progress * 0.2)  # Zoom from 1.2 to 1.0
-                    frame = apply_zoom_effect(frame, zoom)
-                
-                elif effect_type == "Ken Burns (Pan & Zoom)":
-                    # Combine zoom and slight pan
-                    zoom = 1.0 + (0.1 * np.sin(2 * np.pi * progress))
-                    frame = apply_zoom_effect(frame, zoom)
-                
-                elif effect_type == "Pulse Effect":
-                    # Pulsing zoom effect synced to beat
-                    pulse_freq = 0.5  # Pulses per second
-                    zoom = 1.0 + (0.05 * np.sin(2 * np.pi * pulse_freq * t))
-                    frame = apply_zoom_effect(frame, zoom)
-                
-                # Static = no effect, just return the frame
-                
-                # Convert to numpy array
-                return np.array(frame)
+        # Add text if requested
+        if add_text and overlay_text:
+            text_position = (50, HEIGHT - 150)
+            # Convert hex to RGB
+            text_rgb = tuple(int(text_color.lstrip('#')[i:i+2], 16) for i in (0, 2, 4))
+            base_image = add_overlay_text(base_image, overlay_text, text_position, color=text_rgb)
+        
+        st.success("✅ Image processed")
+        
+        # C. Frame generation function
+        def make_frame(t):
+            # Calculate progress (0 to 1)
+            progress = t / duration
             
-            # Create video clip
-            video_clip = VideoClip(make_frame, duration=duration)
+            # Create a copy of the base image
+            frame = base_image.copy()
             
-            # Add audio
+            # Apply selected effect
+            if effect_type == "Slow Zoom In":
+                zoom = 1.0 + (progress * 0.2)  # Zoom from 1.0 to 1.2
+                frame = apply_zoom_effect(frame, zoom)
+            
+            elif effect_type == "Slow Zoom Out":
+                zoom = 1.2 - (progress * 0.2)  # Zoom from 1.2 to 1.0
+                frame = apply_zoom_effect(frame, zoom)
+            
+            elif effect_type == "Ken Burns (Pan & Zoom)":
+                # Combine zoom and slight pan
+                zoom = 1.0 + (0.1 * np.sin(2 * np.pi * progress))
+                frame = apply_zoom_effect(frame, zoom)
+            
+            elif effect_type == "Pulse Effect":
+                # Pulsing zoom effect synced to beat
+                pulse_freq = 0.5  # Pulses per second
+                zoom = 1.0 + (0.05 * np.sin(2 * np.pi * pulse_freq * t))
+                frame = apply_zoom_effect(frame, zoom)
+            
+            # Static = no effect, just return the frame
+            
+            # Convert to numpy array
+            return np.array(frame)
+        
+        # D. Render
+        output_filename = "final_render.mp4"
+        try:
+            video = VideoClip(make_frame, duration=duration)
             audio_clip = AudioFileClip(audio_path)
-            final_video = video_clip.set_audio(audio_clip)
-            
-            # Output path
-            output_path = tempfile.NamedTemporaryFile(delete=False, suffix=".mp4").name
-            
-            # Progress bar
-            progress_bar = st.progress(0)
-            status_text = st.empty()
-            
-            def progress_callback(current_frame, total_frames):
-                progress = current_frame / total_frames
-                progress_bar.progress(progress)
-                status_text.text(f"Rendering: {int(progress * 100)}% ({current_frame}/{total_frames} frames)")
-            
-            # Render video
+            final_video = video.set_audio(audio_clip)
+
+            st.info(f"⏳ Rendering Video ({int(duration)}s)... Please wait.")
+
             final_video.write_videofile(
-                output_path,
+                output_filename,
                 fps=FPS,
-                codec='libx264',
-                audio_codec='aac',
-                temp_audiofile=tempfile.mktemp(suffix='.m4a'),
-                remove_temp=True,
-                preset='medium',
+                codec="libx264",
+                audio_codec="aac",
                 threads=4,
+                preset='ultrafast',
                 logger=None
             )
-            
-            progress_bar.empty()
-            status_text.empty()
-        
-        st.balloons()
-        st.success("✨ Video generated successfully!")
-        
-        # Display video
-        st.video(output_path)
-        
-        # Download button
-        with open(output_path, 'rb') as video_file:
-            video_bytes = video_file.read()
-            st.download_button(
-                label="📥 Download Video",
-                data=video_bytes,
-                file_name="music_video.mp4",
-                mime="video/mp4",
-                use_container_width=True
-            )
-        
-        # Cleanup
-        try:
-            os.unlink(audio_path)
-            os.unlink(output_path)
-        except:
-            pass
+
+            st.balloons()
+            st.success("✨ Video Ready!")
+            st.video(output_filename)
+
+            with open(output_filename, "rb") as file:
+                st.download_button("📥 Download MP4", data=file, file_name="Suno_Visualizer.mp4", mime="video/mp4")
+        finally:
+            if os.path.exists(audio_path):
+                os.remove(audio_path)
+            if os.path.exists(output_filename):
+                os.remove(output_filename)
             
     except ImportError as e:
         st.error(f"❌ Missing required library: {e}")

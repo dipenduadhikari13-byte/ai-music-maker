@@ -1,6 +1,8 @@
 import streamlit as st
 import os
 import time
+import re
+import traceback
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
@@ -212,8 +214,6 @@ def is_response_complete(lyrics_text):
 # --- 3.8. POST-PROCESS LYRICS FOR SUNO VOCALIZATION ---
 def optimize_for_suno_vocalization(lyrics_text, language):
     """Enhance lyrics for better Suno vocalization based on language."""
-    import re
-    
     # Remove any parenthetical performance cues that might have slipped through
     # Replace (whispered) with *whispered*, etc.
     performance_cues = [
@@ -257,35 +257,59 @@ def optimize_for_suno_vocalization(lyrics_text, language):
     
     return lyrics_text
 
-# --- 3.7.5. PHONETIC GUIDE HELPER ---
-def add_phonetic_hints(lyrics_text, language):
-    """Add phonetic pronunciation hints for non-English languages.
-    NOTE: These hints go in PRODUCTION NOTES only, NOT in lyrics."""
-    # We no longer add inline hints since Suno vocalizes them
-    # Instead, we'll add them to production notes
-    return lyrics_text
+# --- 4. INPUT UI ---
+st.title("🎹 Music Architect Pro")
+st.markdown("Create world-class Suno AI song blueprints in seconds.")
 
-# --- 4. UI INTERFACE ---
-st.title("🎹 Music Architect: Suno Edition")
-st.markdown("### *Design Your Next Hit Song*")
+st.subheader("🎯 Song Setup")
+col_a, col_b = st.columns(2)
 
-col1, col2 = st.columns(2)
+with col_a:
+    topic = st.text_input("Song Topic / Concept", "Late Night City Drive")
+    language = st.selectbox(
+        "Language",
+        [
+            "English",
+            "Hindi (Hinglish)",
+            "Haryanvi (Desi)",
+            "Punjabi (Romanized)",
+            "Bengali (Romanized)",
+            "Spanish",
+            "French",
+            "Other (Romanized)"
+        ]
+    )
 
-with col1:
-    topic = st.text_input("📝 Song Concept", "A cyberpunk samurai fighting for love in Tokyo")
-    language = st.selectbox("🌍 Language", [
-        "English", "Hindi (Hinglish)", "Bengali (Banglish)", 
-        "Punjabi (Romanized)", "Haryanvi (Desi)", "Urdu", "Spanish", "Japanese"
-    ])
+with col_b:
+    genre = st.selectbox(
+        "Genre / Vibe",
+        [
+            "Pop",
+            "Trap",
+            "Lo-Fi",
+            "R&B",
+            "Rock",
+            "EDM",
+            "Cinematic",
+            "Afrobeat",
+            "Hip-Hop",
+            "Indie"
+        ]
+    )
+    voice = st.selectbox(
+        "Vocal Style",
+        [
+            "Male",
+            "Female",
+            "Duo",
+            "Choir",
+            "Rap/Spoken",
+            "Soft/Breathy",
+            "Powerful"
+        ]
+    )
 
-with col2:
-    genre = st.selectbox("🎵 Genre / Vibe", [
-        "HipHop / Rap (Aggressive)", "Trap / Drill (Dark 808s)", 
-        "Lo-Fi / Chill (Study Beats)", "EDM / Progressive House", 
-        "Sufi / Folk (Soulful)", "Bollywood Commercial (Party)", 
-        "Heavy Metal / Rock", "Cinematic / Orchestral"
-    ])
-    voice = st.selectbox("🎤 Vocals", ["Male", "Female", "Duet", "Choir", "Instrumental Only"])
+st.divider()
 
 # --- 5. GENERATION LOGIC ---
 if st.button("🚀 Architect Blueprint", type="primary"):
@@ -326,68 +350,79 @@ if st.button("🚀 Architect Blueprint", type="primary"):
         """
         
         success = False
-        retry_count = 0
         max_retries = 2
         
         # 2. Try models one by one
         for model_name in available_models:
+            if success:
+                break  # Exit if already successful
+                
             try:
                 status_box.info(f"🤖 Contacting **{model_name}**...")
                 
                 # Retry logic for incomplete responses
                 for attempt in range(max_retries + 1):
-                    response = client.models.generate_content(
-                        model=model_name,
-                        contents=prompt,
-                        config=types.GenerateContentConfig(
-                            system_instruction=SYSTEM_INSTRUCTION,
-                            temperature=0.95, # Higher creativity for genius-level lyrics
-                            max_output_tokens=4096, # INCREASED: Allow complete song generation
+                    try:
+                        response = client.models.generate_content(
+                            model=model_name,
+                            contents=prompt,
+                            config=types.GenerateContentConfig(
+                                system_instruction=SYSTEM_INSTRUCTION,
+                                temperature=0.95,
+                                max_output_tokens=4096,
+                            )
                         )
-                    )
+                        
+                        # Extract lyrics from response
+                        lyrics_text = extract_lyrics_from_response(response)
+                        
+                        if not lyrics_text:
+                            status_box.warning(f"⚠️ {model_name} returned empty response. Trying next model...")
+                            break  # Try next model
+                        
+                        # Check if response is complete
+                        if is_response_complete(lyrics_text):
+                            # Optimize for Suno vocalization
+                            lyrics_text = optimize_for_suno_vocalization(lyrics_text, language)
+                            
+                            status_box.success(f"✅ Generated using **{model_name}** (Attempt {attempt + 1})")
+                            
+                            # Validate quality
+                            quality_check, passed, total = validate_lyric_quality(lyrics_text)
+                            with st.expander("📊 Quality Validation"):
+                                for check, result in quality_check.items():
+                                    st.write(f"{'✅' if result else '⚠️'} {check}")
+                                st.write(f"**Score: {passed}/{total}**")
+                            
+                            result_area.text_area("Your Genius Blueprint (Copy-Paste to Suno):", value=lyrics_text, height=600)
+                            
+                            # Download Button
+                            st.download_button(
+                                label="💾 Download Blueprint (.txt)",
+                                data=lyrics_text,
+                                file_name=f"Suno_Genius_{int(time.time())}.txt",
+                                mime="text/plain"
+                            )
+                            success = True
+                            break  # Exit retry loop
+                        else:
+                            # Response incomplete, retry
+                            if attempt < max_retries:
+                                status_box.warning(f"⚠️ Response incomplete. Retrying... (Attempt {attempt + 2}/{max_retries + 1})")
+                                time.sleep(1)
+                                continue
+                            else:
+                                status_box.warning(f"⚠️ {model_name} keeps returning incomplete responses. Trying next model...")
+                                break  # Try next model
                     
-                    # Extract lyrics from response
-                    lyrics_text = extract_lyrics_from_response(response)
-                    
-                    if not lyrics_text:
-                        status_box.warning(f"⚠️ {model_name} returned empty response. Trying next model...")
-                        break
-                    
-                    # Check if response is complete
-                    if is_response_complete(lyrics_text):
-                        # Optimize for Suno vocalization
-                        lyrics_text = optimize_for_suno_vocalization(lyrics_text, language)
-                        
-                        status_box.success(f"✅ Generated using **{model_name}** (Attempt {attempt + 1})")
-                        
-                        # Validate quality
-                        quality_check, passed, total = validate_lyric_quality(lyrics_text)
-                        with st.expander("📊 Quality Validation"):
-                            for check, result in quality_check.items():
-                                st.write(f"{'✅' if result else '⚠️'} {check}")
-                            st.write(f"**Score: {passed}/{total}**")
-                        
-                        result_area.text_area("Your Genius Blueprint (Copy-Paste to Suno):", value=lyrics_text, height=600)
-                        
-                        # Download Button
-                        st.download_button(
-                            label="💾 Download Blueprint (.txt)",
-                            data=lyrics_text,
-                            file_name=f"Suno_Genius_{int(time.time())}.txt",
-                            mime="text/plain"
-                        )
-                        success = True
-                        break
-                    else:
-                        # Response incomplete, retry
+                    except Exception as retry_error:
                         if attempt < max_retries:
-                            status_box.warning(f"⚠️ Response incomplete. Retrying... (Attempt {attempt + 2}/{max_retries + 1})")
+                            status_box.warning(f"⚠️ Attempt {attempt + 1} failed. Retrying...")
                             time.sleep(1)
                             continue
                         else:
-                            status_box.warning(f"⚠️ {model_name} keeps returning incomplete responses. Trying next model...")
-                            break
-                    
+                            raise  # Re-raise to outer exception handler
+                        
             except Exception as e:
                 # Check for specific "Busy" errors
                 error_str = str(e).lower()
@@ -398,15 +433,10 @@ if st.button("🚀 Architect Blueprint", type="primary"):
                 else:
                     # Show full error for debugging
                     status_box.error(f"❌ Error with {model_name}: {str(e)[:200]}")
-                    print(f"Full error details: {e}")
-                continue
-            
-            if success:
-                break # Stop trying other models
-            
-        if success:
-            st.success("✅ Generated blueprint successfully!")
-        else:
+                continue  # Try next model
+        
+        # Final status check
+        if not success:
             st.error("❌ Could not generate complete lyrics. All models either failed or returned incomplete responses.")
             with st.expander("🔧 Troubleshooting"):
                 st.write("**Possible causes:**")
@@ -420,6 +450,9 @@ if st.button("🚀 Architect Blueprint", type="primary"):
                 st.write("- Wait 2-3 minutes and try again")
                 st.write("- Check your Google API key is valid")
                 st.write("- Ensure you have sufficient API quota")
+                
     except Exception as e:
         st.error("❌ Unexpected error while generating. Please try again.")
-        st.write(str(e)[:200])
+        st.write(f"Error details: {str(e)[:200]}")
+        with st.expander("🐛 Full Error Trace"):
+            st.code(traceback.format_exc())
