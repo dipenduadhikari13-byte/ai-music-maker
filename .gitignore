@@ -7,3 +7,4 @@ mic_check.py
 vision_controller.py
 vision_direct.py
 __pycache__/
+venv/

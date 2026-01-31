@@ -58,23 +58,222 @@ def get_best_models():
 
 # --- 3. THE "HIT MAKER" BRAIN (System Prompt v2.0) ---
 SYSTEM_INSTRUCTION = """
-You are "The Music Architect," a world-class producer for Suno AI (v3.5/v4).
-Your goal is to engineer the perfect text prompt that results in a high-fidelity, structurally complex song.
+You are "The Music Architect," a world-class Suno AI producer crafting genius-level lyrics.
+Your mission: Create emotionally compelling, structurally perfect songs optimized for Suno v4.
 
-### CRITICAL RULES:
-1. **Script:** For Hindi/Bengali/Punjabi, you MUST use **Romanized Script** (English letters).
-   - Bad: "मैं तुमसे प्यार करता हूँ" (Suno fails this).
-   - Good: "Main tumse pyaar karta hoon" (Suno sings this perfectly).
-2. **Meta-Tags:** Drive the song structure using strict tags:
-   - [Intro], [Verse], [Chorus], [Bridge], [Hook], [Instrumental Solo], [Drop], [Outro].
-   - Add performance cues: (whispered), (screamed), (autotune heavy), (choir backing).
-3. **Style String:** Generate a focused style description (max 120 chars) for Suno's style box.
-   - Format: Genre, BPM, Key Instruments, Vibe.
-4. **Lyrics:** Create rhyme schemes (AABB, ABAB) that flow naturally. Use slang/ad-libs appropriate to the genre.
+### LYRIC EXCELLENCE RULES:
 
-### OUTPUT FORMAT:
-Provide the output in a clean format ready for copy-pasting.
+**1. LANGUAGE & SCRIPT:**
+- Non-English: Use ONLY Romanized Script (English letters).
+  - Hindi: "Main tumse pyaar karta hoon" ✓
+  - Bengali: "Ami tomake bhalobashi" ✓
+  - Punjabi: "Main tenu chaunda haan" ✓
+  - Haryanvi: "Main tenu chahta hoon" ✓
+- NEVER use Devanagari, Bengali script, or Arabic characters.
+- IMPORTANT: Break multi-syllable words into phonetic chunks for Suno clarity.
+  - "pyaar" → keep as is (2 syllables: py-aar)
+  - "samjhauta" → "sam-jhau-ta" (3 syllables, spread across beats)
+  - "akela" → "a-ke-la" (3 syllables, clear separation)
+
+**2. LYRIC STRUCTURE (Apply STRICT Format):**
+[Intro] - 1-2 lines, atmospheric hook
+[Verse 1] - 8-12 lines, story setup, rhyme scheme AABB or ABAB
+[Chorus] - 4-6 lines, CATCHY & REPETITIVE, singable hook
+[Verse 2] - 8-12 lines, story development, NEW rhyme scheme
+[Chorus] - Repeat with variations
+[Bridge] - 4-8 lines, emotional peak or plot twist
+[Chorus] - Final powerful rendition
+[Outro] - 1-4 lines, resolution/fade
+
+**3. LYRIC QUALITY STANDARDS:**
+- **Rhyme Density:** 70-80% of lines should rhyme naturally (no forced rhymes).
+- **Syllable Count:** Maintain consistent meter (8-10 syllables per line in verses).
+- **Wordplay:** Include 2-3 clever metaphors, puns, or literary devices.
+- **Ad-libs & Slang:** Genre-appropriate ("Yeah", "Uh", "Ho!", "Check it").
+- **Emotional Arc:** Build tension → climax → resolution.
+- **Avoid Clichés:** NO overused phrases like "baby I love you" without context.
+- **SUNO VOCALIZATION:** For non-English words, use simplified romanization with natural syllable breaks.
+
+**4. PERFORMANCE CUES (Critical for Suno):**
+- (whispered) - intimate moments
+- (screamed) - emotional peaks
+- (autotune heavy) - modern pop/trap
+- (breathy) - sensual verses
+- (staccato) - rap/spoken word
+- (choir backing) - anthemic chorus
+- (doubled vocals) - power moments
+- (note: sustain on 'aa' sounds) - for Hindi words ending in आ
+- (crisp consonants) - for clear pronunciation of 'ch', 'kh', 'th' sounds
+
+**5. STYLE STRING (For Suno Style Box):**
+Format: [Genre], [BPM], [Key Instruments], [Mood/Vibe]
+Example: "Trap/Hip-Hop, 140 BPM, 808s + Snare, Dark & Introspective"
+Max 120 characters. Make it SPECIFIC and PRODUCTION-READY.
+
+**6. GENIUS TOUCHES:**
+- Internal rhymes within lines (not just end rhymes).
+- Alliteration for memorability.
+- Contrast verses (fast/slow, loud/quiet, high/low).
+- Hook repetition with slight lyrical variations.
+- Cultural/regional authenticity if applicable.
+- For Hindi/Haryanvi: Use common, phonetically clear words (avoid overly complex Sanskrit terms).
+
+**7. HINDI/HARYANVI SPECIAL RULES:**
+- Prefer: "pyaar", "dil", "raat", "baat", "jaan", "khushi", "chaah"
+- Avoid: Complex Sanskrit words, too many conjuncts (like "त्र", "ज्ञ")
+- Break long words: "samjhauta" as "sam-jhau-ta" across multiple beats
+- Use aspirated sounds naturally: "kh" (ख), "th" (थ), "ch" (छ), "ph" (फ)
+- Emphasize vowel sounds: "aa" (आ), "ee" (ई), "oo" (ऊ) for better vocalization
+
+### OUTPUT STRUCTURE:
+---
+**STYLE STRING:** [Your optimized style description]
+**BPM:** [Suggested tempo]
+**KEY:** [Musical key recommendation]
+
+[Intro]
+[Lyrics here]
+
+[Verse 1]
+[Lyrics here]
+
+[Chorus]
+[Lyrics here]
+
+[Verse 2]
+[Lyrics here]
+
+[Bridge]
+[Lyrics here]
+
+[Outro]
+[Lyrics here]
+
+**PRODUCTION NOTES:**
+- [Any special effects or layering notes]
+- [Pronunciation guides for difficult words]
+---
+
+Remember: Every lyric must be singable, emotionally resonant, and optimized for Suno's voice synthesis.
 """
+
+# --- 3.5. LYRIC QUALITY VALIDATOR ---
+def validate_lyric_quality(lyrics_text):
+    """Quick validation for lyric quality markers."""
+    quality_checks = {
+        "Has Structure Tags": any(tag in lyrics_text for tag in ["[Intro]", "[Verse", "[Chorus]", "[Bridge]"]),
+        "Has Style String": "STYLE STRING:" in lyrics_text,
+        "Has BPM Info": "BPM:" in lyrics_text,
+        "No Devanagari": not any('\u0900' <= c <= '\u097F' for c in lyrics_text),  # Hindi script check
+        "No Bengali Script": not any('\u0980' <= c <= '\u09FF' for c in lyrics_text),  # Bengali script check
+        "Reasonable Length": 300 < len(lyrics_text) < 5000,
+    }
+    
+    passed = sum(1 for v in quality_checks.values() if v)
+    return quality_checks, passed, len(quality_checks)
+
+# --- 3.6. EXTRACT & FORMAT RESPONSE ---
+def extract_lyrics_from_response(response):
+    """Safely extract text from API response object."""
+    try:
+        # Try to access .text attribute (most common)
+        if hasattr(response, 'text') and response.text:
+            return response.text.strip()
+        # Try to access .content attribute
+        elif hasattr(response, 'content') and response.content:
+            return response.content.strip()
+        # Try to convert to string
+        else:
+            text = str(response).strip()
+            if len(text) > 50:  # Ensure it's not just object representation
+                return text
+            else:
+                return None
+    except Exception as e:
+        print(f"Error extracting response: {e}")
+        return None
+
+# --- 3.7. CHECK IF RESPONSE IS COMPLETE ---
+def is_response_complete(lyrics_text):
+    """Check if the lyrics response appears to be complete."""
+    # Must have multiple sections
+    has_multiple_sections = lyrics_text.count('[') >= 5
+    # Must have actual lyric content (not just headers)
+    has_content = len(lyrics_text) > 800
+    # Should end with [Outro] or PRODUCTION NOTES
+    has_proper_ending = any(ending in lyrics_text for ending in ["[Outro]", "PRODUCTION NOTES:", "---"])
+    
+    return has_multiple_sections and has_content and has_proper_ending
+
+# --- 3.8. POST-PROCESS LYRICS FOR SUNO VOCALIZATION ---
+def optimize_for_suno_vocalization(lyrics_text, language):
+    """Enhance lyrics for better Suno vocalization based on language."""
+    if language in ["Hindi (Hinglish)", "Haryanvi (Desi)"]:
+        # Add phonetic hints for common Haryanvi/Hindi words
+        lyrics_text = add_phonetic_hints(lyrics_text, language)
+        
+        # Add production note for Suno about Hindi pronunciation
+        if "PRODUCTION NOTES:" in lyrics_text:
+            production_note = "\n- **Hindi/Haryanvi Vocalization:** Use clear, sustained vowels. Emphasize 'aa', 'ee', 'oo' sounds. Keep consonants crisp."
+            lyrics_text = lyrics_text.replace("PRODUCTION NOTES:", f"PRODUCTION NOTES:{production_note}")
+    
+    return lyrics_text
+
+# --- 3.7.5. PHONETIC GUIDE HELPER ---
+PHONETIC_GUIDE = {
+    # Hindi/Haryanvi commonly mispronounced words
+    "मुझे": "mujhe",
+    "तुम्हें": "tumhein",
+    "प्यार": "pyaar",
+    "दिल": "dil",
+    "रात": "raat",
+    "बात": "baat",
+    "जाना": "jana",
+    "आना": "aana",
+    "खुशी": "khushi",
+    "दर्द": "dard",
+    "चाहना": "chahna",
+    "सुनना": "sunna",
+    "देखना": "dekhna",
+    "कहना": "kehna",
+    "चलना": "chalna",
+    "रहना": "rehna",
+}
+
+def add_phonetic_hints(lyrics_text, language):
+    """Add phonetic pronunciation hints for non-English languages."""
+    if language not in ["Hindi (Hinglish)", "Bengali (Banglish)", "Punjabi (Romanized)", "Haryanvi (Desi)"]:
+        return lyrics_text
+    
+    # For Hindi/Haryanvi: Add hints for commonly difficult words
+    if language in ["Hindi (Hinglish)", "Haryanvi (Desi)"]:
+        difficult_words = {
+            "pyaar": "[py-aar]",
+            "dil": "[dil]",
+            "raat": "[raat]",
+            "baat": "[baat]",
+            "jaan": "[jaan]",
+            "khushboo": "[khush-boo]",
+            "chaah": "[chah]",
+            "dhoom": "[dhoom]",
+            "hardam": "[har-dum]",
+            "akela": "[a-ke-la]",
+            "sanam": "[sa-nam]",
+            "jawani": "[ja-wa-ni]",
+        }
+        
+        # Wrap difficult words with hints in brackets after the word
+        for word, hint in difficult_words.items():
+            # Case-insensitive replacement with word boundaries
+            import re
+            lyrics_text = re.sub(
+                rf'\b{word}\b',
+                f'{word} {hint}',
+                lyrics_text,
+                flags=re.IGNORECASE
+            )
+    
+    return lyrics_text
 
 # --- 4. UI INTERFACE ---
 st.title("🎹 Music Architect: Suno Edition")
@@ -111,45 +310,95 @@ if st.button("🚀 Architect Blueprint", type="primary"):
     result_area = st.empty()
     
     prompt = f"""
-    Create a detailed Suno AI song blueprint.
-    TOPIC: {topic}
-    LANGUAGE: {language}
-    GENRE: {genre}
-    VOCALS: {voice}
+    Create a GENIUS-LEVEL Suno AI song blueprint with world-class lyrics.
     
-    Ensure the lyrics are catchy, rhythmic, and use Romanized script for non-English parts.
-    Include a "Style Description" optimized for Suno v4.
+    TOPIC/CONCEPT: {topic}
+    LANGUAGE: {language}
+    GENRE/VIBE: {genre}
+    VOCAL STYLE: {voice}
+    
+    REQUIREMENTS:
+    1. Use the OUTPUT STRUCTURE with proper [Tags].
+    2. Write lyrics that are CATCHY, MEMORABLE, and SINGABLE.
+    3. Include 2-3 clever metaphors or wordplay elements.
+    4. Maintain consistent rhyme schemes (AABB or ABAB).
+    5. Add 5-7 performance cues for emotional delivery.
+    6. Create a unique STYLE STRING optimized for Suno v4.
+    7. For non-English: Use ONLY Romanized Script (no Devanagari/Bengali/Arabic).
+    8. Each verse should have 8-12 lines with natural flow.
+    9. Chorus must be highly repetitive and catchy (4-6 lines).
+    10. Include production notes for layering/effects.
+    11. For Hindi/Haryanvi: Use phonetically clear words and break multi-syllable words into beats.
+    12. Prioritize words that are easy for AI voice synthesis to pronounce.
+    
+    Prioritize QUALITY over quantity. Every word must serve the song.
     """
     
     success = False
+    retry_count = 0
+    max_retries = 2
     
     # 2. Try models one by one
     for model_name in available_models:
         try:
             status_box.info(f"🤖 Contacting **{model_name}**...")
             
-            response = client.models.generate_content(
-                model=model_name,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    system_instruction=SYSTEM_INSTRUCTION,
-                    temperature=0.9, # Higher creativity for music
+            # Retry logic for incomplete responses
+            for attempt in range(max_retries + 1):
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=SYSTEM_INSTRUCTION,
+                        temperature=0.95, # Higher creativity for genius-level lyrics
+                        max_output_tokens=4096, # INCREASED: Allow complete song generation
+                    )
                 )
-            )
+                
+                # Extract lyrics from response
+                lyrics_text = extract_lyrics_from_response(response)
+                
+                if not lyrics_text:
+                    status_box.warning(f"⚠️ {model_name} returned empty response. Trying next model...")
+                    break
+                
+                # Check if response is complete
+                if is_response_complete(lyrics_text):
+                    # Optimize for Suno vocalization
+                    lyrics_text = optimize_for_suno_vocalization(lyrics_text, language)
+                    
+                    status_box.success(f"✅ Generated using **{model_name}** (Attempt {attempt + 1})")
+                    
+                    # Validate quality
+                    quality_check, passed, total = validate_lyric_quality(lyrics_text)
+                    with st.expander("📊 Quality Validation"):
+                        for check, result in quality_check.items():
+                            st.write(f"{'✅' if result else '⚠️'} {check}")
+                        st.write(f"**Score: {passed}/{total}**")
+                    
+                    result_area.text_area("Your Genius Blueprint (Copy-Paste to Suno):", value=lyrics_text, height=600)
+                    
+                    # Download Button
+                    st.download_button(
+                        label="💾 Download Blueprint (.txt)",
+                        data=lyrics_text,
+                        file_name=f"Suno_Genius_{int(time.time())}.txt",
+                        mime="text/plain"
+                    )
+                    success = True
+                    break
+                else:
+                    # Response incomplete, retry
+                    if attempt < max_retries:
+                        status_box.warning(f"⚠️ Response incomplete. Retrying... (Attempt {attempt + 2}/{max_retries + 1})")
+                        time.sleep(1)
+                        continue
+                    else:
+                        status_box.warning(f"⚠️ {model_name} keeps returning incomplete responses. Trying next model...")
+                        break
             
-            # If we get here, it worked!
-            status_box.success(f"✅ Generated using **{model_name}**")
-            result_area.text_area("Your Blueprint (Copy-Paste to Suno):", value=response.text, height=600)
-            
-            # Download Button
-            st.download_button(
-                label="💾 Download Lyrics (.txt)",
-                data=response.text,
-                file_name=f"Suno_Blueprint_{int(time.time())}.txt",
-                mime="text/plain"
-            )
-            success = True
-            break # Stop the loop
+            if success:
+                break # Stop trying other models
             
         except Exception as e:
             # Check for specific "Busy" errors
@@ -159,9 +408,22 @@ if st.button("🚀 Architect Blueprint", type="primary"):
             elif "503" in error_str or "overloaded" in error_str:
                 status_box.warning(f"⚠️ {model_name} is overloaded. Switching...")
             else:
-                # If it's a weird error, print it but keep trying
-                print(f"Error with {model_name}: {e}")
-                continue
+                # Show full error for debugging
+                status_box.error(f"❌ Error with {model_name}: {str(e)[:200]}")
+                print(f"Full error details: {e}")
+            continue
     
     if not success:
-        status_box.error("❌ All AI models are currently busy or down. Please try again in 2 minutes.")
+        st.error("❌ Could not generate complete lyrics. All models either failed or returned incomplete responses.")
+        with st.expander("🔧 Troubleshooting"):
+            st.write("**Possible causes:**")
+            st.write("1. Google API quota exceeded")
+            st.write("2. Network connectivity issue")
+            st.write("3. Invalid API key")
+            st.write("4. Model output token limit too low")
+            st.write("5. All models are currently unavailable")
+            st.write("")
+            st.write("**Try:**")
+            st.write("- Wait 2-3 minutes and try again")
+            st.write("- Check your Google API key is valid")
+            st.write("- Ensure you have sufficient API quota")

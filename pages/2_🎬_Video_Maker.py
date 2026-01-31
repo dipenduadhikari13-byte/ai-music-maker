@@ -3,7 +3,7 @@ import os
 import numpy as np
 import librosa
 from moviepy.editor import VideoClip, AudioFileClip
-from PIL import Image, ImageDraw, ImageFont, ImageEnhance
+from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageFilter
 import requests
 from io import BytesIO
 import random
@@ -16,11 +16,17 @@ st.set_page_config(page_title="Pro Video Maker", page_icon="🎬", layout="wide"
 WIDTH = 1280
 HEIGHT = 720
 FPS = 20
-BAR_COUNT = 50
-BAR_WIDTH = 20
-BAR_SPACING = 8
+BAR_COUNT = 80  # INCREASED for more detailed visualization
+BAR_WIDTH = 12  # ADJUSTED for better density
+BAR_SPACING = 3
 
-# --- 2. HELPER FUNCTIONS ---
+# Color Palette (CTR-Optimized)
+COLOR_BASS = (255, 50, 100)      # Hot Pink/Red (low freq)
+COLOR_MID = (100, 200, 255)      # Cyan (mid freq)
+COLOR_HIGH = (100, 255, 150)     # Neon Green (high freq)
+COLOR_ACCENT = (255, 200, 0)     # Gold (peak moments)
+
+# --- 2. ENHANCED HELPER FUNCTIONS ---
 
 def resize_to_fill(img, target_width, target_height):
     """Resizes and crops an image to fill the screen perfectly"""
@@ -150,13 +156,19 @@ if start_btn and uploaded_file:
             
             frame = bg_images[img_index].copy()
             
-            # 2. Beat Pulse
+            # STUDIO QUALITY: Enhance the background
+            frame = enhance_contrast(frame, factor=1.2)
+            frame = enhance_saturation(frame, factor=1.3)
+            frame = add_vignette(frame, intensity=0.3)
+            
+            # 2. Beat Pulse with Smooth Interpolation
             frame_idx = int(t * sr / hop)
             if frame_idx >= len(onset_env): frame_idx = len(onset_env) - 1
             beat = onset_env[frame_idx]
+            beat_smooth = beat * 0.5 + (0.5 if beat > 0.3 else 0)
             
-            # Zoom Effect
-            zoom = 1.0 + (beat * 0.03) 
+            # Enhanced Zoom Effect
+            zoom = 1.0 + (beat_smooth * 0.05) 
             w, h = frame.size
             cw, ch = int(w/zoom), int(h/zoom)
             left = (w-cw)//2
@@ -165,7 +177,7 @@ if start_btn and uploaded_file:
             
             draw = ImageDraw.Draw(frame, "RGBA")
 
-            # 3. Audio Visualizer (Bars)
+            # 3. ENHANCED Audio Visualizer (Bars with Glow)
             if frame_idx >= spectrogram_db.shape[1]: frame_idx = spectrogram_db.shape[1] - 1
             db_col = spectrogram_db[:, frame_idx]
             freqs = db_col[:len(db_col)//2]
@@ -173,22 +185,80 @@ if start_btn and uploaded_file:
             chunk = len(freqs) // BAR_COUNT
             total_w = BAR_COUNT * (BAR_WIDTH + BAR_SPACING)
             start_x = (WIDTH - total_w) // 2
-            ground_y = HEIGHT - 80
+            ground_y = HEIGHT - 100
+            
+            # CENTER REFLECTION EFFECT
+            peak_freq_idx = np.argmax(freqs)
             
             for i in range(BAR_COUNT):
                 avg = np.mean(freqs[i*chunk : (i+1)*chunk])
-                h_bar = (avg + 80) / 80 * 300 
-                h_bar = max(5, h_bar * (1 + beat * 0.3))
+                h_bar = (avg + 80) / 80 * 250
+                h_bar = max(5, h_bar * (1 + beat_smooth * 0.4))
                 
                 bx = start_x + i * (BAR_WIDTH + BAR_SPACING)
                 by = ground_y - h_bar
                 
-                # Glassy White Bars
-                draw.rectangle([bx, by, bx+BAR_WIDTH, ground_y], fill=(255, 255, 255, 220))
-                draw.rectangle([bx, ground_y, bx+BAR_WIDTH, ground_y + h_bar*0.3], fill=(255, 255, 255, 60))
+                # Frequency-based coloring
+                freq_ratio = i / BAR_COUNT
+                bar_color = get_frequency_color(freq_ratio)
+                
+                # Main Bar with gradient
+                draw.rectangle([bx, by, bx+BAR_WIDTH, ground_y], fill=(*bar_color, 255))
+                # Top Highlight
+                draw.rectangle([bx, by, bx+BAR_WIDTH, by+3], fill=(255, 255, 255, 200))
+                # Reflection (Lower opacity)
+                draw.rectangle([bx, ground_y, bx+BAR_WIDTH, ground_y + h_bar*0.2], fill=(*bar_color, 80))
+                
+                # Glow effect on peak frequencies
+                if abs(i - BAR_COUNT//2) < 5 and beat_smooth > 0.2:
+                    apply_glow_effect(draw, bx + BAR_WIDTH//2, by, 8, COLOR_ACCENT, intensity=2)
 
-            # 4. Progress Line
-            draw.rectangle([0, HEIGHT-6, WIDTH * (t/duration), HEIGHT], fill=(0, 255, 200, 200))
+            # 4. BEAT INDICATOR (Center Circle Pulse)
+            center_x, center_y = WIDTH // 2, 60
+            pulse_size = int(20 + beat_smooth * 30)
+            pulse_color = (255, 200, 0) if beat > 0.3 else (100, 100, 150)
+            draw.ellipse(
+                [center_x - pulse_size, center_y - pulse_size, center_x + pulse_size, center_y + pulse_size],
+                fill=(*pulse_color, 150),
+                outline=(255, 255, 255, 100)
+            )
+            draw.ellipse(
+                [center_x - pulse_size//2, center_y - pulse_size//2, center_x + pulse_size//2, center_y + pulse_size//2],
+                fill=(255, 255, 255, 80)
+            )
+
+            # 5. PROGRESS BAR (Bottom - Studio Style)
+            progress_percent = t / duration
+            progress_x = WIDTH * progress_percent
+            
+            # Background track
+            draw.rectangle([0, HEIGHT-12, WIDTH, HEIGHT], fill=(40, 40, 60, 200))
+            # Progress fill
+            draw.rectangle([0, HEIGHT-12, progress_x, HEIGHT], fill=(0, 255, 200, 220))
+            # Glowing indicator
+            indicator_glow = 8
+            for i in range(indicator_glow, 0, -1):
+                alpha = int(100 * (1 - i/indicator_glow))
+                draw.ellipse(
+                    [progress_x-indicator_glow, HEIGHT-12-indicator_glow, progress_x+indicator_glow, HEIGHT+indicator_glow],
+                    fill=(0, 255, 200, alpha)
+                )
+
+            # 6. TIME DISPLAY
+            current_time = int(t)
+            total_time = int(duration)
+            time_text = f"{current_time//60:02d}:{current_time%60:02d} / {total_time//60:02d}:{total_time%60:02d}"
+            
+            try:
+                # Try to use a bold font if available
+                font = ImageFont.truetype("arial.ttf", 18) if os.name == 'nt' else ImageFont.load_default()
+            except:
+                font = ImageFont.load_default()
+            
+            draw.text((WIDTH-200, 10), time_text, fill=(200, 200, 200, 220), font=font)
+            
+            # 7. CINEMATIC FILM GRAIN
+            frame = add_film_grain(frame, intensity=5)
             
             return np.array(frame)
 
