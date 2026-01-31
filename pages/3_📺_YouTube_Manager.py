@@ -237,83 +237,61 @@ with tab1:
         include_timestamps = st.checkbox("⏱️ Include Timestamps", value=True)
 
     # Generate Button
-    if st.button("🚀 Generate Complete Studio Package", type="primary", use_container_width=True):
-        
-        available_models = get_best_models()
-        if not available_models:
-            st.error("❌ Could not connect to Google AI. Check your API Key.")
-            st.stop()
-        
-        status_box = st.empty()
-        progress_bar = st.progress(0)
-        
-        prompt = f"""
-        Generate a COMPLETE YouTube Studio Package for a music video.
-        
-        === VIDEO DETAILS ===
-        TOPIC: {video_topic}
-        GENRE: {music_genre}
-        MOOD: {mood}
-        CHANNEL: {channel_name}
-        VIDEO TYPE: {video_type}
-        TARGET AUDIENCE: {target_audience}
-        VIDEO LENGTH: {video_length}
-        COMPETITION: {competition_level}
-        MONETIZATION: {'Yes' if monetization else 'No'}
-        
-        === REQUIREMENTS ===
-        1. Provide 5 title variants (Emotional, Clickbait, SEO, Viral, Authority)
-        2. Write a complete 800+ word description with:
-           - Powerful hook (first 2 lines)
-           - Story behind the track (200+ words)
-           - {' Timestamps' if include_timestamps else 'No timestamps needed'}
-           - Call-to-action for {channel_name}
-           - Credits & links section
-        3. Generate 25-30 tags in priority order (Tier 1-5)
-        4. Suggest 3 thumbnail concepts with design details
-        5. Provide SEO analysis (search volume, competition, best upload time)
-        6. Create 2 A/B testing variants
-        
-        Make it STUDIO-READY and ALGORITHM-OPTIMIZED.
-        """
-        
-        success = False
-        metadata_text = ""
-        
-        for idx, model_name in enumerate(available_models):
-            try:
-                progress_bar.progress((idx + 1) / len(available_models))
-                status_box.info(f"🤖 Generating with **{model_name}**...")
-                
-                response = client.models.generate_content(
-                    model=model_name,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        system_instruction=SYSTEM_INSTRUCTION,
-                        temperature=0.85,
-                        max_output_tokens=8192
+    if st.button("🚀 Generate Metadata", type="primary"):
+        with st.spinner("🧠 Analyzing Algorithm... Writing Metadata..."):
+            prompt = f"""
+            Generate a COMPLETE YouTube Studio Package for a music video.
+            
+            === VIDEO DETAILS ===
+            TOPIC: {video_topic}
+            GENRE: {music_genre}
+            MOOD: {mood}
+            CHANNEL: {channel_name}
+            VIDEO TYPE: {video_type}
+            TARGET AUDIENCE: {target_audience}
+            VIDEO LENGTH: {video_length}
+            COMPETITION: {competition_level}
+            MONETIZATION: {'Yes' if monetization else 'No'}
+            
+            === REQUIREMENTS ===
+            1. Provide 5 title variants (Emotional, Clickbait, SEO, Viral, Authority)
+            2. Write a complete 800+ word description with:
+               - Powerful hook (first 2 lines)
+               - Story behind the track (200+ words)
+               - {'Timestamps' if include_timestamps else 'No timestamps needed'}
+               - Call-to-action for {channel_name}
+               - Credits & links section
+            3. Generate 25-30 tags in priority order (Tier 1-5)
+            4. Suggest 3 thumbnail concepts with design details
+            5. Provide SEO analysis (search volume, competition, best upload time)
+            6. Create 2 A/B testing variants
+            """
+
+            models = get_best_models()
+            response_text = ""
+            
+            for model in models:
+                try:
+                    response = client.models.generate_content(
+                        model=model,
+                        contents=prompt,
+                        config=types.GenerateContentConfig(
+                            system_instruction=SYSTEM_INSTRUCTION,
+                            temperature=0.8
+                        )
                     )
-                )
-                
-                if hasattr(response, 'text') and response.text:
-                    metadata_text = response.text.strip()
-                    status_box.success(f"✅ Generated using **{model_name}**")
-                    success = True
-                    break
-                    
-            except Exception as e:
-                error_str = str(e).lower()
-                if "429" in error_str or "quota" in error_str:
-                    status_box.warning(f"⚠️ {model_name} quota exceeded. Switching...")
-                else:
-                    status_box.warning(f"⚠️ {model_name} failed. Trying next...")
-                continue
-        
-        progress_bar.progress(100)
-        
-        if success and metadata_text:
+                    response_text = extract_text(response) or ""
+                    if response_text:
+                        break
+                except Exception:
+                    continue
+
+            if not response_text:
+                st.error("❌ Could not generate metadata. All models failed or are unavailable.")
+                st.stop()
+
             # SEO Scoring
-            seo_score, seo_checks = calculate_seo_score(metadata_text)
+            seo_score, seo_checks = calculate_seo_score(response_text)
             
             # Display Results
             col_result1, col_result2 = st.columns([3, 1])
@@ -322,7 +300,7 @@ with tab1:
                 st.subheader("📋 Your Complete Studio Package")
                 st.text_area(
                     "Copy to YouTube Studio:", 
-                    value=metadata_text, 
+                    value=response_text, 
                     height=700,
                     key="metadata_output"
                 )
@@ -340,7 +318,7 @@ with tab1:
             with col_dl1:
                 st.download_button(
                     label="💾 Download Full Package (.txt)",
-                    data=metadata_text,
+                    data=response_text,
                     file_name=f"YT_Studio_{video_topic.replace(' ', '_')}_{int(time.time())}.txt",
                     mime="text/plain",
                     use_container_width=True
@@ -350,7 +328,7 @@ with tab1:
                 json_data = json.dumps({
                     "topic": video_topic,
                     "genre": music_genre,
-                    "metadata": metadata_text,
+                    "metadata": response_text,
                     "seo_score": seo_score
                 }, indent=2)
                 st.download_button(
@@ -415,3 +393,11 @@ st.markdown("""
     <p>🎯 YouTube Studio Pro | Optimized for Music Channels | Powered by Gemini AI</p>
 </div>
 """, unsafe_allow_html=True)
+
+def extract_text(response):
+    """Safely extract text from model response."""
+    if hasattr(response, "text") and response.text:
+        return response.text.strip()
+    if hasattr(response, "content") and response.content:
+        return response.content.strip()
+    return None

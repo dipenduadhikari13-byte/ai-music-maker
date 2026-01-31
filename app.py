@@ -289,132 +289,137 @@ with col2:
 
 # --- 5. GENERATION LOGIC ---
 if st.button("🚀 Architect Blueprint", type="primary"):
-    
-    # 1. Get the list of working models
-    available_models = get_best_models()
-    if not available_models:
-        st.error("❌ Could not connect to Google AI. Check your API Key.")
-        st.stop()
+    try:
+        # 1. Get the list of working models
+        available_models = get_best_models()
+        if not available_models:
+            st.error("❌ Could not connect to Google AI. Check your API Key.")
+            st.stop()
         
-    status_box = st.empty()
-    result_area = st.empty()
-    
-    prompt = f"""
-    Create a GENIUS-LEVEL Suno AI song blueprint with world-class lyrics.
-    
-    TOPIC/CONCEPT: {topic}
-    LANGUAGE: {language}
-    GENRE/VIBE: {genre}
-    VOCAL STYLE: {voice}
-    
-    REQUIREMENTS:
-    1. Use the OUTPUT STRUCTURE with proper [Tags].
-    2. Write lyrics that are CATCHY, MEMORABLE, and SINGABLE.
-    3. Include 2-3 clever metaphors or wordplay elements.
-    4. Maintain consistent rhyme schemes (AABB or ABAB).
-    5. Add 3-5 performance cues using *asterisk* format (NOT parentheses).
-    6. Create a unique STYLE STRING optimized for Suno v4.
-    7. For non-English: Use ONLY Romanized Script (no Devanagari/Bengali/Arabic).
-    8. Each verse should have 8-12 lines with natural flow.
-    9. Chorus must be highly repetitive and catchy (4-6 lines).
-    10. Include production notes for layering/effects.
-    11. For Hindi/Haryanvi: Use phonetically clear words and break multi-syllable words into beats.
-    12. CRITICAL: NEVER use (parentheses) or [brackets] inside lyric lines - only *asterisks* for cues.
-    13. NO inline pronunciation guides like [py-aar] - put those in PRODUCTION NOTES only.
-    
-    Prioritize QUALITY over quantity. Every word must serve the song.
-    """
-    
-    success = False
-    retry_count = 0
-    max_retries = 2
-    
-    # 2. Try models one by one
-    for model_name in available_models:
-        try:
-            status_box.info(f"🤖 Contacting **{model_name}**...")
-            
-            # Retry logic for incomplete responses
-            for attempt in range(max_retries + 1):
-                response = client.models.generate_content(
-                    model=model_name,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        system_instruction=SYSTEM_INSTRUCTION,
-                        temperature=0.95, # Higher creativity for genius-level lyrics
-                        max_output_tokens=4096, # INCREASED: Allow complete song generation
+        status_box = st.empty()
+        result_area = st.empty()
+        
+        prompt = f"""
+        Create a GENIUS-LEVEL Suno AI song blueprint with world-class lyrics.
+        
+        TOPIC/CONCEPT: {topic}
+        LANGUAGE: {language}
+        GENRE/VIBE: {genre}
+        VOCAL STYLE: {voice}
+        
+        REQUIREMENTS:
+        1. Use the OUTPUT STRUCTURE with proper [Tags].
+        2. Write lyrics that are CATCHY, MEMORABLE, and SINGABLE.
+        3. Include 2-3 clever metaphors or wordplay elements.
+        4. Maintain consistent rhyme schemes (AABB or ABAB).
+        5. Add 3-5 performance cues using *asterisk* format (NOT parentheses).
+        6. Create a unique STYLE STRING optimized for Suno v4.
+        7. For non-English: Use ONLY Romanized Script (no Devanagari/Bengali/Arabic).
+        8. Each verse should have 8-12 lines with natural flow.
+        9. Chorus must be highly repetitive and catchy (4-6 lines).
+        10. Include production notes for layering/effects.
+        11. For Hindi/Haryanvi: Use phonetically clear words and break multi-syllable words into beats.
+        12. CRITICAL: NEVER use (parentheses) or [brackets] inside lyric lines - only *asterisks* for cues.
+        13. NO inline pronunciation guides like [py-aar] - put those in PRODUCTION NOTES only.
+        
+        Prioritize QUALITY over quantity. Every word must serve the song.
+        """
+        
+        success = False
+        retry_count = 0
+        max_retries = 2
+        
+        # 2. Try models one by one
+        for model_name in available_models:
+            try:
+                status_box.info(f"🤖 Contacting **{model_name}**...")
+                
+                # Retry logic for incomplete responses
+                for attempt in range(max_retries + 1):
+                    response = client.models.generate_content(
+                        model=model_name,
+                        contents=prompt,
+                        config=types.GenerateContentConfig(
+                            system_instruction=SYSTEM_INSTRUCTION,
+                            temperature=0.95, # Higher creativity for genius-level lyrics
+                            max_output_tokens=4096, # INCREASED: Allow complete song generation
+                        )
                     )
-                )
-                
-                # Extract lyrics from response
-                lyrics_text = extract_lyrics_from_response(response)
-                
-                if not lyrics_text:
-                    status_box.warning(f"⚠️ {model_name} returned empty response. Trying next model...")
-                    break
-                
-                # Check if response is complete
-                if is_response_complete(lyrics_text):
-                    # Optimize for Suno vocalization
-                    lyrics_text = optimize_for_suno_vocalization(lyrics_text, language)
                     
-                    status_box.success(f"✅ Generated using **{model_name}** (Attempt {attempt + 1})")
+                    # Extract lyrics from response
+                    lyrics_text = extract_lyrics_from_response(response)
                     
-                    # Validate quality
-                    quality_check, passed, total = validate_lyric_quality(lyrics_text)
-                    with st.expander("📊 Quality Validation"):
-                        for check, result in quality_check.items():
-                            st.write(f"{'✅' if result else '⚠️'} {check}")
-                        st.write(f"**Score: {passed}/{total}**")
-                    
-                    result_area.text_area("Your Genius Blueprint (Copy-Paste to Suno):", value=lyrics_text, height=600)
-                    
-                    # Download Button
-                    st.download_button(
-                        label="💾 Download Blueprint (.txt)",
-                        data=lyrics_text,
-                        file_name=f"Suno_Genius_{int(time.time())}.txt",
-                        mime="text/plain"
-                    )
-                    success = True
-                    break
-                else:
-                    # Response incomplete, retry
-                    if attempt < max_retries:
-                        status_box.warning(f"⚠️ Response incomplete. Retrying... (Attempt {attempt + 2}/{max_retries + 1})")
-                        time.sleep(1)
-                        continue
-                    else:
-                        status_box.warning(f"⚠️ {model_name} keeps returning incomplete responses. Trying next model...")
+                    if not lyrics_text:
+                        status_box.warning(f"⚠️ {model_name} returned empty response. Trying next model...")
                         break
+                    
+                    # Check if response is complete
+                    if is_response_complete(lyrics_text):
+                        # Optimize for Suno vocalization
+                        lyrics_text = optimize_for_suno_vocalization(lyrics_text, language)
+                        
+                        status_box.success(f"✅ Generated using **{model_name}** (Attempt {attempt + 1})")
+                        
+                        # Validate quality
+                        quality_check, passed, total = validate_lyric_quality(lyrics_text)
+                        with st.expander("📊 Quality Validation"):
+                            for check, result in quality_check.items():
+                                st.write(f"{'✅' if result else '⚠️'} {check}")
+                            st.write(f"**Score: {passed}/{total}**")
+                        
+                        result_area.text_area("Your Genius Blueprint (Copy-Paste to Suno):", value=lyrics_text, height=600)
+                        
+                        # Download Button
+                        st.download_button(
+                            label="💾 Download Blueprint (.txt)",
+                            data=lyrics_text,
+                            file_name=f"Suno_Genius_{int(time.time())}.txt",
+                            mime="text/plain"
+                        )
+                        success = True
+                        break
+                    else:
+                        # Response incomplete, retry
+                        if attempt < max_retries:
+                            status_box.warning(f"⚠️ Response incomplete. Retrying... (Attempt {attempt + 2}/{max_retries + 1})")
+                            time.sleep(1)
+                            continue
+                        else:
+                            status_box.warning(f"⚠️ {model_name} keeps returning incomplete responses. Trying next model...")
+                            break
+                    
+            except Exception as e:
+                # Check for specific "Busy" errors
+                error_str = str(e).lower()
+                if "429" in error_str or "quota" in error_str:
+                    status_box.warning(f"⚠️ {model_name} is out of quota. Switching...")
+                elif "503" in error_str or "overloaded" in error_str:
+                    status_box.warning(f"⚠️ {model_name} is overloaded. Switching...")
+                else:
+                    # Show full error for debugging
+                    status_box.error(f"❌ Error with {model_name}: {str(e)[:200]}")
+                    print(f"Full error details: {e}")
+                continue
             
             if success:
                 break # Stop trying other models
             
-        except Exception as e:
-            # Check for specific "Busy" errors
-            error_str = str(e).lower()
-            if "429" in error_str or "quota" in error_str:
-                status_box.warning(f"⚠️ {model_name} is out of quota. Switching...")
-            elif "503" in error_str or "overloaded" in error_str:
-                status_box.warning(f"⚠️ {model_name} is overloaded. Switching...")
-            else:
-                # Show full error for debugging
-                status_box.error(f"❌ Error with {model_name}: {str(e)[:200]}")
-                print(f"Full error details: {e}")
-            continue
-    
-    if not success:
-        st.error("❌ Could not generate complete lyrics. All models either failed or returned incomplete responses.")
-        with st.expander("🔧 Troubleshooting"):
-            st.write("**Possible causes:**")
-            st.write("1. Google API quota exceeded")
-            st.write("2. Network connectivity issue")
-            st.write("3. Invalid API key")
-            st.write("4. Model output token limit too low")
-            st.write("5. All models are currently unavailable")
-            st.write("")
-            st.write("**Try:**")
-            st.write("- Wait 2-3 minutes and try again")
-            st.write("- Check your Google API key is valid")
-            st.write("- Ensure you have sufficient API quota")
+        if success:
+            st.success("✅ Generated blueprint successfully!")
+        else:
+            st.error("❌ Could not generate complete lyrics. All models either failed or returned incomplete responses.")
+            with st.expander("🔧 Troubleshooting"):
+                st.write("**Possible causes:**")
+                st.write("1. Google API quota exceeded")
+                st.write("2. Network connectivity issue")
+                st.write("3. Invalid API key")
+                st.write("4. Model output token limit too low")
+                st.write("5. All models are currently unavailable")
+                st.write("")
+                st.write("**Try:**")
+                st.write("- Wait 2-3 minutes and try again")
+                st.write("- Check your Google API key is valid")
+                st.write("- Ensure you have sufficient API quota")
+    except Exception as e:
+        st.error("❌ Unexpected error while generating. Please try again.")
+        st.write(str(e)[:200])

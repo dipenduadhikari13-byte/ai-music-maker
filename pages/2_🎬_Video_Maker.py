@@ -1,8 +1,6 @@
 import streamlit as st
 import os
 import numpy as np
-import librosa
-from moviepy.editor import VideoClip, AudioFileClip
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageFilter
 import requests
 from io import BytesIO
@@ -173,7 +171,13 @@ with col2:
 # --- 4. PROCESSING LOGIC ---
 if start_btn and uploaded_file:
     with st.spinner("🎧 Initializing Studio Engine..."):
-        
+        try:
+            import librosa
+            from moviepy.editor import VideoClip, AudioFileClip
+        except Exception as e:
+            st.error(f"Missing dependency: {e}. Please install required packages.")
+            st.stop()
+
         # A. Setup Audio
         tfile = tempfile.NamedTemporaryFile(delete=False, suffix=".mp3")
         tfile.write(uploaded_file.read())
@@ -182,10 +186,6 @@ if start_btn and uploaded_file:
         try:
             y, sr = librosa.load(audio_path, sr=None)
             duration = librosa.get_duration(y=y, sr=sr)
-            hop = 512
-            spectrogram = np.abs(librosa.stft(y, n_fft=2048, hop_length=hop))
-            spectrogram_db = librosa.amplitude_to_db(spectrogram, ref=np.max)
-            onset_env = librosa.onset.onset_strength(y=y, sr=sr)
         except Exception as e:
             st.error("Audio File Error. Please try a different MP3.")
             st.stop()
@@ -222,104 +222,16 @@ if start_btn and uploaded_file:
             frame = enhance_saturation(frame, factor=1.3)
             frame = add_vignette(frame, intensity=0.3)
             
-            # 2. Beat Pulse with Smooth Interpolation
-            frame_idx = int(t * sr / hop)
-            if frame_idx >= len(onset_env): frame_idx = len(onset_env) - 1
-            beat = onset_env[frame_idx]
-            beat_smooth = beat * 0.5 + (0.5 if beat > 0.3 else 0)
-            
-            # Enhanced Zoom Effect
-            zoom = 1.0 + (beat_smooth * 0.05) 
+            # Simple cinematic slow zoom (no beat, no bars)
+            zoom = 1.0 + (0.01 * np.sin(2 * np.pi * t / 8.0))
             w, h = frame.size
-            cw, ch = int(w/zoom), int(h/zoom)
-            left = (w-cw)//2
-            top = (h-ch)//2
-            frame = frame.crop((left, top, left+cw, top+ch)).resize((WIDTH, HEIGHT))
+            cw, ch = int(w / zoom), int(h / zoom)
+            left = (w - cw) // 2
+            top = (h - ch) // 2
+            frame = frame.crop((left, top, left + cw, top + ch)).resize((WIDTH, HEIGHT))
             
-            draw = ImageDraw.Draw(frame, "RGBA")
-
-            # 3. ENHANCED Audio Visualizer (Bars with Glow)
-            if frame_idx >= spectrogram_db.shape[1]: frame_idx = spectrogram_db.shape[1] - 1
-            db_col = spectrogram_db[:, frame_idx]
-            freqs = db_col[:len(db_col)//2]
-            
-            chunk = len(freqs) // BAR_COUNT
-            total_w = BAR_COUNT * (BAR_WIDTH + BAR_SPACING)
-            start_x = (WIDTH - total_w) // 2
-            ground_y = HEIGHT - 100
-            
-            # CENTER REFLECTION EFFECT
-            peak_freq_idx = np.argmax(freqs)
-            
-            for i in range(BAR_COUNT):
-                avg = np.mean(freqs[i*chunk : (i+1)*chunk])
-                h_bar = (avg + 80) / 80 * 250
-                h_bar = max(5, h_bar * (1 + beat_smooth * 0.4))
-                
-                bx = start_x + i * (BAR_WIDTH + BAR_SPACING)
-                by = ground_y - h_bar
-                
-                # Frequency-based coloring
-                freq_ratio = i / BAR_COUNT
-                bar_color = get_frequency_color(freq_ratio)
-                
-                # Main Bar with gradient
-                draw.rectangle([bx, by, bx+BAR_WIDTH, ground_y], fill=(*bar_color, 255))
-                # Top Highlight
-                draw.rectangle([bx, by, bx+BAR_WIDTH, by+3], fill=(255, 255, 255, 200))
-                # Reflection (Lower opacity)
-                draw.rectangle([bx, ground_y, bx+BAR_WIDTH, ground_y + h_bar*0.2], fill=(*bar_color, 80))
-                
-                # Glow effect on peak frequencies
-                if abs(i - BAR_COUNT//2) < 5 and beat_smooth > 0.2:
-                    apply_glow_effect(draw, bx + BAR_WIDTH//2, by, 8, COLOR_ACCENT, intensity=2)
-
-            # 4. BEAT INDICATOR (Center Circle Pulse)
-            center_x, center_y = WIDTH // 2, 60
-            pulse_size = int(20 + beat_smooth * 30)
-            pulse_color = (255, 200, 0) if beat > 0.3 else (100, 100, 150)
-            draw.ellipse(
-                [center_x - pulse_size, center_y - pulse_size, center_x + pulse_size, center_y + pulse_size],
-                fill=(*pulse_color, 150),
-                outline=(255, 255, 255, 100)
-            )
-            draw.ellipse(
-                [center_x - pulse_size//2, center_y - pulse_size//2, center_x + pulse_size//2, center_y + pulse_size//2],
-                fill=(255, 255, 255, 80)
-            )
-
-            # 5. PROGRESS BAR (Bottom - Studio Style)
-            progress_percent = t / duration
-            progress_x = WIDTH * progress_percent
-            
-            # Background track
-            draw.rectangle([0, HEIGHT-12, WIDTH, HEIGHT], fill=(40, 40, 60, 200))
-            # Progress fill
-            draw.rectangle([0, HEIGHT-12, progress_x, HEIGHT], fill=(0, 255, 200, 220))
-            # Glowing indicator
-            indicator_glow = 8
-            for i in range(indicator_glow, 0, -1):
-                alpha = int(100 * (1 - i/indicator_glow))
-                draw.ellipse(
-                    [progress_x-indicator_glow, HEIGHT-12-indicator_glow, progress_x+indicator_glow, HEIGHT+indicator_glow],
-                    fill=(0, 255, 200, alpha)
-                )
-
-            # 6. TIME DISPLAY
-            current_time = int(t)
-            total_time = int(duration)
-            time_text = f"{current_time//60:02d}:{current_time%60:02d} / {total_time//60:02d}:{total_time%60:02d}"
-            
-            try:
-                # Try to use a bold font if available
-                font = ImageFont.truetype("arial.ttf", 18) if os.name == 'nt' else ImageFont.load_default()
-            except:
-                font = ImageFont.load_default()
-            
-            draw.text((WIDTH-200, 10), time_text, fill=(200, 200, 200, 220), font=font)
-            
-            # 7. CINEMATIC FILM GRAIN
-            frame = add_film_grain(frame, intensity=5)
+            # Cinematic film grain
+            frame = add_film_grain(frame, intensity=4)
             
             return np.array(frame)
 
