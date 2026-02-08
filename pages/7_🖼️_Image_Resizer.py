@@ -33,16 +33,23 @@ st.caption("Upload images → resize, compress, change DPI, convert formats, or 
 # Supported Formats
 # ──────────────────────────────────────────────
 SUPPORTED_INPUT = ["jpg", "jpeg", "png", "webp", "bmp", "tiff", "tif", "gif", "ico", "ppm", "pgm", "pbm", "pcx", "tga", "sgi", "eps", "dds"]
-SUPPORTED_OUTPUT = ["JPEG", "PNG", "WEBP", "BMP", "TIFF", "GIF", "ICO", "PPM"]
+SUPPORTED_OUTPUT = ["JPG", "JPEG", "PNG", "WEBP", "BMP", "TIFF", "GIF", "ICO", "PPM"]
+
+# Internal format name used by Pillow (JPG is saved as JPEG internally)
+INTERNAL_FMT = {
+    "JPG": "JPEG", "JPEG": "JPEG", "PNG": "PNG", "WEBP": "WEBP", "BMP": "BMP",
+    "TIFF": "TIFF", "GIF": "GIF", "ICO": "ICO", "PPM": "PPM",
+}
 
 EXT_MAP = {
-    "JPEG": "jpg", "PNG": "png", "WEBP": "webp", "BMP": "bmp",
+    "JPG": "jpg", "JPEG": "jpg", "PNG": "png", "WEBP": "webp", "BMP": "bmp",
     "TIFF": "tif", "GIF": "gif", "ICO": "ico", "PPM": "ppm",
 }
 
 MIME_MAP = {
-    "JPEG": "image/jpeg", "PNG": "image/png", "WEBP": "image/webp", "BMP": "image/bmp",
-    "TIFF": "image/tiff", "GIF": "image/gif", "ICO": "image/x-icon", "PPM": "image/x-portable-pixmap",
+    "JPG": "image/jpeg", "JPEG": "image/jpeg", "PNG": "image/png", "WEBP": "image/webp",
+    "BMP": "image/bmp", "TIFF": "image/tiff", "GIF": "image/gif",
+    "ICO": "image/x-icon", "PPM": "image/x-portable-pixmap",
 }
 
 # ──────────────────────────────────────────────
@@ -61,6 +68,7 @@ def format_size(size_bytes: int) -> str:
 
 def prepare_for_format(img: Image.Image, fmt: str) -> Image.Image:
     """Ensure image mode is compatible with the output format."""
+    fmt = INTERNAL_FMT.get(fmt, fmt)  # Normalize JPG → JPEG etc.
     if fmt in ("JPEG", "BMP", "PPM", "ICO") and img.mode in ("RGBA", "P", "LA", "PA"):
         background = Image.new("RGB", img.size, (255, 255, 255))
         if img.mode == "P":
@@ -75,6 +83,7 @@ def prepare_for_format(img: Image.Image, fmt: str) -> Image.Image:
 
 def get_image_bytes(img: Image.Image, fmt: str, quality: int, dpi: tuple | None = None) -> bytes:
     """Export a PIL Image to bytes with given format, quality, and optional DPI."""
+    fmt = INTERNAL_FMT.get(fmt, fmt)  # Normalize JPG → JPEG etc.
     buf = io.BytesIO()
     save_kwargs: dict = {"format": fmt}
     if dpi:
@@ -104,7 +113,8 @@ def get_image_bytes(img: Image.Image, fmt: str, quality: int, dpi: tuple | None 
 
 def compress_to_target(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple | None = None) -> tuple[bytes, int]:
     """Binary-search the quality parameter to hit the target file size."""
-    if fmt in ("PNG", "BMP", "GIF", "PPM", "ICO"):
+    real_fmt = INTERNAL_FMT.get(fmt, fmt)
+    if real_fmt in ("PNG", "BMP", "GIF", "PPM", "ICO"):
         # These formats don't have a quality parameter to binary-search
         data = get_image_bytes(img, fmt, 95, dpi)
         return data, 95
@@ -273,8 +283,9 @@ with main_tab1:
         orig_w, orig_h = img.size
         orig_dpi = img.info.get("dpi", (72, 72))
         orig_format = img.format or uploaded.name.rsplit(".", 1)[-1].upper()
-        if orig_format == "JPG":
-            orig_format = "JPEG"
+        # Keep JPG as-is for display, map to JPEG only internally when saving
+        if orig_format == "JPEG":
+            orig_format = "JPG"  # Show user-friendly "JPG"
         orig_mode = img.mode
 
         # ── Show original info ──
