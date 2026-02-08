@@ -1,9 +1,11 @@
 import streamlit as st
-from PIL import Image
+from PIL import Image, ImageEnhance
 import io
 import math
+import tempfile
+import os
 
-st.set_page_config(page_title="Image Resizer & Compressor", page_icon="🖼️", layout="wide")
+st.set_page_config(page_title="Image Resizer, Compressor & PDF Converter", page_icon="🖼️", layout="wide")
 
 # --- CSS ---
 st.markdown("""
@@ -24,8 +26,24 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🖼️ Image Resizer & Compressor")
-st.caption("Upload an image → resize, compress, change DPI — download the result.")
+st.title("🖼️ Image Resizer, Compressor & PDF Converter")
+st.caption("Upload images → resize, compress, change DPI, convert formats, or create PDFs.")
+
+# ──────────────────────────────────────────────
+# Supported Formats
+# ──────────────────────────────────────────────
+SUPPORTED_INPUT = ["jpg", "jpeg", "png", "webp", "bmp", "tiff", "tif", "gif", "ico", "ppm", "pgm", "pbm", "pcx", "tga", "sgi", "eps", "dds"]
+SUPPORTED_OUTPUT = ["JPEG", "PNG", "WEBP", "BMP", "TIFF", "GIF", "ICO", "PPM"]
+
+EXT_MAP = {
+    "JPEG": "jpg", "PNG": "png", "WEBP": "webp", "BMP": "bmp",
+    "TIFF": "tif", "GIF": "gif", "ICO": "ico", "PPM": "ppm",
+}
+
+MIME_MAP = {
+    "JPEG": "image/jpeg", "PNG": "image/png", "WEBP": "image/webp", "BMP": "image/bmp",
+    "TIFF": "image/tiff", "GIF": "image/gif", "ICO": "image/x-icon", "PPM": "image/x-portable-pixmap",
+}
 
 # ──────────────────────────────────────────────
 # Helpers
@@ -41,35 +59,62 @@ def format_size(size_bytes: int) -> str:
         return f"{size_bytes / (1024 * 1024):.2f} MB"
 
 
+def prepare_for_format(img: Image.Image, fmt: str) -> Image.Image:
+    """Ensure image mode is compatible with the output format."""
+    if fmt in ("JPEG", "BMP", "PPM", "ICO") and img.mode in ("RGBA", "P", "LA", "PA"):
+        background = Image.new("RGB", img.size, (255, 255, 255))
+        if img.mode == "P":
+            img = img.convert("RGBA")
+        if "A" in img.mode:
+            background.paste(img, mask=img.split()[-1])
+        return background
+    if fmt in ("JPEG", "BMP", "PPM") and img.mode not in ("RGB", "L"):
+        return img.convert("RGB")
+    return img
+
+
 def get_image_bytes(img: Image.Image, fmt: str, quality: int, dpi: tuple | None = None) -> bytes:
     """Export a PIL Image to bytes with given format, quality, and optional DPI."""
     buf = io.BytesIO()
-    save_kwargs: dict = {"format": fmt, "quality": quality}
+    save_kwargs: dict = {"format": fmt}
     if dpi:
         save_kwargs["dpi"] = dpi
+    img = prepare_for_format(img, fmt)
     if fmt == "PNG":
-        save_kwargs.pop("quality", None)  # PNG uses compress_level, not quality
-        # Map quality (1-100) → compress_level (9-0)  higher quality = less compression
         save_kwargs["compress_level"] = max(0, min(9, 9 - int(quality / 11.2)))
-    if fmt == "WEBP":
-        save_kwargs["method"] = 4  # balanced speed/size
-    # Ensure RGB for JPEG
-    if fmt == "JPEG" and img.mode in ("RGBA", "P", "LA"):
-        img = img.convert("RGB")
+    elif fmt == "WEBP":
+        save_kwargs["quality"] = quality
+        save_kwargs["method"] = 4
+    elif fmt == "JPEG":
+        save_kwargs["quality"] = quality
+        save_kwargs["optimize"] = True
+    elif fmt == "TIFF":
+        save_kwargs["compression"] = "tiff_deflate"
+    elif fmt == "GIF":
+        pass  # GIF has no quality knob
+    elif fmt == "ICO":
+        # ICO needs specific sizes
+        sizes = [(min(img.width, 256), min(img.height, 256))]
+        save_kwargs["sizes"] = sizes
+    else:
+        save_kwargs["quality"] = quality
     img.save(buf, **save_kwargs)
     return buf.getvalue()
 
 
 def compress_to_target(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple | None = None) -> tuple[bytes, int]:
     """Binary-search the quality parameter to hit the target file size."""
+    if fmt in ("PNG", "BMP", "GIF", "PPM", "ICO"):
+        # These formats don't have a quality parameter to binary-search
+        data = get_image_bytes(img, fmt, 95, dpi)
+        return data, 95
     lo, hi = 1, 100
     best_data = get_image_bytes(img, fmt, hi, dpi)
-    # If even max compression is already under target, return it
     if len(best_data) <= target_bytes:
         return best_data, hi
     best_quality = hi
 
-    for _ in range(14):  # 14 iterations → precision of ~1 quality unit
+    for _ in range(14):
         mid = (lo + hi) // 2
         data = get_image_bytes(img, fmt, mid, dpi)
         if len(data) <= target_bytes:
@@ -92,166 +137,419 @@ ASPECT_PRESETS = {
     "3:2 (Photo)": (3, 2),
     "2:3 (Photo Portrait)": (2, 3),
     "21:9 (Ultra-wide)": (21, 9),
+    "5:4 (Large Format)": (5, 4),
+    "4:5 (Instagram Portrait)": (4, 5),
+    "2:1 (Panoramic)": (2, 1),
+    "1:2 (Tall Banner)": (1, 2),
+}
+
+RESOLUTION_PRESETS = {
+    "Custom": None,
+    "HD (1280×720)": (1280, 720),
+    "Full HD (1920×1080)": (1920, 1080),
+    "2K (2560×1440)": (2560, 1440),
+    "4K UHD (3840×2160)": (3840, 2160),
+    "Instagram Post (1080×1080)": (1080, 1080),
+    "Instagram Story (1080×1920)": (1080, 1920),
+    "Facebook Cover (820×312)": (820, 312),
+    "Twitter Header (1500×500)": (1500, 500),
+    "YouTube Thumbnail (1280×720)": (1280, 720),
+    "LinkedIn Banner (1584×396)": (1584, 396),
+    "Passport Photo (600×600)": (600, 600),
+    "A4 Print 300DPI (2480×3508)": (2480, 3508),
+    "A4 Print 150DPI (1240×1754)": (1240, 1754),
+    "A3 Print 300DPI (3508×4960)": (3508, 4960),
+    "Letter Print 300DPI (2550×3300)": (2550, 3300),
+    "Thumbnail (150×150)": (150, 150),
+    "Icon (64×64)": (64, 64),
+    "Favicon (32×32)": (32, 32),
+}
+
+DPI_PRESETS = {
+    "Custom": None,
+    "Screen (72 DPI)": 72,
+    "Screen Retina (144 DPI)": 144,
+    "Low Print (150 DPI)": 150,
+    "Standard Print (300 DPI)": 300,
+    "High Print (600 DPI)": 600,
+    "Professional (1200 DPI)": 1200,
 }
 
 # ──────────────────────────────────────────────
-# Upload
+# Image to PDF Helper
 # ──────────────────────────────────────────────
 
-uploaded = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg", "webp", "bmp", "tiff"])
+def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation: str = "Auto",
+                  margin_mm: int = 10, fit_mode: str = "Fit to page", dpi: int = 300,
+                  title: str = "") -> bytes:
+    """Convert one or more PIL Images into a single PDF."""
+    # Page sizes in mm
+    PAGE_SIZES = {
+        "A4": (210, 297), "A3": (297, 420), "A5": (148, 210),
+        "Letter": (216, 279), "Legal": (216, 356),
+        "Fit to Image": None,
+    }
+    page_mm = PAGE_SIZES.get(page_size)
 
-if uploaded:
-    raw_bytes = uploaded.getvalue()
-    original_size = len(raw_bytes)
-    img = Image.open(io.BytesIO(raw_bytes))
-    orig_w, orig_h = img.size
-    orig_dpi = img.info.get("dpi", (72, 72))
-    orig_format = img.format or uploaded.name.rsplit(".", 1)[-1].upper()
-    if orig_format == "JPG":
-        orig_format = "JPEG"
+    pdf_pages: list[Image.Image] = []
 
-    # ── Show original info ──
-    st.markdown("---")
-    st.subheader("📊 Original Image Info")
+    for img in images:
+        img = img.convert("RGB")
 
-    cols = st.columns(5)
-    info_items = [
-        ("File Size", format_size(original_size)),
-        ("Dimensions", f"{orig_w} × {orig_h} px"),
-        ("Aspect Ratio", f"{orig_w / math.gcd(orig_w, orig_h):.0f}:{orig_h / math.gcd(orig_w, orig_h):.0f}"),
-        ("Format", orig_format),
-        ("DPI", f"{orig_dpi[0]:.0f} × {orig_dpi[1]:.0f}"),
-    ]
-    for col, (label, value) in zip(cols, info_items):
-        col.markdown(
-            f'<div class="metric-card"><div class="metric-label">{label}</div>'
-            f'<div class="metric-value">{value}</div></div>',
-            unsafe_allow_html=True,
-        )
+        if page_mm is None:
+            # Fit to Image mode — just use image as-is
+            pdf_pages.append(img)
+            continue
 
-    st.image(img, caption="Original", use_container_width=True)
-
-    # ──────────────────────────────────────────
-    # Settings
-    # ──────────────────────────────────────────
-    st.markdown("---")
-    st.subheader("⚙️ Resize & Compress Settings")
-
-    tab_size, tab_dim, tab_dpi = st.tabs(["📦 Target File Size", "📐 Dimensions & Aspect Ratio", "🔍 DPI"])
-
-    # --- Target file size ---
-    with tab_size:
-        size_unit = st.radio("Unit", ["KB", "MB"], horizontal=True, key="sz_unit")
-        max_val = 100.0 if size_unit == "MB" else 10240.0
-        default_val = round(original_size / (1024 * 1024), 2) if size_unit == "MB" else round(original_size / 1024, 1)
-        target_val = st.number_input(
-            f"Desired file size ({size_unit})",
-            min_value=1.0,
-            max_value=max_val,
-            value=min(default_val, max_val),
-            step=0.5 if size_unit == "MB" else 5.0,
-            key="target_size",
-        )
-        enable_size_target = st.checkbox("Enable target file-size compression", value=False, key="en_sz")
-
-    # --- Dimensions & aspect ratio ---
-    with tab_dim:
-        aspect_choice = st.selectbox("Aspect ratio preset", list(ASPECT_PRESETS.keys()), key="ar_preset")
-        aspect = ASPECT_PRESETS[aspect_choice]
-
-        if aspect:
-            # Lock ratio: let user pick width, auto-calc height
-            new_w = st.number_input("Width (px)", min_value=1, value=orig_w, step=1, key="dim_w_locked")
-            new_h = int(new_w * aspect[1] / aspect[0])
-            st.info(f"Height auto-calculated to **{new_h} px** for {aspect_choice} ratio.")
-        else:
-            c1, c2 = st.columns(2)
-            new_w = c1.number_input("Width (px)", min_value=1, value=orig_w, step=1, key="dim_w")
-            new_h = c2.number_input("Height (px)", min_value=1, value=orig_h, step=1, key="dim_h")
-
-        enable_resize = st.checkbox("Enable dimension resize", value=False, key="en_dim")
-
-        resample_options = {"Lanczos (best quality)": Image.LANCZOS, "Bilinear": Image.BILINEAR, "Nearest (fastest)": Image.NEAREST}
-        resample_name = st.selectbox("Resampling filter", list(resample_options.keys()), key="resample")
-        resample_filter = resample_options[resample_name]
-
-    # --- DPI ---
-    with tab_dpi:
-        c1, c2 = st.columns(2)
-        dpi_x = c1.number_input("Horizontal DPI", min_value=1, max_value=2400, value=int(orig_dpi[0]), step=1, key="dpi_x")
-        dpi_y = c2.number_input("Vertical DPI", min_value=1, max_value=2400, value=int(orig_dpi[1]), step=1, key="dpi_y")
-        enable_dpi = st.checkbox("Change DPI metadata", value=False, key="en_dpi")
-        st.caption("DPI change only updates metadata (for print). It does NOT resample pixels.")
-
-    # --- Output format & quality ---
-    st.markdown("---")
-    out_fmt_options = ["JPEG", "PNG", "WEBP"]
-    default_idx = out_fmt_options.index(orig_format) if orig_format in out_fmt_options else 0
-    out_format = st.selectbox("Output format", out_fmt_options, index=default_idx, key="out_fmt")
-    base_quality = st.slider("Base quality (ignored when target file-size is enabled)", 1, 100, 85, key="base_q")
-
-    # ──────────────────────────────────────────
-    # Process
-    # ──────────────────────────────────────────
-    if st.button("🚀 Process Image", type="primary"):
-        with st.spinner("Processing…"):
-            result_img = img.copy()
-
-            # 1) Resize dimensions
-            if enable_resize and (new_w != orig_w or new_h != orig_h):
-                result_img = result_img.resize((int(new_w), int(new_h)), resample_filter)
-
-            # 2) DPI
-            custom_dpi = (dpi_x, dpi_y) if enable_dpi else None
-
-            # 3) Compress to target size or use base quality
-            if enable_size_target:
-                target_bytes = int(target_val * (1024 * 1024 if size_unit == "MB" else 1024))
-                result_bytes, used_quality = compress_to_target(result_img, target_bytes, out_format, custom_dpi)
+        pw_mm, ph_mm = page_mm
+        if orientation == "Landscape":
+            pw_mm, ph_mm = ph_mm, pw_mm
+        elif orientation == "Auto":
+            if img.width > img.height:
+                pw_mm, ph_mm = max(pw_mm, ph_mm), min(pw_mm, ph_mm)
             else:
-                result_bytes = get_image_bytes(result_img, out_format, base_quality, custom_dpi)
-                used_quality = base_quality
+                pw_mm, ph_mm = min(pw_mm, ph_mm), max(pw_mm, ph_mm)
 
-            result_size = len(result_bytes)
-            result_pil = Image.open(io.BytesIO(result_bytes))
-            res_w, res_h = result_pil.size
-            res_dpi = result_pil.info.get("dpi", (72, 72))
-            reduction = ((original_size - result_size) / original_size) * 100 if original_size else 0
+        # Convert mm to pixels at target DPI
+        pw_px = int(pw_mm / 25.4 * dpi)
+        ph_px = int(ph_mm / 25.4 * dpi)
+        margin_px = int(margin_mm / 25.4 * dpi)
 
-        # ── Results ──
+        usable_w = pw_px - 2 * margin_px
+        usable_h = ph_px - 2 * margin_px
+
+        if fit_mode == "Fit to page":
+            ratio = min(usable_w / img.width, usable_h / img.height)
+            new_w, new_h = int(img.width * ratio), int(img.height * ratio)
+            resized = img.resize((new_w, new_h), Image.LANCZOS)
+        elif fit_mode == "Fill page (crop)":
+            ratio = max(usable_w / img.width, usable_h / img.height)
+            new_w, new_h = int(img.width * ratio), int(img.height * ratio)
+            resized = img.resize((new_w, new_h), Image.LANCZOS)
+            left = (new_w - usable_w) // 2
+            top = (new_h - usable_h) // 2
+            resized = resized.crop((left, top, left + usable_w, top + usable_h))
+            new_w, new_h = usable_w, usable_h
+        else:  # Stretch
+            resized = img.resize((usable_w, usable_h), Image.LANCZOS)
+            new_w, new_h = usable_w, usable_h
+
+        # Create white page and paste image centered
+        page = Image.new("RGB", (pw_px, ph_px), (255, 255, 255))
+        x_offset = margin_px + (usable_w - new_w) // 2
+        y_offset = margin_px + (usable_h - new_h) // 2
+        page.paste(resized, (x_offset, y_offset))
+        pdf_pages.append(page)
+
+    # Save as PDF
+    buf = io.BytesIO()
+    if len(pdf_pages) == 1:
+        pdf_pages[0].save(buf, format="PDF", resolution=dpi, title=title or "Converted PDF")
+    else:
+        pdf_pages[0].save(
+            buf, format="PDF", resolution=dpi, title=title or "Converted PDF",
+            save_all=True, append_images=pdf_pages[1:]
+        )
+    return buf.getvalue()
+
+
+# ──────────────────────────────────────────────
+# Main Tabs
+# ──────────────────────────────────────────────
+
+main_tab1, main_tab2 = st.tabs(["🖼️ Image Resizer & Compressor", "📄 Image to PDF Converter"])
+
+# ╔══════════════════════════════════════════════╗
+# ║            TAB 1: IMAGE RESIZER              ║
+# ╚══════════════════════════════════════════════╝
+with main_tab1:
+
+    uploaded = st.file_uploader("Upload an image", type=SUPPORTED_INPUT, key="img_upload")
+
+    if uploaded:
+        raw_bytes = uploaded.getvalue()
+        original_size = len(raw_bytes)
+        img = Image.open(io.BytesIO(raw_bytes))
+        orig_w, orig_h = img.size
+        orig_dpi = img.info.get("dpi", (72, 72))
+        orig_format = img.format or uploaded.name.rsplit(".", 1)[-1].upper()
+        if orig_format == "JPG":
+            orig_format = "JPEG"
+        orig_mode = img.mode
+
+        # ── Show original info ──
         st.markdown("---")
-        st.subheader("✅ Result")
+        st.subheader("📊 Original Image Info")
 
-        rc = st.columns(6)
-        result_info = [
-            ("Original Size", f'<span class="size-badge size-original">{format_size(original_size)}</span>'),
-            ("New Size", f'<span class="size-badge size-result">{format_size(result_size)}</span>'),
-            ("Reduction", f"{reduction:.1f} %"),
-            ("Dimensions", f"{res_w} × {res_h} px"),
-            ("DPI", f"{res_dpi[0]:.0f} × {res_dpi[1]:.0f}"),
-            ("Quality Used", str(used_quality)),
+        cols = st.columns(6)
+        gcd_val = math.gcd(orig_w, orig_h)
+        info_items = [
+            ("File Size", format_size(original_size)),
+            ("Dimensions", f"{orig_w} × {orig_h} px"),
+            ("Aspect Ratio", f"{orig_w // gcd_val}:{orig_h // gcd_val}"),
+            ("Format", orig_format),
+            ("DPI", f"{orig_dpi[0]:.0f} × {orig_dpi[1]:.0f}"),
+            ("Color Mode", orig_mode),
         ]
-        for col, (label, value) in zip(rc, result_info):
+        for col, (label, value) in zip(cols, info_items):
             col.markdown(
                 f'<div class="metric-card"><div class="metric-label">{label}</div>'
                 f'<div class="metric-value">{value}</div></div>',
                 unsafe_allow_html=True,
             )
 
-        # Side-by-side preview
-        lc, rc2 = st.columns(2)
-        lc.image(img, caption="Original", use_container_width=True)
-        rc2.image(result_bytes, caption="Processed", use_container_width=True)
+        st.image(img, caption="Original", use_container_width=True)
 
-        # Download
-        ext_map = {"JPEG": "jpg", "PNG": "png", "WEBP": "webp"}
-        dl_name = uploaded.name.rsplit(".", 1)[0] + f"_resized.{ext_map[out_format]}"
-        st.download_button(
-            label=f"⬇️ Download ({format_size(result_size)})",
-            data=result_bytes,
-            file_name=dl_name,
-            mime=f"image/{ext_map[out_format]}",
-            type="primary",
-        )
-else:
-    st.info("👆 Upload an image to get started.")
+        # ──────────────────────────────────────
+        # Settings
+        # ──────────────────────────────────────
+        st.markdown("---")
+        st.subheader("⚙️ Resize & Compress Settings")
+
+        tab_size, tab_dim, tab_res, tab_dpi = st.tabs([
+            "📦 Target File Size",
+            "📐 Dimensions & Aspect Ratio",
+            "🖥️ Resolution Presets",
+            "🔍 DPI",
+        ])
+
+        # --- Target file size ---
+        with tab_size:
+            size_unit = st.radio("Unit", ["KB", "MB"], horizontal=True, key="sz_unit")
+            max_val = 100.0 if size_unit == "MB" else 10240.0
+            default_val = round(original_size / (1024 * 1024), 2) if size_unit == "MB" else round(original_size / 1024, 1)
+            target_val = st.number_input(
+                f"Desired file size ({size_unit})",
+                min_value=1.0,
+                max_value=max_val,
+                value=min(default_val, max_val),
+                step=0.5 if size_unit == "MB" else 5.0,
+                key="target_size",
+            )
+            enable_size_target = st.checkbox("Enable target file-size compression", value=False, key="en_sz")
+
+        # --- Dimensions & aspect ratio ---
+        with tab_dim:
+            aspect_choice = st.selectbox("Aspect ratio preset", list(ASPECT_PRESETS.keys()), key="ar_preset")
+            aspect = ASPECT_PRESETS[aspect_choice]
+
+            if aspect:
+                new_w = st.number_input("Width (px)", min_value=1, value=orig_w, step=1, key="dim_w_locked")
+                new_h = int(new_w * aspect[1] / aspect[0])
+                st.info(f"Height auto-calculated to **{new_h} px** for {aspect_choice} ratio.")
+            else:
+                c1, c2 = st.columns(2)
+                new_w = c1.number_input("Width (px)", min_value=1, value=orig_w, step=1, key="dim_w")
+                new_h = c2.number_input("Height (px)", min_value=1, value=orig_h, step=1, key="dim_h")
+
+            lock_ratio = st.checkbox("Lock aspect ratio (scale proportionally)", value=False, key="lock_ar")
+            if lock_ratio and aspect is None:
+                ratio = orig_w / orig_h
+                new_h = int(new_w / ratio)
+                st.info(f"Height auto-set to **{new_h} px** to maintain original ratio.")
+
+            enable_resize = st.checkbox("Enable dimension resize", value=False, key="en_dim")
+
+            resample_options = {
+                "Lanczos (best quality)": Image.LANCZOS,
+                "Bicubic": Image.BICUBIC,
+                "Bilinear": Image.BILINEAR,
+                "Nearest (fastest)": Image.NEAREST,
+            }
+            resample_name = st.selectbox("Resampling filter", list(resample_options.keys()), key="resample")
+            resample_filter = resample_options[resample_name]
+
+        # --- Resolution Presets ---
+        with tab_res:
+            res_choice = st.selectbox("Resolution preset", list(RESOLUTION_PRESETS.keys()), key="res_preset")
+            res_preset = RESOLUTION_PRESETS[res_choice]
+
+            if res_preset:
+                preset_w, preset_h = res_preset
+                st.success(f"Selected: **{preset_w} × {preset_h} px**")
+                enable_res_preset = st.checkbox("Apply this resolution preset", value=False, key="en_res")
+            else:
+                preset_w, preset_h = orig_w, orig_h
+                enable_res_preset = False
+                st.info("Select a preset above, or use the Dimensions tab for custom sizes.")
+
+        # --- DPI ---
+        with tab_dpi:
+            dpi_preset_choice = st.selectbox("DPI preset", list(DPI_PRESETS.keys()), key="dpi_preset")
+            dpi_preset_val = DPI_PRESETS[dpi_preset_choice]
+
+            if dpi_preset_val:
+                dpi_x = dpi_preset_val
+                dpi_y = dpi_preset_val
+                st.success(f"Selected: **{dpi_x} DPI**")
+            else:
+                c1, c2 = st.columns(2)
+                dpi_x = c1.number_input("Horizontal DPI", min_value=1, max_value=2400, value=int(orig_dpi[0]), step=1, key="dpi_x")
+                dpi_y = c2.number_input("Vertical DPI", min_value=1, max_value=2400, value=int(orig_dpi[1]), step=1, key="dpi_y")
+
+            enable_dpi = st.checkbox("Change DPI metadata", value=False, key="en_dpi")
+            st.caption("DPI change only updates metadata (for print). It does NOT resample pixels.")
+
+        # --- Output format & quality ---
+        st.markdown("---")
+        st.subheader("💾 Output Settings")
+
+        c_fmt, c_qual = st.columns(2)
+        with c_fmt:
+            default_idx = SUPPORTED_OUTPUT.index(orig_format) if orig_format in SUPPORTED_OUTPUT else 0
+            out_format = st.selectbox("Output format", SUPPORTED_OUTPUT, index=default_idx, key="out_fmt")
+        with c_qual:
+            if out_format in ("PNG", "BMP", "GIF", "PPM", "ICO"):
+                st.info(f"{out_format} is lossless — quality slider doesn't apply.")
+                base_quality = 95
+            else:
+                base_quality = st.slider("Base quality (ignored when target file-size is enabled)", 1, 100, 85, key="base_q")
+
+        # ──────────────────────────────────────
+        # Process
+        # ──────────────────────────────────────
+        if st.button("🚀 Process Image", type="primary", key="process_btn"):
+            with st.spinner("Processing…"):
+                result_img = img.copy()
+
+                # 1) Resolution preset takes priority over manual dimensions
+                if enable_res_preset and res_preset:
+                    result_img = result_img.resize((preset_w, preset_h), Image.LANCZOS)
+                elif enable_resize and (new_w != orig_w or new_h != orig_h):
+                    result_img = result_img.resize((int(new_w), int(new_h)), resample_filter)
+
+                # 2) DPI
+                custom_dpi = (dpi_x, dpi_y) if enable_dpi else None
+
+                # 3) Compress to target size or use base quality
+                if enable_size_target:
+                    target_bytes = int(target_val * (1024 * 1024 if size_unit == "MB" else 1024))
+                    result_bytes, used_quality = compress_to_target(result_img, target_bytes, out_format, custom_dpi)
+                else:
+                    result_bytes = get_image_bytes(result_img, out_format, base_quality, custom_dpi)
+                    used_quality = base_quality
+
+                result_size = len(result_bytes)
+                result_pil = Image.open(io.BytesIO(result_bytes))
+                res_w, res_h = result_pil.size
+                res_dpi = result_pil.info.get("dpi", (72, 72))
+                reduction = ((original_size - result_size) / original_size) * 100 if original_size else 0
+
+            # ── Results ──
+            st.markdown("---")
+            st.subheader("✅ Result")
+
+            rc = st.columns(6)
+            result_info = [
+                ("Original Size", f'<span class="size-badge size-original">{format_size(original_size)}</span>'),
+                ("New Size", f'<span class="size-badge size-result">{format_size(result_size)}</span>'),
+                ("Reduction", f"{reduction:.1f} %"),
+                ("Dimensions", f"{res_w} × {res_h} px"),
+                ("DPI", f"{res_dpi[0]:.0f} × {res_dpi[1]:.0f}"),
+                ("Quality Used", str(used_quality)),
+            ]
+            for col, (label, value) in zip(rc, result_info):
+                col.markdown(
+                    f'<div class="metric-card"><div class="metric-label">{label}</div>'
+                    f'<div class="metric-value">{value}</div></div>',
+                    unsafe_allow_html=True,
+                )
+
+            # Side-by-side preview
+            lc, rc2 = st.columns(2)
+            lc.image(img, caption="Original", use_container_width=True)
+            rc2.image(result_bytes, caption="Processed", use_container_width=True)
+
+            # Download
+            ext = EXT_MAP.get(out_format, "img")
+            mime = MIME_MAP.get(out_format, "application/octet-stream")
+            dl_name = uploaded.name.rsplit(".", 1)[0] + f"_resized.{ext}"
+            st.download_button(
+                label=f"⬇️ Download ({format_size(result_size)})",
+                data=result_bytes,
+                file_name=dl_name,
+                mime=mime,
+                type="primary",
+            )
+    else:
+        st.info("👆 Upload an image to get started.")
+        st.markdown("**Supported formats:** JPG, JPEG, PNG, WEBP, BMP, TIFF, GIF, ICO, PPM, PGM, PBM, PCX, TGA, SGI, EPS, DDS")
+
+
+# ╔══════════════════════════════════════════════╗
+# ║         TAB 2: IMAGE TO PDF CONVERTER        ║
+# ╚══════════════════════════════════════════════╝
+with main_tab2:
+    st.subheader("📄 Image to PDF Converter")
+    st.caption("Upload one or more images and convert them into a single PDF document.")
+
+    pdf_images = st.file_uploader(
+        "Upload images (multiple allowed)",
+        type=SUPPORTED_INPUT,
+        accept_multiple_files=True,
+        key="pdf_img_upload",
+        help="Upload images in the order you want them in the PDF. Drag to reorder.",
+    )
+
+    if pdf_images:
+        st.success(f"✅ {len(pdf_images)} image(s) uploaded")
+
+        # Preview thumbnails
+        preview_cols = st.columns(min(6, len(pdf_images)))
+        pil_images: list[Image.Image] = []
+        for idx, f in enumerate(pdf_images):
+            pil_img = Image.open(io.BytesIO(f.getvalue()))
+            pil_images.append(pil_img)
+            with preview_cols[idx % len(preview_cols)]:
+                st.image(pil_img, caption=f.name, use_container_width=True)
+
+        st.markdown("---")
+        st.subheader("⚙️ PDF Settings")
+
+        col_p1, col_p2, col_p3 = st.columns(3)
+
+        with col_p1:
+            page_size = st.selectbox("Page Size", ["A4", "A3", "A5", "Letter", "Legal", "Fit to Image"], key="pdf_page")
+            orientation = st.selectbox("Orientation", ["Auto", "Portrait", "Landscape"], key="pdf_orient")
+
+        with col_p2:
+            fit_mode = st.selectbox("Image Fitting", ["Fit to page", "Fill page (crop)", "Stretch"], key="pdf_fit")
+            margin_mm = st.slider("Margin (mm)", 0, 50, 10, key="pdf_margin")
+
+        with col_p3:
+            pdf_dpi = st.selectbox("PDF Resolution", [72, 150, 300, 600], index=2, key="pdf_dpi")
+            pdf_title = st.text_input("PDF Title (optional)", key="pdf_title")
+
+        if st.button("📄 Generate PDF", type="primary", key="gen_pdf_btn"):
+            with st.spinner("Creating PDF…"):
+                pdf_bytes = images_to_pdf(
+                    pil_images,
+                    page_size=page_size,
+                    orientation=orientation,
+                    margin_mm=margin_mm,
+                    fit_mode=fit_mode,
+                    dpi=pdf_dpi,
+                    title=pdf_title,
+                )
+                pdf_size = len(pdf_bytes)
+
+            st.markdown("---")
+            st.success(f"✅ PDF created — **{len(pil_images)} page(s)** — **{format_size(pdf_size)}**")
+
+            c1, c2, c3 = st.columns(3)
+            c1.metric("Pages", len(pil_images))
+            c2.metric("File Size", format_size(pdf_size))
+            c3.metric("Resolution", f"{pdf_dpi} DPI")
+
+            dl_name = pdf_title.strip().replace(" ", "_") if pdf_title.strip() else "images_converted"
+            st.download_button(
+                label=f"⬇️ Download PDF ({format_size(pdf_size)})",
+                data=pdf_bytes,
+                file_name=f"{dl_name}.pdf",
+                mime="application/pdf",
+                type="primary",
+                key="dl_pdf_btn",
+            )
+    else:
+        st.info("👆 Upload one or more images to convert to PDF.")
+        st.markdown("**Supported formats:** JPG, JPEG, PNG, WEBP, BMP, TIFF, GIF, ICO, PPM, PGM, PBM, PCX, TGA, SGI, EPS, DDS")
