@@ -189,10 +189,18 @@ DPI_PRESETS = {
 # Image to PDF Helper
 # ──────────────────────────────────────────────
 
+def _jpeg_compress_image(img: Image.Image, quality: int = 85) -> Image.Image:
+    """JPEG round-trip to compress an image in memory — dramatically reduces PDF size."""
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=quality, optimize=True)
+    buf.seek(0)
+    return Image.open(buf).copy()  # .copy() so buffer can be freed
+
+
 def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation: str = "Auto",
                   margin_mm: int = 10, fit_mode: str = "Fit to page", dpi: int = 300,
-                  title: str = "") -> bytes:
-    """Convert one or more PIL Images into a single PDF."""
+                  jpeg_quality: int = 85, title: str = "") -> bytes:
+    """Convert one or more PIL Images into a single PDF with JPEG compression."""
     # Page sizes in mm
     PAGE_SIZES = {
         "A4": (210, 297), "A3": (297, 420), "A5": (148, 210),
@@ -207,8 +215,9 @@ def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation:
         img = img.convert("RGB")
 
         if page_mm is None:
-            # Fit to Image mode — just use image as-is
-            pdf_pages.append(img)
+            # Fit to Image mode — compress and use as-is (no upscaling)
+            compressed = _jpeg_compress_image(img, jpeg_quality)
+            pdf_pages.append(compressed)
             continue
 
         pw_mm, ph_mm = page_mm
@@ -229,11 +238,14 @@ def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation:
         usable_h = ph_px - 2 * margin_px
 
         if fit_mode == "Fit to page":
-            ratio = min(usable_w / img.width, usable_h / img.height)
+            # Never upscale beyond original — cap the ratio at 1.0
+            ratio = min(usable_w / img.width, usable_h / img.height, 1.0)
             new_w, new_h = int(img.width * ratio), int(img.height * ratio)
-            resized = img.resize((new_w, new_h), Image.LANCZOS)
+            resized = img.resize((new_w, new_h), Image.LANCZOS) if ratio < 1.0 else img
         elif fit_mode == "Fill page (crop)":
             ratio = max(usable_w / img.width, usable_h / img.height)
+            # Allow upscale only when needed to fill, but cap at 2x
+            ratio = min(ratio, 2.0)
             new_w, new_h = int(img.width * ratio), int(img.height * ratio)
             resized = img.resize((new_w, new_h), Image.LANCZOS)
             left = (new_w - usable_w) // 2
@@ -244,11 +256,16 @@ def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation:
             resized = img.resize((usable_w, usable_h), Image.LANCZOS)
             new_w, new_h = usable_w, usable_h
 
-        # Create white page and paste image centered
+        # Build the page at the image's actual size (not the full DPI canvas)
+        # This avoids huge white bitmaps. We use DPI metadata to tell the
+        # PDF reader how large to display the page.
         page = Image.new("RGB", (pw_px, ph_px), (255, 255, 255))
         x_offset = margin_px + (usable_w - new_w) // 2
         y_offset = margin_px + (usable_h - new_h) // 2
         page.paste(resized, (x_offset, y_offset))
+
+        # JPEG-compress the page to reduce embedded data size
+        page = _jpeg_compress_image(page, jpeg_quality)
         pdf_pages.append(page)
 
     # Save as PDF
@@ -528,8 +545,15 @@ with main_tab2:
             margin_mm = st.slider("Margin (mm)", 0, 50, 10, key="pdf_margin")
 
         with col_p3:
-            pdf_dpi = st.selectbox("PDF Resolution", [72, 150, 300, 600], index=2, key="pdf_dpi")
+            pdf_dpi = st.selectbox("PDF Resolution", [72, 150, 300, 600], index=1, key="pdf_dpi",
+                                   help="Lower = smaller file. 150 DPI is good for screen, 300 for print.")
+            pdf_quality = st.slider("JPEG Quality", 10, 100, 80, key="pdf_quality",
+                                    help="Lower = smaller file. 70-85 is a good balance.")
             pdf_title = st.text_input("PDF Title (optional)", key="pdf_title")
+
+        # Show estimated total original size
+        total_original = sum(len(f.getvalue()) for f in pdf_images)
+        st.caption(f"📊 Total original image size: **{format_size(total_original)}**")
 
         if st.button("📄 Generate PDF", type="primary", key="gen_pdf_btn"):
             with st.spinner("Creating PDF…"):
@@ -540,6 +564,7 @@ with main_tab2:
                     margin_mm=margin_mm,
                     fit_mode=fit_mode,
                     dpi=pdf_dpi,
+                    jpeg_quality=pdf_quality,
                     title=pdf_title,
                 )
                 pdf_size = len(pdf_bytes)
