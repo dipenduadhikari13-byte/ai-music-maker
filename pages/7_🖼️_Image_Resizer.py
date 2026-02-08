@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image, ImageEnhance
+from PIL import Image, ImageEnhance, ImageDraw, ImageFont
 import io
 import math
 import tempfile
@@ -26,8 +26,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🖼️ Image Resizer, Compressor & PDF Converter")
-st.caption("Upload images → resize, compress, change DPI, convert formats, or create PDFs.")
+st.title("🖼️ Image Resizer, Compressor, Merger & PDF Tools")
+st.caption("Resize, compress, merge images, convert to PDF, or merge PDFs — all in one place.")
 
 # ──────────────────────────────────────────────
 # Supported Formats
@@ -281,10 +281,121 @@ def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation:
 
 
 # ──────────────────────────────────────────────
+# Merge Images Helper
+# ──────────────────────────────────────────────
+
+def merge_images(
+    images: list[Image.Image],
+    direction: str = "horizontal",
+    alignment: str = "center",
+    gap: int = 0,
+    bg_color: tuple = (255, 255, 255),
+    output_format: str = "JPEG",
+    quality: int = 90,
+) -> tuple[Image.Image, bytes]:
+    """Merge 2–8 images into a single image.
+
+    Args:
+        direction: 'horizontal', 'vertical', or 'grid'
+        alignment: 'top'/'left', 'center', 'bottom'/'right'
+        gap: pixel gap between images
+        bg_color: RGB background fill
+        output_format: PIL format name
+        quality: JPEG/WEBP quality
+    Returns:
+        (merged_pil_image, merged_bytes)
+    """
+    imgs = [im.convert("RGB") for im in images]
+    n = len(imgs)
+
+    if direction == "horizontal":
+        total_w = sum(im.width for im in imgs) + gap * (n - 1)
+        max_h = max(im.height for im in imgs)
+        canvas = Image.new("RGB", (total_w, max_h), bg_color)
+        x = 0
+        for im in imgs:
+            if alignment == "top":
+                y = 0
+            elif alignment == "bottom":
+                y = max_h - im.height
+            else:  # center
+                y = (max_h - im.height) // 2
+            canvas.paste(im, (x, y))
+            x += im.width + gap
+
+    elif direction == "vertical":
+        max_w = max(im.width for im in imgs)
+        total_h = sum(im.height for im in imgs) + gap * (n - 1)
+        canvas = Image.new("RGB", (max_w, total_h), bg_color)
+        y = 0
+        for im in imgs:
+            if alignment == "left":
+                x = 0
+            elif alignment == "right":
+                x = max_w - im.width
+            else:  # center
+                x = (max_w - im.width) // 2
+            canvas.paste(im, (x, y))
+            y += im.height + gap
+
+    else:  # grid
+        cols = math.ceil(math.sqrt(n))
+        rows = math.ceil(n / cols)
+        # Make all images the same size (largest dimensions)
+        cell_w = max(im.width for im in imgs)
+        cell_h = max(im.height for im in imgs)
+        total_w = cols * cell_w + gap * (cols - 1)
+        total_h = rows * cell_h + gap * (rows - 1)
+        canvas = Image.new("RGB", (total_w, total_h), bg_color)
+        for idx, im in enumerate(imgs):
+            row, col = divmod(idx, cols)
+            # Center image in its cell
+            cx = col * (cell_w + gap) + (cell_w - im.width) // 2
+            cy = row * (cell_h + gap) + (cell_h - im.height) // 2
+            canvas.paste(im, (cx, cy))
+
+    # Export
+    buf = io.BytesIO()
+    save_fmt = INTERNAL_FMT.get(output_format, output_format)
+    save_img = prepare_for_format(canvas, save_fmt)
+    if save_fmt in ("JPEG", "WEBP"):
+        save_img.save(buf, format=save_fmt, quality=quality, optimize=True)
+    elif save_fmt == "PNG":
+        save_img.save(buf, format="PNG", compress_level=6)
+    else:
+        save_img.save(buf, format=save_fmt)
+    return canvas, buf.getvalue()
+
+
+# ──────────────────────────────────────────────
+# Merge PDFs Helper
+# ──────────────────────────────────────────────
+
+def merge_pdfs(pdf_files: list[io.BytesIO]) -> bytes:
+    """Merge 2–8 PDF files into a single PDF using pypdf."""
+    from pypdf import PdfReader, PdfWriter
+    writer = PdfWriter()
+    total_pages = 0
+    for pdf_data in pdf_files:
+        reader = PdfReader(pdf_data)
+        for page in reader.pages:
+            writer.add_page(page)
+            total_pages += 1
+    buf = io.BytesIO()
+    writer.write(buf)
+    return buf.getvalue(), total_pages
+
+
+# ──────────────────────────────────────────────
 # Main Tabs
 # ──────────────────────────────────────────────
 
-main_tab1, main_tab2 = st.tabs(["🖼️ Image Resizer & Compressor", "📄 Image to PDF Converter"])
+main_tab1, main_tab2, main_tab3, main_tab4 = st.tabs([
+    "🖼️ Image Resizer & Compressor",
+    "📄 Image to PDF Converter",
+    "🧩 Merge Images",
+    "📚 Merge PDFs",
+])
 
 # ╔══════════════════════════════════════════════╗
 # ║            TAB 1: IMAGE RESIZER              ║
@@ -589,3 +700,220 @@ with main_tab2:
     else:
         st.info("👆 Upload one or more images to convert to PDF.")
         st.markdown("**Supported formats:** JPG, JPEG, PNG, WEBP, BMP, TIFF, GIF, ICO, PPM, PGM, PBM, PCX, TGA, SGI, EPS, DDS")
+
+
+# ╔══════════════════════════════════════════════╗
+# ║          TAB 3: MERGE IMAGES                ║
+# ╚══════════════════════════════════════════════╝
+with main_tab3:
+    st.subheader("🧩 Merge Images")
+    st.caption("Upload 2–8 images and combine them into a single image — horizontally, vertically, or as a grid.")
+
+    merge_files = st.file_uploader(
+        "Upload 2–8 images to merge",
+        type=SUPPORTED_INPUT,
+        accept_multiple_files=True,
+        key="merge_img_upload",
+    )
+
+    if merge_files:
+        if len(merge_files) < 2:
+            st.warning("⚠️ Please upload at least 2 images to merge.")
+        elif len(merge_files) > 8:
+            st.warning("⚠️ Maximum 8 images. Using the first 8.")
+            merge_files = merge_files[:8]
+
+        if len(merge_files) >= 2:
+            st.success(f"✅ {len(merge_files)} images ready to merge")
+
+            # Preview
+            preview_cols = st.columns(min(len(merge_files), 8))
+            merge_pil: list[Image.Image] = []
+            for idx, f in enumerate(merge_files):
+                pil_img = Image.open(io.BytesIO(f.getvalue()))
+                merge_pil.append(pil_img)
+                with preview_cols[idx]:
+                    st.image(pil_img, caption=f"{idx+1}. {f.name}", use_container_width=True)
+
+            st.markdown("---")
+            st.subheader("⚙️ Merge Settings")
+
+            col_m1, col_m2 = st.columns(2)
+
+            with col_m1:
+                merge_direction = st.selectbox(
+                    "Layout",
+                    ["Horizontal (side by side)", "Vertical (stacked)", "Grid (auto rows/cols)"],
+                    key="merge_dir",
+                )
+                direction_map = {
+                    "Horizontal (side by side)": "horizontal",
+                    "Vertical (stacked)": "vertical",
+                    "Grid (auto rows/cols)": "grid",
+                }
+                direction_val = direction_map[merge_direction]
+
+                if direction_val == "horizontal":
+                    alignment_options = ["Center", "Top", "Bottom"]
+                elif direction_val == "vertical":
+                    alignment_options = ["Center", "Left", "Right"]
+                else:
+                    alignment_options = ["Center"]
+                merge_align = st.selectbox("Alignment", alignment_options, key="merge_align")
+
+                merge_gap = st.slider("Gap between images (px)", 0, 100, 0, key="merge_gap")
+
+            with col_m2:
+                merge_bg = st.color_picker("Background color", "#FFFFFF", key="merge_bg")
+                merge_bg_rgb = tuple(int(merge_bg.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+
+                merge_out_fmt = st.selectbox("Output format", ["JPG", "PDF"], key="merge_fmt")
+                merge_quality = 90
+                if merge_out_fmt == "JPG":
+                    merge_quality = st.slider("Quality", 10, 100, 90, key="merge_q")
+
+                # Optionally resize all images to same height/width
+                merge_normalize = st.checkbox(
+                    "Resize all images to same height (horizontal) / width (vertical)",
+                    value=True, key="merge_norm",
+                    help="Scales images so they line up evenly."
+                )
+
+            if st.button("🧩 Merge Images", type="primary", key="merge_btn"):
+                with st.spinner("Merging images…"):
+                    # Optionally normalize sizes
+                    final_imgs = list(merge_pil)
+                    if merge_normalize and direction_val == "horizontal":
+                        target_h = min(im.height for im in final_imgs)
+                        final_imgs = [
+                            im.resize((int(im.width * target_h / im.height), target_h), Image.LANCZOS)
+                            for im in final_imgs
+                        ]
+                    elif merge_normalize and direction_val == "vertical":
+                        target_w = min(im.width for im in final_imgs)
+                        final_imgs = [
+                            im.resize((target_w, int(im.height * target_w / im.width)), Image.LANCZOS)
+                            for im in final_imgs
+                        ]
+                    elif merge_normalize and direction_val == "grid":
+                        target_w = min(im.width for im in final_imgs)
+                        target_h = min(im.height for im in final_imgs)
+                        final_imgs = [
+                            im.resize((target_w, target_h), Image.LANCZOS)
+                            for im in final_imgs
+                        ]
+
+                    merged_img, merged_bytes = merge_images(
+                        final_imgs,
+                        direction=direction_val,
+                        alignment=merge_align.lower(),
+                        gap=merge_gap,
+                        bg_color=merge_bg_rgb,
+                        output_format=merge_out_fmt,
+                        quality=merge_quality,
+                    )
+                    merged_size = len(merged_bytes)
+
+                st.markdown("---")
+                st.success(f"✅ Merged! — **{merged_img.width} × {merged_img.height} px** — **{format_size(merged_size)}**")
+
+                st.image(merged_img, caption="Merged Result", use_container_width=True)
+
+                c1, c2, c3 = st.columns(3)
+                c1.metric("Dimensions", f"{merged_img.width} × {merged_img.height}")
+                c2.metric("File Size", format_size(merged_size))
+                c3.metric("Images Merged", len(final_imgs))
+
+                if merge_out_fmt == "PDF":
+                    # Convert merged image to a compact PDF
+                    pdf_img = merged_img.convert("RGB")
+                    pdf_img = _jpeg_compress_image(pdf_img, merge_quality)
+                    pdf_buf = io.BytesIO()
+                    pdf_img.save(pdf_buf, format="PDF", resolution=150)
+                    pdf_data = pdf_buf.getvalue()
+                    st.download_button(
+                        label=f"⬇️ Download Merged as PDF ({format_size(len(pdf_data))})",
+                        data=pdf_data,
+                        file_name=f"merged_{len(final_imgs)}images.pdf",
+                        mime="application/pdf",
+                        type="primary",
+                        key="dl_merge_btn",
+                    )
+                else:
+                    st.download_button(
+                        label=f"⬇️ Download Merged as JPG ({format_size(merged_size)})",
+                        data=merged_bytes,
+                        file_name=f"merged_{len(final_imgs)}images.jpg",
+                        mime="image/jpeg",
+                        type="primary",
+                        key="dl_merge_btn",
+                    )
+    else:
+        st.info("👆 Upload 2–8 images to merge them into one.")
+        st.markdown("**Supported formats:** JPG, JPEG, PNG, WEBP, BMP, TIFF, GIF, ICO, PPM, PGM, PBM, PCX, TGA, SGI, EPS, DDS")
+
+
+# ╔══════════════════════════════════════════════╗
+# ║           TAB 4: MERGE PDFs                 ║
+# ╚══════════════════════════════════════════════╝
+with main_tab4:
+    st.subheader("📚 Merge PDFs")
+    st.caption("Upload 2–8 PDF files and combine them into a single PDF.")
+
+    pdf_merge_files = st.file_uploader(
+        "Upload 2–8 PDF files to merge",
+        type=["pdf"],
+        accept_multiple_files=True,
+        key="merge_pdf_upload",
+    )
+
+    if pdf_merge_files:
+        if len(pdf_merge_files) < 2:
+            st.warning("⚠️ Please upload at least 2 PDFs to merge.")
+        elif len(pdf_merge_files) > 8:
+            st.warning("⚠️ Maximum 8 PDFs. Using the first 8.")
+            pdf_merge_files = pdf_merge_files[:8]
+
+        if len(pdf_merge_files) >= 2:
+            st.success(f"✅ {len(pdf_merge_files)} PDFs ready to merge")
+
+            # Show file info
+            total_input_size = 0
+            for idx, f in enumerate(pdf_merge_files):
+                fsize = len(f.getvalue())
+                total_input_size += fsize
+                st.write(f"**{idx+1}.** {f.name} — {format_size(fsize)}")
+
+            st.caption(f"📊 Total input size: **{format_size(total_input_size)}**")
+
+            if st.button("📚 Merge PDFs", type="primary", key="merge_pdf_btn"):
+                with st.spinner("Merging PDFs…"):
+                    try:
+                        pdf_buffers = [io.BytesIO(f.getvalue()) for f in pdf_merge_files]
+                        merged_pdf_bytes, total_pages = merge_pdfs(pdf_buffers)
+                        merged_pdf_size = len(merged_pdf_bytes)
+                    except ImportError:
+                        st.error("❌ `pypdf` is required for PDF merging. Install it: `pip install pypdf`")
+                        st.stop()
+                    except Exception as e:
+                        st.error(f"❌ Failed to merge PDFs: {e}")
+                        st.stop()
+
+                st.markdown("---")
+                st.success(f"✅ Merged! — **{total_pages} pages** — **{format_size(merged_pdf_size)}**")
+
+                c1, c2, c3 = st.columns(3)
+                c1.metric("Files Merged", len(pdf_merge_files))
+                c2.metric("Total Pages", total_pages)
+                c3.metric("Output Size", format_size(merged_pdf_size))
+
+                st.download_button(
+                    label=f"⬇️ Download Merged PDF ({format_size(merged_pdf_size)})",
+                    data=merged_pdf_bytes,
+                    file_name="merged_document.pdf",
+                    mime="application/pdf",
+                    type="primary",
+                    key="dl_merge_pdf_btn",
+                )
+    else:
+        st.info("👆 Upload 2–8 PDF files to merge them into one.")
