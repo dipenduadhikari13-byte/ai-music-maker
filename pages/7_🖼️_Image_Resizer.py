@@ -111,20 +111,24 @@ def get_image_bytes(img: Image.Image, fmt: str, quality: int, dpi: tuple | None 
     return buf.getvalue()
 
 
-def compress_to_target(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple | None = None) -> tuple[bytes, int]:
-    """Binary-search the quality parameter to hit the target file size."""
-    real_fmt = INTERNAL_FMT.get(fmt, fmt)
-    if real_fmt in ("PNG", "BMP", "GIF", "PPM", "ICO"):
-        # These formats don't have a quality parameter to binary-search
-        data = get_image_bytes(img, fmt, 95, dpi)
-        return data, 95
+def _binary_search_quality(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple | None = None) -> tuple[bytes, int]:
+    """Binary-search quality for a single image size. Returns (bytes, quality)."""
     lo, hi = 1, 100
-    best_data = get_image_bytes(img, fmt, hi, dpi)
-    if len(best_data) <= target_bytes:
-        return best_data, hi
-    best_quality = hi
+    # Start with the lowest quality to get the smallest possible at this resolution
+    smallest_data = get_image_bytes(img, fmt, lo, dpi)
+    smallest_quality = lo
+
+    # If even lowest quality exceeds target, return it (caller will downscale)
+    if len(smallest_data) > target_bytes:
+        return smallest_data, lo
+
+    # Lowest quality fits — now binary search for the highest quality that still fits
+    best_data = smallest_data
+    best_quality = lo
 
     for _ in range(14):
+        if lo > hi:
+            break
         mid = (lo + hi) // 2
         data = get_image_bytes(img, fmt, mid, dpi)
         if len(data) <= target_bytes:
@@ -135,6 +139,54 @@ def compress_to_target(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple
             hi = mid - 1
 
     return best_data, best_quality
+
+
+def compress_to_target(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple | None = None) -> tuple[bytes, int]:
+    """Compress image to target file size, downscaling if quality alone isn't enough."""
+    real_fmt = INTERNAL_FMT.get(fmt, fmt)
+
+    if real_fmt in ("PNG", "BMP", "GIF", "PPM", "ICO"):
+        # Lossless formats: can only downscale dimensions to reduce size
+        current = img.copy()
+        for attempt in range(20):
+            data = get_image_bytes(current, fmt, 95, dpi)
+            if len(data) <= target_bytes:
+                return data, 95
+            # Shrink by 20% each pass
+            new_w = max(1, int(current.width * 0.8))
+            new_h = max(1, int(current.height * 0.8))
+            if new_w == current.width and new_h == current.height:
+                break  # can't shrink further
+            current = img.resize((new_w, new_h), Image.LANCZOS)
+        return get_image_bytes(current, fmt, 95, dpi), 95
+
+    # Lossy formats (JPEG, WEBP, etc.): first try quality, then downscale + quality
+    # Quick check: does quality=100 already fit?
+    hi_data = get_image_bytes(img, fmt, 100, dpi)
+    if len(hi_data) <= target_bytes:
+        return hi_data, 100
+
+    # Try quality search at current resolution
+    data, quality = _binary_search_quality(img, target_bytes, fmt, dpi)
+    if len(data) <= target_bytes:
+        return data, quality
+
+    # Quality alone isn't enough — progressively downscale
+    current = img.copy()
+    for attempt in range(20):
+        # Shrink by 20% each pass
+        new_w = max(1, int(current.width * 0.8))
+        new_h = max(1, int(current.height * 0.8))
+        if new_w == current.width and new_h == current.height:
+            break  # can't shrink further
+        current = img.resize((new_w, new_h), Image.LANCZOS)
+
+        data, quality = _binary_search_quality(current, target_bytes, fmt, dpi)
+        if len(data) <= target_bytes:
+            return data, quality
+
+    # Return the smallest we achieved (lowest quality at smallest dimensions)
+    return data, quality
 
 
 ASPECT_PRESETS = {
@@ -455,15 +507,24 @@ with main_tab1:
         # --- Target file size ---
         with tab_size:
             size_unit = st.radio("Unit", ["KB", "MB"], horizontal=True, key="sz_unit")
-            max_val = 100.0 if size_unit == "MB" else 10240.0
-            default_val = round(original_size / (1024 * 1024), 2) if size_unit == "MB" else round(original_size / 1024, 1)
+            if size_unit == "MB":
+                min_val = 0.01
+                max_val = 100.0
+                default_val = round(original_size / (1024 * 1024), 2)
+                step = 0.01
+            else:
+                min_val = 1.0
+                max_val = 10240.0
+                default_val = round(original_size / 1024, 1)
+                step = 5.0
+            target_default = round(max(min_val, min(default_val, max_val)), 2)
             target_val = st.number_input(
                 f"Desired file size ({size_unit})",
-                min_value=1.0,
+                min_value=min_val,
                 max_value=max_val,
-                value=min(default_val, max_val),
-                step=0.5 if size_unit == "MB" else 5.0,
-                key="target_size",
+                value=target_default,
+                step=step,
+                key=f"target_size_{size_unit}",
             )
             enable_size_target = st.checkbox("Enable target file-size compression", value=False, key="en_sz")
 
