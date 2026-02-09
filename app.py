@@ -1055,10 +1055,12 @@ OUTPUT FORMAT:
             
             # Nice-to-have: JavaScript copy button (may not work in all environments)
             st.markdown("**Quick Copy Button** *(may require clipboard permissions)*:")
+            # Safely escape the prompt for JavaScript template literal
+            safe_prompt = st.session_state.final_prompt.replace('\\', '\\\\').replace('`', '\\`').replace('$', '\\$')
             copy_js = f"""
             <script>
             function copyToClipboard() {{
-                const text = `{st.session_state.final_prompt.replace('`', '\\`').replace('\\', '\\\\')}`;
+                const text = `{safe_prompt}`;
                 
                 if (navigator.clipboard && window.isSecureContext) {{
                     navigator.clipboard.writeText(text).then(function() {{

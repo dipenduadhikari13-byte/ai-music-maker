@@ -304,7 +304,7 @@ class TextDetector:
             # Test if tesseract is installed
             pytesseract.get_tesseract_version()
             return pytesseract
-        except:
+        except Exception:
             return None
     
     def detect_text_easyocr(self, img: Image.Image) -> List[TextRegion]:
@@ -555,8 +555,10 @@ class FontMatcher:
         
         # Add default PIL fonts
         try:
-            fonts["default"] = ImageFont.load_default().path
-        except:
+            default_font = ImageFont.load_default()
+            if hasattr(default_font, 'path') and isinstance(default_font.path, str):
+                fonts["default"] = default_font.path
+        except Exception:
             pass
         
         return fonts
@@ -605,6 +607,14 @@ class FontMatcher:
     def analyze_font_style(self, img: Image.Image, region: TextRegion) -> Dict:
         """Analyze the font style in a text region."""
         x1, y1, x2, y2 = region.bbox
+        # Ensure valid bounding box
+        x1, y1 = max(0, x1), max(0, y1)
+        x2, y2 = min(img.width, x2), min(img.height, y2)
+        if x2 <= x1 or y2 <= y1:
+            return {
+                "is_bold": False, "is_italic": False, "is_serif": False,
+                "is_monospace": False, "weight": "normal", "style": "normal"
+            }
         cropped = img.crop((x1, y1, x2, y2)).convert('L')
         
         # Analyze characteristics
@@ -649,7 +659,7 @@ class FontMatcher:
                     elif abs(angle) < 20 or abs(angle) > 160:
                         analysis["is_italic"] = True
                         analysis["style"] = "italic"
-                except:
+                except Exception:
                     pass
         
         # Detect serif by looking for small details at stroke ends
@@ -789,9 +799,9 @@ class TextRenderer:
     def load_font(self, font_path: str, size: int) -> ImageFont.FreeTypeFont:
         """Load a font at the specified size."""
         try:
-            if font_path and os.path.exists(font_path):
+            if font_path and isinstance(font_path, str) and os.path.exists(font_path):
                 return ImageFont.truetype(font_path, size)
-        except:
+        except Exception:
             pass
         
         # Try common fonts
@@ -806,13 +816,13 @@ class TextRenderer:
             try:
                 if os.path.exists(font):
                     return ImageFont.truetype(font, size)
-            except:
+            except Exception:
                 continue
         
         # Last resort: default font
         try:
             return ImageFont.load_default()
-        except:
+        except Exception:
             return None
     
     def render_text(self, img: Image.Image, region: TextRegion, 

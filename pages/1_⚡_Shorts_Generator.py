@@ -368,6 +368,7 @@ with col2:
     st.subheader("✨ Viral Elements")
     
     add_captions = st.checkbox("Auto Captions", value=True, help="Add trending-style text overlays")
+    caption_text = ""
     if add_captions:
         caption_text = st.text_input("Caption Text", "Wait for it... 🔥", help="Hook viewers in first 3 seconds")
     
@@ -382,6 +383,8 @@ with col2:
     st.divider()
     manual_override = st.checkbox("Manual Selection", value=False)
     
+    start_time = 0.0
+    end_time = clip_duration
     if manual_override and uploaded_video:
         start_time = st.number_input("Start Time (seconds)", 0.0, duration - clip_duration, 0.0, 1.0)
         end_time = st.number_input("End Time (seconds)", start_time + 1, duration, min(start_time + clip_duration, duration), 1.0)
