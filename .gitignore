@@ -1,3 +1,9 @@
+# Ignore all text files
+*.txt
+
+# But keep these specific ones
+!requirements.txt
+!package.txt
 # --- Environment & Secrets ---
 .env
 .env.*
@@ -50,3 +56,10 @@ studio_music_video.mp4
 *.tmp
 *.temp
 *.log
+lyrics.txt
+lyrics_with_timestamps.txt
+lyrics_with_timestamps_and_emotions.txt
+lyrics
+lyrics_test.txt
+lyrics_test 
+*.txt
