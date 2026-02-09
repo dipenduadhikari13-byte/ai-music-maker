@@ -145,43 +145,83 @@ def compress_pdf_pypdf(input_bytes: bytes, image_quality: int, image_dpi: int, r
                 new_w = max(1, int(width * scale))
                 new_h = max(1, int(height * scale))
 
-                # Decode image data
-                data = x_obj.get_data()
-                color_space = x_obj.get("/ColorSpace", "/DeviceRGB")
-                if isinstance(color_space, list):
-                    color_space = str(color_space[0])
+                # Determine the current filter to choose decoding strategy
+                current_filter = x_obj.get("/Filter", "")
+                if isinstance(current_filter, list):
+                    current_filter = str(current_filter[-1]) if current_filter else ""
                 else:
-                    color_space = str(color_space)
+                    current_filter = str(current_filter)
 
-                if "/DeviceRGB" in color_space:
-                    mode = "RGB"
-                elif "/DeviceGray" in color_space:
-                    mode = "L"
-                elif "/DeviceCMYK" in color_space:
-                    mode = "CMYK"
-                else:
-                    mode = "RGB"
+                img = None
+                original_stream_size = len(x_obj._data) if hasattr(x_obj, '_data') and x_obj._data else 0
 
-                expected_size = width * height * (len(mode))
-                if len(data) < expected_size:
-                    continue  # skip compressed streams we can't easily decode raw
+                # Strategy 1: For JPEG images, open directly from encoded stream
+                if "/DCTDecode" in current_filter and hasattr(x_obj, '_data') and x_obj._data:
+                    try:
+                        img = Image.open(io.BytesIO(x_obj._data))
+                    except Exception:
+                        pass
 
-                img = Image.frombytes(mode, (width, height), data)
+                # Strategy 2: Decode raw pixel data and reconstruct
+                if img is None:
+                    data = x_obj.get_data()
+                    color_space = x_obj.get("/ColorSpace", "/DeviceRGB")
+                    if isinstance(color_space, list):
+                        color_space = str(color_space[0])
+                    else:
+                        color_space = str(color_space)
+
+                    if "/DeviceRGB" in color_space:
+                        mode = "RGB"
+                    elif "/DeviceGray" in color_space:
+                        mode = "L"
+                    elif "/DeviceCMYK" in color_space:
+                        mode = "CMYK"
+                    else:
+                        mode = "RGB"
+
+                    expected_size = width * height * len(mode)
+                    if len(data) >= expected_size:
+                        try:
+                            img = Image.frombytes(mode, (width, height), data)
+                        except Exception:
+                            pass
+
+                    # Strategy 3: Let Pillow auto-detect from decoded bytes
+                    if img is None:
+                        try:
+                            img = Image.open(io.BytesIO(data))
+                        except Exception:
+                            continue
+
+                if img is None:
+                    continue
+
+                # Resize if needed
                 if new_w != width or new_h != height:
                     img = img.resize((new_w, new_h), Image.LANCZOS)
 
-                if mode == "CMYK":
+                # Convert to a JPEG-compatible mode
+                if img.mode in ("CMYK", "P", "RGBA", "LA"):
+                    img = img.convert("RGB")
+                elif img.mode not in ("RGB", "L"):
                     img = img.convert("RGB")
 
                 buf = io.BytesIO()
                 img.save(buf, format="JPEG", quality=image_quality, optimize=True)
-                x_obj._data = buf.getvalue()
+                new_data = buf.getvalue()
+
+                # Only replace if the new image data is actually smaller
+                if original_stream_size > 0 and len(new_data) >= original_stream_size:
+                    continue  # skip — re-encoding would increase size
+
+                x_obj._data = new_data
                 x_obj["/Filter"] = "/DCTDecode"
                 x_obj["/Width"] = new_w
                 x_obj["/Height"] = new_h
-                x_obj["/ColorSpace"] = "/DeviceRGB"
+                x_obj["/ColorSpace"] = "/DeviceGray" if img.mode == "L" else "/DeviceRGB"
                 x_obj["/BitsPerComponent"] = 8
-                x_obj["/Length"] = len(buf.getvalue())
+                x_obj["/Length"] = len(new_data)
                 recompressed += 1
             except Exception:
                 continue  # skip problematic images gracefully
@@ -204,7 +244,13 @@ def compress_pdf_pypdf(input_bytes: bytes, image_quality: int, image_dpi: int, r
 
     out = io.BytesIO()
     writer.write(out)
-    return out.getvalue()
+    result = out.getvalue()
+
+    # If compression actually increased the size, return the original
+    if len(result) >= len(input_bytes):
+        return input_bytes
+
+    return result
 
 
 def iterative_compress_to_target(
@@ -324,15 +370,25 @@ if uploaded:
     # --- Target size ---
     with tab_target:
         size_unit = st.radio("Unit", ["KB", "MB"], horizontal=True, key="pdf_sz_unit")
-        max_val = 200.0 if size_unit == "MB" else 51200.0
-        default_val = round(original_size / (1024 * 1024), 2) if size_unit == "MB" else round(original_size / 1024, 1)
+        if size_unit == "MB":
+            min_val = 0.01
+            max_val = 200.0
+            default_val = round(original_size / (1024 * 1024), 2)
+            step = 0.01
+        else:
+            min_val = 1.0
+            max_val = 51200.0
+            default_val = round(original_size / 1024, 1)
+            step = 10.0
+        # Clamp default value to valid range
+        target_default = round(max(min_val, min(default_val * 0.5, max_val)), 2)
         target_val = st.number_input(
             f"Desired file size ({size_unit})",
-            min_value=1.0,
+            min_value=min_val,
             max_value=max_val,
-            value=min(default_val * 0.5, max_val),  # default to 50% of original
-            step=0.5 if size_unit == "MB" else 10.0,
-            key="pdf_target_size",
+            value=target_default,
+            step=step,
+            key=f"pdf_target_size_{size_unit}",  # unit-specific key avoids stale value crash
         )
         enable_target = st.checkbox("Enable target file-size mode", value=False, key="pdf_en_target",
                                     help="Iteratively compresses until the file is at or below your target size.")
@@ -363,6 +419,9 @@ if uploaded:
                 preset = GS_PRESETS[preset_choice]
                 if use_gs and GS_AVAILABLE:
                     result_bytes = compress_pdf_ghostscript(raw_bytes, preset["gs_setting"], preset["image_dpi"])
+                    # Ghostscript can also increase size for already-optimized PDFs
+                    if len(result_bytes) >= original_size:
+                        result_bytes = raw_bytes
                 else:
                     result_bytes = compress_pdf_pypdf(raw_bytes, preset["image_quality"], preset["image_dpi"], remove_meta)
                 info = {"hit_target": None}
