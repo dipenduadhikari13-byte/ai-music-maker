@@ -22,7 +22,7 @@ PyMuPDF>=1.23.0
 pillow-heif>=0.13.0
 python-magic>=0.4.27
 numpy>=1.24.0
-opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
 pytesseract>=0.3.10
 
 # --- CPU-Only PyTorch (Fix for Intel/Non-NVIDIA) ---
