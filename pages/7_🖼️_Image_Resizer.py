@@ -916,4 +916,4 @@ with main_tab4:
                     key="dl_merge_pdf_btn",
                 )
     else:
-        st.info("👆 Upload 2–8 PDF files to merge them into one.")
+        st.info("👆 Upload 2–8 PDF files to merge them into one full pdf.")
