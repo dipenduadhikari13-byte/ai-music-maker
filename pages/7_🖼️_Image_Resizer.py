@@ -461,7 +461,8 @@ with main_tab1:
         original_size = len(raw_bytes)
         img = Image.open(io.BytesIO(raw_bytes))
         orig_w, orig_h = img.size
-        orig_dpi = img.info.get("dpi", (72, 72))
+        _raw_dpi = img.info.get("dpi", (72, 72))
+        orig_dpi = (float(_raw_dpi[0]), float(_raw_dpi[1]))
         orig_format = img.format or uploaded.name.rsplit(".", 1)[-1].upper()
         # Keep JPG as-is for display, map to JPEG only internally when saving
         if orig_format == "JPEG":
@@ -632,7 +633,8 @@ with main_tab1:
                 result_size = len(result_bytes)
                 result_pil = Image.open(io.BytesIO(result_bytes))
                 res_w, res_h = result_pil.size
-                res_dpi = result_pil.info.get("dpi", (72, 72))
+                _raw_res_dpi = result_pil.info.get("dpi", (72, 72))
+                res_dpi = (float(_raw_res_dpi[0]), float(_raw_res_dpi[1]))
                 reduction = ((original_size - result_size) / original_size) * 100 if original_size else 0
 
             # ── Results ──
