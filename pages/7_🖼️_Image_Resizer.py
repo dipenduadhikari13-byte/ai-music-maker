@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image, ImageEnhance, ImageDraw, ImageFont
+import pikepdf
 import io
 import math
 import tempfile
@@ -252,84 +253,122 @@ def _jpeg_compress_image(img: Image.Image, quality: int = 85) -> Image.Image:
 def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation: str = "Auto",
                   margin_mm: int = 10, fit_mode: str = "Fit to page", dpi: int = 300,
                   jpeg_quality: int = 85, title: str = "") -> bytes:
-    """Convert one or more PIL Images into a single PDF with JPEG compression."""
-    # Page sizes in mm
+    """Convert PIL Images into a PDF, embedding JPEG data directly via pikepdf.
+
+    This avoids Pillow's bitmap-canvas approach (which re-encodes images and
+    inflates file size) and keeps output within ~1 % of the raw JPEG size.
+    """
     PAGE_SIZES = {
         "A4": (210, 297), "A3": (297, 420), "A5": (148, 210),
         "Letter": (216, 279), "Legal": (216, 356),
         "Fit to Image": None,
     }
-    page_mm = PAGE_SIZES.get(page_size)
+    page_mm_val = PAGE_SIZES.get(page_size)
+    pdf = pikepdf.Pdf.new()
 
-    pdf_pages: list[Image.Image] = []
+    for pil_img in images:
+        pil_img = pil_img.convert("RGB")
+        img_w, img_h = pil_img.size
 
-    for img in images:
-        img = img.convert("RGB")
+        if page_mm_val is None:
+            # --- Fit to Image: page = image size, no margins ---
+            page_w_pt = img_w / max(dpi, 1) * 72
+            page_h_pt = img_h / max(dpi, 1) * 72
+            final_img = pil_img
+            draw_w, draw_h = page_w_pt, page_h_pt
+            x_off, y_off = 0.0, 0.0
+        else:
+            pw_mm, ph_mm = page_mm_val
+            if orientation == "Landscape":
+                pw_mm, ph_mm = ph_mm, pw_mm
+            elif orientation == "Auto":
+                if img_w > img_h:
+                    pw_mm, ph_mm = max(pw_mm, ph_mm), min(pw_mm, ph_mm)
+                else:
+                    pw_mm, ph_mm = min(pw_mm, ph_mm), max(pw_mm, ph_mm)
 
-        if page_mm is None:
-            # Fit to Image mode — compress and use as-is (no upscaling)
-            compressed = _jpeg_compress_image(img, jpeg_quality)
-            pdf_pages.append(compressed)
-            continue
+            page_w_pt = pw_mm * 72 / 25.4
+            page_h_pt = ph_mm * 72 / 25.4
+            margin_pt = margin_mm * 72 / 25.4
+            usable_w_pt = page_w_pt - 2 * margin_pt
+            usable_h_pt = page_h_pt - 2 * margin_pt
 
-        pw_mm, ph_mm = page_mm
-        if orientation == "Landscape":
-            pw_mm, ph_mm = ph_mm, pw_mm
-        elif orientation == "Auto":
-            if img.width > img.height:
-                pw_mm, ph_mm = max(pw_mm, ph_mm), min(pw_mm, ph_mm)
-            else:
-                pw_mm, ph_mm = min(pw_mm, ph_mm), max(pw_mm, ph_mm)
+            # Image physical size at target DPI (in PDF points)
+            img_w_pt = img_w / max(dpi, 1) * 72
+            img_h_pt = img_h / max(dpi, 1) * 72
 
-        # Convert mm to pixels at target DPI
-        pw_px = int(pw_mm / 25.4 * dpi)
-        ph_px = int(ph_mm / 25.4 * dpi)
-        margin_px = int(margin_mm / 25.4 * dpi)
+            if fit_mode == "Fit to page":
+                ratio = min(usable_w_pt / max(img_w_pt, 0.1),
+                            usable_h_pt / max(img_h_pt, 0.1), 1.0)
+                draw_w = img_w_pt * ratio
+                draw_h = img_h_pt * ratio
+                # Downscale pixel data when image is larger than needed
+                needed_w = max(int(img_w * ratio), 1)
+                needed_h = max(int(img_h * ratio), 1)
+                if ratio < 1.0:
+                    final_img = pil_img.resize((needed_w, needed_h), Image.LANCZOS)
+                else:
+                    final_img = pil_img
+                x_off = margin_pt + (usable_w_pt - draw_w) / 2
+                y_off = margin_pt + (usable_h_pt - draw_h) / 2
 
-        usable_w = pw_px - 2 * margin_px
-        usable_h = ph_px - 2 * margin_px
+            elif fit_mode == "Fill page (crop)":
+                scale_x = usable_w_pt / max(img_w_pt, 0.1)
+                scale_y = usable_h_pt / max(img_h_pt, 0.1)
+                ratio = min(max(scale_x, scale_y), 2.0)
+                new_w = max(int(img_w * ratio), 1)
+                new_h = max(int(img_h * ratio), 1)
+                resized = pil_img.resize((new_w, new_h), Image.LANCZOS)
+                # Crop to usable-area pixel count (centered)
+                crop_w = min(max(int(usable_w_pt * dpi / 72), 1), new_w)
+                crop_h = min(max(int(usable_h_pt * dpi / 72), 1), new_h)
+                left = (new_w - crop_w) // 2
+                top = (new_h - crop_h) // 2
+                final_img = resized.crop((left, top, left + crop_w, top + crop_h))
+                draw_w = usable_w_pt
+                draw_h = usable_h_pt
+                x_off = margin_pt
+                y_off = margin_pt
 
-        if fit_mode == "Fit to page":
-            # Never upscale beyond original — cap the ratio at 1.0
-            ratio = min(usable_w / img.width, usable_h / img.height, 1.0)
-            new_w, new_h = int(img.width * ratio), int(img.height * ratio)
-            resized = img.resize((new_w, new_h), Image.LANCZOS) if ratio < 1.0 else img
-        elif fit_mode == "Fill page (crop)":
-            ratio = max(usable_w / img.width, usable_h / img.height)
-            # Allow upscale only when needed to fill, but cap at 2x
-            ratio = min(ratio, 2.0)
-            new_w, new_h = int(img.width * ratio), int(img.height * ratio)
-            resized = img.resize((new_w, new_h), Image.LANCZOS)
-            left = (new_w - usable_w) // 2
-            top = (new_h - usable_h) // 2
-            resized = resized.crop((left, top, left + usable_w, top + usable_h))
-            new_w, new_h = usable_w, usable_h
-        else:  # Stretch
-            resized = img.resize((usable_w, usable_h), Image.LANCZOS)
-            new_w, new_h = usable_w, usable_h
+            else:  # Stretch
+                target_w = max(int(usable_w_pt * dpi / 72), 1)
+                target_h = max(int(usable_h_pt * dpi / 72), 1)
+                final_img = pil_img.resize((target_w, target_h), Image.LANCZOS)
+                draw_w = usable_w_pt
+                draw_h = usable_h_pt
+                x_off = margin_pt
+                y_off = margin_pt
 
-        # Build the page at the image's actual size (not the full DPI canvas)
-        # This avoids huge white bitmaps. We use DPI metadata to tell the
-        # PDF reader how large to display the page.
-        page = Image.new("RGB", (pw_px, ph_px), (255, 255, 255))
-        x_offset = margin_px + (usable_w - new_w) // 2
-        y_offset = margin_px + (usable_h - new_h) // 2
-        page.paste(resized, (x_offset, y_offset))
+        # ── Single JPEG encoding — then embed directly into PDF ──
+        jbuf = io.BytesIO()
+        final_img.save(jbuf, format="JPEG", quality=jpeg_quality, optimize=True)
+        jpeg_data = jbuf.getvalue()
 
-        # JPEG-compress the page to reduce embedded data size
-        page = _jpeg_compress_image(page, jpeg_quality)
-        pdf_pages.append(page)
+        image_obj = pikepdf.Stream(pdf, jpeg_data)
+        image_obj["/Type"] = pikepdf.Name.XObject
+        image_obj["/Subtype"] = pikepdf.Name.Image
+        image_obj["/Width"] = final_img.width
+        image_obj["/Height"] = final_img.height
+        image_obj["/ColorSpace"] = pikepdf.Name.DeviceRGB
+        image_obj["/BitsPerComponent"] = 8
+        image_obj["/Filter"] = pikepdf.Name.DCTDecode
+        image_ref = pdf.make_indirect(image_obj)
 
-    # Save as PDF
-    buf = io.BytesIO()
-    if len(pdf_pages) == 1:
-        pdf_pages[0].save(buf, format="PDF", resolution=dpi, title=title or "Converted PDF")
-    else:
-        pdf_pages[0].save(
-            buf, format="PDF", resolution=dpi, title=title or "Converted PDF",
-            save_all=True, append_images=pdf_pages[1:]
-        )
-    return buf.getvalue()
+        # PDF content stream: position and scale the image
+        content = f"q {draw_w:.4f} 0 0 {draw_h:.4f} {x_off:.4f} {y_off:.4f} cm /Im0 Do Q"
+        content_stream = pikepdf.Stream(pdf, content.encode())
+
+        page = pdf.add_blank_page(page_size=(page_w_pt, page_h_pt))
+        page.obj["/Contents"] = pdf.make_indirect(content_stream)
+        page.obj["/Resources"] = pikepdf.Dictionary({
+            "/XObject": pikepdf.Dictionary({
+                "/Im0": image_ref,
+            })
+        })
+
+    out = io.BytesIO()
+    pdf.save(out)
+    return out.getvalue()
 
 
 # ──────────────────────────────────────────────
