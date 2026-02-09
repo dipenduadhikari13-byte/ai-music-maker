@@ -413,6 +413,39 @@ def _discover_genius(language: str, needed: int) -> list[dict]:
 # ──────────────────────────────────────────────────────────────
 
 
+
+_JUNK_TITLE_PATTERNS = re.compile(
+    r"(?i)(jukebox|video jukebox|compilation|mashup|nonstop|non-stop|medley|"
+    r"music video|official video|lyric video|lyrical|full album|back to back|"
+    r"top hits|best of \d{4}|superhit|dj mix|video song|audio jukebox)"
+)
+
+
+def _clean_song_title(title: str) -> str:
+    """Strip YouTube metadata noise from a song title."""
+    # Remove everything after first pipe or bullet
+    title = re.split(r"\s*[|•]\s*", title)[0].strip()
+    # Remove trailing year references like "2022", "2025"
+    title = re.sub(r"\s+\d{4}$", "", title).strip()
+    # Remove "(Official Video)" etc
+    title = re.sub(r"\s*\((?:Official|Full|HD)\s+(?:Video|Audio|Song)\)", "", title, flags=re.I).strip()
+    return title or title
+
+
+def _is_valid_song(song: dict) -> bool:
+    """Reject jukebox compilations, overly long titles, and non-song entries."""
+    title = song.get("title", "")
+    # Too long = probably a YouTube description, not a song
+    if len(title) > 120:
+        return False
+    # Contains jukebox / compilation markers
+    if _JUNK_TITLE_PATTERNS.search(title):
+        return False
+    # Too many pipe chars = YouTube metadata
+    if title.count("|") >= 2:
+        return False
+    return True
+
 def _dedup(songs: list[dict]) -> list[dict]:
     """Deduplicate songs, preferring original versions over Lofi/remix variants."""
     seen: dict[str, dict] = {}
@@ -461,6 +494,11 @@ def discover_songs(language: str, count: int = 50) -> list[dict]:
         except Exception as exc:
             log.warning(f"  Genius error: {exc}")
 
+    # Filter out junk entries (jukeboxes, compilations, YouTube metadata)
+    pool = [s for s in pool if _is_valid_song(s)]
+    # Clean up YouTube metadata from song titles
+    for s in pool:
+        s["title"] = _clean_song_title(s["title"])
     result = _dedup(pool)
     if not result:
         log.warning(f"  ⚠  No songs found for '{language}' from any source!")
