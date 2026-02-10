@@ -3,7 +3,7 @@
 
 # But keep these specific ones
 !requirements.txt
-!package.txt
+!packages.txt
 # --- Environment & Secrets ---
 .env
 .env.*
@@ -62,4 +62,11 @@ lyrics_with_timestamps_and_emotions.txt
 lyrics
 lyrics_test.txt
 lyrics_test 
-*.txt
+*.txt*.txt
+!requirements.txt
+!packages.txt
+lyrics_test/
+lyrics/
+new_songs/
+harvest_report.json
+new_lyrics_sample.tar.gz
