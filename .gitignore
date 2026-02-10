@@ -1,72 +1,89 @@
-# Ignore all text files
-*.txt
-
-# But keep these specific ones
-!requirements.txt
-!packages.txt
-# --- Environment & Secrets ---
+# ═══════════════════════════════════════════
+# Secrets & Environment
+# ═══════════════════════════════════════════
 .env
 .env.*
 .streamlit/secrets.toml
 
-# --- Python Virtual Environments ---
-.venv/
+# ═══════════════════════════════════════════
+# Python Virtual Environments
+# ═══════════════════════════════════════════
 venv/
+.venv/
 env/
 ENV/
 env.bak/
 venv.bak/
 .Python
 
-# --- Python Bytecode / Cache ---
+# ═══════════════════════════════════════════
+# Python Bytecode / Cache
+# ═══════════════════════════════════════════
 __pycache__/
 *.py[cod]
 *$py.class
 *.pyo
 *.pyd
 
-# --- Distribution / Packaging ---
+# ═══════════════════════════════════════════
+# Distribution / Packaging
+# ═══════════════════════════════════════════
 build/
 dist/
 *.egg-info/
 *.egg
 .eggs/
+*.whl
 
-# --- IDE / Editor ---
+# ═══════════════════════════════════════════
+# IDE / Editor
+# ═══════════════════════════════════════════
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# --- OS Files ---
+# ═══════════════════════════════════════════
+# OS Files
+# ═══════════════════════════════════════════
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# --- Generated Output Files ---
+# ═══════════════════════════════════════════
+# Generated Media & Output Files
+# ═══════════════════════════════════════════
 *.mp4
 *.wav
 *.mp3
+*.avi
+*.mkv
+*.flac
+*.ogg
 Song_*.txt
 final_render.mp4
 studio_music_video.mp4
 
-# --- Temp Files ---
+# ═══════════════════════════════════════════
+# Temp / Log Files
+# ═══════════════════════════════════════════
 *.tmp
 *.temp
 *.log
-lyrics.txt
-lyrics_with_timestamps.txt
-lyrics_with_timestamps_and_emotions.txt
-lyrics
-lyrics_test.txt
-lyrics_test 
-*.txt*.txt
-!requirements.txt
-!packages.txt
-lyrics_test/
+
+# ═══════════════════════════════════════════
+# Lyrics data (generated / scraped)
+# ═══════════════════════════════════════════
 lyrics/
+lyrics_test/
 new_songs/
 harvest_report.json
 new_lyrics_sample.tar.gz
+
+# ═══════════════════════════════════════════
+# Text files (ignore all, keep specific ones)
+# ═══════════════════════════════════════════
+*.txt
+!requirements.txt
+!packages.txt

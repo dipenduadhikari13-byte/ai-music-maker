@@ -1,10 +1,44 @@
 import streamlit as st
-from PIL import Image, ImageEnhance, ImageDraw, ImageFont
-import pikepdf
+import subprocess
+import sys
 import io
 import math
 import tempfile
 import os
+
+# ──────────────────────────────────────────────
+# Auto-install missing dependencies on startup
+# ──────────────────────────────────────────────
+_REQUIRED_PACKAGES = {
+    "PIL":                "pillow",
+    "pikepdf":            "pikepdf",
+    "streamlit_cropper":  "streamlit-cropper",
+    "rembg":              "rembg",
+    "pypdf":              "pypdf",
+}
+
+def _ensure_packages():
+    """Check for missing packages and install them once."""
+    missing = []
+    for import_name, pip_name in _REQUIRED_PACKAGES.items():
+        try:
+            __import__(import_name)
+        except ImportError:
+            missing.append(pip_name)
+    if missing:
+        with st.spinner(f"Installing missing packages: {', '.join(missing)} …"):
+            subprocess.check_call(
+                [sys.executable, "-m", "pip", "install", "--quiet"] + missing
+            )
+        st.rerun()  # restart so the fresh imports take effect
+
+_ensure_packages()
+
+# ── Now safe to import everything ──
+from PIL import Image, ImageEnhance, ImageDraw, ImageFont
+from streamlit_cropper import st_cropper
+import pikepdf
+
 try:
     from rembg import remove as rembg_remove
     REMBG_AVAILABLE = True
@@ -706,91 +740,75 @@ with main_tab1:
 
         # --- Crop ---
         with tab_crop:
-            enable_crop = st.checkbox("Enable freestyle crop", value=False, key="en_crop")
+            enable_crop = st.checkbox("Enable visual crop", value=False, key="en_crop")
 
-            CROP_PRESETS = {
-                "Free (custom)": None,
-                "Center 50%": "center_50",
-                "Center 75%": "center_75",
-                "Top Half": "top_half",
-                "Bottom Half": "bottom_half",
-                "Left Half": "left_half",
-                "Right Half": "right_half",
-                "Top-Left Quarter": "tl_quarter",
-                "Top-Right Quarter": "tr_quarter",
-                "Bottom-Left Quarter": "bl_quarter",
-                "Bottom-Right Quarter": "br_quarter",
-            }
-            crop_preset = st.selectbox("Crop preset", list(CROP_PRESETS.keys()), key="crop_preset")
-            crop_preset_val = CROP_PRESETS[crop_preset]
+            if enable_crop:
+                st.markdown("##### ✂️ Visual Crop Tool")
+                st.caption("Drag and resize the crop box directly on the image below. "
+                           "The area inside the box will be kept.")
 
-            # Calculate preset values
-            if crop_preset_val == "center_50":
-                _cl, _ct = int(orig_w * 0.25), int(orig_h * 0.25)
-                _cr, _cb = int(orig_w * 0.75), int(orig_h * 0.75)
-            elif crop_preset_val == "center_75":
-                _cl, _ct = int(orig_w * 0.125), int(orig_h * 0.125)
-                _cr, _cb = int(orig_w * 0.875), int(orig_h * 0.875)
-            elif crop_preset_val == "top_half":
-                _cl, _ct, _cr, _cb = 0, 0, orig_w, orig_h // 2
-            elif crop_preset_val == "bottom_half":
-                _cl, _ct, _cr, _cb = 0, orig_h // 2, orig_w, orig_h
-            elif crop_preset_val == "left_half":
-                _cl, _ct, _cr, _cb = 0, 0, orig_w // 2, orig_h
-            elif crop_preset_val == "right_half":
-                _cl, _ct, _cr, _cb = orig_w // 2, 0, orig_w, orig_h
-            elif crop_preset_val == "tl_quarter":
-                _cl, _ct, _cr, _cb = 0, 0, orig_w // 2, orig_h // 2
-            elif crop_preset_val == "tr_quarter":
-                _cl, _ct, _cr, _cb = orig_w // 2, 0, orig_w, orig_h // 2
-            elif crop_preset_val == "bl_quarter":
-                _cl, _ct, _cr, _cb = 0, orig_h // 2, orig_w // 2, orig_h
-            elif crop_preset_val == "br_quarter":
-                _cl, _ct, _cr, _cb = orig_w // 2, orig_h // 2, orig_w, orig_h
+                # Aspect ratio constraint for the crop box
+                crop_aspect_options = {
+                    "Free (any shape)": None,
+                    "1:1 (Square)": (1, 1),
+                    "4:3": (4, 3),
+                    "3:4": (3, 4),
+                    "16:9": (16, 9),
+                    "9:16": (9, 16),
+                    "3:2": (3, 2),
+                    "2:3": (2, 3),
+                }
+                crop_aspect_name = st.selectbox(
+                    "Crop aspect ratio",
+                    list(crop_aspect_options.keys()),
+                    key="crop_aspect",
+                )
+                crop_aspect = crop_aspect_options[crop_aspect_name]
+
+                crop_box_color = st.color_picker("Crop box color", "#FF4B4B", key="crop_box_clr")
+                crop_realtime = st.checkbox("Real-time preview", value=True, key="crop_rt",
+                                           help="Update crop preview as you drag. Uncheck for large images.")
+
+                # --- Visual cropper widget ---
+                crop_img_input = img.copy()
+                # st_cropper needs RGB
+                if crop_img_input.mode != "RGB":
+                    crop_img_input = crop_img_input.convert("RGB")
+
+                cropped_result = st_cropper(
+                    crop_img_input,
+                    realtime_update=crop_realtime,
+                    box_color=crop_box_color,
+                    aspect_ratio=crop_aspect,
+                    return_type="both",
+                    key="visual_cropper",
+                )
+
+                # st_cropper with return_type="both" returns (cropped_image, crop_box_dict)
+                if isinstance(cropped_result, tuple) and len(cropped_result) == 2:
+                    cropped_img, crop_box = cropped_result
+                else:
+                    # Fallback for older versions that return just the image
+                    cropped_img = cropped_result
+                    crop_box = None
+
+                # Show crop info
+                if cropped_img is not None:
+                    cw, ch = cropped_img.size
+                    if crop_box:
+                        st.success(
+                            f"Crop region: **{cw} × {ch} px** — "
+                            f"Left: {crop_box.get('left', 0)}, Top: {crop_box.get('top', 0)}, "
+                            f"Width: {crop_box.get('width', cw)}, Height: {crop_box.get('height', ch)}"
+                        )
+                    else:
+                        st.success(f"Crop region: **{cw} × {ch} px**")
+
+                    st.markdown("###### Cropped Preview")
+                    st.image(cropped_img, caption="Cropped result", use_container_width=True)
             else:
-                _cl, _ct, _cr, _cb = 0, 0, orig_w, orig_h
-
-            st.markdown("##### Edge-to-Edge Crop Coordinates")
-            st.caption(f"Image size: **{orig_w} × {orig_h} px** — Drag sliders to define the crop region.")
-
-            cc1, cc2 = st.columns(2)
-            with cc1:
-                crop_left = st.slider("Left edge (px)", 0, max(orig_w - 1, 1), _cl, key="crop_l")
-                crop_top = st.slider("Top edge (px)", 0, max(orig_h - 1, 1), _ct, key="crop_t")
-            with cc2:
-                crop_right = st.slider("Right edge (px)", 1, orig_w, _cr, key="crop_r")
-                crop_bottom = st.slider("Bottom edge (px)", 1, orig_h, _cb, key="crop_b")
-
-            # Validate
-            crop_valid = crop_left < crop_right and crop_top < crop_bottom
-            crop_w = crop_right - crop_left
-            crop_h = crop_bottom - crop_top
-
-            if crop_valid:
-                st.success(f"Crop region: **{crop_w} × {crop_h} px** "
-                           f"(from [{crop_left}, {crop_top}] to [{crop_right}, {crop_bottom}])")
-
-                # Visual crop preview with overlay
-                preview = img.copy().convert("RGBA")
-                overlay = Image.new("RGBA", preview.size, (0, 0, 0, 0))
-                draw = ImageDraw.Draw(overlay)
-                # Darken areas outside the crop
-                dim_color = (0, 0, 0, 140)
-                if crop_top > 0:
-                    draw.rectangle([0, 0, orig_w, crop_top], fill=dim_color)          # top strip
-                if crop_bottom < orig_h:
-                    draw.rectangle([0, crop_bottom, orig_w, orig_h], fill=dim_color)  # bottom strip
-                if crop_left > 0:
-                    draw.rectangle([0, crop_top, crop_left, crop_bottom], fill=dim_color)  # left strip
-                if crop_right < orig_w:
-                    draw.rectangle([crop_right, crop_top, orig_w, crop_bottom], fill=dim_color)  # right strip
-                # Crop border
-                draw.rectangle([crop_left, crop_top, crop_right - 1, crop_bottom - 1],
-                               outline=(255, 75, 75, 220), width=3)
-                preview = Image.alpha_composite(preview, overlay)
-                st.image(preview, caption="Crop preview (red border = crop region)", use_container_width=True)
-            else:
-                st.error("⚠️ Invalid crop: Left must be < Right and Top must be < Bottom.")
+                cropped_img = None
+                st.info("☝ Click **Enable visual crop** above to activate the interactive crop tool.")
 
         # --- Background ---
         with tab_bg:
@@ -881,11 +899,11 @@ with main_tab1:
                         out_format = "PNG"
 
                 # 0.5) Freestyle crop
-                if enable_crop:
-                    if not crop_valid:
-                        st.error("❌ Invalid crop coordinates. Left must be < Right and Top must be < Bottom.")
-                        st.stop()
-                    result_img = result_img.crop((crop_left, crop_top, crop_right, crop_bottom))
+                if enable_crop and cropped_img is not None:
+                    result_img = cropped_img.copy()
+                    # Preserve mode from background step if needed
+                    if enable_bg and result_img.mode != img.mode:
+                        pass  # keep whatever mode the bg step produced
 
                 # 1) Resolution preset takes priority over manual dimensions
                 if enable_res_preset and res_preset:
