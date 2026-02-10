@@ -141,22 +141,34 @@ with st.sidebar:
 
         st.markdown("---")
 
-        # API Keys
+        # API Keys — loaded silently from secrets/.env, never displayed
         st.subheader("🔑 API Keys")
 
-        video_api_key = st.text_input(
-            f"{bi['name']} API Key",
-            type="password",
-            value=get_key(f"{backend_choice.upper()}_API_KEY") or get_key(f"{backend_choice.upper()}_API_TOKEN") or "",
-            help=f"Get yours at {bi['url']}",
-        )
+        # Load video API key from secrets/env (never pre-fill in UI)
+        _env_video_key = get_key(f"{backend_choice.upper()}_API_KEY") or get_key(f"{backend_choice.upper()}_API_TOKEN")
 
-        gemini_key_input = st.text_input(
-            "Gemini API Key (scene planning)",
-            type="password",
-            value=GEMINI_KEY or "",
-            help="Powers the AI scene planner. Uses your existing Gemini key.",
-        )
+        if _env_video_key:
+            st.success(f"✅ {bi['name']} key loaded from environment", icon="🔒")
+            video_api_key = _env_video_key
+        else:
+            st.warning(f"⚠️ No {bi['name']} key found in secrets/.env")
+            video_api_key = st.text_input(
+                f"{bi['name']} API Key",
+                type="password",
+                help=f"Get yours at {bi['url']}",
+            )
+
+        # Load Gemini key from secrets/env
+        if GEMINI_KEY:
+            st.success("✅ Gemini key loaded from environment", icon="🔒")
+            gemini_key_input = GEMINI_KEY
+        else:
+            st.info("ℹ️ No Gemini key — will use built-in scene planner")
+            gemini_key_input = st.text_input(
+                "Gemini API Key (optional)",
+                type="password",
+                help="Powers the AI scene planner. Get one at aistudio.google.com",
+            )
 
         st.markdown("---")
         st.subheader("🎛️ Advanced")
