@@ -241,7 +241,7 @@ with tab_create:
         with col_a:
             num_scenes = st.number_input(
                 "Number of scenes",
-                min_value=2, max_value=50, value=0,
+                min_value=0, max_value=50, value=0,
                 help="0 = automatic (based on song structure).",
             )
         with col_b:
