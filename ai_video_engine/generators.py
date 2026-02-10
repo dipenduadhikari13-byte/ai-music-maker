@@ -158,38 +158,79 @@ class ReplicateGenerator(BaseVideoGenerator):
     """
     Call Replicate-hosted diffusion video models.
 
+    Includes Wan 2.1, CogVideoX, AnimateDiff, plus Kling V2.1, Luma Ray,
+    and MiniMax — all available natively on Replicate.
+
     Models
     ------
-    wan2.1-720p   high-quality 720p text→video   (~$0.30/clip, ~90 s)
-    wan2.1-480p   faster 480p text→video         (~$0.15/clip, ~45 s)
-    cogvideox     CogVideoX-5B text→video        (~$0.25/clip, ~80 s)
-    animatediff   AnimateDiff (stylised)          (~$0.08/clip, ~30 s)
+    wan2.1-480p     Wan 2.1 480p text→video            (~$0.15/clip, ~45 s)
+    wan2.1-i2v-fast Wan 2.2 fast image→video           (~$0.10/clip, ~30 s)
+    cogvideox       CogVideoX-5B text→video            (~$0.25/clip, ~80 s)
+    animatediff     AnimateDiff (stylised, fast)        (~$0.08/clip, ~30 s)
+    kling-v2.1      Kling V2.1 (high quality T2V+I2V)  (~$0.35/clip, ~90 s)
+    luma-ray        Luma Ray (cinematic T2V+I2V)        (~$0.30/clip, ~60 s)
+    luma-flash      Luma Flash 540p (fast & cheap)      (~$0.06/clip, ~20 s)
+    minimax         MiniMax Video-01 (T2V+I2V)          (~$0.15/clip, ~60 s)
     """
 
-    T2V_MODELS = {
-        "wan2.1-720p":  "wan-ai/wan2.1-t2v-720p",
-        "wan2.1-480p":  "wan-ai/wan2.1-t2v-480p",
-        "cogvideox":    "tencent/cogvideox-5b",
-        "animatediff":  "lucataco/animate-diff",
+    # Model registry: key → {t2v: replicate_model_id, i2v: replicate_model_id | None}
+    MODELS = {
+        "wan2.1-480p": {
+            "t2v": "wan-video/wan-2.1-1.3b",
+            "i2v": "wavespeedai/wan-2.1-i2v-480p",
+        },
+        "wan2.1-i2v-fast": {
+            "t2v": "wan-video/wan-2.1-1.3b",
+            "i2v": "wan-video/wan-2.2-i2v-fast",
+        },
+        "cogvideox": {
+            "t2v": "cuuupid/cogvideox-5b",
+            "i2v": None,
+        },
+        "animatediff": {
+            "t2v": "lucataco/animate-diff",
+            "i2v": None,
+        },
+        "kling-v2.1": {
+            "t2v": "kwaivgi/kling-v2.1",
+            "i2v": "kwaivgi/kling-v2.1",
+        },
+        "luma-ray": {
+            "t2v": "luma/ray",
+            "i2v": "luma/ray",
+        },
+        "luma-flash": {
+            "t2v": "luma/ray-flash-2-540p",
+            "i2v": "luma/ray-flash-2-540p",
+        },
+        "minimax": {
+            "t2v": "minimax/video-01",
+            "i2v": "minimax/video-01",
+        },
     }
-    I2V_MODELS = {
-        "wan2.1-720p":  "wan-ai/wan2.1-i2v-720p-480p",
-        "wan2.1-480p":  "wan-ai/wan2.1-i2v-720p-480p",
-        "cogvideox":    "tencent/cogvideox-5b",
-        "animatediff":  "lucataco/animate-diff",
-        "svd":          "stability-ai/stable-video-diffusion-img2vid-xt-1-1",
+
+    # Default output clip duration per model (seconds)
+    CLIP_DURATIONS = {
+        "wan2.1-480p": 5.0, "wan2.1-i2v-fast": 5.0,
+        "cogvideox": 6.0, "animatediff": 2.0,
+        "kling-v2.1": 5.0, "luma-ray": 5.0,
+        "luma-flash": 5.0, "minimax": 5.0,
     }
 
     def __init__(
         self,
         api_key: str,
-        model: str = "wan2.1-720p",
+        model: str = "wan2.1-480p",
         output_dir: str | None = None,
     ):
         super().__init__(api_key, output_dir)
+        if model not in self.MODELS:
+            logger.warning("Unknown Replicate model '%s', falling back to wan2.1-480p", model)
+            model = "wan2.1-480p"
         self.model_key = model
-        self.t2v_id = self.T2V_MODELS.get(model, model)
-        self.i2v_id = self.I2V_MODELS.get(model, self.T2V_MODELS.get(model, model))
+        entry = self.MODELS[model]
+        self.t2v_id = entry["t2v"]
+        self.i2v_id = entry.get("i2v") or entry["t2v"]
 
     def is_available(self) -> bool:
         if not self.api_key:
@@ -202,6 +243,66 @@ class ReplicateGenerator(BaseVideoGenerator):
 
     def get_name(self) -> str:
         return f"Replicate ({self.model_key})"
+
+    # -- input builders (model-specific param mapping) -------------------------
+
+    def _build_t2v_input(self, prompt: str, cfg: GenerationConfig) -> Dict[str, Any]:
+        """Build model-specific input parameters for text-to-video."""
+        mid = self.t2v_id
+
+        if mid == "wan-video/wan-2.1-1.3b":
+            inp = {
+                "prompt": prompt,
+                "frame_num": cfg.num_frames,
+                "sample_steps": min(cfg.num_inference_steps, 30),
+                "sample_guide_scale": cfg.guidance_scale,
+                "resolution": "480p",
+                "aspect_ratio": "16:9",
+            }
+            if cfg.seed >= 0:
+                inp["seed"] = cfg.seed
+
+        elif mid == "cuuupid/cogvideox-5b":
+            inp = {
+                "prompt": prompt,
+                "steps": min(cfg.num_inference_steps, 50),
+                "guidance": cfg.guidance_scale,
+            }
+            if cfg.seed >= 0:
+                inp["seed"] = cfg.seed
+
+        elif mid == "lucataco/animate-diff":
+            inp = {
+                "prompt": prompt,
+                "n_prompt": cfg.negative_prompt,
+                "steps": cfg.num_inference_steps,
+                "guidance_scale": cfg.guidance_scale,
+            }
+            if cfg.seed >= 0:
+                inp["seed"] = cfg.seed
+
+        elif mid == "kwaivgi/kling-v2.1":
+            inp = {
+                "prompt": prompt,
+                "duration": "5",
+                "negative_prompt": cfg.negative_prompt,
+            }
+
+        elif mid in ("luma/ray", "luma/ray-flash-2-540p"):
+            inp = {
+                "prompt": prompt,
+                "aspect_ratio": "16:9",
+                "loop": False,
+            }
+
+        elif mid == "minimax/video-01":
+            inp = {"prompt": prompt}
+
+        else:
+            inp = {"prompt": prompt}
+
+        inp.update(cfg.extra_params)
+        return inp
 
     # -- text → video -------------------------------------------------------
 
@@ -218,45 +319,17 @@ class ReplicateGenerator(BaseVideoGenerator):
         out_path = self._out("rep_t2v")
         t0 = time.time()
 
-        inp: Dict[str, Any] = {"prompt": prompt}
-
-        if "wan" in self.model_key:
-            inp.update(
-                negative_prompt=cfg.negative_prompt,
-                num_frames=cfg.num_frames,
-                guidance_scale=cfg.guidance_scale,
-                num_inference_steps=cfg.num_inference_steps,
-            )
-        elif "cogvideo" in self.model_key:
-            inp.update(
-                negative_prompt=cfg.negative_prompt,
-                num_frames=min(cfg.num_frames, 49),
-                guidance_scale=cfg.guidance_scale,
-                num_inference_steps=min(cfg.num_inference_steps, 50),
-            )
-        elif "animatediff" in self.model_key:
-            inp.update(
-                negative_prompt=cfg.negative_prompt,
-                num_frames=min(cfg.num_frames, 32),
-                guidance_scale=cfg.guidance_scale,
-                num_inference_steps=cfg.num_inference_steps,
-            )
-        else:
-            inp["negative_prompt"] = cfg.negative_prompt
-
-        if cfg.seed >= 0:
-            inp["seed"] = cfg.seed
-        inp.update(cfg.extra_params)
+        inp = self._build_t2v_input(prompt, cfg)
 
         if progress_cb:
             progress_cb(f"Submitting to Replicate ({self.model_key})…")
 
-        logger.info("Replicate run  model=%s  prompt=%.100s", self.t2v_id, prompt)
+        logger.info("Replicate T2V  model=%s  prompt=%.100s", self.t2v_id, prompt)
 
         try:
             output = client.run(self.t2v_id, input=inp)
         except Exception as exc:
-            raise RuntimeError(f"Replicate T2V failed: {exc}") from exc
+            raise RuntimeError(f"Replicate T2V failed ({self.t2v_id}): {exc}") from exc
 
         url = self._extract_url(output)
         if url:
@@ -270,7 +343,7 @@ class ReplicateGenerator(BaseVideoGenerator):
             raise RuntimeError(f"Cannot parse Replicate output: {type(output)}")
 
         gen_time = time.time() - t0
-        clip_dur = cfg.num_frames / max(cfg.fps, 16)
+        clip_dur = self.CLIP_DURATIONS.get(self.model_key, 5.0)
 
         return GeneratedClip(
             path=out_path,
@@ -280,6 +353,69 @@ class ReplicateGenerator(BaseVideoGenerator):
             fps=cfg.fps,
             generation_time=gen_time,
         )
+
+    # -- image → video input builder ----------------------------------------
+
+    def _build_i2v_input(self, image_fh, prompt: str, cfg: GenerationConfig) -> Dict[str, Any]:
+        """Build model-specific input parameters for image-to-video."""
+        mid = self.i2v_id
+        default_prompt = prompt or "Animate this image with natural cinematic motion"
+
+        if mid == "wavespeedai/wan-2.1-i2v-480p":
+            inp = {
+                "image": image_fh,
+                "prompt": default_prompt,
+                "sample_steps": min(cfg.num_inference_steps, 30),
+                "sample_shift": 3.0,
+                "aspect_ratio": "16:9",
+                "negative_prompt": cfg.negative_prompt,
+            }
+            if cfg.seed >= 0:
+                inp["seed"] = cfg.seed
+
+        elif mid == "wan-video/wan-2.2-i2v-fast":
+            inp = {
+                "image": image_fh,
+                "prompt": default_prompt,
+                "num_frames": cfg.num_frames,
+                "go_fast": True,
+                "resolution": "480p",
+            }
+            if cfg.seed >= 0:
+                inp["seed"] = cfg.seed
+
+        elif mid == "kwaivgi/kling-v2.1":
+            inp = {
+                "start_image": image_fh,
+                "prompt": default_prompt,
+                "duration": "5",
+                "negative_prompt": cfg.negative_prompt,
+            }
+
+        elif mid in ("luma/ray", "luma/ray-flash-2-540p"):
+            inp = {
+                "start_image": image_fh,
+                "prompt": default_prompt,
+                "aspect_ratio": "16:9",
+                "loop": False,
+            }
+
+        elif mid == "minimax/video-01":
+            inp = {
+                "image": image_fh,
+                "prompt": default_prompt,
+            }
+
+        else:
+            # Fallback — model may not support I2V
+            logger.warning("Model %s may not support I2V natively", mid)
+            inp = {
+                "image": image_fh,
+                "prompt": default_prompt,
+            }
+
+        inp.update(cfg.extra_params)
+        return inp
 
     # -- image → video ------------------------------------------------------
 
@@ -297,33 +433,27 @@ class ReplicateGenerator(BaseVideoGenerator):
         out_path = self._out("rep_i2v")
         t0 = time.time()
 
-        with open(image_path, "rb") as img_fh:
-            if "wan" in self.model_key:
-                inp: Dict[str, Any] = {
-                    "image": img_fh,
-                    "prompt": prompt or "Animate this image with natural cinematic motion",
-                    "num_frames": cfg.num_frames,
-                    "guidance_scale": cfg.guidance_scale,
-                    "num_inference_steps": cfg.num_inference_steps,
-                }
-                if cfg.negative_prompt:
-                    inp["negative_prompt"] = cfg.negative_prompt
-            else:
-                inp = {
-                    "input_image": img_fh,
-                    "motion_bucket_id": 127,
-                    "fps": cfg.fps,
-                }
+        # Check if this model supports I2V
+        model_entry = self.MODELS.get(self.model_key, {})
+        if not model_entry.get("i2v"):
+            logger.info("Model %s has no I2V support, using T2V instead", self.model_key)
+            return self.text_to_video(
+                prompt or "Cinematic animated scene with smooth natural motion",
+                cfg, progress_cb,
+            )
 
-            inp.update(cfg.extra_params)
+        with open(image_path, "rb") as img_fh:
+            inp = self._build_i2v_input(img_fh, prompt, cfg)
 
             if progress_cb:
                 progress_cb(f"Submitting I2V to Replicate ({self.i2v_id.split('/')[-1]})…")
 
+            logger.info("Replicate I2V  model=%s  prompt=%.100s", self.i2v_id, prompt)
+
             try:
                 output = client.run(self.i2v_id, input=inp)
             except Exception as exc:
-                raise RuntimeError(f"Replicate I2V failed: {exc}") from exc
+                raise RuntimeError(f"Replicate I2V failed ({self.i2v_id}): {exc}") from exc
 
         url = self._extract_url(output)
         if url:
@@ -337,7 +467,7 @@ class ReplicateGenerator(BaseVideoGenerator):
             raise RuntimeError(f"Cannot parse Replicate I2V output: {type(output)}")
 
         gen_time = time.time() - t0
-        clip_dur = cfg.num_frames / max(cfg.fps, 16)
+        clip_dur = self.CLIP_DURATIONS.get(self.model_key, 5.0)
 
         return GeneratedClip(
             path=out_path,
@@ -529,8 +659,9 @@ class StabilityGenerator(BaseVideoGenerator):
     """
     Stability AI REST API.
 
-    Primary: image→video via SVD.
-    Text→video: first generates an image (Stable Image Core), then animates it.
+    ⚠️ DEPRECATED: Stability AI v2beta video endpoints have been removed (404).
+    Only SDXL image generation remains available. This backend is kept for
+    potential future Stability video API releases.
     """
 
     BASE = "https://api.stability.ai"
@@ -539,7 +670,9 @@ class StabilityGenerator(BaseVideoGenerator):
         super().__init__(api_key, output_dir)
 
     def is_available(self) -> bool:
-        return bool(self.api_key)
+        # v2beta video endpoints return 404 — service discontinued
+        logger.warning("Stability AI video endpoints (v2beta) are deprecated and return 404")
+        return False
 
     def get_name(self) -> str:
         return "Stability AI (SVD)"
@@ -657,10 +790,9 @@ class HuggingFaceGenerator(BaseVideoGenerator):
     """
     Free-tier video generation via HF Inference API.
 
-    Models
-    ------
-    zeroscope   ZeroScope V2 576×320   (free, lower quality)
-    modelscope  ModelScope T2V 1.7B    (free, lower quality)
+    ⚠️ DEPRECATED: Both ZeroScope and ModelScope video models have been
+    removed from the HuggingFace Inference API (return 410 Gone).
+    This backend is kept for potential future HF video model deployments.
     """
 
     MODELS = {
@@ -679,7 +811,9 @@ class HuggingFaceGenerator(BaseVideoGenerator):
         self.model_id = self.MODELS.get(model, model)
 
     def is_available(self) -> bool:
-        return bool(self.api_key)
+        # Both video models return 410 Gone — removed from Inference API
+        logger.warning("HuggingFace video models (ZeroScope, ModelScope) return 410 Gone")
+        return False
 
     def get_name(self) -> str:
         return f"Hugging Face ({self.model_key})"
@@ -781,7 +915,7 @@ class VideoGeneratorFactory:
             )
 
         if backend == "replicate":
-            return cls(api_key, model or "wan2.1-720p", output_dir)
+            return cls(api_key, model or "wan2.1-480p", output_dir)
         if backend == "fal":
             return cls(api_key, model or "kling-v2", output_dir)
         if backend == "huggingface":
@@ -794,38 +928,41 @@ class VideoGeneratorFactory:
         return {
             "replicate": {
                 "name": "Replicate",
-                "models": ["wan2.1-720p", "wan2.1-480p", "cogvideox", "animatediff"],
+                "models": [
+                    "wan2.1-480p", "wan2.1-i2v-fast", "cogvideox", "animatediff",
+                    "kling-v2.1", "luma-ray", "luma-flash", "minimax",
+                ],
                 "features": ["text-to-video", "image-to-video"],
                 "quality": "★★★★★",
-                "speed": "Medium (45–120 s / clip)",
-                "cost": "~$0.05–$0.50 per clip",
+                "speed": "20–120 s / clip (model-dependent)",
+                "cost": "~$0.06–$0.35 per clip",
                 "url": "https://replicate.com",
             },
             "fal": {
-                "name": "FAL.ai",
+                "name": "FAL.ai ⚠️",
                 "models": ["kling-v2", "minimax", "luma"],
                 "features": ["text-to-video", "image-to-video"],
                 "quality": "★★★★★",
                 "speed": "Fast (30–90 s / clip)",
-                "cost": "~$0.05–$0.15 per clip",
+                "cost": "Requires active balance (check fal.ai/dashboard/billing)",
                 "url": "https://fal.ai",
             },
             "stability": {
-                "name": "Stability AI",
+                "name": "Stability AI ❌",
                 "models": ["svd"],
-                "features": ["image-to-video", "text-to-video (via T2I→I2V)"],
-                "quality": "★★★★☆",
-                "speed": "Medium (60–120 s / clip)",
-                "cost": "~25 credits per clip",
+                "features": ["DEPRECATED — v2beta video endpoints removed"],
+                "quality": "N/A",
+                "speed": "N/A",
+                "cost": "Video API discontinued",
                 "url": "https://stability.ai",
             },
             "huggingface": {
-                "name": "Hugging Face",
+                "name": "Hugging Face ❌",
                 "models": ["zeroscope", "modelscope"],
-                "features": ["text-to-video"],
-                "quality": "★★★☆☆",
-                "speed": "Slow (60–300 s / clip)",
-                "cost": "Free tier available",
+                "features": ["REMOVED — models return 410 Gone"],
+                "quality": "N/A",
+                "speed": "N/A",
+                "cost": "Models removed from Inference API",
                 "url": "https://huggingface.co",
             },
         }

@@ -117,6 +117,8 @@ class MusicVideoPipeline:
         self.audio_analyzer = AudioAnalyzer()
         self.compositor = VideoCompositor(output_dir=comp_dir)
         self.max_parallel = max(1, min(max_parallel, 4))
+        self.last_scenes: list = []       # scenes used in last generate() call
+        self.last_audio_info = None       # AudioAnalysis from last generate()
 
     # ══════════════════════════════════════════════════════════════════
     #  Main Entry Point
@@ -201,6 +203,8 @@ class MusicVideoPipeline:
             scenes = self._simple_scene_plan(audio_info, style, num_scenes)
 
         logger.info("Scene plan: %d scenes", len(scenes))
+        self.last_scenes = scenes        # expose for UI display
+        self.last_audio_info = audio_info
         for s in scenes:
             logger.info(
                 "  Scene %d: %.1f–%.1fs  (%s) %s",
@@ -485,13 +489,23 @@ class MusicVideoPipeline:
         num_clips = max(1, int(duration / clip_duration))
 
         cost_map = {
-            "replicate": {"wan2.1-720p": 0.30, "wan2.1-480p": 0.15, "cogvideox": 0.25, "animatediff": 0.08},
+            "replicate": {
+                "wan2.1-480p": 0.15, "wan2.1-i2v-fast": 0.10,
+                "cogvideox": 0.25, "animatediff": 0.08,
+                "kling-v2.1": 0.35, "luma-ray": 0.30,
+                "luma-flash": 0.06, "minimax": 0.15,
+            },
             "fal":       {"kling-v2": 0.10, "minimax": 0.08, "luma": 0.06},
             "stability": {"svd": 0.10},
             "huggingface": {"zeroscope": 0.0, "modelscope": 0.0},
         }
         time_map = {
-            "replicate": {"wan2.1-720p": 90, "wan2.1-480p": 45, "cogvideox": 80, "animatediff": 30},
+            "replicate": {
+                "wan2.1-480p": 45, "wan2.1-i2v-fast": 30,
+                "cogvideox": 80, "animatediff": 30,
+                "kling-v2.1": 90, "luma-ray": 60,
+                "luma-flash": 20, "minimax": 60,
+            },
             "fal":       {"kling-v2": 60, "minimax": 45, "luma": 40},
             "stability": {"svd": 90},
             "huggingface": {"zeroscope": 180, "modelscope": 120},

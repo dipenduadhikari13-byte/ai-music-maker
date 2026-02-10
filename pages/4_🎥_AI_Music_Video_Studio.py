@@ -147,7 +147,7 @@ with st.sidebar:
         video_api_key = st.text_input(
             f"{bi['name']} API Key",
             type="password",
-            value=get_key(f"{backend_choice.upper()}_API_KEY") or "",
+            value=get_key(f"{backend_choice.upper()}_API_KEY") or get_key(f"{backend_choice.upper()}_API_TOKEN") or "",
             help=f"Get yours at {bi['url']}",
         )
 
@@ -278,7 +278,7 @@ with tab_create:
             try:
                 import librosa
                 y, sr = librosa.load(tmp_path, sr=None, mono=True, duration=10)
-                duration = librosa.get_duration(filename=tmp_path)
+                duration = librosa.get_duration(path=tmp_path)
                 os.remove(tmp_path)
             except Exception:
                 duration = 180.0  # estimate 3 min
@@ -391,16 +391,10 @@ with tab_create:
             )
 
             # ── Show Scene Plan ───────────────────────────────────
-            if pipeline.scene_planner:
+            if hasattr(pipeline, 'last_scenes') and pipeline.last_scenes:
                 try:
-                    audio_info = pipeline.audio_analyzer.analyze(audio_path)
-                    scenes = pipeline.scene_planner.plan_scenes(
-                        audio_analysis=audio_info,
-                        lyrics=lyrics_input,
-                        style=style_choice,
-                    )
                     with scene_expander:
-                        for s in scenes:
+                        for s in pipeline.last_scenes:
                             st.markdown(
                                 f'<div class="scene-card">'
                                 f'<strong>Scene {s.scene_id}</strong> '
