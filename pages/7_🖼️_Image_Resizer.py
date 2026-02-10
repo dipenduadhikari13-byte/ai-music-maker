@@ -5,6 +5,11 @@ import io
 import math
 import tempfile
 import os
+try:
+    from rembg import remove as rembg_remove
+    REMBG_AVAILABLE = True
+except ImportError:
+    REMBG_AVAILABLE = False
 
 st.set_page_config(page_title="Image Resizer, Compressor & PDF Converter", page_icon="🖼️", layout="wide")
 
@@ -188,6 +193,73 @@ def compress_to_target(img: Image.Image, target_bytes: int, fmt: str, dpi: tuple
 
     # Return the smallest we achieved (lowest quality at smallest dimensions)
     return data, quality
+
+
+# ──────────────────────────────────────────────
+# Background Color Presets
+# ──────────────────────────────────────────────
+
+BG_COLOR_PRESETS = {
+    "No Change": None,
+    "No Background (Transparent)": "transparent",
+    "White": (255, 255, 255),
+    "Black": (0, 0, 0),
+    "Light Blue": (173, 216, 230),
+    "Sky Blue": (135, 206, 235),
+    "Light Gray": (211, 211, 211),
+    "Light Green": (144, 238, 144),
+    "Light Pink": (255, 182, 193),
+    "Light Yellow": (255, 255, 224),
+    "Lavender": (230, 230, 250),
+    "Beige": (245, 245, 220),
+    "Mint": (189, 252, 201),
+    "Peach": (255, 218, 185),
+    "Coral": (255, 127, 80),
+    "Red": (255, 0, 0),
+    "Blue": (0, 0, 255),
+    "Green": (0, 128, 0),
+    "Custom Color": "custom",
+    "Upload Background Image": "upload",
+}
+
+
+def remove_background(img: Image.Image) -> Image.Image:
+    """Remove background from an image using rembg. Returns RGBA image."""
+    if not REMBG_AVAILABLE:
+        raise ImportError("rembg is not installed. Install it with: pip install rembg")
+    buf_in = io.BytesIO()
+    img.save(buf_in, format="PNG")
+    buf_in.seek(0)
+    buf_out = rembg_remove(buf_in.getvalue())
+    return Image.open(io.BytesIO(buf_out)).convert("RGBA")
+
+
+def apply_background(fg_img: Image.Image, bg_option, custom_color=None, bg_image=None) -> Image.Image:
+    """Apply a background to a foreground RGBA image.
+
+    Args:
+        fg_img: Foreground RGBA image (after background removal).
+        bg_option: Value from BG_COLOR_PRESETS.
+        custom_color: RGB tuple when bg_option is 'custom'.
+        bg_image: PIL Image to use as background when bg_option is 'upload'.
+    Returns:
+        Composited image (RGBA for transparent, RGB otherwise).
+    """
+    if bg_option == "transparent":
+        return fg_img  # Keep RGBA with transparency
+
+    if bg_option == "upload" and bg_image is not None:
+        bg = bg_image.convert("RGBA").resize(fg_img.size, Image.LANCZOS)
+        bg.paste(fg_img, (0, 0), fg_img)
+        return bg.convert("RGB")
+
+    # Solid color background
+    color = custom_color if bg_option == "custom" and custom_color else bg_option
+    if not isinstance(color, tuple) or len(color) < 3:
+        color = (255, 255, 255)
+    bg = Image.new("RGB", fg_img.size, color[:3])
+    bg.paste(fg_img, (0, 0), fg_img)
+    return bg
 
 
 ASPECT_PRESETS = {
@@ -537,11 +609,12 @@ with main_tab1:
         st.markdown("---")
         st.subheader("⚙️ Resize & Compress Settings")
 
-        tab_size, tab_dim, tab_res, tab_dpi = st.tabs([
+        tab_size, tab_dim, tab_res, tab_dpi, tab_bg = st.tabs([
             "📦 Target File Size",
             "📐 Dimensions & Aspect Ratio",
             "🖥️ Resolution Presets",
             "🔍 DPI",
+            "🎨 Background",
         ])
 
         # --- Target file size ---
@@ -630,6 +703,57 @@ with main_tab1:
             enable_dpi = st.checkbox("Change DPI metadata", value=False, key="en_dpi")
             st.caption("DPI change only updates metadata (for print). It does NOT resample pixels.")
 
+        # --- Background ---
+        with tab_bg:
+            if not REMBG_AVAILABLE:
+                st.warning("⚠️ `rembg` is not installed. Install it with `pip install rembg` to enable background features.")
+
+            bg_choice = st.selectbox(
+                "Background option",
+                list(BG_COLOR_PRESETS.keys()),
+                index=0,
+                key="bg_choice",
+                help="Remove the existing background and replace it with a solid color, transparency, or a custom image.",
+            )
+            bg_option = BG_COLOR_PRESETS[bg_choice]
+            enable_bg = bg_option is not None
+
+            custom_bg_color = None
+            bg_upload_img = None
+
+            if bg_option == "custom":
+                picked = st.color_picker("Pick a custom background color", "#ADD8E6", key="bg_custom_color")
+                custom_bg_color = tuple(int(picked.lstrip('#')[i:i+2], 16) for i in (0, 2, 4))
+                st.markdown(
+                    f'<div style="width:60px;height:60px;border-radius:8px;'
+                    f'background:rgb{custom_bg_color};border:1px solid #555;"></div>',
+                    unsafe_allow_html=True,
+                )
+            elif bg_option == "upload":
+                bg_file = st.file_uploader(
+                    "Upload a background image",
+                    type=SUPPORTED_INPUT,
+                    key="bg_img_upload",
+                )
+                if bg_file:
+                    bg_upload_img = Image.open(io.BytesIO(bg_file.getvalue()))
+                    st.image(bg_upload_img, caption="Background preview", use_container_width=True)
+                else:
+                    st.info("Upload an image to use as the background.")
+            elif bg_option == "transparent":
+                st.info("Background will be removed. Output will be **PNG** with transparency.")
+            elif isinstance(bg_option, tuple):
+                st.markdown(
+                    f'<div style="display:flex;align-items:center;gap:12px;">'
+                    f'<div style="width:60px;height:60px;border-radius:8px;'
+                    f'background:rgb{bg_option};border:1px solid #555;"></div>'
+                    f'<span style="font-size:1.1em;">Preview: <b>{bg_choice}</b></span></div>',
+                    unsafe_allow_html=True,
+                )
+
+            if enable_bg:
+                st.caption("🔄 The background will be removed first, then the selected background will be applied.")
+
         # --- Output format & quality ---
         st.markdown("---")
         st.subheader("💾 Output Settings")
@@ -651,6 +775,21 @@ with main_tab1:
         if st.button("🚀 Process Image", type="primary", key="process_btn"):
             with st.spinner("Processing…"):
                 result_img = img.copy()
+
+                # 0) Background removal & replacement
+                if enable_bg:
+                    if not REMBG_AVAILABLE:
+                        st.error("❌ `rembg` is not installed. Cannot process background.")
+                        st.stop()
+                    if bg_option == "upload" and bg_upload_img is None:
+                        st.error("❌ Please upload a background image.")
+                        st.stop()
+                    with st.spinner("Removing background… (this may take a moment on first run)"):
+                        fg_rgba = remove_background(result_img)
+                        result_img = apply_background(fg_rgba, bg_option, custom_bg_color, bg_upload_img)
+                    # Force PNG output for transparent background
+                    if bg_option == "transparent":
+                        out_format = "PNG"
 
                 # 1) Resolution preset takes priority over manual dimensions
                 if enable_res_preset and res_preset:
