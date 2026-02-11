@@ -13,9 +13,11 @@ _REQUIRED_PACKAGES = {
     "PIL":                "pillow",
     "pikepdf":            "pikepdf",
     "streamlit_cropper":  "streamlit-cropper",
-    "rembg":              "rembg",
     "pypdf":              "pypdf",
 }
+# NOTE: rembg is intentionally excluded from auto-install — it's very heavy
+# (pulls onnxruntime + large ML models). Install manually if needed:
+#   pip install rembg
 
 def _ensure_packages():
     """Check for missing packages and install them once."""
