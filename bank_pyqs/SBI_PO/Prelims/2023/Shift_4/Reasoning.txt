@@ -1,0 +1,544 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2023
+Shift: 4
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/08/15011058/SBI-PO-Pre-2023-1st-Nov-Shift-wise-Paper-Mock-04.pdf
+======================================================================
+
+Q66. Who among the following likes grey colour? Study the following information carefully and answer the 
+questions given below: 
+Six persons –P, Q, R, S, T and U are living on different floors of the six-storey building such that the lowermost 
+floor is numbered as one and the floor immediately above it is numbered as two and so on. Each of them likes 
+different colours- Red, Blue, Grey, Black, Pink and White but not necessarily in the same order. Only two floors 
+are between the one who likes grey colour and U who lives on an odd numbered floor. P lives immediately 
+above U. The number of floors below P is one more than the number of floors above the one who likes white. 
+Only one floor is between Q and the one who likes pink colour. The one who likes Pink colour and the one who 
+likes blue colour live on the adjacent floor. Neither U nor P likes blue colour. The number of floors between the 
+one who likes black and S is two less than the number of floors between S and the one who like red. T likes 
+neither grey nor red. 
+ 
+ 
+26 
+ 
+(a) The one who lives on the topmost floor 
+(b) Q 
+(c) The one who lives on the second floor 
+(d) T 
+(e) None of these 
+ 
+Q67. Which among the following combination is correct? Study the following information carefully and answer 
+the questions given below: 
+Six persons –P, Q, R, S, T and U are living on different floors of the six-storey building such that the lowermost 
+floor is numbered as one and the floor immediately above it is numbered as two and so on. Each of them likes 
+different colours- Red, Blue, Grey, Black, Pink and White but not necessarily in the same order. Only two floors 
+are between the one who likes grey colour and U who lives on an odd numbered floor. P lives immediately 
+above U. The number of floors below P is one more than the number of floors above the one who likes white. 
+Only one floor is between Q and the one who likes pink colour. The one who likes Pink colour and the one who 
+likes blue colour live on the adjacent floor. Neither U nor P likes blue colour. The number of floors between the 
+one who likes black and S is two less than the number of floors between S and the one who like red. T likes 
+neither grey nor red. 
+(a) R- Red 
+(b) Q- Grey 
+(c) P-White 
+(d) S- Black 
+(e) None of these 
+ 
+Q68. What is the sum of the floor numbers of Q and the one who likes pink colour live?Study the following 
+information carefully and answer the questions given below: 
+Six persons –P, Q, R, S, T and U are living on different floors of the six-storey building such that the lowermost 
+floor is numbered as one and the floor immediately above it is numbered as two and so on. Each of them likes 
+different colours- Red, Blue, Grey, Black, Pink and White but not necessarily in the same order. Only two floors 
+are between the one who likes grey colour and U who lives on an odd numbered floor. P lives immediately 
+above U. The number of floors below P is one more than the number of floors above the one who likes white. 
+Only one floor is between Q and the one who likes pink colour. The one who likes Pink colour and the one who 
+likes blue colour live on the adjacent floor. Neither U nor P likes blue colour. The number of floors between the 
+one who likes black and S is two less than the number of floors between S and the one who like red. T likes 
+neither grey nor red. 
+(a) 6 
+(b) 8 
+(c) 11 
+(d) 7 
+(e) 5 
+ 
+Q69. Which among the following statement(s) is/are true? 
+I. T lives above R II. Q lives on an odd numbered floor 
+III. R lives on the adjacent floor of Q 
+Study the following information carefully and answer the questions given below: 
+Six persons –P, Q, R, S, T and U are living on different floors of the six-storey building such that the lowermost 
+floor is numbered as one and the floor immediately above it is numbered as two and so on. Each of them likes 
+different colours- Red, Blue, Grey, Black, Pink and White but not necessarily in the same order. Only two floors 
+are between the one who likes grey colour and U who lives on an odd numbered floor. P lives immediately 
+above U. The number of floors below P is one more than the number of floors above the one who likes white. 
+ 
+ 
+27 
+ 
+Only one floor is between Q and the one who likes pink colour. The one who likes Pink colour and the one who 
+likes blue colour live on the adjacent floor. Neither U nor P likes blue colour. The number of floors between the 
+one who likes black and S is two less than the number of floors between S and the one who like red. T likes 
+neither grey nor red. 
+(a) Only I 
+(b) Only III 
+(c) Both I and III 
+(d) Both II and III 
+(e) Only II 
+ 
+Q70. . Who among the following lives on 4th floor? Study the following information carefully and answer the 
+questions given below: 
+Six persons –P, Q, R, S, T and U are living on different floors of the six-storey building such that the lowermost 
+floor is numbered as one and the floor immediately above it is numbered as two and so on. Each of them likes 
+different colours- Red, Blue, Grey, Black, Pink and White but not necessarily in the same order. Only two floors 
+are between the one who likes grey colour and U who lives on an odd numbered floor. P lives immediately 
+above U. The number of floors below P is one more than the number of floors above the one who likes white. 
+Only one floor is between Q and the one who likes pink colour. The one who likes Pink colour and the one who 
+likes blue colour live on the adjacent floor. Neither U nor P likes blue colour. The number of floors between the 
+one who likes black and S is two less than the number of floors between S and the one who like red. T likes 
+neither grey nor red. 
+(a) Q 
+(b) The one who likes blue 
+(c) T 
+(d) The one who likes white 
+(e) U 
+ 
+Q71. Statements: Only speech is language 
+Some debate is speech 
+All debate is practice 
+Conclusions: I. Some speech is not practice 
+II. All debate can be languageIn each question below some statements are given followed by someconclusions. 
+You have to take the given statements to be true even if they seem to be atvariance with commonly known 
+facts. Read all the conclusions and then decide which of the given conclusions definitely follows from the given 
+statements, disregarding commonly known facts. Give an answer. 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q72. Statements: All carrot are beetroot 
+Only a few beetroot is cabbage 
+No cabbage is bean 
+Conclusions: I. All beetroot can be bean 
+II. Some carrot is bean In each question below some statements are given followed by some conclusions. You 
+have to take the given statements to be true even if they seem to be at variance with commonly known facts. 
+Read all the conclusions and then decide which of the given conclusions definitely follows from the given 
+statements, disregarding commonly known facts. Give an answer. 
+ 
+ 
+28 
+ 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q73. Statements: Some month is date 
+Only a few year is date 
+All year is day 
+Conclusions: I. All day being month is a possibility 
+II. Some year is not date In each question below some statements are given followed by some conclusions. You 
+have to take the given statements to be true even if they seem to be at variance with commonly known facts. 
+Read all the conclusions and then decide which of the given conclusions definitely follows from the given 
+statements, disregarding commonly known facts. Give an answer. 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q74. Statements: All browser is app 
+Only a few design is app 
+No design is template 
+Conclusions: I. No browser is template 
+II. All design can never be app 
+In each question below some statements are given followed by some conclusions. You have to take the given 
+statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions 
+and then decide which of the given conclusions definitely follows from the given statements, disregarding 
+commonly known facts. Give an answer. 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q75. If all the persons sit in alphabetical order in clockwise direction starts from A then the position of how 
+many persons remains unchanged (excluding A)? Study the following information carefully and answer the 
+questions given below: 
+Eight persons- A, B, C, D, E, F, G and H sit around a rectangular table in such a way that four of them are sitting 
+at the corners and facing the centre while four of them are sitting in the middle of the sides and facing away 
+from the centre but not necessarily in the same order. 
+F sits at one of the corners of the table and sits second to the left of H. E sits to the immediate right of H. Only 
+two persons sit between E and D. C sits third to the right of D. Only three persons sit between C and G. G sits 
+adjacent to B. A doesn’t sit at the shorter side of the table. 
+(a) None 
+(b) One 
+(c) Two 
+(d) Three 
+(e) More than three 
+ 
+ 
+29 
+ 
+ 
+Q76. Four of the following five are alike in a certain way and thus form a group. Find the one which doesn’t 
+belong to the group? Study the following information carefully and answer the questions given below: 
+Eight persons- A, B, C, D, E, F, G and H sit around a rectangular table in such a way that four of them are sitting 
+at the corners and facing the centre while four of them are sitting in the middle of the sides and facing away 
+from the centre but not necessarily in the same order. 
+F sits at one of the corners of the table and sits second to the left of H. E sits to the immediate right of H. Only 
+two persons sit between E and D. C sits third to the right of D. Only three persons sit between C and G. G sits 
+adjacent to B. A doesn’t sit at the shorter side of the table. 
+(a) B 
+(b) H 
+(c) D 
+(d) F 
+(e) A 
+ 
+Q77. Which among the following statement(s) is/are true? 
+I. A sits adjacent to D 
+II. C doesn’t sit at the shorter side 
+III. B faces F Study the following information carefully and answer the questions given below: 
+Eight persons- A, B, C, D, E, F, G and H sit around a rectangular table in such a way that four of them are sitting 
+at the corners and facing the centre while four of them are sitting in the middle of the sides and facing away 
+from the centre but not necessarily in the same order. 
+F sits at one of the corners of the table and sits second to the left of H. E sits to the immediate right of H. Only 
+two persons sit between E and D. C sits third to the right of D. Only three persons sit between C and G. G sits 
+adjacent to B. A doesn’t sit at the shorter side of the table. 
+(a) Both I and II 
+(b) Only III 
+(c) Both I and III 
+(d) Only II 
+(e) All I, II and III 
+ 
+Q78. Who among the following sits opposite to D? 
+Study the following information carefully and answer the questions given below: 
+Eight persons- A, B, C, D, E, F, G and H sit around a rectangular table in such a way that four of them are sitting 
+at the corners and facing the centre while four of them are sitting in the middle of the sides and facing away 
+from the centre but not necessarily in the same order. 
+F sits at one of the corners of the table and sits second to the left of H. E sits to the immediate right of H. Only 
+two persons sit between E and D. C sits third to the right of D. Only three persons sit between C and G. G sits 
+adjacent to B. A doesn’t sit at the shorter side of the table. 
+(a) The one who sits immediate left of F 
+(b) C 
+(c) The one who sits second to the right of G 
+(d) The one who sits immediate right of E 
+(e) None of these 
+ 
+Q79. . Who among the following sits second to the right of A? 
+Study the following information carefully and answer the questions given below: 
+Eight persons- A, B, C, D, E, F, G and H sit around a rectangular table in such a way that four of them are sitting 
+at the corners and facing the centre while four of them are sitting in the middle of the sides and facing away 
+from the centre but not necessarily in the same order. 
+ 
+ 
+30 
+ 
+F sits at one of the corners of the table and sits second to the left of H. E sits to the immediate right of H. Only 
+two persons sit between E and D. C sits third to the right of D. Only three persons sit between C and G. G sits 
+adjacent to B. A doesn’t sit at the shorter side of the table. 
+(a) B 
+(b) G 
+(c) C 
+(d) E 
+(e) D 
+ 
+Q80. Find the odd one out. 
+(a) ZYW 
+(b) MLJ 
+(c) SRP 
+(d) EDA 
+(e) FEC 
+ 
+Q81. In which direction is Karan’s initial position with respect to Rohan’s final position? Study the following 
+information carefully and answer the questions given below: 
+Rohan starts walking from point W in the east direction after walking 3m he reaches at point P. From there he 
+takes a right turn and walks 2m to reach at point V. From point V he takes a left turn and walks 5m to reach at 
+point S. From point S he takes left turn and walks point 7m to reach at point X. Karan starts walking from point 
+Q in south direction after walking 5m he reaches at point U. From there he takes a right turn and walks 6m to 
+reach at point R. From there he takes again right turn and walks 12m to reach at point T. Now, from point T he 
+takes a left turn and walks 4m to reach at point X. 
+(a) South-west 
+(b) East 
+(c) North-east 
+(d) South-east 
+(e) West 
+ 
+Q82. Four of the following five are alike in a certain way and thus form a group. Find the one which doesn’t 
+belong to the group? Study the following information carefully and answer the questions given below: 
+Rohan starts walking from point W in the east direction after walking 3m he reaches at point P. From there he 
+takes a right turn and walks 2m to reach at point V. From point V he takes a left turn and walks 5m to reach at 
+point S. From point S he takes left turn and walks point 7m to reach at point X. Karan starts walking from point 
+Q in south direction after walking 5m he reaches at point U. From there he takes a right turn and walks 6m to 
+reach at point R. From there he takes again right turn and walks 12m to reach at point T. Now, from point T he 
+takes a left turn and walks 4m to reach at point X. 
+(a) W,V 
+(b) X,R 
+(c) P,X 
+(d) X,U 
+(e) T,Q 
+ 
+Q83. Which among the following statement(s) is/are true? I. Total distance covered by Karan is more than the 
+total distance covered by Rohan. II. Point W is in the west of point Q III. The shortest distance between point T 
+and point S is √65m Study the following information carefully and answer the questions given below: 
+ 
+ 
+31 
+ 
+Rohan starts walking from point W in the east direction after walking 3m he reaches at point P. From there he 
+takes a right turn and walks 2m to reach at point V. From point V he takes a left turn and walks 5m to reach at 
+point S. From point S he takes left turn and walks point 7m to reach at point X. Karan starts walking from point 
+Q in south direction after walking 5m he reaches at point U. From there he takes a right turn and walks 6m to 
+reach at point R. From there he takes again right turn and walks 12m to reach at point T. Now, from point T he 
+takes a left turn and walks 4m to reach at point X. 
+(a) Both I and II 
+(b) Only III 
+(c) Both I and III 
+(d) Only II 
+(e) All I, II and III 
+ 
+Q84. . What is the shortest distance between point R and point P? 
+Study the following information carefully and answer the questions given below: 
+Rohan starts walking from point W in the east direction after walking 3m he reaches at point P. From there he 
+takes a right turn and walks 2m to reach at point V. From point V he takes a left turn and walks 5m to reach at 
+point S. From point S he takes left turn and walks point 7m to reach at point X. Karan starts walking from point 
+Q in south direction after walking 5m he reaches at point U. From there he takes a right turn and walks 6m to 
+reach at point R. From there he takes again right turn and walks 12m to reach at point T. Now, from point T he 
+takes a left turn and walks 4m to reach at point X. 
+(a) √130m 
+(b) 130m 
+(c) √165m 
+(d) 165m 
+(e) None of these 
+ 
+Q85. U is nephew of D who is sibling of B. R has two children. B is only son of M who is spouse of R. K is mother 
+of U. Gender of K and M is same. How R is related to U? 
+(a) Father 
+(b) Son-in-law 
+(c) Grandfather 
+(d) Son 
+(e) None of these 
+ 
+Q86. How many persons are designated between U and the one who is immediately junior to T? Study the 
+following information carefully and answer the questions given below: 
+Nine persons - P, Q, R, S, T, U, V, W and X are working in the company at different designations such as MD, CEO, 
+CFO, CRO, COO, GM, DM, HR and TL but not necessarily in the same order. The designations are given in 
+decreasing order, such that MD is the senior-most designation and TL is the junior-most designation. 
+X is four persons junior to Q who is senior to CRO. The number of persons senior to Q is one less than the 
+number of persons junior to S. Only three persons are designated between S and T. P is two persons junior to T. 
+The number of persons designated between P and U is one less than the number of persons designated 
+between U and V who is senior to X. W is senior to R who is not TL. 
+(a) Five 
+(b) Four 
+(c) Six 
+(d) Seven 
+(e) Three 
+ 
+ 
+32 
+ 
+ 
+Q87. If all the persons are arranged in alphabetical order from senior most to junior most designation, then the 
+position of how many persons remains unchanged? 
+Study the following information carefully and answer the questions given below: 
+Nine persons - P, Q, R, S, T, U, V, W and X are working in the company at different designations such as MD, CEO, 
+CFO, CRO, COO, GM, DM, HR and TL but not necessarily in the same order. The designations are given in 
+decreasing order, such that MD is the senior-most designation and TL is the junior-most designation. 
+X is four persons junior to Q who is senior to CRO. The number of persons senior to Q is one less than the 
+number of persons junior to S. Only three persons are designated between S and T. P is two persons junior to T. 
+The number of persons designated between P and U is one less than the number of persons designated 
+between U and V who is senior to X. W is senior to R who is not TL. 
+(a) One 
+(b) Two 
+(c) Three 
+(d) None 
+(e) More than three 
+ 
+Q88. Which among the following statement is false? Study the following information carefully and answer the 
+questions given below: 
+Nine persons - P, Q, R, S, T, U, V, W and X are working in the company at different designations such as MD, CEO, 
+CFO, CRO, COO, GM, DM, HR and TL but not necessarily in the same order. The designations are given in 
+decreasing order, such that MD is the senior-most designation and TL is the junior-most designation. 
+X is four persons junior to Q who is senior to CRO. The number of persons senior to Q is one less than the 
+number of persons junior to S. Only three persons are designated between S and T. P is two persons junior to T. 
+The number of persons designated between P and U is one less than the number of persons designated 
+between U and V who is senior to X. W is senior to R who is not TL. 
+(a) U is junior to X 
+(b) X is not designated as TL 
+(c) R is immediately junior to X 
+(d) T is senior to R 
+(e) All are true 
+ 
+Q89. Who among the following is designated as GM? Study the following information carefully and answer the 
+questions given below: 
+Nine persons - P, Q, R, S, T, U, V, W and X are working in the company at different designations such as MD, CEO, 
+CFO, CRO, COO, GM, DM, HR and TL but not necessarily in the same order. The designations are given in 
+decreasing order, such that MD is the senior-most designation and TL is the junior-most designation. 
+X is four persons junior to Q who is senior to CRO. The number of persons senior to Q is one less than the 
+number of persons junior to S. Only three persons are designated between S and T. P is two persons junior to T. 
+The number of persons designated between P and U is one less than the number of persons designated 
+between U and V who is senior to X. W is senior to R who is not TL. 
+(a) R 
+(b) P 
+(c) T 
+(d) X 
+(e) Q 
+ 
+ 
+33 
+ 
+ 
+Q90. Which among the following combination is correct? Study the following information carefully and answer 
+the questions given below: 
+Nine persons - P, Q, R, S, T, U, V, W and X are working in the company at different designations such as MD, CEO, 
+CFO, CRO, COO, GM, DM, HR and TL but not necessarily in the same order. The designations are given in 
+decreasing order, such that MD is the senior-most designation and TL is the junior-most designation. 
+X is four persons junior to Q who is senior to CRO. The number of persons senior to Q is one less than the 
+number of persons junior to S. Only three persons are designated between S and T. P is two persons junior to T. 
+The number of persons designated between P and U is one less than the number of persons designated 
+between U and V who is senior to X. W is senior to R who is not TL. 
+(a) W- MD 
+(b) T- CFO 
+(c) P- COO 
+(d) S- DM 
+(e) All are correct 
+ 
+Q91. Statements: H ≥ Q > J ≤ L < R; F < P≥ Q> T ≥U 
+Conclusions : I. H>U II. J<F 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+(a) If only conclusion I is true. 
+(b) If only conclusion II is true. 
+(c) If either conclusion I or II is true. 
+(d) If both conclusions I and II are true. 
+(e) If neither conclusion I nor II is true. 
+ 
+Q92. Statements: Z ≥ Q≥P= E ≤ X< R; L≤ C< O= E ≥ A 
+Conclusions : I. Q≥C II. A<Z 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+(a) If only conclusion I is true. 
+(b) If only conclusion II is true. 
+(c) If either conclusion I or II is true. 
+(d) If both conclusions I and II are true. 
+(e) If neither conclusion I nor II is true. 
+ 
+Q93. Statements: K < C ≤ Y = L≥ E; I ≥ M =Y > F ≥W 
+Conclusions : I. W<L II. C ≤ I 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+(a) If only conclusion I is true. 
+(b) If only conclusion II is true. 
+(c) If either conclusion I or II is true. 
+(d) If both conclusions I and II are true. 
+(e) If neither conclusion I nor II is true. 
+ 
+ 
+34 
+ 
+ 
+Q94. Statements: A ≤ P > N ≥ G=B; M> N≥ I =L<Q 
+Conclusions : I. L≤G II. G<M 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+(a) If only conclusion I is true. 
+(b) If only conclusion II is true. 
+(c) If either conclusion I or II is true. 
+(d) If both conclusions I and II are true. 
+(e) If neither conclusion I nor II is true. 
+ 
+Q95. If a meaningful word is formed by using the second, fourth, eighth and eleventh letters (from the left end) 
+of the word “PARTICULARLY”, then which of the following will be the third letter from the left end of the word 
+thus formed. If more than one such word is formed mark Z as your answer. If no meaningful word is formed, 
+mark X as your answer? 
+(a) X 
+(b) T 
+(c) L 
+(d) A 
+(e) Z 
+ 
+Q96. How many persons sit between M and S? Study the following information carefully and answer the 
+questions given below: 
+Seven persons -M, N, O, P, Q, R and S sit in a linear row and facing the north but not necessarily in the same 
+order. 
+Only four persons sit between P and Q who does not sit at the extreme end of the row. S sits to the immediate 
+right of Q. The number of persons sitting to the right of S is same as the number of persons sitting between M 
+and N who sits to the immediate left of R. O sits to the left of R. 
+(a) One 
+(b) Three 
+(c) Two 
+(d) Four 
+(e) Five 
+ 
+Q97. If all the persons sit in alphabetical order from left to right then the position of how many persons remain 
+unchanged? 
+Study the following information carefully and answer the questions given below: 
+Seven persons -M, N, O, P, Q, R and S sit in a linear row and facing the north but not necessarily in the same 
+order. 
+Only four persons sit between P and Q who does not sit at the extreme end of the row. S sits to the immediate 
+right of Q. The number of persons sitting to the right of S is same as the number of persons sitting between M 
+and N who sits to the immediate left of R. O sits to the left of R. 
+(a) One 
+(b) None 
+(c) Two 
+(d) Three 
+(e) More than three 
+ 
+ 
+35 
+ 
+ 
+Q98. Four of the following five are alike in a certain way and thus form a group. Find the one which doesn’t 
+belong to the group? Study the following information carefully and answer the questions given below: 
+Seven persons -M, N, O, P, Q, R and S sit in a linear row and facing the north but not necessarily in the same 
+order. 
+Only four persons sit between P and Q who does not sit at the extreme end of the row. S sits to the immediate 
+right of Q. The number of persons sitting to the right of S is same as the number of persons sitting between M 
+and N who sits to the immediate left of R. O sits to the left of R. 
+(a) M 
+(b) O 
+(c) Q 
+(d) S 
+(e) R 
+ 
+Q99. Which among the following statement(s) is/are true? I. O is the only neighbour of P II. N sits exactly 
+between O and Q 
+III. More than one person sit to the right of Q 
+Study the following information carefully and answer the questions given below: 
+Seven persons -M, N, O, P, Q, R and S sit in a linear row and facing the north but not necessarily in the same 
+order. 
+Only four persons sit between P and Q who does not sit at the extreme end of the row. S sits to the immediate 
+right of Q. The number of persons sitting to the right of S is same as the number of persons sitting between M 
+and N who sits to the immediate left of R. O sits to the left of R. 
+(a) Both II and III 
+(b) Only II 
+(c) Both I and II 
+(d) Only III 
+(e) All I, II and III 
+ 
+Q100. If in the given number “ 357986258” the digits at the odd position are increased by 1 then the digits are 
+arranged in descending order from left to right then what is the product of the 4th digits from both the ends in 
+the new number thus formed? 
+(a) 72 
+(b) 30 
+(c) 42 
+(d) 40 
+(e) 49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+ 
+Solutions 

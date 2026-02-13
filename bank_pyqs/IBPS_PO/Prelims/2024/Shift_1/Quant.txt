@@ -1,0 +1,849 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2024
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/10/19171032/IBPS-PO-Prelims-Memory-Based-2024-Quantitative-Aptitude.pdf
+======================================================================
+
+1 
+
+ 
+ 
+ 
+IBPS PO Prelims Memory Based 2024 (Quantitative Aptitude) 
+ 
+Directions (66-70): Read the following table carefully and answer the questions given below. The 
+table shows the total number of bikes sold by two (X and Y) different companies in four (K, L, M, 
+and N) different cities and the total number of cars sold by these two companies in these cities. The 
+table also shows the total number of bikes sold by company Y in these cities. 
+ 
+Cities 
+Bikes sold by 
+(X and Y) 
+Cars sold by 
+(X and Y) 
+Bikes sold by 
+Y 
+K 
+328 
+450 
+210 
+L 
+560 
+980 
+320 
+M 
+440 
+730 
+90 
+N 
+620 
+350 
+195 
+ 
+Q66. If total number of cars sold by Y in city K are two-fifth of the total number of bikes sold by Y in 
+city K, then find the difference between the total number of cars sold by X in city K and bikes sold 
+by X in city M. 
+(a) 22 
+(b) 16 
+(c) 23 
+(d) 15 
+(e) 18 
+ 
+Q67. Total number of cars sold by X in city N is 20% less than the total number of bikes sold by X in 
+city M. Find the ratio of the total number of cars sold by Y in city N to the total number of bikes sold 
+by Y in city K. 
+(a) 3:1 
+(b) 2:1 
+(c) 2:3 
+(d) 1:4 
+(e) 1:3 
+ 
+Q68. The ratio of the total number of cars sold by X to Y in city L 
+is 3:4 respectively. Find the total number of cars sold by X in city 
+L is how many more or less than the total number of bikes sold 
+by Y in N. 
+(a) 225 
+(b) 210 
+(c) 195 
+(d) 145 
+(e) 125 
+ 
+2 
+
+ 
+Q69. The total number of bikes sold by X in city M is what percentage more or less than the total 
+number of cars sold by X and Y together in city N? 
+(a) 2% 
+(b) 0% 
+(c) 5% 
+(d) 10% 
+(e) 7.5% 
+ 
+Q70. Total number of cars sold by Y in city M is 200 more than the total number of bikes sold by X 
+in city L. The total number of cars sold by X in city M is what percentage of the total number of cars 
+sold by X and Y together in city K? 
+(a) 64% 
+(b) 58% 
+(c) 42% 
+(d) 79% 
+(e) 82% 
+ 
+Directions (71-75): Read the following line graph carefully and answer the questions given below. 
+The line graph shows 1/3rd of the total items sold by five different shops in two different years.  
+ 
+ 
+Note: (i). Total number of items sold by each shops in 2023 is 20% more than that in 2021. 
+(ii). The total number of items sold by each shops in each year, which is given in the line graph, is one-third 
+of the total items sold.  
+ 
+Q71. Total number of items sold by D in 2023 is what percentage less than the total number of items 
+sold by A in 2022 (approx.)? 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+A
+B
+C
+D
+E
+2021
+2022
+3 
+
+ 
+(a) 23% 
+(b) 19% 
+(c) 11% 
+(d) 15% 
+(e) 8% 
+ 
+Q72. Find the ratio of the total number of items sold by B in 2022 to the total number of items sold 
+by C in 2023. 
+(a) 1:2 
+(b) 2:3 
+(c) 3:2 
+(d) 3:4 
+(e) 4:5 
+ 
+Q73. Find the difference between the total number of items sold by D and E together in 2023 and 
+the total number of items sold by A and B together in 2021. 
+(a) 180 
+(b) 194 
+(c) 150 
+(d) 158 
+(e) 100 
+ 
+Q74. Find the sum of the total number of items sold by A, B and C in 2023. 
+(a) 4235 
+(b) 4450 
+(c) 4980 
+(d) 4752 
+(e) 4898 
+ 
+Q75. Total number of items sold by B and D together in 2023 is how many more or less than the 
+total number of items sold by A in all three years together. 
+(a) 2676 
+(b) 2194 
+(c) 2150 
+(d) 2058 
+(e) 2100 
+ 
+Directions (76 - 80): In each of these questions a number series is given. In each series only one 
+number is wrong. Find out the wrong number. 
+ 
+Q76. 188,  177,  199,  166,  210,  150,  221 
+(a) 188 
+(b) 221 
+(c) 150 
+(d) 199 
+(e) 210 
+ 
+4 
+
+ 
+Q77. 18225,  6075,  2025,  675,  220,  75,  25   
+(a) 25 
+(b) 75 
+(c) 220 
+(d) 18225 
+(e) 6075 
+ 
+Q78. 210,  228,  250,  274,  302,  332,  365 
+(a) 302 
+(b) 332 
+(c) 210 
+(d) 250 
+(e) 365 
+ 
+Q79. 304,  300,  316,  332,  364,  428,  556 
+(a) 300 
+(b) 316 
+(c) 304 
+(d) 332 
+(e) 428 
+ 
+Q80.  2194,    2175,    2152,    2123,    2092,     2054,    2014 
+(a) 2014 
+(b) 2054 
+(c) 2194 
+(d) 2092 
+(e) 2123 
+ 
+Directions (81-85): What approximate value will come in place of question mark (?) in the following 
+questions (You are not expected to calculate the exact value). 
+ 
+Q81. 5.03% 𝑜𝑓 39.89 + 10.09% 𝑜𝑓 450 =? 
+(a) 44 
+(b) 47 
+(c) 39 
+(d) 54 
+(e) 59 
+ 
+Q82. √840.99 +
+14
+19 𝑜𝑓 361.09 =?× 4.88 
+(a) 59 
+(b) 53 
+(c) 65 
+(d) 50 
+(e) 43 
+ 
+5 
+
+ 
+Q83. 12.213 −108.02 = 24.90% 𝑜𝑓 399+? 
+(a) 1090 
+(b) 1120 
+(c) 1240 
+(d) 1520 
+(e) 1130 
+ 
+Q84. 
+32.08% 𝑜𝑓 599
+1.99
+÷
+1
+4 =?2−16 
+(a) 29 
+(b) 24 
+(c) 17 
+(d) 12 
+(e) 20 
+ 
+Q85. (
+256.03
+15.99 ÷
+3.98
+1.99) =?÷ 12.01 
+(a) 91 
+(b) 96 
+(c) 103 
+(d) 87 
+(e) 67 
+ 
+Q86. A, B and C together can do a work in 4 days, while B alone can do the same work in 24 days. If 
+efficiency of C is 300% more than that of B, then find the difference between number of days taken 
+by A and C to complete the work alone? 
+(a) 18 
+(b) 12 
+(c) 11 
+(d) 15 
+(e) 20 
+ 
+Q87. The ratio of present age of P to age of Q four years ago is 2 : 1. Present age of R is equal to 
+average of present age of P and Q. 16 years ago, age of R was 10 years. Find the sum of present age 
+of P, Q and R (in years)? 
+(a) 66 years 
+(b) 78 years 
+(c) 82 years 
+(d) 99 years 
+(e) 102 years 
+ 
+Q88. An amount of Rs. 12200 is partly invested in scheme A at 
+10% p.a. on compound interest for two years and in scheme B at 
+the same rate on simple interest for four years. If the interest 
+received from both the schemes is equal, then find the amount 
+invested in scheme A? 
+6 
+
+ 
+(a) Rs.4350 
+(b) Rs.4340 
+(c) Rs.4200 
+(d) Rs.8000 
+(e) Rs.8500 
+ 
+Q89. A, B and C started a business with investment of Rs. 12,000, Rs. 12,000 and Rs. 8,000 
+respectively. B invested only for ‘x’ months, while C left the business ‘x’ month before a year. If A got 
+Rs 1800 out of annual profit of Rs 3200, then find the value of ‘x’? 
+(a) 2 
+(b) 8 
+(c) 6 
+(d) 4 
+(e) 5 
+ 
+Q90. Train A crosses a 230 meters long platform in 29 seconds and train B crosses a 150 meters 
+long platform in 24 seconds. Train B having length of 450 meters crosses train A in 160 seconds, 
+while running in the same direction. Find how much time will the train A take to cross a 50 meters 
+long bridge (Speed of train B > speed of train A)? 
+(a) 16 seconds 
+(b) 22 seconds 
+(c) 20 seconds 
+(d) 17 seconds 
+(e) 25 seconds 
+ 
+Q91. The ratio of speed of a boat in still water to the speed of boat in upstream 4 : 3. The boat covers 
+560 km in 7 hours in downstream. Find the time taken by boat to cover 480 km distance in 
+upstream? 
+(a) 8 hours 
+(b) 9 hours 
+(c) 7 hours 
+(d) 5 hours 
+(e) 10 hours 
+ 
+Q92. A mark an article 60% above its cost price. When he allows 4d% discount on marked price he 
+earns 28% profit. If he allows 6d% discount, then find the profit/ or loss %? 
+(a) 12% 
+(b) 15% 
+(c) 18% 
+(d) 20% 
+(e) 24% 
+ 
+Q93. The ratio of milk and water in mixture A is 9: 5. The quantity of milk in mixture B is 20% more 
+that in mixture A and quantity of water in mixture A is 25% more than that in mixture B. If sum of 
+quantity of water of both mixture is 54 liters, then find the total quantity of mixture in A? 
+7 
+
+ 
+(a) 72 liters 
+(b) 64 liters 
+(c) 84 liters 
+(d) 75 liters 
+(e) 80 liters 
+ 
+Q94. The average weight of 24 boys and 6 girls in a class is 40 kg. If the weight of all the girls 
+excluded the average weight of the class is reduced by 4 kg, then find the average weight of all the 
+six girls? 
+(a) 52 kg 
+(b) 56 kg 
+(c) 58 kg 
+(d) 55 kg 
+(e) 51 kg 
+ 
+Q95. The ratio of area of a square and area of a rectangle is 3:2 respectively. The side of square is 
+equal to length of the rectangle. The perimeter of the rectangle is 40 meters, then find the breadth 
+of the rectangle? 
+(a) 12 m 
+(b) 8 m  
+(c) 10 m 
+(d) 15 m 
+(e) 17 m 
+ 
+Directions (96 - 100): Read the following data carefully and answer the questions given below.  The 
+data shows the three different people (A, B & C) win or lose multiple games.  
+Total games win by B is 50 and the ratio of game win by A and games lose by B is 3:2 respectively. The ratio 
+of total games loses by A to total games win by A is 4:3. The average of number of games lose by A and win 
+by B is 105. Total games win by C is 20% more than total games loss of B and the ratio of total games win 
+to lose by C is 4 : 5. 
+ 
+Q96. Find the ratio of the total games win by A and the total games lose by C. 
+(a) 2:1 
+(b) 1:1 
+(c) 1:3 
+(d) 4:3 
+(e) 5:2 
+ 
+Q97. Total games lose by B is what percentage of the total games win by A?  
+(a) 66.67% 
+(b) 32.5% 
+(c) 8.33% 
+(d) 62.5% 
+(e) None of these 
+ 
+8 
+
+ 
+Q98. Find the sum of total games lose by B and A. 
+(a) 210 
+(b) 220 
+(c) 250 
+(d) 320 
+(e) 240 
+ 
+Q99. If the total games lose by D are 25% more than that of A and the total games win by D are five 
+more than half of the total games win by C, then find the difference between the total games lose 
+and total games win by D. 
+(a) 147 
+(b) 149 
+(c) 142 
+(d) 139 
+(e) 129 
+ 
+Q100. Find the average of total games win by A & B and total games lose by C. 
+(a) 98.25 
+(b) 91.67 
+(c) 83.33 
+(d) 96.67 
+(e) 129 
+ 
+ 
+Solutions 
+ 
+Sol. (66-70): 
+For cities K 
+Bikes sold by X and Y = 328 
+Bikes sold by Y = 210 
+Bikes sold by X = 328-210=118 
+Similarly, 
+Cities 
+Bikes sold by 
+X 
+Bikes sold 
+by Y 
+Cars 
+sold 
+by 
+ (X and Y) 
+K 
+118 
+210 
+450 
+L 
+240 
+320 
+980 
+M 
+350 
+90 
+730 
+N 
+425 
+195 
+350 
+ 
+S66. Ans (b) 
+Sol. Total number of cars sold by Y in city K = 
+2
+5 × 210 = 84 
+Total number of cars sold by X in city K = 450 – 84 = 366 
+Required difference = 366 - 350 = 16 
+ 
+9 
+
+ 
+S67. Ans (e) 
+Sol. Total number of cars sold by X in city N = 
+80
+100 × 350 = 280 
+Total number of cars sold by Y in city N = 350 – 280 = 70 
+Required ratio = 70 : 210 = 1:3 
+ 
+S68. Ans (a) 
+Sol. Total number of cars sold by X in city L = 980 ×
+3
+7 = 420 
+Required difference = 420 – 195 = 225 
+ 
+S69. Ans (b) 
+Sol. Required percentage = 
+350−350
+350
+× 100 = 0% 
+ 
+S70. Ans (a) 
+Sol. Total number of cars sold by Y in city M = 200 + 240 = 440 
+Total number of cars sold by X in city M = 730 – 440 = 290 
+Required percentage = 
+290
+450 × 100 = 64.44% ≈64% 
+ 
+Sol. (71-75): 
+For shop A 
+1/3 of total items sold by A in 2021= 600 
+Total number of items sold in 2021 = 600 × 3 = 1800 
+1/3 of total items sold by A in 2022= 700 
+Total number of items sold in 2022 = 700 × 3 = 2100 
+Total number of items sold in 2023 = 
+120
+100 × 1800 = 2160 
+Similarly, 
+Shops 
+In 2021 
+In 2022 
+In 2023 
+A 
+1800 
+2100 
+2160 
+B 
+1260 
+1620 
+1512 
+C 
+900 
+1080 
+1080 
+D 
+1560 
+600 
+1872 
+E 
+840 
+1440 
+1008 
+ 
+S71. Ans (c) 
+Sol. Required percentage = 
+2100−1872
+2100
+× 100 = 10.8 ≈11% (approx.) 
+ 
+S72. Ans (c) 
+Sol. Required ratio = 1620 : 1080 = 3:2 
+ 
+S73. Ans (a) 
+Sol. Required difference = (1800 + 1260) −(1872 + 1008) 
+= 3060 −2880 = 180 
+ 
+10 
+
+ 
+S74. Ans (d) 
+Sol. Required sum = 2160 + 1512 + 1080 = 4752 
+ 
+S75. Ans (a) 
+Sol. Total number of items sold by A in all three years together = 1800 + 2100 + 2160  
+ = 6060 
+Required difference = 6060 – (1512+1872) = 2676 
+ 
+S76. Ans (c) 
+Sol. The pattern of the series: 
+ 
+ 
+S77. Ans (c) 
+Sol. The pattern of the series: 
+ 
+ 
+S78. Ans (e) 
+Sol. The pattern of the series: 
+ 
+ 
+S79. Ans (a) 
+Sol. The pattern of the series: 
+ 
+ 
+S80. Ans (b) 
+Sol. The pattern of the series: 
+ 
+ 
+S81. Ans (b) 
+Sol. 5% 𝑜𝑓 40 + 10% 𝑜𝑓 450 =? 
+2 + 45 =?   
+47 =? 
+ 
+11 
+
+ 
+S82. Ans (a)  
+Sol. √841 +
+14
+19 𝑜𝑓 361 =?× 5 
+295 =?× 5 
+59 = ? 
+ 
+S83. Ans (d) 
+Sol. 123 −108 = 25% 𝑜𝑓 400+? 
+1620 = 100+? 
+1520 =? 
+ 
+S84. Ans (e) 
+Sol. 
+32% 𝑜𝑓 600
+2
+÷
+1
+4 =?2−16 
+96× 4 =?2−16 
+400 = ?2 
+20 = ? 
+ 
+S85. Ans (b) 
+Sol. (
+256
+16 ÷
+4
+2) =?÷ 12 
+(16 ÷ 2) =?÷ 12 
+96 = ? 
+ 
+S86. Ans (a) 
+Sol. Let the total work (LCM of 4 and 24) = 24 units 
+The efficiency of A, B & C together =  
+24
+4 = 6 units/day 
+The efficiency of B = 
+24
+24 = 1 units/day 
+The efficiency of C = 1 × 4 = 4  units/day 
+The efficiency of A = 6 -1- 4 = 1 units/day 
+Time taken by A to complete the work = 
+24
+1 = 24  days 
+Time taken by C to complete the work = 
+24
+4 = 6  days 
+Required difference = 24 – 6 = 18 days 
+ 
+S87. Ans (b) 
+Sol. Let the present age of P and Q be 2x and x+4 years respectively. 
+The present age of R = 
+2𝑥+𝑥+4
+2
+=
+3𝑥+4
+2  
+ATQ, 
+3𝑥+ 4
+2
+= 16 + 10 
+3𝑥+ 4 = 52 
+𝑥= 16 
+Present age of P = 32 years 
+Present age of Q = 20 years 
+Required sum = 32 + 20 + 26 = 78 years 
+ 
+12 
+
+ 
+S88. Ans. (d) 
+Sol. Let the amount invested in scheme A = Rs. X 
+So, amount invest in scheme B = 12200 – X Rs. 
+Equivalent compound interest at 10% rate= 10 +10 + 
+10×10
+100 = 21% 
+𝑋×
+21
+100 =
+(12200−𝑋)×4×10
+100
+   
+61X = 12200×4×10    
+X = Rs.8000  
+ 
+S89. Ans.(d) 
+Sol. Ratio of profit = 
+ 
+ATQ, 
+36
+60 + 𝑥= 1800
+3200 
+60 + x = 64 
+x = 4 
+ 
+S90. Ans. (c) 
+Sol. Let length of train A = l meters. 
+And let speed of train A = S m/s. 
+ATQ, 
+Speed of train B = 
+450+150
+24
+ = 25 m/s 
+Speed of train A = 
+𝑙+230
+29           …(i) 
+Now, 25 −𝑆=
+450+𝑙
+160  
+𝑆= 25 −
+450+𝑙
+160               …(ii) 
+On solving (i) & (ii): 
+𝑙+450
+160 = 25 −
+𝑙+230
+29   
+l=350 meters. 
+So, speed of train A = 
+350+230
+29
+ = 20 m/s. 
+Required time = 
+350+50
+20
+ = 20 seconds 
+ 
+S91. Ans. (e) 
+Sol. Let the speed of boat in still water and speed of stream be x and y respectively. 
+ATQ, 
+𝑥=
+4
+3 (𝑥−𝑦)   
+ 
+𝑥
+𝑦=
+4
+1 =
+4𝑚
+1𝑚  
+560
+(1𝑚+4𝑚) = 7   
+16 = 𝑚  
+A
+:
+B
+:
+C
+12 12
+: 12 x
+:
+8 (12
+x)
+36
+:
+3x
+:
+2(12
+x)
+
+
+
+−
+−
+13 
+
+ 
+Required answer = 
+480
+(4−1)×16 = 10 ℎ𝑜𝑢𝑟𝑠 
+ 
+S92. Ans.(a) 
+Sol. Let cost price be Rs.100x 
+Marked price = Rs.160x 
+Selling price = Rs.128x 
+Discount % = 
+160𝑥−128𝑥
+160𝑥
+× 100 
+32𝑥
+160𝑥× 100 = 20%  
+ATQ. 
+4d=20  
+ d=5 
+New selling price = 160𝑥×
+100−(6×5)
+100
+= 112𝑥 
+Profit % = 
+112𝑥−100𝑥
+100𝑥
+× 100 = 12% 
+ 
+S93. Ans. (c) 
+Sol. Let quantity of milk and water in the mixture A be 9l and 5l respectively. 
+Quantity of milk in mixture B = 9𝑙×
+120
+100 =
+54
+5  𝑙 
+And quantity of water in mixture B = 5𝑙×
+4
+5 = 4𝑙 
+ATQ 
+5l+4l=54 
+l=6 
+So, required quantity =(9+5)l =14l =84 liters 
+ 
+S94. Ans (b) 
+Sol. Total weight of the class = (24 + 6) × 40 = 1200 𝑘𝑔 
+Total weight of 24 boys in the class = 24 × (40 −4) = 864 𝑘𝑔 
+Required average = 
+1200−864
+6
+= 56 𝑘𝑔 
+ 
+S95. Ans (b) 
+Sol. Let length and breadth of the rectangle be ‘l’ m and ‘b’ m respectively. 
+So, side of the square = ‘l’ m 
+ATQ. 
+𝑙× 𝑙
+𝑙× 𝑏= 3
+2  
+ 𝑙
+𝑏= 3
+2 = 3𝑥
+2𝑥 
+2(l+b)=40    
+2(3x+2x)=40 
+    x=4 
+Breadth of the rectangle = 2x = 8 meters 
+ 
+14 
+
+ 
+Sol. (96-100): 
+Given, total games win by B = 50 
+Let games win by A and total games lose by B is 3x and 2x respectively 
+Total games lose by A = 3𝑥×
+4
+3 = 4𝑥 
+ATQ, 
+4𝑥+ 50
+2
+= 105  
+ 
+ 4𝑥+ 50 = 210  
+ 4𝑥= 160  
+ 𝑥= 40 
+Total games win by C = 80 ×
+6
+5 = 96 
+So, total games lose by C = 96 ×
+5
+4 = 120  
+ 
+Wins 
+Lose 
+A 
+120 
+160 
+B 
+50 
+80 
+C 
+96 
+120 
+ 
+S96. Ans (b) 
+Sol. Required ratio = 120 : 120 = 1:1 
+ 
+S97. Ans (a) 
+Sol. Required percentage = 
+80
+120 × 100 = 66.67% 
+ 
+S98. Ans (e) 
+Sol. Required sum = 160 + 80 = 240 
+ 
+S99. Ans (a) 
+Sol. Total losses of D = 
+5
+4 × 160 = 200 
+Total wins of D = 
+96
+2 + 5 = 53 
+Required difference = 200 – 53 = 147 
+ 
+S100. Ans (d) 
+Sol. Required average = 
+120+50+120
+3
+= 96.67

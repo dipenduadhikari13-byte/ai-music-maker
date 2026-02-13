@@ -1,0 +1,372 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 8
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/01/22020905/SBI-PO-Pre-2022-19th-Dec-Shift-Wise-Previous-Year-Paper-Mock-08.pdf
+======================================================================
+
+Q66.  
+ 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+Q67.  
+ 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+Q68.  
+ 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+ 
+ 
+18 
+ 
+Directions (69-72) : Study the following information carefully and answer the question given below- 
+Eight persons from A to H has different degree i.e., BBA, MBA and MCA but not necessarily in the same 
+order. At least two but not more than three persons have the same degree. Consecutive alphabetically 
+named persons do not have the same degree.  
+D does not have an MBA degree. Only C and F have the same degree but not a BBA degree. Both A and H 
+have the same degree but not as D have. E does not have an MBA degree. B does not have a BBA degree.  
+ 
+Q69. Which of the following degree does G have? 
+(a) BBA 
+(b) MBA 
+(c) MCA 
+(d) Either BBA or MBA 
+(e) Can’t be determined  
+ 
+Q70. Which of the following pair/group of combination(s) is/are correct? 
+(a) B- MBA 
+(b) C- MCA 
+(c) H- BBA 
+(d) B, E - MCA 
+(e) None is correct  
+ 
+Q71. Who among the following has an MCA degree? 
+(a) C 
+(b) Both B and E 
+(c) Both A and G 
+(d) G 
+(e) None of these 
+ 
+Q72. Which of the following degrees has the least students? 
+(a) BBA 
+(b) MBA 
+(c) MCA 
+(d) Either BBA or MBA 
+(e) Can’t be determined  
+ 
+Q73. In the number ‘248375975’, how many pairs of digits have the same number between them 
+(both forward and backward direction) as in the number series?  
+(a) Four 
+(b) Two 
+(c) One 
+(d) Three 
+(e) More than four 
+ 
+ 
+ 
+19 
+ 
+Directions (74-77): Study the following information carefully and answer the question given below: 
+Seven persons were born in seven different years viz. 1982, 1987, 1990, 1992, 1996, 1998 and 2000. They 
+were born on the same date in the same month. Their ages are calculated on the base year of 2022.  
+E is 10 years older than Y. The number of persons who were born between E and Y is same as the number 
+of persons who were born after R. The Age difference between R and Y is same as the age difference 
+between E and Q. The Age difference between Q and W is 3 years more than the age difference between T 
+and G. Not more than two persons were born between T and G. 
+ 
+Q74. What is the sum of the ages of W and R? 
+(a) 55 years 
+(b) 65 years 
+(c) 52 years 
+(d) 64 years 
+(e) None of these  
+ 
+Q75. The number of persons older than Y is one more than the number of persons younger than ____.  
+(a) G 
+(b) W 
+(c) E 
+(d) Q 
+(e) T 
+ 
+Q76. The sum of the ages of E and R is same as the sum of the ages of _____ and _____.  
+(a) Q, T 
+(b) R, G 
+(c) Q, Y 
+(d) W, G 
+(e) None of these  
+ 
+Q77. If T was born after 1997 then, how many persons were born between G and W? 
+(a) Two 
+(b) Four 
+(c) Three 
+(d) One 
+(e) None of these  
+ 
+Q78. If in the given number “972645466”, all the digits are arranged in descending order from left 
+to right, then what will be the difference between the square of the digits which is 2nd from both 
+ends? 
+(a) 40 
+(b) 33 
+(c) 63 
+(d) 43 
+(e) None of these 
+ 
+ 
+ 
+20 
+ 
+Q79. If we form a four-letter meaningful word with 1st, 3rd, 5th, and 9th letters from the left end of the 
+word ‘’INVENTORY” (using one letter once) , then what would be the 2nd letter of that meaningful 
+word? If no meaningful word is formed, then mark the answer as X. If more than one meaningful 
+word is formed then, mark the answer as Z. 
+(a) Y 
+(b) V 
+(c) N 
+(d) X 
+(e) Z 
+ 
+Q80. Six students get different marks in an exam. B gets higher marks than only R. H gets higher 
+marks than K and lower than I. U gets higher marks than H and lower than I. Who among the 
+following gets the 3rd highest marks? 
+(a) H 
+(b) I  
+(c) U 
+(d) K 
+(e) Either H or U 
+ 
+Directions (81-83): In each of the questions below three statements are given followed by three 
+conclusions numbered I, II and III. You have to take the given statements to be true even if they 
+seem to be at variance with commonly known facts. Read all the conclusions and then decide which 
+of the given conclusions logically follows from the given statements disregarding commonly known 
+facts. 
+ 
+Q81. Statements:  
+Only a few Light is Dark 
+No Dark is Sun 
+Only a few Sun is Moon 
+Conclusions:  
+I. Some Moon is not Light 
+II. Some Moon is not Dark 
+III. All Light being Dark is a possibility 
+(a) None follows  
+(b) Only I follow  
+(c) Only II follow  
+(d) Only III follow  
+(e) Only II and III follow 
+ 
+ 
+ 
+21 
+ 
+Q82. Statements: All Train is Bus 
+No Truck is Auto 
+Only a few Truck are Bus 
+Conclusions: I. All Bus being Auto is a possibility 
+II. All Train being Auto is a possibility 
+III. Some Bus is not Auto 
+(a) None follows  
+(b) Only I follow 
+(c) Only II follow  
+(d) Only I and II follow  
+(e) Only II and III follow  
+ 
+Q83. Statements: Only a few Copy is Pen 
+Only a few Pen is Stationery 
+No Stationery is Book 
+Conclusions: I. All Stationery being Copy is a possibility 
+II. No Copy is Book 
+III. Some Copy is Book 
+(a) None follow  
+(b) Either II or III follow  
+(c) Only I and III follow  
+(d) Only I and either II or III follow  
+(e) All I, II and III follow  
+ 
+Q84. If we form a four-letter meaningful word by using the second, third, fifth and ninth letter from 
+the left end of the word ‘POWERPOINT’, then which of the following will be the fourth letter of the 
+meaningful word thus formed? If more than one meaningful word is formed mark Z as your answer. 
+If no meaningful word is formed, mark X as your answer. 
+(a) W 
+(b) O 
+(c) N 
+(d) X 
+(e) Z 
+ 
+Directions (85-89): Study the following information carefully and answer the questions given below. 
+Nine persons sit in a linear row such that three of them face south direction and the rest of them face north 
+direction. Not more than two persons sit adjacent to each other face the same direction. Six persons sit 
+between H and P who is the only neighbour of R. G sits 3rd to the right of W who sits 2nd to the right of H. 
+The Number of persons sit to the right of G is less than the number of persons sit to the left of G. U and L sit 
+immediately left of each other. O sits 2nd to the right of L who faces the same direction as W. J sits to the 
+right of O. 
+ 
+ 
+ 
+22 
+ 
+Q85. How many persons sit between J and L? 
+(a) Three 
+(b) One 
+(c) None 
+(d) Two 
+(e) None of these 
+ 
+Q86. Who sits 2nd to the right of O? 
+(a) R 
+(b) L 
+(c) J 
+(d) Can’t be determined 
+(e) None of these 
+ 
+Q87. Four of the following five pair are alike in a certain way and forms a group, then which of the 
+pair doesn’t belong to that group? 
+(a) L 
+(b) G 
+(c) W 
+(d) P 
+(e) O 
+ 
+Q88. What is the position of G with respect to J? 
+(a) 2nd to the left 
+(b) 3rd to the right 
+(c) 3rd to the left 
+(d) 4th to the left 
+(e) Can’t be determined 
+ 
+Q89. Which of the following statement(s) is/are true? 
+I. One person sits between P and O 
+II. J sits to the left of H 
+III. Two persons sit to the left of O 
+(a) Only statement III is true 
+(b) Only statement I is true 
+(c) Both statements I and II are true 
+(d) Both statements II and III are true 
+(e) All statements I, II and III are true 
+ 
+ 
+ 
+23 
+ 
+Directions (90-93): Study the following information carefully and answer the questions given below. 
+There are seven members in a family. There is no single parent. P is the only daughter of S. M is the 
+grandmother of X. K is the brother-in-law of B. S is the husband of M. A is the only niece of B. 
+ 
+Q90. How X is related to B? 
+(a) Son 
+(b) Daughter 
+(c) Nephew 
+(d) Brother 
+(e) Can’t be determined 
+ 
+Q91. How K is related to A?  
+(a) Father 
+(b) Brother 
+(c) Uncle 
+(d) Brother-in-law 
+(e) None of these 
+ 
+Q92. How many male members are there in the family? 
+(a) Two 
+(b) Three 
+(c) Four 
+(d) Either two or three 
+(e) Either three or four 
+ 
+Q93. Who among the following is the grandmother of X? 
+(a) P 
+(b) S 
+(c) B 
+(d) Either P or S 
+(e) None of these 
+ 
+Directions (94-95): Study the following information carefully and answer the questions given below. 
+Some points are drawn on a sheet such that all the points are at different directions (having different 
+distances) with each other. Point P is 20m south of Point J. Point E is 23m east of Point M which is exactly 
+in the middle of Point J and Point P. Point E is in the north of Point W and the distance between them is 
+same as the distance between Point M and Point P. Point W is in 8m west of Point V. 
+ 
+ 
+ 
+24 
+ 
+Q94. In which direction is Point M with respect to Point V? 
+(a) West 
+(b) North 
+(c) North-East 
+(d) North- West 
+(e) East 
+ 
+Q95. What is the shortest distance between Point P and Point W? 
+(a) 27m 
+(b) 16m 
+(c) 23m 
+(d) 18m 
+(e) None of these 
+ 
+Directions (96-100): Study the following information carefully and answer the questions given 
+below. 
+Nine persons K, J, Y, R, D, L, X, P and S sit around a circular table but not necessarily in the same order. All 
+of them are facing away from the centre of the table. K sits 3rd to the left of J. One person sits between K and 
+X. Two persons sit between K and L. D sits immediately right of R and both of them are not adjacent to L. At 
+least three persons sit between P and Y (both from left or right) . Y is not adjacent to S. 
+ 
+Q96. Who among the following sits to the immediate right of D? 
+(a) S 
+(b) L 
+(c) None of these 
+(d) J 
+(e) Y 
+ 
+Q97. How many persons sit between the one who sits immediately right of Y and R when counted 
+from left of R? 
+(a) Four 
+(b) Three 
+(c) Two 
+(d) One 
+(e) None 
+ 
+Q98. What will be the difference between the number of persons sit between P and Y when counted 
+from the left of Y and the number of persons sit between D and L when counted from the left of D? 
+(a) 1 
+(b) 3 
+(c) 5 
+(d) Can’t be determined 
+(e) 4 
+ 
+ 
+ 
+25 
+ 
+Q99. Which of the following statement(s) is/are true regarding Y? 
+(a) Y sits immediate right of K 
+(b) L sits 2nd to the left of Y 
+(c) Two persons sit between Y and P 
+(d) L and K are immediate neighbours of Y 
+(e) All are true 
+ 
+Q100. Four of the following five pair are alike in a certain way and thus forms a group, then which 
+among the following pair doesn’t belong to that group? 
+(a) K, R 
+(b) S, L 
+(c) R, J 
+(d) Y, K 
+(e) J, P 
+ 
+ 
+Solutions 

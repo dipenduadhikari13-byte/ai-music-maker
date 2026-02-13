@@ -1,0 +1,643 @@
+{
+  "timestamp": "2026-02-12T18:55:30.565895",
+  "config": {
+    "songs_per_artist": 20,
+    "languages": [
+      "hindi",
+      "haryanvi",
+      "punjabi"
+    ],
+    "artists": {
+      "hindi": [
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Jubin Nautiyal",
+        "Atif Aslam",
+        "Neha Kakkar",
+        "Darshan Raval",
+        "Vishal Mishra",
+        "Pritam",
+        "Armaan Malik",
+        "Sachet Tandon"
+      ],
+      "haryanvi": [
+        "Sapna Choudhary",
+        "Masoom Sharma",
+        "Renuka Panwar",
+        "Pranjal Dahiya",
+        "Amanraj Gill",
+        "Ruchika Jangid",
+        "Raj Mawar",
+        "Kanchan Nagar",
+        "Ajay Bhagta",
+        "Khasa Aala Chahar"
+      ],
+      "punjabi": [
+        "Sidhu Moose Wala",
+        "AP Dhillon",
+        "Diljit Dosanjh",
+        "Karan Aujla",
+        "Ammy Virk",
+        "Harrdy Sandhu",
+        "Guru Randhawa",
+        "Jass Manak",
+        "Shubh",
+        "Jasmine Sandlas"
+      ]
+    }
+  },
+  "summary": {
+    "hindi": {
+      "total": 200,
+      "found": 149
+    },
+    "haryanvi": {
+      "total": 200,
+      "found": 91
+    },
+    "punjabi": {
+      "total": 200,
+      "found": 167
+    }
+  },
+  "artist_stats": {
+    "hindi": {
+      "Arijit Singh": {
+        "total": 20,
+        "found": 16,
+        "failed": [
+          "Into You",
+          "Jis Pe Rakhe Tum Ne Kadam (Viral Version)",
+          "Maatrubhumi (From \"Battle Of Galwan\")",
+          "Soch Liya Lofi Flip"
+        ]
+      },
+      "Shreya Ghoshal": {
+        "total": 20,
+        "found": 11,
+        "failed": [
+          "O Maayi Ri (From \"The Kerala Story 2 Goes Beyond\")",
+          "Maatrubhumi (From \"Battle Of Galwan\")",
+          "Thalodi Marayuvathevide Nee - Female Version",
+          "Thalodi Marayuvathevide Nee (From \"Magic Mushrooms\")",
+          "Durga Mahashakti Prakasha Jyoti",
+          "Lukochuri Khela (From \"Lawho Gouranger Naam Rey\") (Original Motion Picture Soundtrack)",
+          "Addham Mundhu (From \"Bhartha Mahasayulaku Wignyapthi\")",
+          "Pehle Kyun Na Mile (From \"Bhoomi 2025\")",
+          "Pelli Shuru (From \"Premante\")"
+        ]
+      },
+      "Jubin Nautiyal": {
+        "total": 20,
+        "found": 13,
+        "failed": [
+          "Do Deewane Seher Mein",
+          "Lenin",
+          "Ranjhe Nu Heer (From the Movie \"Kis Kisko Pyaar Karoon 2\")",
+          "Kuch Paas Mere - Lofi",
+          "Sab Kuch Bhagwan Tumhi Se Hai",
+          "Judaa (From \"Mehar\")",
+          "WAR2"
+        ]
+      },
+      "Atif Aslam": {
+        "total": 20,
+        "found": 17,
+        "failed": [
+          "Sawan Mere Sookhe (Main Agar - Trending Version)",
+          "Hum Mustafavi Hain",
+          "National Anthem"
+        ]
+      },
+      "Neha Kakkar": {
+        "total": 20,
+        "found": 17,
+        "failed": [
+          "Tu Pyaasa Hai",
+          "Bas Tu Hove",
+          "Ki Lagda (From \"Badnaam\") (Original Motion Picture Soundtrack)"
+        ]
+      },
+      "Darshan Raval": {
+        "total": 20,
+        "found": 16,
+        "failed": [
+          "New Years Celebration Mix (Kheech Meri Photo)",
+          "Chogada Garba Mix",
+          "Kaniya Jogi Ni Meldi",
+          "KhairMangde - Chill Flip"
+        ]
+      },
+      "Vishal Mishra": {
+        "total": 20,
+        "found": 17,
+        "failed": [
+          "Saathi Re (From \"The Kerala Story 2 Goes Beyond\")",
+          "Kya Meri Yaad Aati Hai - LoFi Flip",
+          "Majaa Majaa - Deva"
+        ]
+      },
+      "Pritam": {
+        "total": 20,
+        "found": 14,
+        "failed": [
+          "Qayde Se - Romantic Reprise (From \"Metro ... In Dino\")",
+          "Yegarei - 83",
+          "Benam Wajah",
+          "Aansuon Ka Safer",
+          "Sawal",
+          "Meri Wajah"
+        ]
+      },
+      "Armaan Malik": {
+        "total": 20,
+        "found": 14,
+        "failed": [
+          "Vibe Undi (From \"Mirai\") [Telugu]",
+          "Aakhri Salaam (From \"De De Pyaar De 2\")",
+          "Bayaan",
+          "Telusa Nee Kosame... (From \"Santhana Prapthirasthu\")",
+          "Vibe Aithe Baby (From \"Mirai\") [Kannada]",
+          "Vibe Hai Baby (From \"Mirai\") [Hindi]"
+        ]
+      },
+      "Sachet Tandon": {
+        "total": 20,
+        "found": 14,
+        "failed": [
+          "The Rajasaab - Hindi",
+          "WAR2",
+          "Chandni Lofi Mix",
+          "Kamle (From \"Raid 2\")",
+          "Ye Chola Maa Tera Chola",
+          "Rebel Saab"
+        ]
+      }
+    },
+    "haryanvi": {
+      "Sapna Choudhary": {
+        "total": 20,
+        "found": 8,
+        "failed": [
+          "Jale 3 (Balma)",
+          "Haryana Main Rola",
+          "Zamindarni",
+          "Zulfi (feat. Ankur Rajput)",
+          "Sarkar",
+          "Dhol Kuye Me",
+          "Bullet Proof (Ramphal)",
+          "Pistol",
+          "Suthri (feat. Yash Bayla)",
+          "Pani Chhalke 2",
+          "Chhaliya (feat. Vivek Raghav)",
+          "Fouji Fojan"
+        ]
+      },
+      "Masoom Sharma": {
+        "total": 20,
+        "found": 8,
+        "failed": [
+          "Mithe Tere Bol Pari",
+          "Competition (feat. Pranjal Dahiya)",
+          "Five Finger",
+          "Taj Mahal",
+          "Tension (feat. Anoop Chahal)",
+          "Yamraj (feat. Kirti kumar satta & Rahul Muana)",
+          "Maut Ki Koli",
+          "Aankh Katili",
+          "Amazon",
+          "Bal Thackeray",
+          "Lagi Dil",
+          "Poora Protocol"
+        ]
+      },
+      "Renuka Panwar": {
+        "total": 20,
+        "found": 9,
+        "failed": [
+          "Banno",
+          "Yaar Aawara",
+          "Tane Yaad Karu",
+          "Aasra",
+          "32 Ke Fire (Kabootar) (feat. Nidhi Sharma)",
+          "Faltu Sauda",
+          "Afsaane",
+          "Lapeta",
+          "Dukh Mota",
+          "Wrangler (feat. Geet Goraya)",
+          "Shyano Ji"
+        ]
+      },
+      "Pranjal Dahiya": {
+        "total": 20,
+        "found": 9,
+        "failed": [
+          "Financer",
+          "Khaan Ne Daane",
+          "Bateu Aar Paar",
+          "Ghagre Wali Chhori",
+          "Born Jaat (feat. Pranjal Dahiya)",
+          "Saiyaan Ji Sharmile",
+          "Teri Jatni (feat. D Naveen)",
+          "Sharmile Saiyaan (feat. Bulbul)",
+          "Badmasha Ke Gunn",
+          "Bateu Khugya",
+          "Demand"
+        ]
+      },
+      "Amanraj Gill": {
+        "total": 20,
+        "found": 14,
+        "failed": [
+          "Circle",
+          "Hopeless-Lofi Mix",
+          "Teri Photo",
+          "Curfew",
+          "Na Jaave (feat. Yash ruhal)",
+          "Protocol"
+        ]
+      },
+      "Ruchika Jangid": {
+        "total": 20,
+        "found": 7,
+        "failed": [
+          "GYM (feat. Vaishali Chaudhary)",
+          "Chhaliya",
+          "Love You (feat. Aamin Barodi)",
+          "Balam Sipahi (feat. Prince Sharma & Aarohi Raghav)",
+          "Aaja Re Nindiya From - Kayantar",
+          "Punjab Vs Haryana",
+          "Feeling",
+          "Film Chandrawal Agains (feat. Khushi Baliyan)",
+          "Kunsa Sabun Lave",
+          "Pistol Rakhe Se",
+          "Madam Cute Lofi",
+          "Desi Chhora",
+          "Halwa Sharir"
+        ]
+      },
+      "Raj Mawar": {
+        "total": 20,
+        "found": 6,
+        "failed": [
+          "Hero Handa (feat. Punit Choudhary)",
+          "Uncha Nicha Rasta (feat. Bharti Choudhary)",
+          "Bagdo (feat. Mannu Pahari & Khushi Baliyan)",
+          "Lugai",
+          "Tere Chote Chote Kapde",
+          "Pehli Raat",
+          "Raljya Gi Jaata Me (feat. Biru Kataria & Vaishali Chaudhary Khutail)",
+          "Soulmate (feat. Rinku Sihag)",
+          "Chadhai",
+          "Ragda Jhandu Baam Ka",
+          "Bukkal (Jade Aale Din)",
+          "Choudhar Ka Rola",
+          "Aankhya Te Maregi (feat. Khushi Baliyan & Vivek Raghav)",
+          "Gall Me Aandhi (feat. Aman Jaji & Pranjal Dahiya)"
+        ]
+      },
+      "Kanchan Nagar": {
+        "total": 20,
+        "found": 6,
+        "failed": [
+          "Check Aali Shirt",
+          "Suit Te Chunni Match Kare",
+          "Chere pe glow",
+          "VVIP NO. GAADI",
+          "9 Lakkha",
+          "Nimboda",
+          "Queen of Tears",
+          "Chan Chan Bole Tagdi",
+          "Suit Te Chunni Match Kare - Lofi",
+          "Gud Ki Dali",
+          "Nashile Nain",
+          "Pasli Me Dard DJ Remix",
+          "Rahtak Ke Mele Me",
+          "Jhada Baba Ji"
+        ]
+      },
+      "Ajay Bhagta": {
+        "total": 20,
+        "found": 11,
+        "failed": [
+          "Born Jaat (feat. Pranjal Dahiya)",
+          "Ban",
+          "Bhole Tere Ishq Me",
+          "Maa Babu",
+          "Dada Pota",
+          "Gadi Pe Likha Army",
+          "Final Year",
+          "Chail Haryane Ka LoFi (Lofi)",
+          "Bewda Log"
+        ]
+      },
+      "Khasa Aala Chahar": {
+        "total": 20,
+        "found": 13,
+        "failed": [
+          "Tauba Tauba (feat. Sapna Choudhary)",
+          "Jeep",
+          "Jat Jugadi",
+          "Parna",
+          "Lath",
+          "Jaat Bagdo",
+          "Sector 15"
+        ]
+      }
+    },
+    "punjabi": {
+      "Sidhu Moose Wala": {
+        "total": 20,
+        "found": 17,
+        "failed": [
+          "GORI GORI VEENI",
+          "ISSA JATT - Sidhu Moose wala New punjabi song",
+          "GOLI x TATTOO Sidhu moose wala"
+        ]
+      },
+      "AP Dhillon": {
+        "total": 20,
+        "found": 20,
+        "failed": []
+      },
+      "Diljit Dosanjh": {
+        "total": 20,
+        "found": 15,
+        "failed": [
+          "Border 2 (Trailer)",
+          "Saanvle (feat. Raj Ranjodh)",
+          "Disde Ne Nanak",
+          "Noor Nanak - Sukoon Version",
+          "Namaskar"
+        ]
+      },
+      "Karan Aujla": {
+        "total": 20,
+        "found": 19,
+        "failed": [
+          "gabru karan aujla"
+        ]
+      },
+      "Ammy Virk": {
+        "total": 20,
+        "found": 10,
+        "failed": [
+          "Main Nachdi (From \"Saunkan Saunkanay 2\")",
+          "Blessed",
+          "Godday Godday Chaa 2 (Original Motion Picture Soundtrack)",
+          "Lehange Dian Kishtaan (From \"Godday Godday Chaa 2\")",
+          "Billo Ji (From \"Godday Godday Chaa 2\")",
+          "Aaj Na Bula Jatta Nu (From \"Godday Godday Chaa 2\")",
+          "Peg Pugg Laake (From \"Nikka Zaildar 4\")",
+          "Akhan Ch Vasavan (From \"Nikka Zaildar 4\")",
+          "Sarbala Ji - Title Song (From \"Sarbala Ji\")",
+          "Saade Kothe Utte (From \"Saunkan Saunkne\")"
+        ]
+      },
+      "Harrdy Sandhu": {
+        "total": 20,
+        "found": 15,
+        "failed": [
+          "HORNN BLOW",
+          "Tevar",
+          "KI HAAL AA",
+          "Baby",
+          "Pleasures"
+        ]
+      },
+      "Guru Randhawa": {
+        "total": 20,
+        "found": 16,
+        "failed": [
+          "Harjana (From \"Shaunki Sardar\")",
+          "Tu Kaun Main Kaun (From \"Shaunki Sardar\")",
+          "Sher Te Shikaar (From \"Shaunki Sardar\")",
+          "Intro"
+        ]
+      },
+      "Jass Manak": {
+        "total": 20,
+        "found": 18,
+        "failed": [
+          "Shut Down",
+          "Late Night Talks"
+        ]
+      },
+      "Shubh": {
+        "total": 20,
+        "found": 20,
+        "failed": []
+      },
+      "Jasmine Sandlas": {
+        "total": 20,
+        "found": 17,
+        "failed": [
+          "Jee Nai Lagda",
+          "Brown Baddie",
+          "Gaana Challe Ya Na"
+        ]
+      }
+    }
+  },
+  "failed": {
+    "hindi": [
+      "Into You — Arijit Singh",
+      "Jis Pe Rakhe Tum Ne Kadam (Viral Version) — Arijit Singh",
+      "Maatrubhumi (From \"Battle Of Galwan\") — Arijit Singh",
+      "Soch Liya Lofi Flip — Arijit Singh",
+      "O Maayi Ri (From \"The Kerala Story 2 Goes Beyond\") — Shreya Ghoshal",
+      "Maatrubhumi (From \"Battle Of Galwan\") — Shreya Ghoshal",
+      "Thalodi Marayuvathevide Nee - Female Version — Shreya Ghoshal",
+      "Thalodi Marayuvathevide Nee (From \"Magic Mushrooms\") — Shreya Ghoshal",
+      "Durga Mahashakti Prakasha Jyoti — Shreya Ghoshal",
+      "Lukochuri Khela (From \"Lawho Gouranger Naam Rey\") (Original Motion Picture Soundtrack) — Shreya Ghoshal",
+      "Addham Mundhu (From \"Bhartha Mahasayulaku Wignyapthi\") — Shreya Ghoshal",
+      "Pehle Kyun Na Mile (From \"Bhoomi 2025\") — Shreya Ghoshal",
+      "Pelli Shuru (From \"Premante\") — Shreya Ghoshal",
+      "Do Deewane Seher Mein — Jubin Nautiyal",
+      "Lenin — Jubin Nautiyal",
+      "Ranjhe Nu Heer (From the Movie \"Kis Kisko Pyaar Karoon 2\") — Jubin Nautiyal",
+      "Kuch Paas Mere - Lofi — Jubin Nautiyal",
+      "Sab Kuch Bhagwan Tumhi Se Hai — Jubin Nautiyal",
+      "Judaa (From \"Mehar\") — Jubin Nautiyal",
+      "WAR2 — Jubin Nautiyal",
+      "Sawan Mere Sookhe (Main Agar - Trending Version) — Atif Aslam",
+      "Hum Mustafavi Hain — Atif Aslam",
+      "National Anthem — Atif Aslam",
+      "Tu Pyaasa Hai — Neha Kakkar",
+      "Bas Tu Hove — Neha Kakkar",
+      "Ki Lagda (From \"Badnaam\") (Original Motion Picture Soundtrack) — Neha Kakkar",
+      "New Years Celebration Mix (Kheech Meri Photo) — Darshan Raval",
+      "Chogada Garba Mix — Darshan Raval",
+      "Kaniya Jogi Ni Meldi — Darshan Raval",
+      "KhairMangde - Chill Flip — Darshan Raval",
+      "Saathi Re (From \"The Kerala Story 2 Goes Beyond\") — Vishal Mishra",
+      "Kya Meri Yaad Aati Hai - LoFi Flip — Vishal Mishra",
+      "Majaa Majaa - Deva — Vishal Mishra",
+      "Qayde Se - Romantic Reprise (From \"Metro ... In Dino\") — Pritam",
+      "Yegarei - 83 — Pritam",
+      "Benam Wajah — Pritam",
+      "Aansuon Ka Safer — Pritam",
+      "Sawal — Pritam",
+      "Meri Wajah — Pritam",
+      "Vibe Undi (From \"Mirai\") [Telugu] — Armaan Malik",
+      "Aakhri Salaam (From \"De De Pyaar De 2\") — Armaan Malik",
+      "Bayaan — Armaan Malik",
+      "Telusa Nee Kosame... (From \"Santhana Prapthirasthu\") — Armaan Malik",
+      "Vibe Aithe Baby (From \"Mirai\") [Kannada] — Armaan Malik",
+      "Vibe Hai Baby (From \"Mirai\") [Hindi] — Armaan Malik",
+      "The Rajasaab - Hindi — Sachet Tandon",
+      "WAR2 — Sachet Tandon",
+      "Chandni Lofi Mix — Sachet Tandon",
+      "Kamle (From \"Raid 2\") — Sachet Tandon",
+      "Ye Chola Maa Tera Chola — Sachet Tandon",
+      "Rebel Saab — Sachet Tandon"
+    ],
+    "haryanvi": [
+      "Jale 3 (Balma) — Sapna Choudhary",
+      "Haryana Main Rola — Sapna Choudhary",
+      "Zamindarni — Sapna Choudhary",
+      "Zulfi (feat. Ankur Rajput) — Sapna Choudhary",
+      "Sarkar — Sapna Choudhary",
+      "Dhol Kuye Me — Sapna Choudhary",
+      "Bullet Proof (Ramphal) — Sapna Choudhary",
+      "Pistol — Sapna Choudhary",
+      "Suthri (feat. Yash Bayla) — Sapna Choudhary",
+      "Pani Chhalke 2 — Sapna Choudhary",
+      "Chhaliya (feat. Vivek Raghav) — Sapna Choudhary",
+      "Fouji Fojan — Sapna Choudhary",
+      "Mithe Tere Bol Pari — Masoom Sharma",
+      "Competition (feat. Pranjal Dahiya) — Masoom Sharma",
+      "Five Finger — Masoom Sharma",
+      "Taj Mahal — Masoom Sharma",
+      "Tension (feat. Anoop Chahal) — Masoom Sharma",
+      "Yamraj (feat. Kirti kumar satta & Rahul Muana) — Masoom Sharma",
+      "Maut Ki Koli — Masoom Sharma",
+      "Aankh Katili — Masoom Sharma",
+      "Amazon — Masoom Sharma",
+      "Bal Thackeray — Masoom Sharma",
+      "Lagi Dil — Masoom Sharma",
+      "Poora Protocol — Masoom Sharma",
+      "Banno — Renuka Panwar",
+      "Yaar Aawara — Renuka Panwar",
+      "Tane Yaad Karu — Renuka Panwar",
+      "Aasra — Renuka Panwar",
+      "32 Ke Fire (Kabootar) (feat. Nidhi Sharma) — Renuka Panwar",
+      "Faltu Sauda — Renuka Panwar",
+      "Afsaane — Renuka Panwar",
+      "Lapeta — Renuka Panwar",
+      "Dukh Mota — Renuka Panwar",
+      "Wrangler (feat. Geet Goraya) — Renuka Panwar",
+      "Shyano Ji — Renuka Panwar",
+      "Financer — Pranjal Dahiya",
+      "Khaan Ne Daane — Pranjal Dahiya",
+      "Bateu Aar Paar — Pranjal Dahiya",
+      "Ghagre Wali Chhori — Pranjal Dahiya",
+      "Born Jaat (feat. Pranjal Dahiya) — Pranjal Dahiya",
+      "Saiyaan Ji Sharmile — Pranjal Dahiya",
+      "Teri Jatni (feat. D Naveen) — Pranjal Dahiya",
+      "Sharmile Saiyaan (feat. Bulbul) — Pranjal Dahiya",
+      "Badmasha Ke Gunn — Pranjal Dahiya",
+      "Bateu Khugya — Pranjal Dahiya",
+      "Demand — Pranjal Dahiya",
+      "Circle — Amanraj Gill",
+      "Hopeless-Lofi Mix — Amanraj Gill",
+      "Teri Photo — Amanraj Gill",
+      "Curfew — Amanraj Gill",
+      "Na Jaave (feat. Yash ruhal) — Amanraj Gill",
+      "Protocol — Amanraj Gill",
+      "GYM (feat. Vaishali Chaudhary) — Ruchika Jangid",
+      "Chhaliya — Ruchika Jangid",
+      "Love You (feat. Aamin Barodi) — Ruchika Jangid",
+      "Balam Sipahi (feat. Prince Sharma & Aarohi Raghav) — Ruchika Jangid",
+      "Aaja Re Nindiya From - Kayantar — Ruchika Jangid",
+      "Punjab Vs Haryana — Ruchika Jangid",
+      "Feeling — Ruchika Jangid",
+      "Film Chandrawal Agains (feat. Khushi Baliyan) — Ruchika Jangid",
+      "Kunsa Sabun Lave — Ruchika Jangid",
+      "Pistol Rakhe Se — Ruchika Jangid",
+      "Madam Cute Lofi — Ruchika Jangid",
+      "Desi Chhora — Ruchika Jangid",
+      "Halwa Sharir — Ruchika Jangid",
+      "Hero Handa (feat. Punit Choudhary) — Raj Mawar",
+      "Uncha Nicha Rasta (feat. Bharti Choudhary) — Raj Mawar",
+      "Bagdo (feat. Mannu Pahari & Khushi Baliyan) — Raj Mawar",
+      "Lugai — Raj Mawar",
+      "Tere Chote Chote Kapde — Raj Mawar",
+      "Pehli Raat — Raj Mawar",
+      "Raljya Gi Jaata Me (feat. Biru Kataria & Vaishali Chaudhary Khutail) — Raj Mawar",
+      "Soulmate (feat. Rinku Sihag) — Raj Mawar",
+      "Chadhai — Raj Mawar",
+      "Ragda Jhandu Baam Ka — Raj Mawar",
+      "Bukkal (Jade Aale Din) — Raj Mawar",
+      "Choudhar Ka Rola — Raj Mawar",
+      "Aankhya Te Maregi (feat. Khushi Baliyan & Vivek Raghav) — Raj Mawar",
+      "Gall Me Aandhi (feat. Aman Jaji & Pranjal Dahiya) — Raj Mawar",
+      "Check Aali Shirt — Kanchan Nagar",
+      "Suit Te Chunni Match Kare — Kanchan Nagar",
+      "Chere pe glow — Kanchan Nagar",
+      "VVIP NO. GAADI — Kanchan Nagar",
+      "9 Lakkha — Kanchan Nagar",
+      "Nimboda — Kanchan Nagar",
+      "Queen of Tears — Kanchan Nagar",
+      "Chan Chan Bole Tagdi — Kanchan Nagar",
+      "Suit Te Chunni Match Kare - Lofi — Kanchan Nagar",
+      "Gud Ki Dali — Kanchan Nagar",
+      "Nashile Nain — Kanchan Nagar",
+      "Pasli Me Dard DJ Remix — Kanchan Nagar",
+      "Rahtak Ke Mele Me — Kanchan Nagar",
+      "Jhada Baba Ji — Kanchan Nagar",
+      "Born Jaat (feat. Pranjal Dahiya) — Ajay Bhagta",
+      "Ban — Ajay Bhagta",
+      "Bhole Tere Ishq Me — Ajay Bhagta",
+      "Maa Babu — Ajay Bhagta",
+      "Dada Pota — Ajay Bhagta",
+      "Gadi Pe Likha Army — Ajay Bhagta",
+      "Final Year — Ajay Bhagta",
+      "Chail Haryane Ka LoFi (Lofi) — Ajay Bhagta",
+      "Bewda Log — Ajay Bhagta",
+      "Tauba Tauba (feat. Sapna Choudhary) — Khasa Aala Chahar",
+      "Jeep — Khasa Aala Chahar",
+      "Jat Jugadi — Khasa Aala Chahar",
+      "Parna — Khasa Aala Chahar",
+      "Lath — Khasa Aala Chahar",
+      "Jaat Bagdo — Khasa Aala Chahar",
+      "Sector 15 — Khasa Aala Chahar"
+    ],
+    "punjabi": [
+      "GORI GORI VEENI — Sidhu Moose Wala",
+      "ISSA JATT - Sidhu Moose wala New punjabi song — Sidhu Moose Wala",
+      "GOLI x TATTOO Sidhu moose wala — Sidhu Moose Wala",
+      "Border 2 (Trailer) — Diljit Dosanjh",
+      "Saanvle (feat. Raj Ranjodh) — Diljit Dosanjh",
+      "Disde Ne Nanak — Diljit Dosanjh",
+      "Noor Nanak - Sukoon Version — Diljit Dosanjh",
+      "Namaskar — Diljit Dosanjh",
+      "gabru karan aujla — Karan Aujla",
+      "Main Nachdi (From \"Saunkan Saunkanay 2\") — Ammy Virk",
+      "Blessed — Ammy Virk",
+      "Godday Godday Chaa 2 (Original Motion Picture Soundtrack) — Ammy Virk",
+      "Lehange Dian Kishtaan (From \"Godday Godday Chaa 2\") — Ammy Virk",
+      "Billo Ji (From \"Godday Godday Chaa 2\") — Ammy Virk",
+      "Aaj Na Bula Jatta Nu (From \"Godday Godday Chaa 2\") — Ammy Virk",
+      "Peg Pugg Laake (From \"Nikka Zaildar 4\") — Ammy Virk",
+      "Akhan Ch Vasavan (From \"Nikka Zaildar 4\") — Ammy Virk",
+      "Sarbala Ji - Title Song (From \"Sarbala Ji\") — Ammy Virk",
+      "Saade Kothe Utte (From \"Saunkan Saunkne\") — Ammy Virk",
+      "HORNN BLOW — Harrdy Sandhu",
+      "Tevar — Harrdy Sandhu",
+      "KI HAAL AA — Harrdy Sandhu",
+      "Baby — Harrdy Sandhu",
+      "Pleasures — Harrdy Sandhu",
+      "Harjana (From \"Shaunki Sardar\") — Guru Randhawa",
+      "Tu Kaun Main Kaun (From \"Shaunki Sardar\") — Guru Randhawa",
+      "Sher Te Shikaar (From \"Shaunki Sardar\") — Guru Randhawa",
+      "Intro — Guru Randhawa",
+      "Shut Down — Jass Manak",
+      "Late Night Talks — Jass Manak",
+      "Jee Nai Lagda — Jasmine Sandlas",
+      "Brown Baddie — Jasmine Sandlas",
+      "Gaana Challe Ya Na — Jasmine Sandlas"
+    ]
+  }
+}

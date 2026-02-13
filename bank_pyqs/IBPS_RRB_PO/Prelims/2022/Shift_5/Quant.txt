@@ -1,0 +1,401 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 5
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152911/RRB-PO-Pre-2022-21st-August-Shift-Wise-Previous-Year-Paper-Mock-05.pdf
+======================================================================
+
+Q41. The number of ‘Android mobiles’ sold by store P and store Q is 30% and 40% respectively. 
+Find the total ‘IOS mobiles’ sold by store P and Q together? 
+(a) 180 
+(b) 140 
+(c) 160 
+(d) 200 
+(e) 240 
+ 
+Q42. The average number of mobiles sold by store Q and store R together is how much more or 
+less than total unsold mobiles by store P? 
+(a) 175 
+(b) 195 
+(c) 165 
+(d) 145   
+(e) 225 
+ 
+Q43. If the ratio of total ‘Android mobiles’ to total ‘IOS 
+mobiles’ sold by stores R and Q is 5 : 4 and 3 : 2 respectively, 
+then find the total number of ‘Android mobiles’ sold by store 
+R & Q together? 
+(a) 450 
+(b) 420 
+(c) 350 
+(d) 390 
+(e) 320 
+ 
+ 
+11 
+ 
+ 
+Q44. Total unsold mobiles of store P is what percent (approximate) of the total unsold mobiles 
+of store Q & R together? 
+(a) 65% 
+(b) 60% 
+(c) 40% 
+(d) 55% 
+(e) 45% 
+ 
+Q45. Find the total number of mobiles sold by all three stores P, Q & R together? 
+(a) 720 
+(b) 780 
+(c) 810 
+(d) 840 
+(e) 880 
+ 
+Q46. A man has 250 l milk and each time he takes out 25 l of milk and replaced it with same 
+quantity of water. If he repeats this process thrice then find quantity of milk in final solution (in 
+liter). 
+(a) 162.225  
+(b) 182.25  
+(c) 142.25 
+(d) 122.25  
+(e) 102.25 
+ 
+Q47. Ratio of volume of two spheres is 27 : 64 and radius of larger sphere is 14 cm. If radius of 
+smaller sphere is 7.5 cm less than side of a square, then find the area of that square (in cm²)? 
+(a) 225 
+(b) 484 
+(c) 625 
+(d) 324  
+(e) 361 
+ 
+Q48.  Adarsh is two years older than Ayush and ratio of present age of Adarsh and Sameer is 13 
+: 15 and. If ratio between age of Ayush & Sameer after three years is 9 : 11, then find the 
+difference between Adarsh age after five years & Sameer’s present age (in year)? 
+(a) 1  
+(b) 2 
+(c) 3 
+(d) 4  
+(e) 5 
+ 
+ 
+12 
+ 
+ 
+Q49. Two cards are drawn randomly from a pack of 52 cards. Then, find the probability of getting 
+at least one 1 red king and 1 black king, if replacement is not allowed. 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q50. A shopkeeper gives one article free at purchase of every four article and also allows 10% 
+discount. If he wants to earn 8% profit then find market price is what percent of cost price of 
+each article. 
+(a) 150% 
+(b) 50% 
+(c) 100% 
+(d) 75% 
+(e) 20% 
+ 
+Q51. Upstream speed of a boat is 62 ½ % of downstream speed of that boat and boat takes 1.5 
+hours more to cover a distance of 65 km in upstream than that in still water. Find speed of 
+stream? 
+(a) 6 km/hr 
+(b) 3 km/hr 
+(c) 5 km/hr  
+(d) 4 km/hr 
+(e) 3.5 km/hr 
+ 
+Q52. Hemant invest 1800 Rs at rate of 5% and x% per annum in ratio 4 : 5 respectively. At the 
+end of 2 year, he will get total Rs 160 as SI. Find value of x 
+(a) 4% 
+(b) 6% 
+(c) 8% 
+(d) 4.5% 
+(e) 3% 
+ 
+Q53. A train of length 1.6 km crosses a pole in 3 min. Another train coming from opposite 
+direction with speed of 50 km/h can cross first train in 𝟐
+𝟖
+𝟒𝟏 𝐦𝐢𝐧 Find length of train which has 
+speed of 50 km/h. 
+ 
+ 
+13 
+ 
+(a) 1.4 km 
+(b) 1.2 km 
+(c) 1.8 km 
+(d) 3 km 
+(e) 2 km 
+ 
+Q54. Manoj’s monthly income is Rs. 5000. Due to 10% increase in his income his expenditure is 
+increased by 18% and savings are reduced by 2%. Find his initial expenditure. (In Rs.) 
+(a) 3480 
+(b) 3040 
+(c) 3000 
+(d) 3140 
+(e) 3080 
+ 
+Q55.The average weight of seven students in a class is 26.5 kg. When a new student joins them, 
+the average weight increases by 2.5 kg.Find the weight of the new student?(in kg) 
+(a) 46.5 
+(b) 43.5 
+(c) 48.5 
+(d) 39.5 
+(e) 41.5 
+ 
+Directions (56-61): Find the approximate value of question marks (?) in following questions? 
+ 
+Q56. 
+ 
+(a) 30 
+(b) 60 
+(c) 50 
+(d) 40 
+(e) 70 
+ 
+Q57. 
+ 
+(a) 30 
+(b) 25 
+(c) 28 
+(d) 22 
+(e) 19 
+ 
+ 
+14 
+ 
+ 
+Q58. 
+ 
+(a) 27 
+(b) 22 
+(c) 24 
+(d) 23 
+(e) 25 
+ 
+Q59. 
+ 
+(a) 15 
+(b) 9 
+(c) 18 
+(d) 21 
+(e) 12 
+ 
+Q60.  
+   
+(a) 25 
+(b) 36 
+(c) 49 
+(d) 16 
+(e) 9 
+ 
+Q61. 
+ 
+(a) 14 
+(b) 19 
+(c) 1 
+(d) 8 
+(e) 4 
+ 
+Q62. Veer, Aayush and Shivam entered into a business and invested in the ratio of a : 12 : 15 
+respectively. If time period for which Veer, Aayush and Shivam invested is in the ratio of 12: 10 
+: b respectively and the profit share of Veer, Aayush and Shivam are same, then find ‘a-b’? 
+(a) 4 
+(b) 3 
+(c) 5 
+(d) 2 
+(e) None of these 
+ 
+ 
+15 
+ 
+ 
+Q63. Average of four numbers is increased by 1 when a number is replaced by x and average of 
+that four number is decreased by 1 when another number is replaced with x. What is the 
+difference of the both numbers?   
+ 
+(a) 6 
+(b) 8 
+(c) 16 
+(d) 4 
+(e) Cannot be determined 
+ 
+Q64. There are three numbers and the ratio of first to second number is 9:10, while the ratio of 
+first to third number is 3:4. If average of all the three numbers is 62, then find difference of 
+second and third number?  
+(a) 8 
+(b) 10 
+(c) 12 
+(d) 14 
+(e) 16 
+ 
+Q65. 400 students took the All-India mock test, 60% of the boys and 80% of the girls cleared the 
+cut off in this mock test. If the total percentage of students cleared the cut off of this mock test is 
+65%, then find how many girls appeared in this mock test?  
+(a) 100 
+(b) 120 
+(c) 150 
+(d) 300 
+(e) 125 
+ 
+Directions (66-70): Read the given information carefully and answer the following questions. 
+Aayush has two daughters (Sneha and Neha) and two sons (Vivek and Vikash). Present age of Aayush 
+is equal to the sum of present age of both the sons and 125% of the sum of present age of both the 
+daughters. Vikash was 20 years elder to Sneha who was that time 16 years younger to her sister. 10 
+years ago, ratio of age of Aayush to that of Vivek at that time was 3:1. 
+ 
+Q66. Find the ratio of age of Neha four years later to that of age of Vivek ten years later? 
+(a) 2 : 1 
+(b) 1 : 2 
+(c) 1 : 1 
+(d) 3 : 2 
+(e) 2 : 3 
+ 
+ 
+16 
+ 
+ 
+Q67. Find the average of present age of all the five members? 
+(a) 39.6 years 
+(b) 39.4 years 
+(c) 38.8 years 
+(d) 38.4 years 
+(e) 39.2 years 
+ 
+Q68. Find the difference between sum of present age of Vivek and Vikash together and the sum 
+of present age of Sneha and Neha together? 
+(a) 14 years 
+(b) 21 years 
+(c) 18 years 
+(d) 20 years 
+(e) 12 years 
+ 
+Q69. Difference between the age of the eldest child and that of the youngest child is what percent 
+of the present age of Neha? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q70. If ratio of age of Aayush’s wife four years ago to that of her eldest child four years ago was 
+5: 3 then find the difference between age of Aayush and that of his wife 15 years hence? 
+(a) 4 years 
+(b) 10 years 
+(c) 5 years 
+(d) 6 years 
+(e) 8 years 
+ 
+Directions (71-75):- The line graph given below shows the number of males and females in five 
+cities A,B,C,D and E. Read the graph & find the solution of the given questions. 
+ 
+ 
+17 
+ 
+ 
+ 
+Q71. Which city has the minimum population among the five cities? 
+(a) E 
+(b) D 
+(c) C 
+(d) B 
+(e) A 
+ 
+Q72. If no. of males in city A & B increase by 10% & 20% respectively then what will be the 
+difference in total population of A & B. 
+(a) 1 lakh 
+(b) 1.1 lakh 
+(c) 1.2 lakh 
+(d) 1.3 lakh 
+(e) 1.4 lakh 
+ 
+Q73. Find the ratio of the average no. of males in B, C, D to average no. females in C, D, E ? 
+(a) 15 : 23 
+(b) 15 : 22 
+(c) 22 : 15 
+(d) 23 : 15 
+(e) None of these 
+ 
+ 
+18 
+ 
+ 
+Q74. What is % of females (approximate) in total population? 
+(a) 35% 
+(b) 43% 
+(c) 50% 
+(d) 30% 
+(e) 55% 
+ 
+Q75. If the population of D & B increases by 10% & 15% respectively then what will be the ratio 
+of no. of males in D to no. of females in B? 
+(a) 7 : 13 
+(b) 2 : 1 
+(c) 1 : 2 
+(d) Can’t be determined 
+(e) None of these 
+ 
+Directions (76-80): In each of these questions, two equations (I) and (II) are given. Solve the 
+equations and mark the correct option: 
+ 
+Q76.  
+ 
+(a) x > y 
+(b) x ≥ y 
+(c) x < y 
+(d) x ≤ y 
+(e) x = y or relation can’t be established. 
+ 
+Q77.  
+ 
+(a) x ≤ y 
+(b) x ≥ y 
+(c) x < y 
+(d) x > y 
+(e) x = y or relation can’t be established. 
+ 
+Q78.   
+ 
+(a) x > y 
+(b) x ≥ y 
+(c) x < y 
+(d) x ≤ y 
+(e) x = y or relation can’t be established. 
+ 
+ 
+19 
+ 
+ 
+Q79.  
+ 
+(a) x = y or relation can’t be established. 
+(b) x ≥ y 
+(c) x < y 
+(d) x ≤ y 
+(e) x > y 
+ 
+Q80.  
+ 
+(a) x = y or relation can’t be established. 
+(b) x ≥ y 
+(c) x < y 
+(d) x ≤ y 
+(e) x > y 
+ 
+ 
+ 
+Solutions 

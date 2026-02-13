@@ -1,0 +1,362 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2021
+Shift: 4
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05020744/SBI-PO-Pre-Mock-08-Based-on-4th-shift-21st-November-2021-Formatted-File.pdf
+======================================================================
+
+Q66. What is the position of A with respect to H? 
+(a) Third to the right 
+(b) Third to the left 
+(c) Immediate right 
+(d) Immediate left 
+(e) None of these 
+ 
+Q67. How many persons sit between A and F when counted to the left of A? 
+(a) None 
+(b) Two 
+(c) Six 
+(d) Three 
+(e) Four 
+ 
+ 
+ 
+16 
+ 
+Q68. Who among the following person is facing A? 
+(a) F 
+(b) B 
+(c) E 
+(d) D 
+(e) None of these 
+ 
+Q69. If E and G interchange their positions then who sits immediate left of C? 
+(a) E 
+(b) G 
+(c) D 
+(d) F 
+(e) None of these 
+ 
+Q70. How many persons sit between D and G when counted to the left of D? 
+(a) Three 
+(b) Two 
+(c) None 
+(d) Four 
+(e) Five 
+ 
+Directions (71-75): Study the following information carefully and answer the questions given below 
+In a certain code language: 
+“Driving fine in car” is coded as “gf yx qr rq” 
+“Car parking penalize now” is coded as “rq lp mf pu” 
+“Car parking in the ground” is coded as “rq lp qr rt df” 
+“Police penalize driving breakers” is coded as “vl rf mf gf” 
+ 
+Q71. What is the code for “Parking” in the given code language? 
+(a) lp 
+(b) gf 
+(c) vl 
+(d) rf 
+(e) None of these 
+ 
+Q72. What is the code for “police penalize” in the given code language? 
+(a) vl rf 
+(b) mf vl 
+(c) pu rf 
+(d) rf mf 
+(e) Either mf vl or rf mf 
+ 
+Q73. What is the code for “Driving now” in the given code language? 
+(a) gf pu 
+(b) qr pu 
+(c) vl lp 
+(d) qr df 
+(e) gf qr 
+ 
+ 
+ 
+17 
+ 
+Q74. The code “df” is coded as which of the following word? 
+(a) driving 
+(b) the 
+(c) ground 
+(d) Either the or ground 
+(e) Either driving or ground 
+ 
+Q75. What may be the possible code for “parking around” in the given code language? 
+(a) rt df 
+(b) yx qr 
+(c) lp rg 
+(d) pu rf 
+(e) rt gf 
+ 
+Directions (76-80): Study the following information carefully and answer the given questions: 
+Eight students E, F, G, H, J, K, L and M are studying in three different universities viz. BHU, JNU and DU, at least 
+two students are studying in the same university but not more than three. Each of them is doing different degrees 
+viz. M.Sc., M.A. and M. Com, at least two students are doing same degree but not more than three. 
+L is doing M.Sc. H is doing M.A. and studying in JNU with only J. E and F are not studying in DU and doing the same 
+degree but not M.A. G is doing M.Sc. and studying in DU with M who is doing M.A. L and G are not studying in the 
+same university. K is not doing M.Com. J is doing M.Sc. 
+ 
+Q76. Which of the following combinations is correct? 
+(a) E – M.Sc. 
+(b) F – M.Com 
+(c) K – M.Sc. 
+(d) F – M.Sc. 
+(e) None of these 
+ 
+Q77. Who among the following are doing M.A.? 
+(a) M, K 
+(b) H, K 
+(c) Both (a) and (b) 
+(d) E, M 
+(e) None of these 
+ 
+Q78. Who among the following students are studying in BHU? 
+(a) E, K 
+(b) F, K 
+(c) K, L 
+(d) E, F 
+(e) None of these 
+ 
+Q79. In which of the following university K is studying? 
+(a) BHU 
+(b) JNU 
+(c) DU 
+(d) Cannot determined 
+(e) None of these 
+ 
+ 
+ 
+18 
+ 
+Q80. Four of the following five belong to a group in a certain way, find which of the one does not belong to 
+that group? 
+(a) E – BHU – M.Sc. 
+(b) L – BHU – M.Sc. 
+(c) F – JNU – M.Com 
+(d) K – DU – M.Sc. 
+(e) E – JNU – M.Com 
+ 
+Directions (81-83): Study the following information carefully and answer the questions given below: 
+There are seven persons P, Q, R, S, T, U, and V in a family. There are two are married couples and three 
+generations. V is the sister-in-law of R. S is daughter of T. T is daughter of P. U and Q are siblings and they are of 
+different gender. S is the only Granddaughter of R. P is a male member of a family. Q is married to T. 
+ 
+Q81. What is the relation of S with respect to U? 
+(a) daughter in law 
+(b) Daughter 
+(c) Niece 
+(d) Cousin 
+(e) Mother 
+ 
+Q82. How many female members are in the family? 
+(a) Two 
+(b) Three 
+(c) Four 
+(d) One 
+(e) Five 
+ 
+Q83. What is the relation of R with respect to T? 
+(a) Son 
+(b) Daughter 
+(c) Sister 
+(d) Mother 
+(e) Father 
+ 
+Directions (84-87): Study the following information carefully and answer the questions given below. 
+Seven persons have different designations in a company i.e. General Manager (GM), Deputy General Manager 
+(DGM), Assistant General Manager (AGM), Manager, Assistant Manager (AM), Probationary Officer (PO), and 
+Clerk. The order of seniority is the same as given above i.e. GM is the senior-most designation and Clerk is the 
+junior-most designation. 
+M is senior to the one who is the manager. More than two designations are there between M and N who is not PO. 
+There is one designation is between N and H. There are as many designations between M and S as between S and 
+H.  S is not DGM. One designation is there between S and P who is senior to R. Q is junior to R. 
+ 
+Q84. How many persons are senior to Q? 
+(a) Two 
+(b) Four 
+(c) Three 
+(d) Five 
+(e) More than five 
+ 
+Q85. Who among the following persons is the AGM of the company? 
+(a) R 
+(b) S 
+(c) N 
+(d) P 
+(e)None of these 
+ 
+ 
+ 
+19 
+ 
+Q86. Who among the following persons is the AM of the company? 
+(a) S 
+(b) R 
+(c) N 
+(d) P 
+(e)None of these 
+ 
+Q87. Which of the following combination is correctly matched? 
+(a) H-PO 
+(b) P-DGM 
+(c) S-AGM 
+(d) N-Clerk 
+(e) None is correct 
+ 
+Directions (88-92): In each question below are given two/three statements followed by two conclusions 
+numbered I and II. You have to take the given statements to be true even if they seem to be at variance 
+with commonly known facts. Read all the conclusions and then decide which of the given conclusions 
+logically follows from the given statements, disregarding commonly known facts. Give answer- 
+ 
+Q88. Statements: 
+Some prime are consonant. 
+All consonant are cup. 
+No cup is a cap. 
+Conclusions: 
+I. Some consonant being cap is a possibility. 
+II. All cup being prime is a possibility. 
+(a) if only conclusion I follows. 
+(b) if only conclusion II follows. 
+(c) if either conclusion I or II follows. 
+(d) if neither conclusion I nor II follows, 
+(e) if both conclusions I and II follow. 
+ 
+Q89. Statements: 
+Some prime are consonant. 
+All consonant are cups. 
+No cup is a cap. 
+Conclusions: 
+I. No cap is consonant. 
+II. Some prime are not caps. 
+(a) if only conclusion I follows. 
+(b) if only conclusion II follows. 
+(c) if either conclusion I or II follows. 
+(d) if neither conclusion I nor II follows, 
+(e) if both conclusions I and II follow. 
+ 
+Q90. Statements: 
+All number is digits. 
+No digit is a numeric. 
+Conclusions: 
+I. Some number is not numeric. 
+II. No number is a numeric. 
+(a) if only conclusion I follows. 
+(b) if only conclusion II follows. 
+(c) if either conclusion I or II follows. 
+(d) if neither conclusion I nor II follows, 
+(e) if both conclusions I and II follow. 
+ 
+ 
+ 
+20 
+ 
+Q91. Statements: 
+No foil is a wrap. 
+Some wraps are tabs. 
+Conclusions: 
+I. Some tabs are not foils. 
+II. All foil being tabs is a possibility. 
+(a) if only conclusion I follows. 
+(b) if only conclusion II follows. 
+(c) if either conclusion I or II follows. 
+(d) if neither conclusion I nor II follows, 
+(e) if both conclusions I and II follow. 
+ 
+Q92. Statements: 
+Some box are book. 
+All book are pencils. 
+Conclusions: 
+I. All box being pencils is a possibility. 
+II. Some pencils are books 
+(a) if only conclusion I follows. 
+(b) if only conclusion II follows. 
+(c) if either conclusion I or II follows. 
+(d) if neither conclusion I nor II follows, 
+(e) if both conclusions I and II follow. 
+ 
+Q93. The position of how many alphabets will remain unchanged if each of the alphabets in the word 
+‘MULTINATIONAL’ is arranged in alphabetical order from left to right? 
+(a) One 
+(b) Three 
+(c) Two 
+(d) Four 
+(e) None 
+ 
+Directions (94-98): Study the following information carefully and answer the questions given below: 
+Seven persons were born in seven different years i.e., 2000, 2002, 2004, 2005, 2008, 2011 and 2015. Their age 
+is calculated with respect to 2021. 
+More than three persons were younger to C. Only one person was born between C and P. P was born before I. The 
+age difference between P and C is same as the age difference between Y and O. O is the youngest person. M was 
+born just before K. 
+ 
+Q94. Who among the following person was born immediately after C? 
+(a) M 
+(b) The one who is 13 years old 
+(c) Y 
+(d) The one who is 19 years old 
+(e) None of these 
+ 
+Q95. Who among the following person was born in 2011? 
+(a) K 
+(b) Y 
+(c) I 
+(d) M 
+(e) None of these 
+ 
+ 
+ 
+21 
+ 
+Q96. Number of persons born after Y is the same as the number of persons born before______. 
+(a) P 
+(b) M 
+(c) I 
+(d) K 
+(e) O 
+ 
+Q97. Which of the following statement is true? 
+I. Three persons were born between M and Y 
+II.P was born in 2000 
+III.K is 19 years old. 
+(a) Only II 
+(b) Only III 
+(c) Both II and III 
+(d) Both I and III 
+(e) All I, II and III 
+ 
+Q98. Which of the following pair of persons was born immediately before and immediately after I 
+respectively? 
+(a) M, Y 
+(b) P, C 
+(c) K, O 
+(d) C, M 
+(e) Y, M 
+ 
+Q99. In a row of friends facing north, Ram is 12th to the right of Shyam who is 23rd from the left end. If 
+Mohan who is 19th from the right end, is 5th to the left of Ram, then how many friends are there in the 
+row? 
+(a) 46 
+(b) 42 
+(c) 45 
+(d) 48 
+(e) 51 
+ 
+Q100. If in the number 524393156749, position of the 1st digit is interchanged with the position of the 
+2nd digit and 3rd digit is interchanged with the 4th digit and so on. Then which number will be the 5th from 
+the left end? 
+(a) 3 
+(b) 6 
+(c) 9 
+(d) 1 
+(e) 5 
+ 
+ 
+ 
+ 
+22 
+ 
+Solutions 

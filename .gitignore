@@ -52,38 +52,8 @@ Thumbs.db
 desktop.ini
 
 # ═══════════════════════════════════════════
-# Generated Media & Output Files
-# ═══════════════════════════════════════════
-*.mp4
-*.wav
-*.mp3
-*.avi
-*.mkv
-*.flac
-*.ogg
-Song_*.txt
-final_render.mp4
-studio_music_video.mp4
-
-# ═══════════════════════════════════════════
 # Temp / Log Files
 # ═══════════════════════════════════════════
 *.tmp
 *.temp
 *.log
-
-# ═══════════════════════════════════════════
-# Lyrics data (generated / scraped)
-# ═══════════════════════════════════════════
-lyrics/
-lyrics_test/
-new_songs/
-harvest_report.json
-new_lyrics_sample.tar.gz
-
-# ═══════════════════════════════════════════
-# Text files (ignore all, keep specific ones)
-# ═══════════════════════════════════════════
-*.txt
-!requirements.txt
-!packages.txt

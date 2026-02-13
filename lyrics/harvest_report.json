@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-02-09T23:05:45.062584",
+  "summary": {
+    "hindi": {
+      "total": 50,
+      "found": 42
+    },
+    "haryanvi": {
+      "total": 50,
+      "found": 20
+    },
+    "punjabi": {
+      "total": 50,
+      "found": 49
+    }
+  },
+  "failed": {
+    "hindi": [
+      "Tere Dil Mein — Rito Riba, Rajat Nagpal",
+      "Billi Billi — Sukhbir, Kumaar",
+      "Settagalla — Mika Singh",
+      "Nache Nache — Thaman S, Nakash Aziz",
+      "Nachdi — Jaani",
+      "Sahiba Lyrics - Aditya Rikhari — Vibe Bird",
+      "Mere Mehboob Club Mix(Remix By Dj Hardik) — Shilpa Rao",
+      "Touch Kiya (From \"Jaat\") (feat. Urvashi Rautela) — Thaman S, Shahid Mallya"
+    ],
+    "haryanvi": [
+      "Circle (Lofi Mix) — Manisha Sharma, Amanraj Gill",
+      "Hopeless — Prem Lata, Amanraj Gill, & AJ Fakira",
+      "Protocol — Amanraj Gill, Rashmi Nishad",
+      "Confuse Darling — Swara Verma, Masoom Sharma",
+      "Apni Maa Ne Sher Jana — Surender Romio & Sushila Takhar",
+      "Neend Na Aandi Ke — Rohtash Gagsiniya, DK Sharma Buwana, & Gold E Gill",
+      "Chaudhariya Ke Balak — Manisha Sharma, Sandeep Surila",
+      "Jeep — Khasa Aala Chahar",
+      "Jat Jugadi — Khasa Aala Chahar, Pranjal Dahiya, & Dj Sky",
+      "Log Moti Ka — Manisha Sharma, Surender Romio",
+      "Aakhya Mein Radke — Ashu Twinkle",
+      "Daaku — Devender Ahlawat, Ghanu Music",
+      "Bhai Log — Komal Chaudhary, Devender Ahlawat",
+      "Ghanta Zindagi — Parveen Mastana",
+      "Bullet Pe Gediyan 2 — Ameet Choudhary, Pankaj Katiya, Ashu Twinkle, Thinker, and Khushi Verma",
+      "Suthra Sa Jaat — Harjeet Deewana, Komal Chaudhary",
+      "Wait Tera — Shiva Choudhary, Sukh Deswal",
+      "Bau Ji — Mohit Ladhotiya",
+      "Theko Khol — Komal Chaudhary & Balli Bhalpur",
+      "2 Bhai Badmash — Kala Kakrod",
+      "Chaska Badmashi Ka — Komal Chaudhary & R Deep",
+      "Burst Mode — Parv Dahiya",
+      "Protocol — Rashmi Nishad & Amanraj Gill",
+      "Gawar Konya Re — Bintu Pabra",
+      "Pani Chhalke 2 — Manisha Sharma, Sumit Kaushik",
+      "Dj Pe Thumka — Arvind Jangid, Renuka Panwar",
+      "Syl — Masoom Sharma",
+      "Baithungi Piya Bolero Mein — Amit Dhull, Annu Kadiyan, Pankaj Bandhiya",
+      "Call Recording — Vikram",
+      "Jail Karawegi 2 — Vinu Gaur"
+    ],
+    "punjabi": [
+      "Lor Lor — Jassie Gill, N Vee"
+    ]
+  }
+}

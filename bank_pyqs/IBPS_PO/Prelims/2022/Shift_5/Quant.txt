@@ -1,0 +1,350 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2022
+Shift: 5
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/07/19005954/IBPS-PO-Pre-2022-16th-October-Shift-Wise-Previous-Year-Papers-Mock-05-1.pdf
+======================================================================
+
+Q31. Find the difference between number of non-recovered patient from the state UP and 
+Telangana together to the number of recovered patients in Delhi and MP together.  
+(a) 6150 
+(b) 4040 
+(c) 3030 
+(d) 2020 
+(e) 1010 
+ 
+Q32. What is the ratio of sum of 40% of non- recovered patient from Bihar and number of 
+hospitalized patients from Delhi to the hospitalized patients from Telangana? 
+(a) 125:33 
+(b) 99:125 
+(c) 23:25 
+(d) 34:31 
+(e) 123:127 
+ 
+Q33. In Maharashtra, number of hospitalized patients is sum of hospitalized patients in 
+Telangana and Bihar. If the number of recovered patients is only 25% then find the recovered 
+patient in Maharashtra is approximately what percent of hospitalized patients in UP. 
+(a) 45% 
+(b) 39% 
+(c) 36% 
+(d) 33% 
+(e) 55% 
+ 
+Q34. Find the average number of patients recovered from the state Delhi, UP and Telangana. 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q35. Due to the celebration of Durga puja in state West Bengal the covid19 rises tremendously. 
+The patients hospitalized in the state is three times more than hospitalized patients in UP. Due 
+to the sudden rise of cases 20% people died and of the remaining people only 75% of pateint get 
+the beds. Find the number of patients who did not get the beds. 
+(a) 1000 
+(b) 700 
+(c) 4000 
+(d) 8200 
+(e) 7200 
+ 
+ 
+11 
+ 
+ 
+Directions (36-40) : Read the following table carefully and answer the questions given below. 
+The following table shows the number of employees working in 5 different companies and ratio 
+of number of employees working from home and working from office. 
+ 
+ 
+Q36. What is the average of number of employees working from home in company A, C and E 
+together? 
+(a) 350 
+(b) 420 
+(c) 260 
+(d) 120 
+(e) 580 
+ 
+Q37. Number of employees working from office in company B is what % of number of employees 
+working from office in company C? 
+(a) 75% 
+(b) 100% 
+(c) 150% 
+(d) 225% 
+(e) 50% 
+ 
+Q38. Find the ratio of number of employees working from home in company A and company C 
+together to number of employees working from office in company E and company B together? 
+(a) 11:7 
+(b) 5:6 
+(c) 7:4 
+(d) 4:7 
+(e) 6:5 
+ 
+Q39. Ratio of male and female in company E is 5:4 and ratio of male and female working from 
+home in that company only is 7:8, then find the number of females who working from office. 
+(a) 90 
+(b) 120 
+(c) 140 
+(d) 180 
+(e) 210 
+ 
+ 
+12 
+ 
+ 
+Q40. Find the difference between number of employees in company D and C together to number 
+of employees in company A and E together.  
+(a) 110 
+(b) 85 
+(c) 135 
+(d) 150 
+(e) 175 
+ 
+Q41. A train leaves station A at 9:00 AM. The train reaches station B at 10:30 PM. If the distance 
+between station A and station B is 486 km, then find the speed of the train (in meter per sec) ? 
+(a) 10 
+(b) 12 
+(c) 15 
+(d) 8 
+(e) 18 
+ 
+Q42. Amar and Sameer started a partnership with investment of Rs.21000 and Rs.25000 
+respectively. After 6 months, Sameer withdraws 20% and Tarun joined the business with 
+Rs.30000. If at the end of 1.5 years, profit share of Sameer is Rs.1300, then find the total profit? 
+(a) Rs.3140 
+(b) Rs.4280 
+(c) Rs.3760 
+(d) Rs.3910 
+(e) Rs.4760 
+ 
+Q43. A machine can produce 12 bolts in a second. In such speed of production, it takes 15 minutes 
+to complete a job. If another machine, having speed of production 50% more than first machine, 
+then find the time taken to complete 8 same types of job? 
+(a) 40 min 
+(b) 1 hour 10 min 
+(c) 1 hour 
+(d) 1 hour 20 min 
+(e) 50 min 
+ 
+Q44. A seller sold 120 articles. The marked price of each article is Rs.80 and he offers a discount 
+of 10% on each article. If he made total profit of Rs.840, then find the cost price of each article? 
+(a) Rs.75 
+(b) Rs.65 
+(c) Rs.60 
+(d) Rs.66 
+(e) Rs.70 
+ 
+ 
+13 
+ 
+ 
+Q45. A boat covers 160 km from point A to point B and then return to point A in 15 hours. If the 
+speed of stream increased by 8 kmph, then boat takes 4 hours to reach point B from A. Find the 
+speed of boat in still water? 
+(a) 24 kmph 
+(b) 12 kmph 
+(c) 18 kmph 
+(d) 15 kmph 
+(e) 20 kmph 
+ 
+Q46. A can complete a piece of work in 8 days, A and B together can complete same work in 4.8 
+days and A, B and C together complete the work in 
+ days. Find the time taken by A and C 
+together to complete the work? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q47. Monthly income of Kunal is 25% more than Shubham. Kunal spends 25% of his income on 
+house rent, 25% of remaining on food and rest he saves. If difference between monthly savings 
+of Kunal and monthly income of Shubham is Rs.1900, then find monthly income of Kunal? 
+(a) Rs.6400 
+(b) Rs.9000 
+(c) Rs.12000 
+(d) Rs.8000 
+(e) Rs.10000 
+ 
+Q48. In a solution of sugar syrup and water, quantity of sugar syrup is 30% more than quantity 
+of water. If 20% of quantity of solution of taken out and 11.5-liter water is added into the mixture, 
+then the ratio of water and sugar syrup becomes 15: 8. Find the initial quantity of water? 
+(a) 9 liters 
+(b) 10 liters 
+(c) 11 liters 
+(d) 12 liters 
+(e) 13 liters 
+ 
+Q49. The length of rectangle is 16% more than its breadth. If perimeter of square, whose side is 
+equal to length of rectangle is 8 cm more than perimeter of rectangle, then find the area of 
+rectangle? 
+ 
+ 
+14 
+ 
+(a) 625 cm² 
+(b) 575 cm² 
+(c) 750 cm² 
+(d) 600 cm² 
+(e) 725 cm² 
+ 
+Q50. A man invests Rs. (P+2000) on simple interest at 20% per annum for 4 years. If he invests 
+Rs. (2P-4000) in same scheme for the same time, then the interest earned would be Rs.8000 
+more. Find the value of P? 
+(a) Rs.16000 
+(b) Rs.18000 
+(c) Rs.20000 
+(d) Rs.12000 
+(e) Rs.12500 
+ 
+Directions (51-57) : What approximate value should come in the place of question (?) mark: 
+ 
+Q51. 
+ 
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 5 
+(e) 1 
+ 
+Q52. 
+ 
+(a) 21 
+(b) 22 
+(c) 19 
+(d) 20 
+(e) 23 
+ 
+Q53. 
+ 
+(a) 8 
+(b) 6 
+(c) 4 
+(d) 7 
+(e) 5 
+ 
+Q54. 
+ 
+(a) 1228 
+(b) 1344 
+(c) 1472 
+(d) 1716 
+(e) 1560 
+ 
+ 
+15 
+ 
+ 
+Q55. 
+  
+(a) 204 
+(b) 217 
+(c) 185 
+(d) 235 
+(e) 175 
+ 
+Q56. 
+ 
+(a) 8 
+(b) 3 
+(c) 4 
+(d) 7 
+(e) 5 
+ 
+Q57. 
+ 
+(a) 50 
+(b) 40 
+(c) 60 
+(d) 30 
+(e) 70 
+ 
+Q58. The average weight of a class of 28 students is 22 kg. If the teacher’s weight is also included 
+the average weight increases by 2 kg. Furthermore, if the average weight of the teacher’s family 
+having a wife and a daughter is 52 kg and the daughter’s weight is 40% less than her mother’s 
+weight. then find the weight of teacher’s wife? 
+(a) 40 kg 
+(b) 47.5 kg 
+(c) 55 kg 
+(d) 52.5 kg 
+(e) 60 kg 
+ 
+Q59. A man leaves Rs.23200 to be divided among 2 sons, 3 daughters, & 2 nephews. If each 
+daughter receives 3 times as much as each nephew, and each son receives 3 times as much as 
+each daughter, how much does each son receive? 
+(a) Rs.7200 
+(b) Rs.4400 
+(c) Rs.5400  
+(d) Rs.6000  
+(e) Rs.6500 
+ 
+ 
+16 
+ 
+ 
+Q60. The total cost of painting a rectangular wall at Rs.188.5 per square ft. is Rs.7540. the length 
+of the wall is 3 ft. more than the breadth of the wall, then breadth of wall is what percent of length 
+of wall?  
+(a) 60% 
+(b) 32.5%  
+(c) 25% 
+(d) 62.5%  
+(e) 50% 
+ 
+Directions (61-65) : What should come in the place of question (?) mark in following number 
+series. 
+ 
+Q61. 21,   ?,    129,    237,    381,    561 
+(a) 55 
+(b) 53 
+(c) 59 
+(d) 57 
+(e) 61 
+ 
+Q62. 12,   13.6,   16.8,   21.6,   ?,   36 
+(a) 28 
+(b) 24 
+(c) 22 
+(d) 20 
+(e) 30 
+ 
+Q63. 116,   342,   512,   634,    ?,    766 
+(a) 712 
+(b) 716 
+(c) 710 
+(d) 708 
+(e) 718 
+ 
+Q64. 16,  ?,   512,   1024,   1024,  512 
+(a) 124 
+(b) 122 
+(c) 128 
+(d) 120 
+(e) 118 
+ 
+Q65. 4,  9,   28,   113,   566,   ? 
+(a) 3395 
+(b) 3391 
+(c) 3389 
+(d) 3399 
+(e) 3397 
+ 
+ 
+17 
+ 
+ 
+Directions (66-68) : In these questions, relationship between different elements is shown in the 
+statements. The statements are followed by two conclusions. 
+Give answer

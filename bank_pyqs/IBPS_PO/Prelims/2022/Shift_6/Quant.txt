@@ -1,0 +1,354 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2022
+Shift: 6
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/07/19005951/IBPS-PO-Pre-2022-16th-October-Shift-Wise-Previous-Year-Papers-Mock-06-1.pdf
+======================================================================
+
+Q31. 
+ 
+(a) 75 
+(b) 60 
+(c) 55 
+(d) 49 
+(e) 63 
+ 
+Q32. 
+ 
+(a) 205 
+(b) 300 
+(c) 159 
+(d) 220 
+(e) 196 
+ 
+Q33. 
+ 
+(a) 520 
+(b) 630 
+(c) 590 
+(d) 545 
+(e) 645 
+ 
+Q34. 
+ 
+(a) 253 
+(b) 143 
+(c) 243 
+(d) 175 
+(e) 233 
+ 
+Q35. 
+ 
+(a) 3045 
+(b) 2875 
+(c) 3246 
+(d) 2765 
+(e) 3144 
+ 
+Q36. 
+ 
+(a) 225 
+(b) 175 
+(c) 125 
+(d) 25 
+(e) 75 
+ 
+ 
+9 
+ 
+ 
+Q37. 
+ 
+(a) 47 
+(b) 27 
+(c) 37 
+(d) 17 
+(e) 57 
+ 
+Directions (38-41) : Read the data carefully and answer the questions. 
+There are total ‘X’ number of students in a class of three different (A, B & C) sections. 40% of total 
+students are in section A and the ratio of total students in section A to C is 10: 9. The ratio of boys to 
+girls in section B is 7: 5 and 60% of total students in section A are boys. There are 40 girls in section C 
+and total 170 girls in the class. 
+ 
+Q38. Find difference between total boys and girls in the class? 
+(a) 160 
+(b) 120 
+(c) 180 
+(d) 260 
+(e) 140 
+ 
+Q39. Total boys in section B are what percent less than total girls in section A? 
+(a) 8% 
+(b) 12.5% 
+(c) 12% 
+(d) 10% 
+(e) 17.5% 
+ 
+Q40. Find average number of boys in all three sections? 
+(a) 120 
+(b) 90 
+(c) 110 
+(d) 80 
+(e) 130 
+ 
+Q41. Find ratio of total boys in section C to total girls in all three sections? 
+(a) 17 : 14 
+(b) 12 : 17 
+(c) 7 : 17 
+(d) 13 : 17 
+(e) 14 : 17 
+ 
+ 
+10 
+ 
+ 
+Q42. Ram and Sohan entered into business investing Rs. 36000 and 72000 respectively. After six 
+months, Sohan left and Aman entered into the business investing Rs. 32000. If at the end of the 
+year, profit share of Aman was Rs. 5680 then find the total profit earned by all of them together. 
+(a) Rs. 17640 
+(b) Rs.31240 
+(c) Rs. 25795 
+(d) Rs. 16975 
+(e) Rs. 40460  
+ 
+Q43. Atul invested 62.5% of his monthly income in scheme A offering 20% C.I. (compounded 
+annually) for 2 years and rest amount in scheme B offering 12.5% per annum simple interest for 
+same period. If the difference between CI and SI is Rs. 2430 after 2 years, then find the monthly 
+income(approx.) of Atul.  
+(a) Rs 15067  
+(b) Rs 16550 
+(c) Rs 13407 
+(d) Rs 12000 
+(e) Rs 18750 
+ 
+Q44. Average of 25 numbers is 96. If average of first 11 numbers is 50 while average of last 12 
+numbers is 80 and 12th and 13th numbers are (2x+26) and (3x+14) respectively. Find the 13th 
+number. 
+(a) 624  
+(b) 524 
+(c) 575 
+(d) 325 
+(e) 765 
+ 
+Q45. Aman’s friend Mayank gave him Rs. 14000 and Naman gave to Aman 30% less than what 
+Mayank gave to Aman. If Chetan gave 50% more than Naman to Aman, then the amount received 
+by Aman from Chetan is what percent more than that of amount which is received by Aman from 
+Mayank?  
+(a) 12.5% 
+(b) 2% 
+(c) 3% 
+(d) 5% 
+(e) 7.5% 
+ 
+Q46. The curved surface area of a cylindrical vessel is 10692cm2. The respective ratio of the 
+radius and the height of the vessel is 3:7 respectively. If the cylindrical vessel is full of water, then 
+find the time taken to empty the vessel at the rate of 1782cm3 of water per minute. 
+ 
+ 
+11 
+ 
+(a) 75minute 
+(b) 67minute 
+(c) 81minute 
+(d) 90minute 
+(e) 80minute 
+ 
+Q47. 8 men and 7 women can complete a piece of work in 15 days. If additional 2 men joined 
+them, then they could finish the 4/5th of work in 10 days, find the time taken by 21 women to 
+complete the work. 
+(a) 24 days 
+(b) 18 days 
+(c) 32 days 
+(d) 21 days 
+(e) 25 days 
+ 
+Q48. Delhi Express is running with a speed of 144 km/h crosses a pole in 12.5 seconds. If the 
+time taken by Delhi Express to cross Patna Express which is running with a speed of 162 km/h 
+and coming from opposite direction in 12 seconds, then find the length of Patna Express. 
+(a) 490 m 
+(b) 520 m 
+(c) 370 m 
+(d) 540 m 
+(e) 300 m 
+ 
+Q49. In a box there are 36 pink balls and rest are orange balls. The probability of picking an 
+orange ball at random is 1/5. Find the probability of picking a pink ball and an orange ball. 
+(a) 18/55 
+(b) 3/7 
+(c) 46/57 
+(d) 55/111 
+(e) 9/13 
+ 
+Q50. Anand is running with a speed of (x+13) km/h and covers a certain distance in 10 hours. If 
+his speed had been (4x-12) km/h, then he would have taken 2.5 hours more to cover the same 
+distance. Find the distance he travelled(km) .  
+(a) 163 
+(b) 200 
+(c) 305 
+(d) 225 
+(e) 195 
+ 
+Directions (51-55) : Read the given below pie chart carefully and answer the questions based on 
+it. 
+ 
+ 
+12 
+ 
+The pie chart give below shows the percentage distribution of number of candidates who applied 
+for the post of clerk in IBPS from 5 cities. 
+ 
+ 
+Q51. Find the ratio of number of candidates who applied from city A and C together to the 
+number of candidates who applied from city B. 
+(a) 7: 5 
+(b) 6: 5 
+(c) 8: 5 
+(d) 9: 5 
+(e) 4: 5 
+ 
+Q52. Find the difference between number of candidates applied from city B and that from city D. 
+(a) 160 
+(b) 135 
+(c) 105 
+(d) 150 
+(e) 125 
+ 
+Q53. Ratio of male and female candidates who applied from city E and city A is 5: 4 and 22: 23 
+respectively, then find the no. of female candidates applied from city A and E together. 
+(a) 377 
+(b) 189 
+(c) 327 
+(d) 243 
+(e) 297 
+ 
+ 
+13 
+ 
+ 
+Q54. 
+𝟐
+𝟏𝟓𝐭𝐡 of candidates qualified the exam from city D and 80% of candidates disqualified from 
+city C. Find disqualified candidates from city D is what approximately percentage more or less 
+than qualified candidates from city C. 
+(a) 189% 
+(b) 171% 
+(c) 219% 
+(d) 167% 
+(e) 195% 
+ 
+Q55. Find the average number of candidates who applied from city A, C and D. 
+(a) 538 
+(b) 495 
+(c) 625 
+(d) 585 
+(e) 605 
+ 
+Directions (56-60) : Study the given table carefully to answer the questions that follow: 
+The following table shows the total number of five different items manufactured by BMW Company and 
+percentage of each item sold. 
+ 
+ 
+Q56. What is the ratio of sold items of type A and C together to unsold items of type B and E 
+together? 
+(a) 1341:746 
+(b) 251:476 
+(c) 1340:609 
+(d) 609:1340  
+(e) 268:273 
+ 
+Q57. If ratio of defective to non-defective items which are unsold of type B and type D is 7:8 and 
+5:1 respectively then find the difference between total defective and total non-defective items 
+which are unsold of these companies? 
+ 
+ 
+14 
+ 
+(a) 212 
+(b) 313 
+(c) 125 
+(d) 113 
+(e) 95 
+ 
+Q58. If 60% of total items of type A are defective, then non-defective items of type A is 
+approximately what percent of the average of unsold items of type C and type E? 
+(a) 62% 
+(b) 84% 
+(c) 89% 
+(d) 50% 
+(e) 32% 
+ 
+Q59. If the cost of each item sold of type B is Rs. 50 and that of type E is Rs. 70 then find the 
+average of total selling cost of items of type B and type E? 
+(a) 82850 
+(b) 92975 
+(c) 76458 
+(d) 68250 
+(e) 96450 
+ 
+Q60. No. of items sold of type A and D together are approximately what percent more or less than 
+no. of items sold of type C and B together? 
+(a) 33% 
+(b) 28% 
+(c) 38% 
+(d) 45% 
+(e) 22% 
+ 
+Q61.  A mixture contains Alcohol and Water in the ratio of 13:17 respectively. If 180ml of mixture 
+is taken out, and then 12ml of alcohol and 24ml of water is added into the remaining mixtures 
+such that the ratio of alcohol and water becomes 5:7 respectively. Find the original quantity of 
+the mixture. 
+(a) 345ml 
+(b) 480ml 
+(c) 360ml 
+(d) 520ml 
+(e) 640ml 
+ 
+Directions (62-65) : In each of the following questions two equations are given. Solve these 
+equations and give answer:  
+ 
+ 
+15 
+ 
+ 
+Q62. 
+ 
+(a) if x≥y, i.e., x is greater than or equal to y 
+(b) if x>y, i.e., x is greater than y 
+(c) if x≤y, i.e. x is less than or equal to y 
+(d) if x<y, i.e., x is less than y 
+(e) x=y or no relation can be established between x and y  
+ 
+Q63. 
+ 
+(a) if x≥y, i.e., x is greater than or equal to y 
+(b) if x>y, i.e., x is greater than y 
+(c) if x≤y, i.e. x is less than or equal to y 
+(d) if x<y, i.e., x is less than y 
+(e) x=y or no relation can be established between x and y  
+ 
+Q64. 
+ 
+(a) if x≥y, i.e., x is greater than or equal to y 
+(b) if x>y, i.e., x is greater than y 
+(c) if x≤y, i.e. x is less than or equal to y 
+(d) if x<y, i.e., x is less than y 
+(e) x=y or no relation can be established between x and y  
+ 
+Q65. 
+ 
+(a) if x≥y, i.e., x is greater than or equal to y 
+(b) if x>y, i.e., x is greater than y 
+(c) if x≤y, i.e. x is less than or equal to y 
+(d) if x<y, i.e., x is less than y 
+(e) x=y or no relation can be established between x and y  
+ 
+Directions (66-68) : In each of the questions below are given some statements followed by some 
+Conclusions. You have to take the given statements to be true even, if they seem to be at variance 
+from commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements disregarding commonly known facts.  
+ 
+ 
+16

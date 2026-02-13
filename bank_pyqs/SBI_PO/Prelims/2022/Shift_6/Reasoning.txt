@@ -1,0 +1,382 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 6
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/11/25175616/SBI-PO-Pre-2022-19th-Dec-Shift-Wise-Previous-Year-Paper-Mock-06-by-Harish.pdf
+======================================================================
+
+Q66. Find the odd one out. 
+(a) BVK 
+(b) DLC 
+(c) BKE 
+(d) IRB 
+(e) COE 
+ 
+Directions (67-71) : Study the given information carefully and answer the questions given below. 
+Six persons from I to N were born on the same date in January in six different years i.e., 1974, 1979, 1982, 1985, 
+1990 and 1993. Their ages are calculated as per 2022. Each of them belongs to six different states viz. Assam, Goa, 
+Haryana, Gujarat, Delhi and Sikkim. All the above information is not necessarily in the same order. 
+The age difference between the one who belongs to Delhi and I is 11. At least four persons were born after I who 
+belongs to Goa. The digit sum of the year in which N was born is half of his age. Two persons were born between the 
+one who belongs to Haryana and K whose age is an even number. M belongs to Sikkim. The number of persons born 
+between the one who belongs to Assam and L is same as the number of persons born between L and J. 
+ 
+Q67. How many persons were born between the one who belongs to Gujarat and L? 
+(a) None 
+(b) One 
+(c) Three 
+(d) Two 
+(e) Four 
+ 
+Q68. Which of the following combination(s) is/are correct? 
+(a) L - Delhi 
+(b) N - Assam 
+(c) K - 40 
+(d) J- Haryana 
+(e) All are correct 
+ 
+Q69. In which of the following year L was born? 
+(a) 1979 
+(b) 1993 
+(c) 1990 
+(d) 1982 
+(e) 1985 
+ 
+Q70. Who among the following persons is elder than N? 
+(a) M 
+(b) J 
+(c) I 
+(d) The one who belongs to Sikkim 
+(e) The one who belongs to Assam 
+ 
+14 
+
+ 
+Q71. In which of the following pairs the age gap is more than 8 years? 
+(a) M, L 
+(b) J, K 
+(c) I, N 
+(d) M, J 
+(e) N, L 
+ 
+Directions (72-74) : Study the following information carefully and answer the questions given below. 
+Nine persons bought different dresses at different prices. Three persons bought dresses between M and K. T’s dress 
+is just costlier than M’s dress. J’s dress is costlier than T and not cheaper than K. Two persons bought dresses between 
+J and P who doesn’t buy the maximum costlier dress. P neither bought just cheaper nor just costlier dress than K. U’s 
+dress is just costlier than B and just cheaper than K. R bought a costlier dress than S.  
+ 
+Q72. How many persons dresses are cheaper than P? 
+(a) Three 
+(b) Four 
+(c) Five 
+(d) Two 
+(e) More than five 
+ 
+Q73. Who among the following bought the third cheapest dress among all? 
+(a) U 
+(b) B 
+(c) S 
+(d) K 
+(e) None of these 
+ 
+Q74. Which among the following statement(s) is/are not true? 
+(a) T’s dress price is more than U’s dress 
+(b) More than three persons bought dresses between B and T 
+(c) J bought a cheaper dress than R 
+(d) B bought the cheapest dress 
+(e) None is true 
+ 
+Directions (75-77) : Study the following information carefully and answer the questions below: 
+Eight balls of different colours stuck on a snooker board at different directions and at some distance from each other. 
+The black ball is 50 inches to the west of the green ball. The pink ball is 70 inches to the east of the purple ball. The 
+grey ball is 20 inches to the north of the magenta ball which is 30 inches to the west of the yellow ball. The black ball 
+is 40 inches to the south of the purple ball. The green ball is 40 inches to the north of the white ball. The grey ball is 
+30 inches to the west of the white ball.  
+ 
+Q75. In which direction is the Black ball with respect to the Magenta ball? 
+(a) North-east 
+(b) South-west 
+(c) South 
+(d) North-west 
+(e) North 
+ 
+15 
+
+ 
+Q76. How far and in which direction is the yellow ball with respect to the green ball? 
+(a) 60-inch, East 
+(b) 40- inch, North 
+(c) 60- inch, South 
+(d) 30- inch, North 
+(e) 50- inch, South 
+ 
+Q77. What is the shortest distance between green and grey-coloured balls? 
+(a) 25-inch 
+(b) √5-inch 
+(c) √25-inch 
+(d) 50-inch 
+(e) None of these  
+ 
+Directions (78-81) : Study the following information carefully and answer the questions given below. 
+Seven persons sit in a linear row such that all of them face north direction. Each of them buys different cars i.e., Ford, 
+Tata, Fiat, Skoda, Hyundai, Toyota and Ferrari but not necessarily in the same order.  
+The one who buys Tata sits two persons away from G. G sits second from one of the extreme ends. The one who buys 
+Ferrari sits second to the right of the one who buys Tata. M neither sit adjacent to G nor sit at the extreme end of the 
+row. Three persons sit between R and M. The person who buys Skoda sits adjacent to M. H sits second to the left of 
+D. One person sits between P and the one who buys Toyota. J doesn’t sit adjacent to H. The one who buys Hyundai 
+doesn’t sit at the extreme end. The one who buys Ford sits to the left of R.  
+ 
+Q78. Who among the following buys a Fiat car? 
+(a) G 
+(b) P 
+(c) R 
+(d) H 
+(e) D 
+ 
+Q79. How many persons sit between P and G? 
+(a) Two 
+(b) Three 
+(c) Five 
+(d) Four 
+(e) None 
+ 
+Q80. Which among the following combination(s) is/are correct? 
+(a) P-Fiat 
+(b) R-Skoda 
+(c) J-Ferrari 
+(d) D-Tata 
+(e) None is correct 
+ 
+Q81. Which among the following statement(s) is/are true? 
+(a) R sits at the extreme end 
+(b) H buys Skoda 
+(c) P sits adjacent to H 
+(d) More than two persons sit to the right of D 
+(e) All are true 
+ 
+16 
+
+ 
+Q82. If we form a four-letter meaningful word by using the first, fifth, eighth and ninth letter from the left 
+end of the word “INSTALLMENT”, then which of the following will be the first letter of the meaningful word 
+thus formed? If more than one meaningful word is formed mark Y as your answer. If no meaningful word is 
+formed, mark X as your answer. 
+(a) X 
+(b) Y 
+(c) A 
+(d) M 
+(e) E 
+ 
+Directions (83-87) : In each of the questions below, some statements are given followed by some conclusions. 
+You have to take the given statements to be true even if they seem to be at variance with commonly known 
+facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given 
+statements, disregarding commonly known facts. Give answer of the question given below: 
+ 
+Q83. Statements:  
+23% Hockey is Tennis.  
+All Tennis is golf 
+Some Cricket is Golf 
+Conclusion:  
+I. Some Cricket are not Hockey  
+II. All Golf being Cricket is a possibility 
+(a) Only I follow 
+(b) Only II follow 
+(c) Either I or II follows 
+(d) Both I and II follow 
+(e) None follows 
+ 
+Q84. Statements:  
+Only a few Mug is Glass. 
+All Jug is Glass 
+No Plate is Jug 
+Conclusion:  
+I. Some Glass are not Plate  
+II. All Glass being Mug is a possibility    
+(a) Only I follow 
+(b) Only II follow 
+(c) Either I or II follows 
+(d) Both I and II follow 
+(e) None follows 
+ 
+Q85. Statements:  
+All Star are Sun. 
+Some Sun is light 
+All Light is Planet 
+Conclusion:  
+I. Some Star is Light 
+II. No Light is Star 
+17 
+
+ 
+(a) Only I follow 
+(b) Only II follow 
+(c) Either I or II follows 
+(d) Both I and II follow 
+(e) None follows 
+ 
+Q86. Statements:  
+All Grey is Magenta 
+No Pink is grey 
+All Pink is Green 
+Conclusion:  
+I. Some Green are not Magenta 
+II. Some Grey is Green 
+(a) Only I follow 
+(b) Only II follow 
+(c) Either I or II follows 
+(d) Both I and II follow 
+(e) None follows 
+ 
+Q87. Statements:  
+No Yen is Dollar. 
+Some Rupee are Dollar 
+All Paisa are Rupee 
+Conclusion:  
+I. Some Rupee are not Yen 
+II. Some Rupee are Yen 
+(a) Only I follow 
+(b) Only II follow 
+(c) Either I or II follows 
+(d) Both I and II follow 
+(e) None follows 
+ 
+Directions (88-92) : Study the given information carefully and answer the questions given below. 
+Seven festivals will be celebrated on the 13th, 5th, 23rd, 17th, 29th, 7th and 2nd in six different months viz. January, 
+February, March, April, May and June of a leap year. Two festivals will be celebrated in the same month. 
+Ram Navami will be celebrated on an even date in the month having 30 days. Holi will be celebrated two months 
+before Ram Navami. Buddha Purnima will be celebrated on the 5th and just after the month in which Eid will be 
+celebrated. Diwali will be celebrated in March but not just before the month of Eid. The sum of the dates of the two 
+festivals which will be celebrated in a single month is 25. Lohri will be celebrated on the 13th but not in May. Eid and 
+Vaisakhi will not be celebrated on the 7th.  
+ 
+Q88. Which of the following festivals will be celebrated in May? 
+(a) Vaisakhi 
+(b) Eid 
+(c) Holi 
+(d) Buddha Purnima 
+(e) None of these 
+ 
+18 
+
+ 
+Q89. In which of the following month, Buddha Purnima will be celebrated? 
+(a) January 
+(b) April 
+(c) May 
+(d) June 
+(e) Either April or June 
+ 
+Q90. Which of the following festivals will be celebrated in the same month? 
+(a) Eid, Vaisakhi 
+(b) Holi, Lohri 
+(c) Diwali, Holi 
+(d) Buddha Purnima, Ram Navami 
+(e) Vaisakhi, Ram Navami 
+ 
+Q91. Which of the following combination is not correct? 
+(a) 23 - Vaisakhi 
+(b) 13 - January 
+(c) 17 - May 
+(d) Holi - February 
+(e) Ram Navami - June 
+ 
+Q92. Which of the following festivals will be celebrated two months after Diwali? 
+(a) Vaisakhi 
+(b) Ram Navami 
+(c) Eid 
+(d) Buddha Purnima 
+(e) Either Eid or Vaisakhi 
+ 
+Directions (93-96) : In the following questions assuming the given statement to be true, find which of the 
+conclusion(s) among given conclusions is/are definitely true and then give your answers accordingly.  
+ 
+Q93. Statement:  
+P > S ≥ Z, M ≤ N < Z, N = W 
+Conclusions:  
+I. S > M 
+II. W ≤ P 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+Q94. Statement:  
+6779 > 5862 < 8241 = 5789, 5789 ≥ 7145 = 3914    
+Conclusions:  
+I. 6779 < 5789 
+II. 3914 ≥ 8241 
+19 
+
+ 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+Q95. Statement:  
+B > M > F ≤ P < Q, L > M > H 
+Conclusions:  
+I. B > L  
+II. F < H 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+Q96. Statement:  
+&@ > *% = #% < @$, #% > @!  ≤ *^ 
+Conclusions:  
+I. *% > @! 
+II. *^ < &@ 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+Directions (97-100) : Study the following information carefully and answer the questions given below. 
+Eight persons from A to H work in a school. Each of them has a different designation Director, Principal, Vice Principal 
+(VP) , Senior Teacher (ST) , Teacher, Assistant Teacher (AT) , Librarian and Assistant Librarian (AL) but not 
+necessarily in the same order. The designations are given in decreasing order of seniority such that the Director is 
+the seniormost person and the Assistant Librarian is the junior most person.  
+There are three designations between G and C who is just senior to F. At most two persons are junior to H. G is senior 
+to Senior Teacher but not the senior most. D is junior to B and just senior to A. E is senior to both B and G who is not 
+the principal. 
+ 
+Q97. Who among the following is a Librarian? 
+(a) E 
+(b) H 
+(c) A 
+(d) C 
+(e) None of these 
+ 
+Q98. How many persons are senior to H?  
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+20 
+
+ 
+Q99. Which of the following is the designation of B?  
+(a) AT 
+(b) ST 
+(c) Principal 
+(d) VP 
+(e) None of these 
+ 
+Q100. Who among the following is just junior to H? 
+(a) G 
+(b) B 
+(c) C 
+(d) Either C or B 
+(e) None of these 
+ 
+Solutions 

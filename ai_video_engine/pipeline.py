@@ -76,9 +76,9 @@ class MusicVideoPipeline:
     -----
         pipeline = MusicVideoPipeline(
             video_backend="replicate",
-            video_api_key="r8_...",
+            video_api_key="YOUR_API_KEY",
             video_model="wan2.1-720p",
-            gemini_api_key="AI...",
+            gemini_api_key="YOUR_GEMINI_KEY",
         )
         result = pipeline.generate(
             audio_path="song.mp3",

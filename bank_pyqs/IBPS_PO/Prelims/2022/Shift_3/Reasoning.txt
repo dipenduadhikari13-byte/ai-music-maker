@@ -1,0 +1,366 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2022
+Shift: 3
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/07/19010000/IBPS-PO-Pre-2022-15th-October-Shift-Wise-Previous-Year-Papers-Mock-03.pdf
+======================================================================
+
+Q66. Who among the following likes pink colour? 
+(a) The one who is MD 
+(b) A 
+(c) E 
+(d) The one who is COO 
+(e) None of these 
+ 
+Q67. Who among the following is COO of the company? 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) None of these 
+ 
+ 
+18 
+ 
+ 
+Q68. How many persons are junior to F? 
+(a) One 
+(b) Two 
+(c) Four 
+(d) Three 
+(e) None  
+ 
+Q69. How many designations gap between E and A? 
+(a) Three 
+(b) None 
+(c) One 
+(d) Two 
+(e) More than three 
+ 
+Q70. The one who is designated as MD likes which of the following colour? 
+(a) Yellow 
+(b) Green 
+(c) Purple 
+(d) Pink 
+(e) None of these 
+ 
+Directions (71-74) : Study the given information carefully and answer the questions given below: 
+In a certain code language 
+‘Header row first column’ is coded as ‘ik cb sx ij’ 
+‘First row borders’ is coded as ‘ib sx cb’ 
+‘Banded column total review’ is coded as ‘ik cs bs kx’ 
+‘Total row shading view’ is coded as ‘cb bs bx ci’ 
+ 
+Q71. What is the code for ‘row’ in the given code language? 
+(a) cb 
+(b) sx  
+(c) ib 
+(d) ij 
+(e) None of these 
+ 
+Q72. The code ‘bs’ stands for which among the following? 
+(a) Total  
+(b) Review 
+(c) View 
+(d) Shading 
+(e) None of these 
+ 
+ 
+19 
+ 
+ 
+Q73. What may be the possible code for ‘Shading review’ according to the given code language? 
+(a) bs bx 
+(b) bx kx 
+(c) bx ci 
+(d) cs kx 
+(e) cs bs 
+ 
+Q74. If the code for ‘total view’ is ‘bs ci’, then what may be the code for ‘first shading review’? 
+(a) sx cb bx 
+(b) bx cs kx  
+(c) ib bx sx 
+(d) sx bx cs 
+(e) bs cb bx 
+ 
+Directions (75-79) : Study the following information carefully and answer the question given 
+below. 
+Eight persons are sitting around a circular table in such a way some of them are facing inside while 
+some of them are facing outside of the table. No two adjacent persons are facing in same direction. S sits 
+second to the right of W. V is not an immediate neighbor of W. Two persons sit between S and V. T sits 
+opposite to R who is an immediate neighbor of S. Q sits second to the left of T. U sits second to the left 
+of P who faces S. 
+ 
+Q75. Who among the following sits second to the left of Q? 
+(a) U 
+(b) P 
+(c) R 
+(d) S 
+(e) None of these 
+ 
+Q76. How many persons sits between U and S, when counted from the right of S? 
+(a) Four 
+(b) Three 
+(c) Two 
+(d) One 
+(e) None  
+ 
+Q77. Who among the following sits opposite to W? 
+(a) V 
+(b) U 
+(c) P 
+(d) Q 
+(e) None of these 
+ 
+ 
+20 
+ 
+ 
+Q78. Which of the following statement(s) is/are true about P? 
+(a) P is an immediate neighbor of the one who sits opposite to Q 
+(b) P is an immediate neighbor of R 
+(c) T sits immediate left of P 
+(d) P is not an immediate neighbor of V 
+(e) Both (a) and (d)  
+ 
+Q79. Who among the following sits third to the right of the one who sits second to the left of U? 
+(a) P 
+(b) T 
+(c) Q 
+(d) R 
+(e) None of these 
+ 
+Directions (80-84) : Study the following information carefully and answer the questions given 
+below: 
+Nine persons K, L, M, N, O, P, Q, R and S sit in a linear row but not necessarily in the same order. All the 
+persons will face in north direction.  
+More than five persons sit to the right of R. Two persons sit between R and M. Q sits third to the right of 
+M. One person sits between Q and K. K sits fifth to the right of P. N and S sit adjacent to each other. Three 
+persons sit between S and L who does not sit to the right of M. 
+ 
+Q80. Who among the following sits second from the right end of the row? 
+(a) O  
+(b) P 
+(c) K 
+(d) Q 
+(e) None of these 
+ 
+Q81. How many persons sits to the left of N? 
+(a) Five 
+(b) Four 
+(c) Two 
+(d) One 
+(e) None of these 
+ 
+Q82. What is the position of O with respect to R? 
+(a) Third to the right 
+(b) Sixth to the right 
+(c) Fourth to the left 
+(d) Fifth to the right 
+(e) None of these 
+ 
+ 
+21 
+ 
+ 
+Q83. Four among the following five are alike in a certain way and related to a group, which among 
+the following does not belong to that group? 
+(a) P-R 
+(b) L-Q 
+(c) N-S 
+(d) M-K 
+(e) O-Q 
+ 
+Q84. Who among the following is the neighbour of L? 
+(a) R 
+(b) Q 
+(c) O 
+(d) K 
+(e) None of these 
+ 
+Directions (85-88) : In each of the questions below some statements are given followed by two 
+conclusions. You have to take the given statements to be true even if they seem to be at variance 
+with commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements disregarding commonly known facts. 
+ 
+Q85. Statements:  
+Only a few Carbons is Bronze.  
+Only a few Oxide is Bronze.  
+All Oxide are element.  
+Conclusions:  
+I. Some element is not Bronze. 
+II. All Carbons can be element. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+Q86. Statements:  
+Only a few jeep is truck.  
+Some truck are not bus.  
+Some bus are van. 
+Conclusions:  
+I. Some jeep is not bus. 
+II. No van is truck is a possibility.  
+ 
+ 
+22 
+ 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+Q87. Statements:  
+No apple is kiwi.  
+All kiwi is fruit.  
+Some kiwi is green. 
+Conclusions:  
+I. No apple is fruit.  
+II. Some green is not apple.  
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+Q88. Statements:  
+All bat are ball.  
+No bat is stick.  
+Only a few stick is play.  
+Conclusions:  
+I. Some stick is not play. 
+II. No stick is ball. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+Directions (89-91) : Study the given information carefully to answer the questions given below: 
+There are eight persons V, P, L, M, G, K, H and N in a family of three generation. G has two children and 
+both of them are married. V is the grandson of G and nephew of M. M is the only daughter of G. K is the 
+daughter-in-law of H who is the father-in-law of N. P is the daughter of M who is the daughter of H. 
+ 
+Q89. What is the relation of L with respect to G? 
+(a) Son  
+(b) Husband 
+(c) Grandson 
+(d) Grandchild 
+(e) None of these 
+ 
+ 
+23 
+ 
+ 
+Q90. Who among the following is the cousin of V? 
+(a) L 
+(b) P 
+(c) M 
+(d) Either (b) or (c)  
+(e) Can’t be determined 
+ 
+Q91. What is the relation of K with respect to M? 
+(a) Brother-in-law 
+(b) Brother 
+(c) Sister-in-law 
+(d) Mother 
+(e) None of these 
+ 
+Q92. How many pair of letters are there in the word ‘PREMIUM’, each of which have as many 
+letters between them (both forward and backward direction) in the word as they have between 
+them according to English alphabetical order? 
+(a) One  
+(b) Two 
+(c) Three 
+(d) None  
+(e) More than three 
+ 
+Directions (93-96) : Study the given information to answer the questions given below: 
+9 7 2 4 8 3 4 9 4 7 4 3 7 7 9 5 3 6 8 4 9 3 4 8 4 2 9 5 4 8 
+ 
+Q93. How many even numbers are immediately followed by an odd number? 
+(a) Five 
+(b) Four 
+(c) Six 
+(d) Seven 
+(e) None of these 
+ 
+Q94. Which among the following number is fifteenth element to the right of seventh number 
+from left end? 
+(a) 4 
+(b) 3 
+(c) 8 
+(d) 9 
+(e) None of these 
+ 
+ 
+24 
+ 
+ 
+Q95. How many numbers are there in the series which are immediately preceded by the cube of 
+a number? 
+(a) Three 
+(b) Four  
+(c) Five  
+(d) Two 
+(e) None of these 
+ 
+Q96. How many odd numbers are immediately followed and immediately preceded by an even 
+number? 
+(a) One 
+(b) Five 
+(c) Four 
+(d) Two 
+(e) Three 
+ 
+Directions (97-100) : Study the given information carefully and answer the questions below: 
+Seven persons R, F, G, V, D, E and B visit a temple (but not necessarily in the same order) on different 
+days of a week starting from Sunday. 
+B visits either on Tuesday or Friday. Three persons visit between B and E. D visits after B but not on 
+Thursday. G visits three days before D. F visits just before R. 
+ 
+Q97. V visits on which among the following days? 
+(a) Sunday 
+(b) Monday 
+(c) Friday  
+(d) Thursday 
+(e) None of these 
+ 
+Q98. How many persons visit after D? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None of these 
+ 
+Q99. Who among the following visits on Sunday? 
+(a) D 
+(b) G 
+(c) V 
+(d) E 
+(e) None of these 
+ 
+ 
+25 
+ 
+ 
+Q100. Who among the following visits just after R? 
+(a) E 
+(b) B 
+(c) G 
+(d) D 
+(e) None of these 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
+Solutions 

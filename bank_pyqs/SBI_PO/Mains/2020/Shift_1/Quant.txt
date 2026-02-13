@@ -1,0 +1,1251 @@
+======================================================================
+Exam: SBI PO
+Phase: Mains
+Year: 2020
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2021/10/05172428/SBI-PO-Mains-2020.pdf
+======================================================================
+
+QUANTITATIVE APTITUDE 
+ 
+ 
+22 
+  Adda247 Publications                        For More Study Material 
+
+ 
+ 
+ 
+So, 65 = 
+60
+100 × 𝑥 + 
+40
+100 × 50 
+ 
+ 
+x = 75 
+ 
+ 
+Required ratio = 75 : 50 = 3 : 2 
+ 
+55.  (c): New marks obtained by D in written paper = 70 
+×
+15
+14 = 75 
+ 
+ 
+So, C obtained weightage score = 
+60
+100 × 60 +
+40
+100 × 50 = 56 
+ 
+ 
+D obtained weightage score  
+ 
+ 
+= 
+60
+100 × 75 +
+40
+100 × 45 = 63 
+ 
+ 
+Required percentage = 
+63−56
+72  × 100 
+ 
+ 
+= 
+7
+72 × 100 = 9.72 ≈10% 
+ 
+56.  (a): Total scored of A in written paper = 50 ×
+112
+100 = 56 
+ 
+ 
+Let A scored ‘n’ marks in practical paper  
+ 
+ 
+So,  
+ 
+ 
+52 = 
+60
+100 × 56 +
+40
+100 × 𝑛 
+ 
+ 
+0.4n = 18.4 
+ 
+ 
+n = 46 
+ 
+57. (b): From Statement I,  
+ 
+ 
+ 
+ 
+Tray B = 30  
+ 
+ 
+Rotten eggs in Tray B = 9  
+ 
+ 
+Fresh eggs in Tray B = 21  
+ 
+ 
+Tray A,  
+ 
+ 
+Fresh eggs = 14  
+ 
+ 
+From Statement II,  
+ 
+ 
+ 
+ 
+Tray A = 20 eggs 
+ 
+ 
+Fresh eggs in Tray A = 14 
+ 
+ 
+ 
+Rotten eggs in Tray A = 6 
+ 
+ 
+From Statement III,  
+ 
+ 
+Tray B = 30 eggs 
+ 
+ 
+Tray A = 20 Eggs 
+ 
+ 
+Rotten eggs in Tray A =6  
+ 
+ 
+Fresh eggs in Tray A = 14  
+ 
+ 
+From Either II or III question can be solved. 
+ 
+58. (e): From Statement I:  
+ 
+ 
+√8!
+8
+> √9!
+9
+ 
+ 
+ 
+[8!]72×1
+8 > [9!]72×1
+9  
+ 
+ 
+[72 𝑖𝑠 𝑡ℎ𝑒 𝐿𝐶𝑀 𝑜𝑓 8 & 9]  
+ 
+ 
+[8!]9 > [9!]8  
+ 
+ 
+⇒ 8! × [8!]8 > [9 × 8!]8 
+ 
+ 
+⇒ 8! × [8!]8 > 98 × [8!]8 
+ 
+ 
+Here, 98 is greater than 8! 
+ 
+ 
+So, Statement I is false 
+ 
+ 
+From Statement II: 
+ 
+ 
+On dividing 408842 by 2, 19 and 7 we get 1537 as 
+answer.  
+ 
+ 
+Further 1537 is the product of 53 & 29.  
+ 
+ 
+So, Statement II is also false 
+ 
+ 
+From Statement III: 
+ 
+ 
+Let the total distance be 2x km and let the 
+remaining distance he travelled at a speed of y 
+km/hr. 
+ 
+ 
+ATQ,  
+ 
+ 
+𝑥
+𝑦+
+𝑥
+𝑎=
+2𝑥
+2𝑎  
+ 
+ 
+⇒ 
+𝑥
+𝑦= 0 (It is not possible) 
+ 
+ 
+So, Statements III is true.  
+ 
+59.  (b): Given, P, Q and R entered into a partnership by 
+investing certain amount for 12 months, T months 
+and 12 – T months respectively 
+ 
+ 
+From Statement I,  
+ 
+ 
+Let P investment = 2X Rs. 
+ 
+ 
+So, Q investment = 2X ×
+150
+100 = 3𝑋 Rs. 
+ 
+ 
+And, investment of R = 3X × 2 = 6𝑋 Rs. 
+ 
+ 
+So, ratio of investment of P, Q & R = 2 : 3 : 6 
+ 
+ 
+So, statement I alone not sufficient to give answer 
+ 
+ 
+From Statement II,  
+ 
+ 
+Ratio of profit share of (P + R) and Q = (700 – 100): 
+100 = 6: 1 
+ 
+ 
+So, statement II alone not sufficient to give answer 
+ 
+ 
+From Statement I & Statement II together  
+ 
+ 
+We have ratio of investment, ratio of profit share 
+and investment time periods  
+ 
+ 
+So, from Statement I & Statement II together we 
+can get the answer 
+ 
+ 
+From Statement I & Statement III together  
+ 
+ 
+We have ratio of investment, ratio of profit share 
+and investment time periods  
+ 
+ 
+So, from Statement I & Statement III together we 
+can get the answer 
+ 
+60.  (e): From Statement I:  
+ 
+ 
+ Let cost price of article = 100x  
+ 
+ 
+So, selling price of article = 100x ×
+144
+100 = 144𝑥 
+ 
+ 
+And mark price of article = 144x ×
+100
+80 = 180𝑥  
+ 
+ 
+And, T = 80% 
+ 
+ 
+So, statement I alone not sufficient  
+ 
+ 
+From Statement II: 
+ 
+ 
+Shopkeeper offers discount of 40% on mark price 
+and earns profit of Rs. 16. 
+ 
+ 
+From Statement I & Statement II together: 
+ 
+ 
+Selling price of article = 180x ×
+60
+100 = 108𝑥  
+ 
+ 
+= 108x – 16 = 100x 
+ 
+ 
+x = 2 Rs. 
+ 
+ 
+Cost price = 200 Rs. 
+ 
+ 
+Form Statement I & Statement III together: 
+ 
+ 
+180x – 160 = 100x 
+ 
+ 
+x = 2 Rs. 
+ 
+ 
+So, cost price = 200 Rs. 
+ 
+ 
+From Statement II & Statement III together: 
+ 
+ 
+23 
+  Adda247 Publications                        For More Study Material 
+
+ 
+ 
+ 
+180x – 160 = 108x – 16 
+ 
+ 
+x = 2 Rs. 
+ 
+ 
+So, cost price = 200 Rs. 
+ 
+ 
+So, I and II or II and III or I and III sufficient to give 
+answer the questions. 
+ 
+61.  (e): From (i) we get c = a (a – 2b) 
+ 
+ 
+From (ii) d3 = 
+𝑎2
+𝑏  
+ 
+ 
+There are four variable and only two equations 
+given we cannot determine any value of given 
+variables 
+ 
+ 
+So, there we cannot determine any relationship 
+between these quantities 
+Sol. (62-66) 
+For match of team A to B:  
+Given total goal score by team A = 2 
+So, total point team A should get = 2 × 2 = 4 
+So, if team A scored two goals against team B so, team B 
+conceded two goals. 
+So, actual point gets in this match = 4 + 2 = 6 = team B 
+scored three goals  
+against team A 
+now when team B scored three goals against team A, so 
+team A conceded three goals. 
+So, actual point scored by team A = 4 – 3 = 1 
+Teams 
+Points get 
+Goal scored 
+A 
+1 
+2 
+B 
+4 
+3 
+ 
+For match of team A to C:  
+Actual points scored by team A = 4 + 1 = 5 (here point 1 for 
+because one player scored goal outside form D area) 
+But given team A has secured four points from this match, 
+it means team C scored one goal against team A.  
+So, team C actual scored = 2  
+But he conceded two goals so team C point = 2 – 2 = 0 
+Teams 
+Points get 
+Goal scored 
+A 
+4 
+2 
+C 
+0 
+1 
+ 
+For match of team B to C:  
+Let goal score by team B = x 
+So, goal score by team C= x + 1 
+Given, one player from team B scored goal outside form D 
+area. 
+So, total point scored by team B = 2x + 1 
+ATQ – 
+2x + 1 – (𝑥+ 1) × 1 = 6  
+x = 6 
+Total goals scored by team C = 6 + 1 = 7 
+So, total point scored by team C = 7 × 2 −6 = 8 
+Teams 
+Points get 
+Goal scored 
+B 
+6 
+6 
+C 
+8 
+7 
+ 
+Teams 
+Total goals scored in 
+tournament 
+Total points gets in 
+tournament 
+A 
+4 
+5 
+B 
+9 
+10 
+C 
+8 
+8 
+ 
+ 
+62.  (d): According to table  
+ 
+ 
+Rank third of team A  
+ 
+ 
+Rank second of will be team C 
+ 
+ 
+And rank first will be team B 
+ 
+ 
+So, team A gets Rs. 60000 
+ 
+ 
+So, 3 = 60000 Rs. 
+ 
+ 
+1 = 20000 Rs. 
+ 
+ 
+Team B gets = 8 × 20000 = 160000 𝑅𝑠. 
+ 
+ 
+Team C gets = 5 × 20000 = 100000 𝑅𝑠. 
+ 
+ 
+So, (a) and (b) both right 
+ 
+63.  (d): Let in each team three players X, Y & Z score goals  
+ 
+ 
+For maximum sum of goal, player X & Y from each 
+team score minimum goal which is equal to one 
+goal 
+ 
+ 
+So, player Z from each team scored maximum 
+number of goals 
+ 
+ 
+= (4 - 2× 1) + (9 – 2 × 1) + (8 – 2 × 1) 
+= 2 + 7 + 6 
+ 
+ 
+= 15 
+ 
+64.  (b): Form the table 
+ 
+ 
+Required percentage = 
+10−5
+10  × 100 = 50% 
+ 
+65.  (b): From the table its clearly shows Team B won the 
+tournament by two points as compare to team C. 
+Sol (66 -68): 
+Let initial mixture milkman has = x liter  
+For person P – 
+When milk man sold 120-liter mixture and added 80 liters 
+of milk and 0 liters of water then the remaining mixture he 
+has = 560 liters 
+So, x – 120 + 80 = 560  
+x = 600 liter 
+So, initial milk in mixture = 600 ×
+5
+6 = 500 𝑙𝑖𝑡𝑒𝑟𝑠 
+And initial water in mixture = 600 ×
+1
+6 = 100 𝑙𝑖𝑡𝑒𝑟𝑠 
+Now milk remaining in mixture after selling P = 500 – 120 
+×
+5
+6 + 80 = 480 liters 
+And water remaining in mixture after selling P = 100 – 120 
+×
+1
+6 = 80 liters 
+ 
+ 
+                
+ 
+66.  (c): X = 600 liters 
+ 
+67.  (a): Let Y = 7n 
+ 
+ 
+24 
+  Adda247 Publications                        For More Study Material 
+
+ 
+ 
+ 
+ATQ – 
+ 
+ 
+480−7𝑛×6
+7+80
+80−7𝑛 ×1
+7+10 = 
+25
+4  
+ 
+ 
+n = 10 liters 
+ 
+ 
+Milk before selling to R = 480 – 60 + 80 = 500 liters 
+ 
+ 
+Water before selling to R = 80 – 10 + 10 = 80 liters 
+ 
+ 
+Required quantity of mixture = 580 liters 
+ 
+68.  (d): ATQ – 
+ 
+ 
+(500 – 87 ×
+25
+29 + 3𝑟) – (80 –87 ×
+4
+29 + r) = 427 
+ 
+ 
+2r + 357 = 427 
+ 
+ 
+2r = 70 
+ 
+ 
+r = 35 liters 
+ 
+ 
+69.  (b): Let total advance classes taken by A = x 
+ 
+ 
+So, total basic classes taken by A = 2x 
+ 
+ 
+And. total regular classes taken by A = y 
+ 
+ 
+Now, 2x + 2y + 3x = 60 × 
+20
+100 
+ 
+ 
+5x + 2y = 12 
+ 
+ 
+When we put x = 1 then y = 3.5 which not satisfied  
+ 
+ 
+Now we put x = 2 then y = 1 
+ 
+ 
+Then total number of classes taken by A = 2 × 2 +
+2 + 1 = 7 
+ 
+70.  (b): For previous month total hour classes taken by D 
+= 60 ×
+5
+100 = 3 ℎ𝑜𝑢𝑟𝑠 
+ 
+ 
+There will be two conditions 
+ 
+ 
+Either D takes three basic classes in previous 
+month  
+ 
+ 
+Or he takes one advance classes in previous 
+month  
+ 
+ 
+Now in next month for seven hours there will be 
+first condition  
+ 
+ 
+D takes 3 + 1 = 4 basic classes and two advance 
+classes (which only follow the given condition 
+‘number of basic classes taken by D in next month 
+is twice the advance classes’) 
+ 
+ 
+So, required difference = 4 – 2 = 2 
+ 
+71.  (c): Let basic classes taken by B = x 
+ 
+ 
+So, number of regular classes taken by B = x  
+ 
+ 
+And let total number of advance classes taken by 
+either B or C = y 
+ 
+ 
+For B, x + 2x + 3y = 60 ×
+25
+100 
+ 
+ 
+x + y = 5 
+ 
+ 
+For C, 
+ 
+ 
+Let number of basic classes = n 
+ 
+ 
+So, n + 4 × 2 + 3𝑦= 60 ×
+50
+100 
+ 
+ 
+n + 3y = 22 
+ 
+ 
+So, only option (c) satisfies the above equation  
+ 
+72. (b): A can complete his work by working “m” hrs in “a” 
+days or by working “m-4” hrs in “a+5” days 
+ 
+ 
+m×a = (m-4) × (a+5) → 5m-4a = 20 
+ 
+ 
+Possible values of m and a → ((8,5), (12,10)) 
+ 
+ 
+B complete his work by working “n” hrs in “b” 
+days or by working “n-4” hrs in “b+5” days 
+ 
+ 
+n×b= (n-4) × (b+5) → 5n-4b = 20 
+ 
+ 
+Possible value of n and b → ((8,5), (12,10)) 
+ 
+ 
+Now work completed by A & B together in 1 day 
+will be 
+ 
+ 
+(when a=5 and b=5) 
+ 
+ 
+required days=2.5 days 
+ 
+ 
+(when a=5 and b=10) 
+ 
+ 
+required days=10/3 days 
+ 
+ 
+(when a=10 and b=10) 
+ 
+ 
+required days=5 days 
+ 
+73.  (b): Let Rs. ‘X’ is invested in scheme ‘A’ and Rs. ‘Y’ is 
+interest earned from scheme ‘B’ 
+ 
+ 
+Amount get from scheme A = X + X ×
+16 ×5
+100  = 
+9𝑋
+5  Rs. 
+ 
+ 
+75% amount from scheme ‘A’ = 
+9𝑋
+5  ×
+3
+4 =
+27𝑋
+20  
+ 
+ 
+Compound interest from scheme B = Y 
+ 
+ 
+Equivalent CI for two years at the rate of 20% = 20 
++ 20 + 
+20 ×20
+100  = 44% 
+ 
+ 
+Y = 
+27𝑋
+20  ×
+44
+100 
+ 
+ 
+Y = 
+1188𝑋
+2000  
+ 
+ 
+𝑌
+𝑋=
+297
+500 ---------------- (i) 
+ 
+ 
+Now, check using given values 
+ 
+ 
+Only, A & B follow the equation (i): 
+ 
+ 
+Sol. (74-76): 
+ 
+74. (b): maximum profit given to brand ambassador is the 
+increase in profit of company after advertising 
+with brand ambassador. 
+ 
+ 
+Required 
+sum=(40000 −38500)[(10000 −
+8000) × 0.4 + (8000 −5000) × 0.4 + (5000 −
+3000) × 0.3] 
+ 
+ 
+ ⇒1500 × (800 + 1200 + 600) 
+ 
+ 
+ ⇒39 𝑙𝑎𝑘ℎ𝑠 
+ 
+75. (e): Expected profit when advertised with brand 
+ambassador  
+ 
+ 
+= 
+(40,000 −38,500) × [10,000 × 0.4 + 8000 ×
+0.4 + 5000 × 0.3] = 130.5 𝑙𝑎𝑘ℎ𝑠.  
+ 
+ 
+Expected profit without brand ambassador 
+ 
+ 
+= 
+(40,000 – 38,500) × [8000 × 0.4 + 5000 ×
+0.4 + 3000 × 0.3] = 91.5 lakh. 
+ 
+ 
+Maximum sum can be paid to brand ambassador 
+= 130.5 −91.5 = 39 𝑙𝑎𝑘ℎ𝑠 
+ 
+ 
+Increase in profit of company after payment to 
+brand ambassador = 39 −24.5 = 14.5 𝑙𝑎𝑘ℎ 
+ 
+ 
+Let increment in profit per unit is Rs. x 
+ 
+ 
+ATQ  
+ 
+ 
+25 
+  Adda247 Publications                        For More Study Material 
+
+ 
+ 
+ 
+ 𝑥× [10000 × 0.4 + 8000 × 0.4 + 5000 × 0.3] =
+1450000  
+ 
+ 
+ 𝑥=
+1450000
+8700
+= 𝑅𝑠. 166.67 
+ 
+76. (a): maximum profit that can be earned when 
+advertised with brand ambassador 
+ 
+ 
+ (40000 −38500 −100)[10000 × 0.4 + 8000 ×
+0.4 + 5000 × 0.3] = 121.8 𝑙𝑎𝑘ℎ𝑠 
+ 
+ 
+Expected profit without brand ambassador 
+ 
+ 
+= 
+(40,000 – 38,500) × [8000 × 0.4 + 5000 ×
+0.4 + 3000 × 0.3] = 91.5 lakh. 
+ 
+ 
+Net profit earned by company after payment to 
+brand 
+ambassador=(121.8 −91.5 −24.5) =
+5.8 𝑙𝑎𝑘ℎ𝑠 
+Sol. (77-80): 
+Let the total number of boys in the class be ‘x’ 
+Then, number of girls in the class = (200-x) 
+And number of girls playing badminton=x 
+Number of girls playing only tennis = (200 –x) –x = (200 – 
+2x) 
+Number of boys playing only badminton = 
+200 –2𝑥
+2
+ = (100–
+x) 
+Let number of girls playing only badminton be ‘y’ 
+Number of boys playing both the games together = 
+𝑦
+2  
+Number of girls playing both the games together = 1.4 (100 
+– x) 
+Number of boys playing only tennis = 
+1
+3 (200 – 2x + y) 
+ATQ, 
+Girls playing badminton=x=y+1.4(100-x) 
+⇒2.4𝑥= 𝑦+ 140 … … … … (𝑖)  
+And, 
+Number of boys = x = (100 – x) + 
+𝑦
+2 +
+1
+3 (200 – 2x + y) 
+⇒ 16x = 5y + 1000 
+…….… (ii) 
+From (i) & (ii) 
+We have, x = 75 
+y=40 
+ 
+ 
+ 
+ 
+77. (c): Quantity I: number of boys playing tennis=50 
+ 
+ 
+Quantity II: number of girls playing only 
+tennis=50 
+ 
+ 
+Quantity III: required difference = (20+35)-25 = 
+30 
+ 
+ 
+So, Quantity I=Quantity II>Quantity III 
+ 
+78. (d): Quantity I: required difference= 50-40=10 
+ 
+ 
+Quantity II: required number = 12 
+ 
+ 
+Quantity III: required number= 40% of (50-25) = 
+10 
+ 
+ 
+So, Quantity II>Quantity III=Quantity I 
+ 
+79. (b): Quantity I:  
+ 
+ 
+ATQ 
+ 
+ 
+(𝑏×2
+3)
+𝑏×1
+3+𝑎=
+2
+3 
+ 
+ 
+2𝑏= 3𝑎… … … (𝑖) 
+ 
+ 
+And  
+ 
+ 
+22
+11+𝑎=
+1
+1 
+ 
+ 
+𝑎= 11 
+ 
+ 
+Then, from (i) 
+ 
+ 
+b=16.5 liters 
+ 
+ 
+Quantity II: let two value of c i.e. x and y liters 
+ 
+ 
+Where, x lit of c gives 22.5% acid content and y 
+liters of c gives 25% acid content 
+ 
+ 
+ATQ 
+ 
+ 
+15
+100 × 20 + 𝑥×
+30
+100 =
+22.5
+100 × (20 + 𝑥) 
+ 
+ 
+𝑥= 20 𝑙𝑖𝑡 
+ 
+ 
+And  
+ 
+ 
+15
+100 × 20 + 𝑦×
+30
+100 =
+25
+100 × (20 + 𝑦) 
+ 
+ 
+𝑦= 40 𝑙𝑖𝑡 
+ 
+ 
+i.e. 20≤𝑐 ≤40 
+ 
+ 
+Quantity III: 
+ 
+ 
+Let quantity of mixture from vessel A & B which 
+are mixed into C be 8x and 7x respectively. 
+ 
+ 
+ATQ— 
+ 
+ 
+7x ×
+3
+(3+2+2) −8x ×
+5
+(5+3+8) = 4 
+ 
+ 
+3x – 2.5x = 4 
+ 
+ 
+𝑥 = 8 liters 
+ 
+ 
+Required difference =  
+ 
+ 
+[(8 × 8) ×
+8
+16 + (7 × 8) ×
+2
+7] – [(8 × 8) ×
+3
+16 + (7 ×
+8) ×
+2
+7]  
+ 
+ 
+= (32 + 16) – (12 + 16) 
+ 
+ 
+= 20 liters 
+ 
+ 
+So, Quantity I<Quantity III≤Quantity II 
+ 
+80. (e): Quantity I: Let the number of matches India 
+played be x 
+ 
+ 
+To have a fair chance of winning a match, we have 
+ 
+ 
+1 −(
+4
+5)
+𝑥
+≥
+1
+2 
+ 
+ 
+⇒(
+4
+5)
+𝑥
+≤
+1
+2 
+ 
+ 
+For x=1, we get 
+4
+5 which is greater than 
+1
+2 
+ 
+ 
+For x=2, we get 
+16
+25 which is greater than 
+1
+2 
+ 
+ 
+For x=3, we get 
+64
+125 which is greater than 
+1
+2 
+ 
+ 
+For x=4, we get 
+256
+625 which is smaller than 
+1
+2 
+ 
+ 
+So, India needs to play a minimum of 4 matches so 
+that it has a fair chance of winning a match. 
+ 
+ 
+Quantity II: As the unit digits are prime, so it will 
+be one of 2/3/5/7 
+ 
+ 
+Product of two numbers to be prime is only 
+possible when one number is 1 and other is prime. 
+ 
+ 
+26 
+  Adda247 Publications                        For More Study Material 
+
+ 
+ 
+ 
+So, possible numbers are 
+ 
+ 
+= 11112/11113/11115/11117 
+ 
+ 
+i.e. only 4 such numbers are possible. 
+ 
+ 
+Quantity III: Let they meet after ‘t’ hours after 
+6AM to have a coffee 
+ 
+ 
+Distance covered by A=5t km 
+ 
+ 
+And distance covered by B=8t km 
+ 
+ 
+After their coffee, distance covered by B will now 
+be covered by A in order to reach his 
+ 
+ 
+destination in 9hr 36 min 
+ 
+ 
+⇒8t= 
+48
+5 × 5 
+ 
+ 
+⇒t=6 h 
+ 
+ 
+Required time spent by them on coffee= 4 min 
+ 
+ 
+ 
+ 
+ 
+81. (b): With respect to paragraph 1, which mentions,” 
+Global warming, largely caused by industrial 
+development and consumer demands, has been 
+causing havoc across the world.” we can infer that 
+earth’s climate will change and cause global 
+warming. 
+ 
+82. (a): All statements given are correct except statement 
+(a). With reference to the first paragraph which 
+mentions,” A major solution to mitigate such 
+climate changes is to reduce the levels of 
+greenhouse gases, particularly carbon dioxide, 
+which cause this warming. In an effort to try and 
+limit this warming, many countries across the 
+world are gathering together and agreeing to 
+make efforts to limit the rise in temperature to no 
+higher than 1.5 degrees by the year 2050. The 
+major way to do so is to increase the number of 
+plants, trees and forests across the world. They all 
+absorb carbon dioxide from the air, and with the 
+help of sunlight and water, produce food (staple 
+for us) and oxygen (which we breathe).” 
+ 
+83. (c): Option (c) is a correct choice with reference to the 
+third paragraph which mentions,” They point out 
+that more than 50% of this restoration potential 
+can be found in six countries (Russia, USA, 
+Canada, Australia, Brazil and China)”. Option (a) is 
+incorrect as these countries are not liable for a full 
+recovery. Hence, option (c) is the right answer. 
+ 
+84. (a): Synonym of ‘mitigate’ will be ‘lessen’ because to 
+mitigate means to cause to become less harsh or 
+hostile; to make less severe or painful. 
+ 
+ 
+‘Emphasize’ means give special importance or 
+value to (something) in speaking or writing. 
+ 
+ 
+‘Exaggerate’ means represent (something) as 
+being larger, better, or worse than it really is. 
+ 
+ 
+‘Promote’ means support or actively encourage (a 
+cause, venture, etc.); further the progress of. 
+ 
+85. (d): Only statement (ii) and statement (iii) are correct 
+as per the information given in the passage. 
+Hence, option (d) is the correct answer here. 
+ 
+ 
+Statement (ii) can be inferred from the first 
+paragraph which mentions,” In an effort to try and 
+limit this warming, many countries across the 
+world are gathering together and agreeing to 
+make efforts to limit the rise in temperature to no 
+higher than 1.5 degrees by the year 2050. The 
+major way to do so is to increase the number of 
+plants, trees and forests across the world.” 
+ 
+ 
+Statement (iii) can be inferred from the last 
+paragraph which mentions,” Happily enough, 
+several groups (and governments) in countries, 
+notably Philippines and State government in India 
+have moved towards more tree plantations. In 
+India with its 7,08,273 sq km land area, 21.54% 
+has tree cover.” 
+ 
+ 
+Statement (i) hasn’t been mentioned in the 
+passage. 
+ 
+86. (d): “without any agricultural activity or human 
+settlement” fits the blank to make sentence 
+grammatically and contextually correct and 
+meaningful. Hence, option (d) is the correct 
+answer choice. 
+ 
+87. (c): The 
+above 
+paragraph 
+mentions 
+the 
+U.S. 
+President’s attempt to revive the JCPOA and the 
+disagreement between Iran and Tehran. The most 
+suitable pair of words will be “breakthrough, 
+success”.  
+ 
+ 
+Hence, option (c) is the correct choice here. 
+ 
+ 
+Anatomy means a person's body. 
+ 
+ 
+Speculate means form a theory or conjecture 
+about a subject without firm evidence. 
+ 
+ 
+Implication means the conclusion that can be 
+drawn from something although it is not explicitly 
+stated. 
+ 
+ 
+Rival means a person or thing that equals another 
+in quality. 
+ 
+88. (e): The 
+above 
+paragraph 
+mentions 
+the 
+U.S. 
+President’s attempt to revive the JCPOA and the 
+disagreement between Iran and Tehran. The most 
+suitable pair of words will be “quit, leave”.  
+ 
+ 
+Hence, option (e) is the correct choice here.

@@ -1,0 +1,371 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 7
+Subject: English
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05021229/SBI-PO-Pre-2022-19th-Dec-Shift-Wise-Previous-Year-Paper-Mock-07.pdf
+======================================================================
+
+Q1. What has/have prompted the increase in the use of online shopping websites? 
+(a) People find online shopping platforms more reliable than shopping offline. 
+(b) Online shopping is preferred by consumers as it is less time-consuming. 
+(c) The availability of product of various brands on the same online platform attracts consumers. 
+(d) Increased accessibility and low cost of internet services has fuelled online shopping. 
+(e) None of these 
+ 
+Q2. How do different search engines work on a particular E-commerce query? 
+(a) Every search engine has a privacy policy which restricts data sharing and ensures security. 
+(b) They retrieve and process data of different users to give out a result for a particular query. 
+(c) Every search engine uses an algorithm to instantly determine the exact product a user wants to buy. 
+(d) All search engines suggest the best product with maximum discounts when searched. 
+(e) None of these 
+ 
+ 
+2 
+ 
+ 
+Q3. Why does the author emphasise the need for personalized E-Commerce search systems? 
+(a) To merge different e-commerce platforms into a single entity which will reduce internet traffic 
+(b) To eliminate the process where users need to create an ID and provide personal information 
+(c) To avoid misinterpretation and to facilitate easier access to the products users require  
+(d) In order to avoid pop-up notifications which users get after making a purchase  
+(e) None of these   
+ 
+Q4.  Which of the following is true regarding ‘Big Data’ according to the facts in the passage? 
+(a) It contains data focussed highly on efficient strategies. 
+(b) Excessive online generated data is called Big Data 
+(c) It results from usage of traditional data processing software. 
+(d) Both (a) and (b)  
+(e) Both (a) and (c)  
+ 
+Q5.  What is the major reason for cheaper internet service in India?  
+(a) Indian telecommunication companies have their own satellites  
+(b) There is a high number of telecommunication operating companies in India. 
+(c) The operation cost of telecom companies is very low in India. 
+(d) There is a stiff competition among Indian telecommunication companies. 
+(e) None of these 
+ 
+Q6. Which of the following statements is/are incorrect as per the information given in the 
+passage? 
+(a) E-commerce data is dynamically rising on the scale of TB to PB on a daily basis. 
+(b) E-Tailers, unlike physical shops, sell their products online. 
+(c) Personalized E-Commerce search systems keep track of user preferences. 
+(d) Google is one of the search engines often used by people for finding a suitable E-Commerce web site. 
+(e) None of these 
+ 
+Q7. Which of the following words is a synonym of ‘Modern’ given in the passage? 
+(a) shunned 
+(b) contemporary 
+(c) congenital 
+(d) perpetual 
+(e) None of these 
+ 
+Q8. Which of the following words is an antonym of ‘Ambiguous’ 
+given in the passage? 
+(a) ardent 
+(b) preamble 
+(c) apparent 
+(d) suffice 
+(e) None of these 
+ 
+ 
+3 
+ 
+ 
+Q9. Which of the following words is a synonym of ‘modify’ given in the passage? 
+(a) alter 
+(b) expand  
+(c) fix 
+(d) widen  
+(e) None of these 
+ 
+Q10. In each of the questions given below, four sentences have been given. One out of four 
+sentences may or may not contain an error. Find out which of the following sentence has an error. 
+If all the sentences are error-free then choose ‘All are correct’ as your answer choice. 
+(a) The students who went back home did not return. 
+(b) The major reason behind pollution is stubble burning across the country. 
+(c) Nothing is ever constants and change will always be the order of the day. 
+(d) India’s population is among the youngest in the world. 
+(e) All are correct 
+ 
+Q11. In each of the questions given below, four sentences have been given. One out of four 
+sentences may or may not contain an error. Find out which of the following sentence has an error. 
+If all the sentences are error-free then choose ‘All are correct’ as your answer choice. 
+(a) Countries have announced their commitment to lofty environmental goals. 
+(b) The foundation stone of the India gate was called the All India War Memorial. 
+(c) Social media platforms regularly manage user content on their website. 
+(d) The slowdown in investment didn’t happened because companies were making losses. 
+(e) All are correct 
+ 
+Q12. In each of the questions given below, four sentences have been given. One out of four 
+sentences may or may not contain an error. Find out which of the following sentence has an error. 
+If all the sentences are error-free then choose ‘All are correct’ as your answer choice. 
+(a) India’s journey in the last years provide learning on sustaining growth in production. 
+(b) The bank has added many more branches throughout the country. 
+(c) Our planet is approaching tipping points that will make climate chaos irreversible. 
+(d) Global energy poverty is concentrated in the developing countries. 
+(e) All are correct 
+ 
+Q13. In each of the questions given below, four sentences have been given. One out of four 
+sentences may or may not contain an error. Find out which of the following sentence has an error. 
+If all the sentences are error-free then choose ‘All are correct’ as your answer choice. 
+(a) Subhas Bose was born into wealth and privilege in a large Bengali family. 
+(b) An important issue that was not highlighted was the issue of equality. 
+(c) The Black Sea Grain Deal endeavours to tackle escalating food prices. 
+(d) Imports of goods appear to have grew at a far lower pace than in recent months 
+(e) All are correct 
+ 
+ 
+4 
+ 
+ 
+Q14. In each of the questions given below, four sentences have been given. One out of four 
+sentences may or may not contain an error. Find out which of the following sentence has an error. 
+If all the sentences are error-free then choose ‘All are correct’ as your answer choice. 
+(a) People’s buying habits do not invariably correspond to their income level. 
+(b) As children, we used to laugh hundreds of times a day. 
+(c) Corruption is a struggle that a common man or woman encounters every day. 
+(d) Cactus spines are produced from specialize structures called areoles. 
+(e) All are correct 
+ 
+Directions (15-20) : In the following questions, a paragraph is given. There are several words 
+which are highlighted, each followed by a number. These words may or may not be used in their 
+correct sense in the given paragraph. The numbers provided with these words are then followed 
+by five options. Each option contains words that can replace the words in the paragraph. You 
+need to find the words that can replace the highlighted words and mark them as your answers. 
+If the word highlighted is used correctly then mark option (E) i.e. “No replacement is required” 
+as your answer.  
+ 
+Q15. Print media is dying. And social media has become a defunct (15) platform for the exchange of 
+what maybe widely divergent views. These are perspectives which carry factual weight. Having said 
+this, the curation of an international online notion (16) has undoubtedly brought with it enhanced 
+citizens participation across democratic processes and broader social movements – but at the same 
+time, one feels that the role of independent media and journalism as bearers of the foundations of 
+democratic systems, is slowly but surely diminishing (17) . 
+The good thing about social media is that everyone can have an opinion or a voice on a particular issue 
+– which unfortunately also seems to be a bad thing in certain cases. This is where it gets minimising 
+(18) . On one end norms such as freedom of thought and expression are universally accepted as pillars 
+of constitutionally democratic systems – challenge (19) free speech in any form is thus a touchy subject. 
+On the other end there are those who argue that free speech has its defined limits – free speech can be 
+censored if one is using their perspectives as a means to incite hate or violence. Policymakers have not 
+found a vintage (20) answer to which of these two positions is correct and applicable in the context of 
+a connected and deeply integrated global political order. 
+(a) mobilise 
+(b) traditionally 
+(c) toxic 
+(d) suspension 
+(e) No replacement required 
+ 
+Q16. Print media is dying. And social media has become a defunct (15) platform for the exchange of 
+what maybe widely divergent views. These are perspectives which carry factual weight. Having said 
+this, the curation of an international online notion (16) has undoubtedly brought with it enhanced 
+citizens participation across democratic processes and broader social movements – but at the same 
+time, one feels that the role of independent media and journalism as bearers of the foundations of 
+democratic systems, is slowly but surely diminishing (17) . 
+ 
+ 
+5 
+ 
+The good thing about social media is that everyone can have an opinion or a voice on a particular issue 
+– which unfortunately also seems to be a bad thing in certain cases. This is where it gets minimising 
+(18) . On one end norms such as freedom of thought and expression are universally accepted as pillars 
+of constitutionally democratic systems – challenge (19) free speech in any form is thus a touchy subject. 
+On the other end there are those who argue that free speech has its defined limits – free speech can be 
+censored if one is using their perspectives as a means to incite hate or violence. Policymakers have not 
+found a vintage (20) answer to which of these two positions is correct and applicable in the context of 
+a connected and deeply integrated global political order. 
+(a) ecosystem 
+(b) demand 
+(c) autonomous 
+(d) speedy 
+(e) No replacement required 
+ 
+Q17. Print media is dying. And social media has become a defunct (15) platform for the exchange of 
+what maybe widely divergent views. These are perspectives which carry factual weight. Having said 
+this, the curation of an international online notion (16) has undoubtedly brought with it enhanced 
+citizens participation across democratic processes and broader social movements – but at the same 
+time, one feels that the role of independent media and journalism as bearers of the foundations of 
+democratic systems, is slowly but surely diminishing (17) . 
+The good thing about social media is that everyone can have an opinion or a voice on a particular issue 
+– which unfortunately also seems to be a bad thing in certain cases. This is where it gets minimising 
+(18) . On one end norms such as freedom of thought and expression are universally accepted as pillars 
+of constitutionally democratic systems – challenge (19) free speech in any form is thus a touchy subject. 
+On the other end there are those who argue that free speech has its defined limits – free speech can be 
+censored if one is using their perspectives as a means to incite hate or violence. Policymakers have not 
+found a vintage (20) answer to which of these two positions is correct and applicable in the context of 
+a connected and deeply integrated global political order. 
+(a) tryst 
+(b) recuperate 
+(c) justify 
+(d) organic 
+(e) No replacement required 
+ 
+Q18. Print media is dying. And social media has become a defunct (15) platform for the exchange of 
+what maybe widely divergent views. These are perspectives which carry factual weight. Having said 
+this, the curation of an international online notion (16) has undoubtedly brought with it enhanced 
+citizens participation across democratic processes and broader social movements – but at the same 
+time, one feels that the role of independent media and journalism as bearers of the foundations of 
+democratic systems, is slowly but surely diminishing (17) . 
+The good thing about social media is that everyone can have an opinion or a voice on a particular issue 
+– which unfortunately also seems to be a bad thing in certain cases. This is where it gets minimising 
+(18) . On one end norms such as freedom of thought and expression are universally accepted as pillars 
+of constitutionally democratic systems – challenge (19) free speech in any form is thus a touchy subject. 
+ 
+ 
+6 
+ 
+On the other end there are those who argue that free speech has its defined limits – free speech can be 
+censored if one is using their perspectives as a means to incite hate or violence. Policymakers have not 
+found a vintage (20) answer to which of these two positions is correct and applicable in the context of 
+a connected and deeply integrated global political order. 
+(a) unreliable 
+(b) tricky 
+(c) beautiful 
+(d) tremendous 
+(e) No replacement required 
+ 
+Q19. Print media is dying. And social media has become a defunct (15) platform for the exchange of 
+what maybe widely divergent views. These are perspectives which carry factual weight. Having said 
+this, the curation of an international online notion (16) has undoubtedly brought with it enhanced 
+citizens participation across democratic processes and broader social movements – but at the same 
+time, one feels that the role of independent media and journalism as bearers of the foundations of 
+democratic systems, is slowly but surely diminishing (17) . 
+The good thing about social media is that everyone can have an opinion or a voice on a particular issue 
+– which unfortunately also seems to be a bad thing in certain cases. This is where it gets minimising 
+(18) . On one end norms such as freedom of thought and expression are universally accepted as pillars 
+of constitutionally democratic systems – challenge (19) free speech in any form is thus a touchy subject. 
+On the other end there are those who argue that free speech has its defined limits – free speech can be 
+censored if one is using their perspectives as a means to incite hate or violence. Policymakers have not 
+found a vintage (20) answer to which of these two positions is correct and applicable in the context of 
+a connected and deeply integrated global political order. 
+(a) false 
+(b) auspicious 
+(c) costly 
+(d) limiting 
+(e) No replacement required 
+ 
+Q20. Print media is dying. And social media has become a defunct (15) platform for the exchange of 
+what maybe widely divergent views. These are perspectives which carry factual weight. Having said 
+this, the curation of an international online notion (16) has undoubtedly brought with it enhanced 
+citizens participation across democratic processes and broader social movements – but at the same 
+time, one feels that the role of independent media and journalism as bearers of the foundations of 
+democratic systems, is slowly but surely diminishing (17) . 
+The good thing about social media is that everyone can have an opinion or a voice on a particular issue 
+– which unfortunately also seems to be a bad thing in certain cases. This is where it gets minimising 
+(18) . On one end norms such as freedom of thought and expression are universally accepted as pillars 
+of constitutionally democratic systems – challenge (19) free speech in any form is thus a touchy subject. 
+On the other end there are those who argue that free speech has its defined limits – free speech can be 
+censored if one is using their perspectives as a means to incite hate or violence. Policymakers have not 
+found a vintage (20) answer to which of these two positions is correct and applicable in the context of 
+a connected and deeply integrated global political order. 
+ 
+ 
+7 
+ 
+(a) vehemently 
+(b) expansion 
+(c) debarred 
+(d) concrete 
+(e) No replacement required 
+ 
+Directions (21-21) : A word has been given in each question and has been used in the sentences 
+given below. Identify the statements where the word has been used in a contextually and 
+grammatically correct manner. 
+ 
+Q21. Execute 
+(i) The budget constraints execute the company from hiring additional employees this year. 
+(ii) Every day you fail to execute the task, the penalty for failure worsens. 
+(iii) A debtor who is not insolvent may also execute a deed in favor of his creditors generally. 
+(a) All of these 
+(b) Only (i)  
+(c) Both (ii) & (iii)  
+(d) Both (i) & (ii)  
+(e) Only (iii)  
+ 
+Directions (22-25) : In the following question, sentences are given with a part in bold. The given 
+phrase in the bold may or may not contain an error. The options following can replace the 
+incorrect phrase. The correct phrase that is to be replaced will be your answer. If the sentences 
+are correct then select ‘No improvement required’ as your answer. 
+ 
+Q22. Not only India but some other countries also faces the impacts of climate change. 
+(a) also faces the impacts for 
+(b) too faces the impacts of  
+(c) also face the impacts of  
+(d) also face the impacts by 
+(e) No improvement required 
+ 
+Q23. When you will come to my house, I will cook your favorite pasta for you. 
+(a) will came to my 
+(b) come to my 
+(c) would come to my 
+(d) will come to mine 
+(e) No improvement required 
+ 
+Q24. In the afternoon after lunch, I will let you to go back home.  
+(a) you go back  
+(b) you going back  
+(c) you to going back 
+(d) you to goes back 
+(e) No improvement required 
+ 
+ 
+8 
+ 
+ 
+Q25. My mother suggest to me to study in the early morning. 
+(a) suggested me  
+(b) suggested to me 
+(c) suggested that I should  
+(d) suggested that me should 
+(e) No improvement required 
+ 
+Directions (26-30) : In each of the questions given below a sentence is given which is divided into 
+four phrases and these phrases aren’t in their correct position. Choose the option which gives 
+the correct sequence of these phrases to make the sentence grammatically and contextually 
+correct. If the given phrases are already at their correct positions, then choose option “no 
+rearrangement required” as your answer choice. 
+ 
+Q26. the history until his tomb (A) / King Tutabkhamen was (B) / largely erased from (C) /was 
+discovered in the 1900s (D) . 
+(a) DCBA 
+(b) ADCB 
+(c) BCAD 
+(d) CDBA 
+(e) No rearrangement required 
+ 
+Q27. including the creation of wealth and its (A) /several dimensions of transformation, (B) / the 
+concept of development involves (C) / equal distribution to reduce poverty (D) . 
+(a) DCBA 
+(b) ADCB 
+(c) BDCA 
+(d) CBAD 
+(e) No rearrangement required 
+ 
+Q28. when there is a problem with (A) / for maintaining fluid levels (B) / one or more of the 
+body’s mechanisms (C) / water retention occurs (D)  
+(a) DACB 
+(b) ADCB 
+(c) BDCA 
+(d) CDBA 
+(e) No rearrangement required 
+ 
+Q29. People feel uncomfortable (A) / is a boon as it saves lot of time (B) / crowded markets. So, 
+E-Shopping (C) / and time consuming for going (D) . 
+(a) DCBA 
+(b) ADCB 
+(c) BDCA 
+(d) CDBA 
+(e) No rearrangement required 
+ 
+ 
+9 
+ 
+ 
+Q30. through which a dancer (A) / classical dance is a (B) / can reach the Almighty (C) / form of 
+worship (D) . 
+(a) DCBA 
+(b) ADCB 
+(c) BDAC 
+(d) CDBA 
+(e) No rearrangement required

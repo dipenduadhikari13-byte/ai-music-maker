@@ -1,0 +1,481 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2024
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/10/19171033/IBPS-PO-Prelims-Memory-Based-2024-Reasoning-Ability.pdf
+======================================================================
+
+1 
+
+ 
+ 
+ 
+IBPS PO Prelims Memory Based 2024 (Reasoning Ability) 
+ 
+Directions (1-5): Study the following information carefully and answer the given questions: 
+Seven persons A, B, C, D, E, F, and G are sitting around a circular table, but not necessarily in the same order. 
+Some of them face towards the centre, and some face away from the centre. 
+F sits third to the right of A. The immediate neighbours of A face the same direction but opposite as A. A 
+faces the same direction as B but not towards the centre. One person sits between A and C. D sits 2nd to the 
+left of C. E sits 2nd to the left of G and face in the same direction. F and D face opposite direction as E.  
+ 
+Q1. Who among the following sits second to the right of E? 
+(a) A 
+(b) D 
+(c) C 
+(d) F 
+(e) G 
+ 
+Q2. Which among the following pair of persons faces the same direction? 
+(a) G and C 
+(b) A and E 
+(c) E and D 
+(d) C and F 
+(e) None of these 
+ 
+Q3. How many persons sit between B and F (counting clockwise from F)? 
+(a) One 
+(b) Three 
+(c) Four 
+(d) Two 
+(e) None 
+ 
+Q4. Four of the following five persons are alike in a certain way 
+based on their seating arrangement. Find the odd one. 
+(a) F 
+(b) C 
+(c) B 
+(d) D 
+(e) A 
+ 
+Q5. Which among the following statements is/are true? 
+I. G faces towards the centre. 
+II. Both F and A face away from the centre. 
+III. Two persons sit between C and D when counted clockwise from D. 
+2 
+
+ 
+(a) Only I 
+(b) Only III 
+(c) Both I and II 
+(d) Both II and III 
+(e) All I, II, and III 
+ 
+Directions (6-8): Read the given information carefully and answer the related questions: 
+M is spouse of O and parent of R. O is father-in-law of T who has two children. N is the only son of R who 
+has no sibling. T is mother-in-law of P. V is married to P.  
+ 
+Q6. Four of the following five are similar in a certain manner, who among the following is dissimilar 
+to others? 
+(a) O 
+(b) R 
+(c) P 
+(d) N 
+(e) V 
+ 
+Q7. Who among the following is grandmother of V? 
+(a) T 
+(b) M 
+(c) R 
+(d) O 
+(e) N 
+ 
+Q8. What is the relation of P with respect to R? 
+(a) Son-in-law 
+(b) Son 
+(c) Nephew 
+(d) Daughter 
+(e) None of the above 
+ 
+Q9. If we form a four-letter meaningful word by using the third, fourth, fifth and seventh letter from 
+the left end of the word ‘EXACTITUDE’, then which of the following will be the second letter of the 
+meaningful word thus formed. If more than one word is formed mark Z as your answer. If no 
+meaningful word is formed, mark X as your answer?  
+(a) C 
+(b) A 
+(c) X 
+(d) T 
+(e) Z 
+ 
+Directions (10-14): Read the given information carefully and answer the related questions: 
+Seven persons was born on same date and same month but in different years – 1955, 1967, 1973 1980, 
+1987, 1991, 2003. Consider the base year 2024 to calculate the ages.  
+3 
+
+ 
+L’s age is multiple of 3. Three persons were born between L and Q. Number of persons born before Q is 
+same as the number of persons born after P. Difference between the age of Q and K is 12 years. M is 7 years 
+older to N. N is younger to O.  
+ 
+Q10. Who among the following was born in 1967? 
+(a) N 
+(b) P 
+(c) M 
+(d) O 
+(e) K 
+ 
+Q11. What is age difference between M and Q? 
+(a) 25 years 
+(b) 24 years 
+(c) 23 years 
+(d) 30 years 
+(e) 20 years  
+ 
+Q12. M was born in which year? 
+(a) 1973 
+(b) 1980 
+(c) 1987 
+(d) 1967 
+(e) 1955 
+ 
+Q13. What is the total age of K and N? 
+(a) 84 years 
+(b) 65 years 
+(c) 81 years 
+(d) 58 years 
+(e) 70 years 
+ 
+Q14. If P is related to L, N is related to Q, then M is related to ___. 
+(a) K 
+(b) O 
+(c) L 
+(d) None of these  
+(e) N 
+ 
+Directions (15-19): Read the given information carefully and answer the related questions: 
+In a certain code language 
+‘Play the same game.’ is coded as ‘us   ud   ut   uk’ 
+‘Seen in the play.’ is coded as ‘uk   ua   ud    um’ 
+‘The jar is seen.’ is coded as ‘ud   ua    uh     uw’ 
+‘The same game played’ is coded as ‘ut     ud    ub    us’ 
+ 
+4 
+
+ 
+Q15. What is the code for ‘same’? 
+(a) uh 
+(b) ut 
+(c) um 
+(d) ub 
+(e) ud 
+ 
+Q16. If the code of ‘Jar’ is ‘uh’, then the code of ‘is played’ will be? 
+(a) ua   ud 
+(b) uw   ut 
+(c) ua    us 
+(d) uw   ub 
+(e) uw   ut 
+ 
+Q17. What is the code of ‘play’? 
+(a) ud  
+(b) us  
+(c) uk 
+(d) ut  
+(e) um 
+ 
+Q18. What will be the possible code for ‘game is played’? 
+(a) uh   ud   ub 
+(b) ut    us    ua 
+(c) us    uh   ub 
+(d) ut   ub    ud 
+(e) uh    uw   uk 
+ 
+Q19. Which word is coded as ‘um’? 
+(a) In 
+(b) The 
+(c) Play 
+(d) Seen 
+(e) None of the above 
+ 
+Directions (20-24): Study the information carefully and answer the questions given below. 
+Six persons i.e. A, B, C, D, E and F sit in row such that all of them face in the north direction. They all like 
+different fruits i.e. Mango, Strawberry, Guava, Orange, Apple and Banana but not necessarily in the same 
+order.  
+The one who likes Strawberry sits at the right end. B sits 3rd to the left of the one who likes Guava. A sits 2nd 
+to the left of the one who likes Mango, and likes Banana. C sits 3rd to the right of E but not sit at any extreme 
+ends. There are as many persons sit to the right of D is same as to the left of the one who likes Apple.  
+ 
+5 
+
+ 
+Q20. Who among the following likes Guava? 
+(a) A 
+(b) D 
+(c) C 
+(d) F 
+(e) None of these 
+ 
+Q21. How many persons sit between C and the one who likes Orange? 
+(a) Three 
+(b) Two 
+(c) One 
+(d) None 
+(e) None of these 
+ 
+Q22. Who among the following sits third to the left of the one who likes Guava? 
+(a) The one who sits immediate left of E 
+(b) F 
+(c) The one who likes Orange  
+(d) A 
+(e) None of these 
+ 
+Q23. Which of the following statement is true? 
+(a) C sits to the immediate left of the one who likes Apple. 
+(b) The one who likes Mango sits 3rd from the extreme right end. 
+(c) B likes Orange. 
+(d) A sits third to the left of D. 
+(e) None is true  
+ 
+Q24. Four of the following five are alike in a certain way and hence form a group. Which of the 
+following does not belong to that group?  
+(a) B- Banana 
+(b) F-Orange 
+(c) E-Guava 
+(d) A-Apple 
+(e) C-Mango 
+ 
+Q25. Find odd one out? 
+(a) FBI 
+(b) PLR 
+(c) EAH 
+(d) IEL 
+(e) RNU 
+ 
+Directions (26-30): Read the given information carefully and 
+answer the related questions: 
+6 
+
+ 
+Six boxes - A, B, C, D, E and F are placed one above another. These boxes are of different types – Jute, Steel, 
+Iron, Wood, Leather, Brass. All the information is not necessarily in the same order.  
+Box D is placed three places above leather box. Same number of boxes are placed above box D and below 
+steel box. Box B is placed just below box F and juts above wood box. Box A is placed two places below iron 
+box. More than one box is placed below box C which is placed below brass box.  
+ 
+Q26. How many boxes are placed between brass box and box A? 
+(a) None 
+(b) Three 
+(c) One 
+(d) Two 
+(e) Four  
+ 
+Q27. Which of the following statement is incorrect? 
+(a) Box E is bottommost box 
+(b) Box B is leather box 
+(c) Box D is placed above box F 
+(d) Box A and B are adjacent to each other 
+(e) Box C is brass box 
+ 
+Q28. Box F is of which type? 
+(a) Iron 
+(b) Jute 
+(c) Brass 
+(d) Steel 
+(e) Leather 
+ 
+Q29. If box E is related to wood box, box A is related to leather box, then in similar manner, which 
+box is related to jute box? 
+(a) Box D 
+(b) Box F 
+(c) Box B 
+(d) Box C 
+(e) None of the above 
+ 
+Q30. As many boxes are placed above box D as below box ___. 
+(a) Box C 
+(b) Box B 
+(c) Box E 
+(d) Box A 
+(e) Box F 
+ 
+Q31. In the word ‘ORGANIZE’, how many pairs of the letters have the same number of letters between 
+them (both forward and backward direction) in the word as in the alphabet? 
+7 
+
+ 
+(a) Four 
+(b) Two 
+(c) One 
+(d) Three 
+(e) More than four 
+ 
+Directions (32-34): Study the information carefully answer the questions given below. 
+Six persons P, Q, R, S, T and U in a family have different weights. The third heaviest person weight is 40kg. 
+Q’s weight is in odd number and is lighter than S but heavier than R. The number of persons lighter than S 
+is one more than P. T is heavier than R and U. T is 20kg more than P who is heavier than Q. The second 
+lightest person is not Q. 
+ 
+Q32. What is the possible weight of S?  
+(a) 39kg 
+(b) 34kg 
+(c) 53kg 
+(d) 67kg 
+(e) 62kg 
+ 
+Q33. If R’s weight is 15kg less than P and 5 kg more than U then what is the sum weight of R and U?  
+(a) 38kg 
+(b) 45kg 
+(c) 50kg 
+(d) 40kg 
+(e) 35kg 
+ 
+Q34. The numbers of persons heavier than P is same as the numbers of persons lighter than _______.  
+(a) S 
+(b) T 
+(c) Q 
+(d) P 
+(e) None of these  
+ 
+Q35. If in the given word “CONVERSION”, if we replaced all odd position letter (from left) with its 
+just next letter and replace all the even position letter (from left) with its just previous letter then 
+find how many letters are repeated there in the new arrangement? 
+(a) One  
+(b) Two 
+(c) Four 
+(d) Three 
+(e) None 
+ 
+ 
+ 
+ 
+8 
+
+ 
+ 
+Solutions 
+ 
+Directions (1-5): 
+ 
+S1. Ans. (e) 
+S2. Ans. (a) 
+S3. Ans. (a) 
+S4. Ans. (b) 
+S5. Ans. (c) 
+ 
+Directions (6-8): 
+ 
+ 
+S6. Ans. (e) 
+Sol. Except V, all are males 
+ 
+S7. Ans. (b) 
+S8. Ans. (a) 
+ 
+S9. Ans. (b) 
+Sol. TACT 
+ 
+9 
+
+ 
+Directions (10-14): 
+ 
+Year 
+Age 
+Persons 
+1955 
+69 
+P 
+1967 
+57 
+O 
+1973 
+51 
+L 
+1980 
+44 
+M 
+1987 
+37 
+N 
+1991 
+33 
+K 
+2003 
+21 
+Q 
+ 
+S10. Ans. (d) 
+S11. Ans. (c) 
+S12. Ans. (b) 
+S13. Ans. (e) 
+S14. Ans. (a) 
+ 
+Directions (15-19): 
+ 
+Words 
+Codes 
+The  
+ud 
+Play 
+uk 
+Seen 
+ua 
+In 
+um 
+Same/Game 
+us/ut 
+Jar/Is 
+uh/uw 
+Played 
+ub 
+ 
+S15. Ans. (b) 
+S16. Ans. (d) 
+S17. Ans. (c) 
+S18. Ans. (c) 
+S19. Ans. (a) 
+ 
+Directions (20-24): 
+ 
+ 
+S20. Ans. (d) 
+S21. Ans. (b) 
+S22. Ans. (a) 
+S23. Ans. (d) 
+S24. Ans. (e) 
+ 
+10 
+
+ 
+S25. Ans. (b) 
+Sol. Logic - FBI 
+First letter is fourth next letter of second letter and third letter is third next letter of first letter.  
+ 
+Directions (26-30): 
+ 
+Box 
+Types 
+D 
+Brass 
+C 
+Jute 
+F 
+Iron 
+B 
+Leather 
+A 
+Wood 
+E 
+Steel 
+ 
+S26. Ans. (b) 
+S27. Ans. (e) 
+S28. Ans. (a) 
+S29. Ans. (b) 
+S30. Ans. (c) 
+ 
+S31. Ans. (c) 
+Sol.  
+ 
+ 
+Directions (32-34): 
+ 
+S32. Ans. (c) 
+S33. Ans. (b) 
+S34. Ans. (c) 
+ 
+S35. Ans. (e) 
+Sol. CONVERSION 
+        DNOUFQTHPM

@@ -1,0 +1,367 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 3
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/11/15191108/SBI-PO-Prelims-Previous-Year-Paper-2022-Mock-3-1.pdf
+======================================================================
+
+Q66. Who among the following sits second to the right of D? 
+(a) G 
+(b) B 
+(c) A 
+(d) I 
+(e) None of these 
+ 
+Q67. Who sits second to the right of F? 
+(a) G 
+(b) B 
+(c) C 
+(d) E 
+(e) None of these 
+ 
+Q68. Number of persons sit to the left of _______is same as the number of persons sit to the right of _____. 
+(a) J, F 
+(b) I, J 
+(c) A, H 
+(d) D, B 
+(e) F, G 
+ 
+Q69. How many persons sit between D and E? 
+(a) None 
+(b) Two 
+(c) Three 
+(d) One 
+(e) None of these 
+ 
+Q70. Who among the following sits to the right of I? 
+(a) J 
+(b) A 
+(c) C 
+(d) F 
+(e) None of these 
+ 
+Directions (71-72): Study the following information carefully and answer the given questions. 
+In a certain code language, 
+‘calendar published university exam’ is coded as ‘zq ie mn as’ 
+‘important schedule published university’ is coded as ‘mn bn st ie’ 
+‘important time university exam’ is coded as ‘cd as mn bn’ 
+‘calendar exam student test’ is coded as ‘zq as zx  yx’ 
+ 
+15 
+
+ 
+Q71. Which of the following is the code for ‘schedule’? 
+(a) st 
+(b) bn 
+(c) ie 
+(d) mn 
+(e) None of these 
+ 
+Q72. Which of the following word is coded as ‘bn’? 
+(a) time 
+(b) exam 
+(c) schedule 
+(d) Important 
+(e) None of these 
+ 
+Directions (73-77): Study the following information carefully and answer the questions given below. 
+A certain number of persons are sitting in a row facing south direction. G sits 4th to the right of W who sits 3rd to the 
+left of P. The number of persons sit between P and W is same as the number of persons sit to the right of G. E sits 3rd 
+to the left of A. Six persons sits between E and F. Odd prime number of persons sit between G and H who doesn’t sit 
+to the right of A. Five persons sit between P and A. Four persons sit to the left of A. 
+ 
+Q73. Who sits 3rd to the right of A? 
+(a) F 
+(b) H 
+(c) G 
+(d) W 
+(e) None of these 
+ 
+Q74. Who sits 2nd from the right end of the row? 
+(a) E 
+(b) W 
+(c) H 
+(d) P 
+(e) Unknown person 
+ 
+Q75. How many persons sit between H and W? 
+(a) Five 
+(b) Six 
+(c) Four 
+(d) Three 
+(e) None of these 
+ 
+Q76. What is the position of W with respect to E? 
+(a) 7th to the right 
+(b) Immediate left 
+(c) 6th to the right 
+(d) 5th to the left 
+(e) None of these 
+ 
+16 
+
+ 
+Q77. How many persons are sitting in the row? 
+(a) 13 
+(b) 14 
+(c) 15 
+(d) 16 
+(e) None of these 
+ 
+Q78. If it is possible to make a meaningful word from 1st, 2nd, 4th, and 5th letters from left end of word 
+"PRUDENTIAL", then which will be the 2nd letter of the meaningful word from left end (using each letter 
+once)? If no such meaningful word be formed, then mark the answer as ‘Y’. If more than one meaningful word 
+can be formed then mark the answer as ‘X’. 
+(a) Y 
+(b) P 
+(c) D 
+(d) E 
+(e) X 
+ 
+Directions (79-80): In these questions, the relationship between different elements is shown in the 
+statements. The statements are followed by conclusions. Study the conclusions based on the given 
+statements and select the appropriate answer: 
+ 
+Q79. Statements: 
+P≤O>Q<W>X>F≥L=B 
+Conclusion 
+I: O>X  
+II: W>L 
+(a) If only conclusion I true 
+(b) If only conclusion II true 
+(c) If either conclusion I or II true 
+(d) If neither conclusion I nor II true 
+(e) If both conclusions I and II true 
+ 
+Q80. Statements: 
+E>P= L≥O=M≤V=Z>A 
+Conclusion 
+I:  E>M  
+II: O<Z 
+(a) If only conclusion I true 
+(b) If only conclusion II true 
+(c) If either conclusion I or II true 
+(d) If neither conclusion I nor II true 
+(e) If both conclusions I and II true 
+ 
+Directions (81-83): In each question below some statements are given followed by some conclusions. You 
+have to take the given statements to be true even if they seem to be at variance with commonly known facts. 
+Read all the conclusions and then decide which of the given conclusions logically follows from the given 
+statements, disregarding commonly known facts. 
+ 
+17 
+
+ 
+Q81. Statements: 
+Some Dog are Cat. 
+No Horse is Dog. 
+Only a few Cat is Rat. 
+Conclusions: 
+I. All Rat is Dog is a possibility. 
+II. Some Cat is not Horse 
+(a) Only I follows 
+(b) Both I and II follow 
+(c) Only II follows 
+(d) None follows 
+(e) None of these 
+ 
+Q82. Statements: 
+Only Purple is Yellow. 
+All olive is purple. 
+Only a few Green is Olive. 
+Conclusions: 
+I. Some Olive is Yellow is a possibility 
+II. Some Purple is Green is a possibility 
+(a) Only I follows 
+(b) Both I and II follow 
+(c) Only II follows 
+(d) Either I or II follows 
+(e) None follows 
+ 
+Q83. Statements: 
+All Book are Paper. 
+No Paper is Test. 
+All Book is Marks. 
+Conclusions: 
+I. Some Marks is not Test 
+II. All Test is Book. 
+(a) Only II follows 
+(b) Both I and II follow 
+(c) Only I follows 
+(d) Either I or II follows 
+(e) None follows 
+ 
+Directions (84-86): Study the following information carefully and answer the questions given below. 
+Point K is 6m south of point T and 10m west of point B. Point F is 5m to the east of point C. Point S is 12m to the 
+north of point A and 9m to the west of point T. Point F is 7m to the south of point B. 
+ 
+Q84. What is the total distance from point K to point C? 
+(a) 22m 
+(b) 25m 
+(c) 31m 
+(d) 34m 
+(e) 28m 
+ 
+18 
+
+ 
+Q85. Four of the following five are alike in a certain way and hence form a group. Find the one which doesn’t 
+belong to the group? 
+(a) S-K 
+(b) K-F 
+(c) C-B 
+(d) T-F 
+(e) A-C 
+ 
+Q86. What is the shortest distance between point S and point K? 
+(a) 117m 
+(b)√113m 
+(c) 231m 
+(d)2√15m 
+(e)√117m 
+ 
+Directions (87-91): Study the following information carefully and answer the questions given below: 
+Eight persons R, S, T, U, V, W, X, Y are going to attend different events (but not necessarily in the same order) on two 
+different dates i.e., 11 or 28 of four given months viz. September, October, November and December. 
+R attends an event on odd date in the month which has even numbers of days. Two persons are attending an event 
+between S and R. No one attend an event between S and W. S and W does not attend event in same month. There are 
+as many persons attend event before T is same as attend after Y. V attend event just after Y but not on odd date. U 
+does not attend an event after X. 
+ 
+Q87. Who among the following attends the event on 11th of November? 
+(a) W 
+(b) T 
+(c) S 
+(d) U 
+(e) None of these 
+ 
+Q88. Who among the following attend event immediately before T? 
+(a) W 
+(b) X 
+(c) S 
+(d) U 
+(e) None of these 
+ 
+Q89. How many persons attend an event between V and W? 
+(a) One 
+(b) Three 
+(c) Four 
+(d) Two 
+(e) None of these 
+ 
+Q90. S goes in which of the following month? 
+(a) November 
+(b) September 
+(c) December 
+(d) October 
+(e) Either October or December 
+ 
+19 
+
+ 
+Q91. Which of the following pair attend event in the same month? 
+(a) S and U 
+(b) X and V 
+(c) U and V 
+(d) T and Y 
+(e) U and Y 
+ 
+Directions (92-96): Study the following information carefully and answer the questions given below- 
+Eight persons are living on different floors of a nine-storey building. Ground floor is numbered as 1st floor and just 
+above the 1st floor is numbered as 2nd floor and so on till the topmost floor is numbered as 9th floor. There is one 
+vacant floor. 
+More than three floors gap between Q and U both of them live on even numbered floors. R lives below Q and no one 
+live between them. The number of persons live above R is same as the number of persons live below T. The number 
+of persons live between R and T is half than the number of persons live below V. S lives three floors above W and 
+lives on an even numbered floor. Odd numbered floors gap between P and V. R does not live on even numbered floor. 
+ 
+Q92. How many persons live between R and U? 
+(a) 2 
+(b) More than 4 
+(c) 4 
+(d) 3 
+(e) None of these 
+ 
+Q93. Which of the following is true regarding to S? 
+(a) V lives just below S 
+(b) S lives on the 6th floor 
+(c) U lives below S but not just below 
+(d) More than four persons live above S 
+(e) None is true 
+ 
+Q94. Four of the following five are alike in a certain way and hence form a group. Which of the following does 
+not belong to that group? 
+(a) P 
+(b) R 
+(c) W 
+(d) V 
+(e) Q 
+ 
+Q95. The number of floors gap between V and U is same as the number of persons live between ___ and ____. 
+(a) P, S 
+(b) S, Q 
+(c) U, R 
+(d) W, V 
+(e) Q, V 
+ 
+Q96. Which of the following combination is correct? 
+(a) 7th floor- V 
+(b) 5th floor- T 
+(c) 8th floor- Q 
+(d) 2nd floor- P 
+(e) 9th floor- W 
+ 
+20 
+
+ 
+Directions (97-99): Study the following information carefully and answer the question given below- 
+Six books B, C, D, F, N and V contain different number of pages are arranged in descending order from left end 
+according to the number of pages. 
+Book N contains least pages of odd prime numbered pages but less than 7. Number of books between book N and 
+book F is same as the number of books between book C and book F. Book B contains just least pages than book F 
+which contains thrice number of pages than book N. The book which contains just more pages than book V contains 
+the pages which is square of the sum of the number of pages of book N and book F. The book which contains 150 
+pages is not contains maximum number of pages. 
+ 
+Q97. What is the total number of pages of book V and F? 
+(a) 65 pages 
+(b) 52 pages 
+(c) 55 pages 
+(d) 165 pages 
+(e) 155 pages 
+ 
+Q98. How many books contain a greater number of pages than book B? 
+(a) Four 
+(b) One 
+(c) Two 
+(d) Three 
+(e) None of these 
+ 
+Q99. What is the sum of the number of pages of book C, V, F and N? 
+(a) 570 pages 
+(b) 470 pages 
+(c) 350 pages 
+(d) 430 pages 
+(e) None of these 
+ 
+Q100. In a certain code “FRIDAY” is coded as “SGJEZB” and “LAPTOP” 
+is coded as “BMQUQP”, then what will be the code for the word 
+“CIRCLE”? 
+(a) JSDSMF 
+(b) DJDSMF 
+(c) JDSDFM 
+(d) DJSMFS 
+(e) None of these 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+
+ 
+ 
+Solutions 

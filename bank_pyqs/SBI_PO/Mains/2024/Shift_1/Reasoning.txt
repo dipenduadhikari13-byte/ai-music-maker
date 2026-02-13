@@ -1,0 +1,840 @@
+======================================================================
+Exam: SBI PO
+Phase: Mains
+Year: 2024
+Shift: 1
+Subject: Reasoning
+Source: web_search
+======================================================================
+
+EduRev
+Explore Exams
+Login
+Signup
+Sign in
+Open App
+Bank Exams Exam
+>
+Bank Exams Notes
+>
+SBI PO Mock Test Series & Past Year Papers 2026
+>
+SBI PO 2024: Mains Memory Based Question Paper with Answers
+SBI PO 2024: Mains Memory Based Question Paper with Answers | SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams PDF Download
+Download, print and study this document offline
+Download as PDF
+Please wait while the PDF view is loading
+Page 1
+
+
+ 
+ 
+                                                                              
+ 
+          
+  
+ 
+Directions (1-4): The first term of the series which consist of six terms is m°. The second term of 
+the series is the smallest even prime number. The third term of the series is the cube of the 
+second term. The fourth term of the series is square of third term. The fifth term of the series is 
+16 times the fourth term of the series. (m is a natural number) 
+ 
+Q1. Find the sixth term of the series. 
+(a) 1024 
+(b) 31768 
+(c) 32766 
+(d) 32768 
+(e) 2244 
+ 
+Q2. Find the ratio of second term and fifth term of the series. 
+(a) 10:21 
+(b) 1:8 
+(c) 5:324 
+(d) 1:512 
+(e) 21:44 
+ 
+Q3. The sixth term is what percentage of 32 time the fifth term of the series.  
+(a) 5 
+(b) 4 
+(c) 3 
+(d) 2 
+(e) 1 
+ 
+Q4. If another series starts with 1.5, then find the fourth term of the new series. 
+(a) 90 
+(b) 93 
+(c) 102 
+(d) 99 
+(e) 96 
+ 
+Q5. A cuboid has a total surface area (TSA) of 94 sq. cm and a volume of 60 cubic cm. If its length 
+is l cm, breadth is b cm, and height is h cm, l, b, and h, assuming all are positive and consecutive 
+integers.  
+Given, l<b<h. 
+Quantity I: Find lateral Surface Area (LSA) of Cuboid. 
+Quantity II: Total Surface Area of a cube with side is ‘b’. 
+(a) Quantity I > Quantity II  
+(b) Quantity I < Quantity II 
+(c) Quantity I = Quantity II  
+(d) Quantity I = Quantity II  
+(e) Quantity I = Quantity II or no relation 
+Page 2
+
+
+ 
+ 
+                                                                              
+ 
+          
+  
+ 
+Directions (1-4): The first term of the series which consist of six terms is m°. The second term of 
+the series is the smallest even prime number. The third term of the series is the cube of the 
+second term. The fourth term of the series is square of third term. The fifth term of the series is 
+16 times the fourth term of the series. (m is a natural number) 
+ 
+Q1. Find the sixth term of the series. 
+(a) 1024 
+(b) 31768 
+(c) 32766 
+(d) 32768 
+(e) 2244 
+ 
+Q2. Find the ratio of second term and fifth term of the series. 
+(a) 10:21 
+(b) 1:8 
+(c) 5:324 
+(d) 1:512 
+(e) 21:44 
+ 
+Q3. The sixth term is what percentage of 32 time the fifth term of the series.  
+(a) 5 
+(b) 4 
+(c) 3 
+(d) 2 
+(e) 1 
+ 
+Q4. If another series starts with 1.5, then find the fourth term of the new series. 
+(a) 90 
+(b) 93 
+(c) 102 
+(d) 99 
+(e) 96 
+ 
+Q5. A cuboid has a total surface area (TSA) of 94 sq. cm and a volume of 60 cubic cm. If its length 
+is l cm, breadth is b cm, and height is h cm, l, b, and h, assuming all are positive and consecutive 
+integers.  
+Given, l<b<h. 
+Quantity I: Find lateral Surface Area (LSA) of Cuboid. 
+Quantity II: Total Surface Area of a cube with side is ‘b’. 
+(a) Quantity I > Quantity II  
+(b) Quantity I < Quantity II 
+(c) Quantity I = Quantity II  
+(d) Quantity I = Quantity II  
+(e) Quantity I = Quantity II or no relation 
+ 
+ 
+                                                                              
+ 
+ 
+Q6. The time taken by A to complete a work is 20 days. B takes 2x% more days than A to complete 
+the same work, and C takes x% more days than B to complete the work. The time taken by C alone 
+to complete the work is equal to the sum of the time taken by A and B alone to complete the work. 
+Find the time taken by all to complete 11 times the work. 
+(a) 120 
+(b) 130 
+(c) 100 
+(d) 180 
+(e) 200 
+ 
+Q7. Boat A travels a certain distance in downstream and upstream in 27 hours. Find the time 
+taken by boat B to cover the same distance in downstream and in upstream. The downstream 
+speed of boat A and B is 15 km/hr and 10 km/hr.The upstream speed of boat A and B is 12 km/hr 
+and 9 km/hr. 
+(a) 22 
+(b) 38 
+(c) 10 
+(d) 18 
+(e) 23 
+ 
+Directions (8-11): Read the information carefully and answer the questions given below.  
+There are three Sets A, B, and C, which contain a total of 13 unique integers. Total of ‘n’ prime numbers 
+is distributed among them. Set A has four numbers. The product of the smallest and largest number in 
+Set A is 26. Set B has five numbers, but only two of them are prime numbers (others are composite). Set 
+C has four numbers. The product of the smallest and largest number in Set C is 23, which is the highest 
+number in all three sets.  
+ 
+Q8. If two prime number of set B < 11 and set C contains only one prime number, then find which 
+of the following are the correct set of all the prime numbers? 
+(a) 2, 13, 13, 19, 23 
+(b) 2, 13, 17, 19, 23 
+(c) 2, 5, 7, 13, 19, 17, 23 
+(d) 2, 7, 11, 13, 17, 19, 23 
+(e) 2, 13, 13, 17, 19, 23 
+ 
+Q9. If n<8, and total prime number in set A>set B, then find 
+the which set have least prime number? 
+(a) B 
+(b) C 
+(c) Can be B and C  
+(d) Can’t be determined  
+(e) None of these 
+Page 3
+
+
+ 
+ 
+                                                                              
+ 
+          
+  
+ 
+Directions (1-4): The first term of the series which consist of six terms is m°. The second term of 
+the series is the smallest even prime number. The third term of the series is the cube of the 
+second term. The fourth term of the series is square of third term. The fifth term of the series is 
+16 times the fourth term of the series. (m is a natural number) 
+ 
+Q1. Find the sixth term of the series. 
+(a) 1024 
+(b) 31768 
+(c) 32766 
+(d) 32768 
+(e) 2244 
+ 
+Q2. Find the ratio of second term and fifth term of the series. 
+(a) 10:21 
+(b) 1:8 
+(c) 5:324 
+(d) 1:512 
+(e) 21:44 
+ 
+Q3. The sixth term is what percentage of 32 time the fifth term of the series.  
+(a) 5 
+(b) 4 
+(c) 3 
+(d) 2 
+(e) 1 
+ 
+Q4. If another series starts with 1.5, then find the fourth term of the new series. 
+(a) 90 
+(b) 93 
+(c) 102 
+(d) 99 
+(e) 96 
+ 
+Q5. A cuboid has a total surface area (TSA) of 94 sq. cm and a volume of 60 cubic cm. If its length 
+is l cm, breadth is b cm, and height is h cm, l, b, and h, assuming all are positive and consecutive 
+integers.  
+Given, l<b<h. 
+Quantity I: Find lateral Surface Area (LSA) of Cuboid. 
+Quantity II: Total Surface Area of a cube with side is ‘b’. 
+(a) Quantity I > Quantity II  
+(b) Quantity I < Quantity II 
+(c) Quantity I = Quantity II  
+(d) Quantity I = Quantity II  
+(e) Quantity I = Quantity II or no relation 
+ 
+ 
+                                                                              
+ 
+ 
+Q6. The time taken by A to complete a work is 20 days. B takes 2x% more days than A to complete 
+the same work, and C takes x% more days than B to complete the work. The time taken by C alone 
+to complete the work is equal to the sum of the time taken by A and B alone to complete the work. 
+Find the time taken by all to complete 11 times the work. 
+(a) 120 
+(b) 130 
+(c) 100 
+(d) 180 
+(e) 200 
+ 
+Q7. Boat A travels a certain distance in downstream and upstream in 27 hours. Find the time 
+taken by boat B to cover the same distance in downstream and in upstream. The downstream 
+speed of boat A and B is 15 km/hr and 10 km/hr.The upstream speed of boat A and B is 12 km/hr 
+and 9 km/hr. 
+(a) 22 
+(b) 38 
+(c) 10 
+(d) 18 
+(e) 23 
+ 
+Directions (8-11): Read the information carefully and answer the questions given below.  
+There are three Sets A, B, and C, which contain a total of 13 unique integers. Total of ‘n’ prime numbers 
+is distributed among them. Set A has four numbers. The product of the smallest and largest number in 
+Set A is 26. Set B has five numbers, but only two of them are prime numbers (others are composite). Set 
+C has four numbers. The product of the smallest and largest number in Set C is 23, which is the highest 
+number in all three sets.  
+ 
+Q8. If two prime number of set B < 11 and set C contains only one prime number, then find which 
+of the following are the correct set of all the prime numbers? 
+(a) 2, 13, 13, 19, 23 
+(b) 2, 13, 17, 19, 23 
+(c) 2, 5, 7, 13, 19, 17, 23 
+(d) 2, 7, 11, 13, 17, 19, 23 
+(e) 2, 13, 13, 17, 19, 23 
+ 
+Q9. If n<8, and total prime number in set A>set B, then find 
+the which set have least prime number? 
+(a) B 
+(b) C 
+(c) Can be B and C  
+(d) Can’t be determined  
+(e) None of these 
+ 
+ 
+                                                                              
+ 
+ 
+Q10. If the sum of all elements in set C is 43 and there is total seven prime numbers in all three 
+sets, and the non-prime numbers in set C are consecutive even numbers, then find the sum of 
+prime numbers in set A, 2
+nd
+ number of set A>3? 
+(a) 21 
+(b) 15 
+(c) 27 
+(d) 30 
+(e) 33 
+ 
+Q11. If set C has highest prime numbers, then find minimum possible value of ‘n’? 
+(a) 8 
+(b) 6 
+(c) 7 
+(d) Can’t determined  
+(e) None of these 
+ 
+Directions (12-16): Read the data answer the following question.  
+There are 200 students in a school some student likes three different fruits apple, kiwi and mango and 
+some students do not like any fruit. The bar graph given below shows the percentage distribution of 
+students who like apple, mango, kiwi and only kiwi. No students like all three fruits. 
+Number of students who do not like any fruit are twice the number of students who like only Apple and 
+mango together. 
+Number of students who do not like any fruit = Number of students who like only Apple and Kiwi 
+together + 20. 
+ 
+Page 4
+
+
+ 
+ 
+                                                                              
+ 
+          
+  
+ 
+Directions (1-4): The first term of the series which consist of six terms is m°. The second term of 
+the series is the smallest even prime number. The third term of the series is the cube of the 
+second term. The fourth term of the series is square of third term. The fifth term of the series is 
+16 times the fourth term of the series. (m is a natural number) 
+ 
+Q1. Find the sixth term of the series. 
+(a) 1024 
+(b) 31768 
+(c) 32766 
+(d) 32768 
+(e) 2244 
+ 
+Q2. Find the ratio of second term and fifth term of the series. 
+(a) 10:21 
+(b) 1:8 
+(c) 5:324 
+(d) 1:512 
+(e) 21:44 
+ 
+Q3. The sixth term is what percentage of 32 time the fifth term of the series.  
+(a) 5 
+(b) 4 
+(c) 3 
+(d) 2 
+(e) 1 
+ 
+Q4. If another series starts with 1.5, then find the fourth term of the new series. 
+(a) 90 
+(b) 93 
+(c) 102 
+(d) 99 
+(e) 96 
+ 
+Q5. A cuboid has a total surface area (TSA) of 94 sq. cm and a volume of 60 cubic cm. If its length 
+is l cm, breadth is b cm, and height is h cm, l, b, and h, assuming all are positive and consecutive 
+integers.  
+Given, l<b<h. 
+Quantity I: Find lateral Surface Area (LSA) of Cuboid. 
+Quantity II: Total Surface Area of a cube with side is ‘b’. 
+(a) Quantity I > Quantity II  
+(b) Quantity I < Quantity II 
+(c) Quantity I = Quantity II  
+(d) Quantity I = Quantity II  
+(e) Quantity I = Quantity II or no relation 
+ 
+ 
+                                                                              
+ 
+ 
+Q6. The time taken by A to complete a work is 20 days. B takes 2x% more days than A to complete 
+the same work, and C takes x% more days than B to complete the work. The time taken by C alone 
+to complete the work is equal to the sum of the time taken by A and B alone to complete the work. 
+Find the time taken by all to complete 11 times the work. 
+(a) 120 
+(b) 130 
+(c) 100 
+(d) 180 
+(e) 200 
+ 
+Q7. Boat A travels a certain distance in downstream and upstream in 27 hours. Find the time 
+taken by boat B to cover the same distance in downstream and in upstream. The downstream 
+speed of boat A and B is 15 km/hr and 10 km/hr.The upstream speed of boat A and B is 12 km/hr 
+and 9 km/hr. 
+(a) 22 
+(b) 38 
+(c) 10 
+(d) 18 
+(e) 23 
+ 
+Directions (8-11): Read the information carefully and answer the questions given below.  
+There are three Sets A, B, and C, which contain a total of 13 unique integers. Total of ‘n’ prime numbers 
+is distributed among them. Set A has four numbers. The product of the smallest and largest number in 
+Set A is 26. Set B has five numbers, but only two of them are prime numbers (others are composite). Set 
+C has four numbers. The product of the smallest and largest number in Set C is 23, which is the highest 
+number in all three sets.  
+ 
+Q8. If two prime number of set B < 11 and set C contains only one prime number, then find which 
+of the following are the correct set of all the prime numbers? 
+(a) 2, 13, 13, 19, 23 
+(b) 2, 13, 17, 19, 23 
+(c) 2, 5, 7, 13, 19, 17, 23 
+(d) 2, 7, 11, 13, 17, 19, 23 
+(e) 2, 13, 13, 17, 19, 23 
+ 
+Q9. If n<8, and total prime number in set A>set B, then find 
+the which set have least prime number? 
+(a) B 
+(b) C 
+(c) Can be B and C  
+(d) Can’t be determined  
+(e) None of these 
+ 
+ 
+                                                                              
+ 
+ 
+Q10. If the sum of all elements in set C is 43 and there is total seven prime numbers in all three 
+sets, and the non-prime numbers in set C are consecutive even numbers, then find the sum of 
+prime numbers in set A, 2
+nd
+ number of set A>3? 
+(a) 21 
+(b) 15 
+(c) 27 
+(d) 30 
+(e) 33 
+ 
+Q11. If set C has highest prime numbers, then find minimum possible value of ‘n’? 
+(a) 8 
+(b) 6 
+(c) 7 
+(d) Can’t determined  
+(e) None of these 
+ 
+Directions (12-16): Read the data answer the following question.  
+There are 200 students in a school some student likes three different fruits apple, kiwi and mango and 
+some students do not like any fruit. The bar graph given below shows the percentage distribution of 
+students who like apple, mango, kiwi and only kiwi. No students like all three fruits. 
+Number of students who do not like any fruit are twice the number of students who like only Apple and 
+mango together. 
+Number of students who do not like any fruit = Number of students who like only Apple and Kiwi 
+together + 20. 
+ 
+ 
+ 
+                                                                              
+ 
+ 
+Q12. How many students likes only two fruits together. 
+(a) 50 
+(b) 40 
+(c) 30 
+(d) 20 
+(e) 10 
+ 
+Q13. Total students like only kiwi are what percentage of difference between students like only 
+apple and only mango. 
+(a) 500 
+(b) 400 
+(c) 300 
+(d) 200 
+(e) 100 
+ 
+Q14. The students who like only apple and kiwi together is what percentage more /less of who 
+like only mango and kiwi together. 
+(a) 500 
+(b) 400 
+(c) 300 
+(d) 200 
+(e) 100 
+ 
+Q15. 20% of students who do not like any fruits like only red colour. The student who likes only 
+red colour is how many less than who like apple.  
+(a) 66 
+(b) 99 
+(c) 77 
+(d) 100 
+(e) 96 
+ 
+Q16. Find the ratio of students like only kiwi and only mango to students who like mango and 
+kiwi. 
+(a) 9:1 
+(b) 9:4 
+(c) 9:2 
+(d) 9:10 
+(e) 9:5 
+ 
+Directions (17-18): Read the following information carefully and answer the questions given 
+below.  
+Piya and Siya are selling cakes on three days. i.e., Saturday, Sunday, and Monday. The ratio of cakes sold 
+by Piya on Monday and Sunday is 1:2, respectively. The cakes sold by Siya on Monday is 20, and the cakes 
+sold by Siya on Saturday is the same as the average cakes sold by Piya on all three days. The difference 
+between the cakes sold by Piya and Siya on Monday is the same as the difference between the cakes sold 
+by Piya and Siya on Saturday. Piya sold less cakes than Siya on each day.   
+Page 5
+
+
+ 
+ 
+                                                                              
+ 
+          
+  
+ 
+Directions (1-4): The first term of the series which consist of six terms is m°. The second term of 
+the series is the smallest even prime number. The third term of the series is the cube of the 
+second term. The fourth term of the series is square of third term. The fifth term of the series is 
+16 times the fourth term of the series. (m is a natural number) 
+ 
+Q1. Find the sixth term of the series. 
+(a) 1024 
+(b) 31768 
+(c) 32766 
+(d) 32768 
+(e) 2244 
+ 
+Q2. Find the ratio of second term and fifth term of the series. 
+(a) 10:21 
+(b) 1:8 
+(c) 5:324 
+(d) 1:512 
+(e) 21:44 
+ 
+Q3. The sixth term is what percentage of 32 time the fifth term of the series.  
+(a) 5 
+(b) 4 
+(c) 3 
+(d) 2 
+(e) 1 
+ 
+Q4. If another series starts with 1.5, then find the fourth term of the new series. 
+(a) 90 
+(b) 93 
+(c) 102 
+(d) 99 
+(e) 96 
+ 
+Q5. A cuboid has a total surface area (TSA) of 94 sq. cm and a volume of 60 cubic cm. If its length 
+is l cm, breadth is b cm, and height is h cm, l, b, and h, assuming all are positive and consecutive 
+integers.  
+Given, l<b<h. 
+Quantity I: Find lateral Surface Area (LSA) of Cuboid. 
+Quantity II: Total Surface Area of a cube with side is ‘b’. 
+(a) Quantity I > Quantity II  
+(b) Quantity I < Quantity II 
+(c) Quantity I = Quantity II  
+(d) Quantity I = Quantity II  
+(e) Quantity I = Quantity II or no relation 
+ 
+ 
+                                                                              
+ 
+ 
+Q6. The time taken by A to complete a work is 20 days. B takes 2x% more days than A to complete 
+the same work, and C takes x% more days than B to complete the work. The time taken by C alone 
+to complete the work is equal to the sum of the time taken by A and B alone to complete the work. 
+Find the time taken by all to complete 11 times the work. 
+(a) 120 
+(b) 130 
+(c) 100 
+(d) 180 
+(e) 200 
+ 
+Q7. Boat A travels a certain distance in downstream and upstream in 27 hours. Find the time 
+taken by boat B to cover the same distance in downstream and in upstream. The downstream 
+speed of boat A and B is 15 km/hr and 10 km/hr.The upstream speed of boat A and B is 12 km/hr 
+and 9 km/hr. 
+(a) 22 
+(b) 38 
+(c) 10 
+(d) 18 
+(e) 23 
+ 
+Directions (8-11): Read the information carefully and answer the questions given below.  
+There are three Sets A, B, and C, which contain a total of 13 unique integers. Total of ‘n’ prime numbers 
+is distributed among them. Set A has four numbers. The product of the smallest and largest number in 
+Set A is 26. Set B has five numbers, but only two of them are prime numbers (others are composite). Set 
+C has four numbers. The product of the smallest and largest number in Set C is 23, which is the highest 
+number in all three sets.  
+ 
+Q8. If two prime number of set B < 11 and set C contains only one prime number, then find which 
+of the following are the correct set of all the prime numbers? 
+(a) 2, 13, 13, 19, 23 
+(b) 2, 13, 17, 19, 23 
+(c) 2, 5, 7, 13, 19, 17, 23 
+(d) 2, 7, 11, 13, 17, 19, 23 
+(e) 2, 13, 13, 17, 19, 23 
+ 
+Q9. If n<8, and total prime number in set A>set B, then find 
+the which set have least prime number? 
+(a) B 
+(b) C 
+(c) Can be B and C  
+(d) Can’t be determined  
+(e) None of these 
+ 
+ 
+                                                                              
+ 
+ 
+Q10. If the sum of all elements in set C is 43 and there is total seven prime numbers in all three 
+sets, and the non-prime numbers in set C are consecutive even numbers, then find the sum of 
+prime numbers in set A, 2
+nd
+ number of set A>3? 
+(a) 21 
+(b) 15 
+(c) 27 
+(d) 30 
+(e) 33 
+ 
+Q11. If set C has highest prime numbers, then find minimum possible value of ‘n’? 
+(a) 8 
+(b) 6 
+(c) 7 
+(d) Can’t determined  
+(e) None of these 
+ 
+Directions (12-16): Read the data answer the following question.  
+There are 200 students in a school some student likes three different fruits apple, kiwi and mango and 
+some students do not like any fruit. The bar graph given below shows the percentage distribution of 
+students who like apple, mango, kiwi and only kiwi. No students like all three fruits. 
+Number of students who do not like any fruit are twice the number of students who like only Apple and 
+mango together. 
+Number of students who do not like any fruit = Number of students who like only Apple and Kiwi 
+together + 20. 
+ 
+ 
+ 
+                                                                              
+ 
+ 
+Q12. How many students likes only two fruits together. 
+(a) 50 
+(b) 40 
+(c) 30 
+(d) 20 
+(e) 10 
+ 
+Q13. Total students like only kiwi are what percentage of difference between students like only 
+apple and only mango. 
+(a) 500 
+(b) 400 
+(c) 300 
+(d) 200 
+(e) 100 
+ 
+Q14. The students who like only apple and kiwi together is what percentage more /less of who 
+like only mango and kiwi together. 
+(a) 500 
+(b) 400 
+(c) 300 
+(d) 200 
+(e) 100 
+ 
+Q15. 20% of students who do not like any fruits like only red colour. The student who likes only 
+red colour is how many less than who like apple.  
+(a) 66 
+(b) 99 
+(c) 77 
+(d) 100 
+(e) 96 
+ 
+Q16. Find the ratio of students like only kiwi and only mango to students who like mango and 
+kiwi. 
+(a) 9:1 
+(b) 9:4 
+(c) 9:2 
+(d) 9:10 
+(e) 9:5 
+ 
+Directions (17-18): Read the following information carefully and answer the questions given 
+below.  
+Piya and Siya are selling cakes on three days. i.e., Saturday, Sunday, and Monday. The ratio of cakes sold 
+by Piya on Monday and Sunday is 1:2, respectively. The cakes sold by Siya on Monday is 20, and the cakes 
+sold by Siya on Saturday is the same as the average cakes sold by Piya on all three days. The difference 
+between the cakes sold by Piya and Siya on Monday is the same as the difference between the cakes sold 
+by Piya and Siya on Saturday. Piya sold less cakes than Siya on each day.   
+ 
+ 
+                                                                              
+ 
+ 
+Q17. The cakes sold by Siya on all three days together is 94. Find the cakes sold by Siya on Sunday. 
+(a) 20 
+(b) 12 
+(c) 15 
+(d) None of these 
+(e) Can’t be determined 
+ 
+Q18. Which of the statement/s is/are can be correct. 
+I. If the cakes sold by Piya on Monday is 18, then total cakes sold by Siya on all three days together is 81. 
+II. The cakes sold by Piya on Saturday is 90. 
+III. If the cakes sold by Piya on Saturday is 21, then the lowest possible cakes sold by Siya on Sunday is 
+35. 
+(a) Only I 
+(b) Only II 
+(c) Only III 
+(d) Both I & II 
+(e) Both II & III 
+ 
+Directions (19-23): Read the following table carefully and answer the questions given below.  
+The table shows basic pay, sales target, sale achieved and number of units sold by four different 
+persons in 2018. Also, table shows some information about sales and incentives. 
+Note: I. Each unit costs are Rs 20. 
+II. Percentage of sales target realised  
+III. Sales target = 2.5 times the basic pay. 
+ 
+ 
+ 
+Q19. The number of units sold by X is the same as the average number of units sold by A and B. If 
+the basic pay of X is the same as the average basic pay of C and D, then find the amount of incentive 
+received by X. 
+(a) Rs 7500 
+(b) Can’t be determined 
+(c) Rs 10500 
+(d) None of these 
+(e) Rs 6000
+Read More
+SBI PO Mock Test Series & Past Year Papers 2026
+37 docs
+|
+62 tests
+Join Course for Free
+FAQs on SBI PO 2024: Mains Memory Based Question Paper with Answers - SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams
+1. What is the SBI PO exam and what does it assess?
+Ans. The SBI PO exam, conducted by the State Bank of India, is a competitive examination for selecting candidates for the position of Probationary Officer. It assesses candidates' aptitude in various areas including quantitative ability, reasoning ability, English language, and general awareness. The examination comprises preliminary and mains stages, each evaluating different competencies necessary for the role.
+2. What are the key components of the SBI PO Mains exam?
+Ans. The SBI PO Mains exam consists of multiple sections, including Data Analysis and Interpretation, Reasoning and Computer Aptitude, General/Economy/Banking Awareness, and English Language. Each section is designed to test the candidates' skills and knowledge essential for banking operations and customer service.
+3. How is the SBI PO exam structured in terms of scoring and marking?
+Ans. The SBI PO exam follows a structured marking scheme where each correct answer earns a candidate a specific number of marks, while incorrect answers may incur a penalty, commonly known as negative marking. The overall score is calculated based on the total marks obtained across all sections, which determines the candidate's ranking and eligibility for selection.
+4. What strategies should candidates adopt for effective preparation for the SBI PO Mains?
+Ans. Candidates preparing for the SBI PO Mains should focus on understanding the exam pattern and syllabus thoroughly. They should create a study plan that allocates adequate time for each section, practice previous years' question papers, and take mock tests to improve speed and accuracy. Regular reading of current affairs and banking news is also crucial to stay updated.
+5. What types of questions can candidates expect in the SBI PO Mains exam?
+Ans. Candidates can expect a range of question types in the SBI PO Mains exam, including multiple-choice questions (MCQs), descriptive questions, and case-based scenarios. Questions may involve problem-solving, data interpretation, comprehension passages, and general knowledge related to banking and finance, aimed at evaluating both analytical and language skills.
+About this Document
+Feb 12, 2026
+Last updated
+Related Exams
+Bank Exams
+Document Description:
+SBI PO 2024: Mains Memory Based Question Paper with Answers for
+Bank Exams
+2026 is part of
+SBI PO Mock Test Series & Past Year Papers 2026
+preparation. The notes and questions for SBI PO 2024: Mains Memory Based Question Paper with Answers have been prepared according to the
+Bank Exams
+exam syllabus. Information about SBI PO 2024: Mains Memory Based Question Paper with Answers covers topics like and SBI PO 2024: Mains Memory Based Question Paper with Answers Example, for
+Bank Exams
+2026 Exam. Find important definitions, questions, notes, meanings, examples, exercises and tests below for SBI PO 2024: Mains Memory Based Question Paper with Answers.
+Introduction of SBI PO 2024: Mains Memory Based Question Paper with Answers in English is available as part of our
+SBI PO Mock Test Series & Past Year Papers 2026
+for
+Bank Exams
+& SBI PO 2024: Mains Memory Based Question Paper with Answers in Hindi for
+SBI PO Mock Test Series & Past Year Papers 2026
+course. Download more important topics related with notes, lectures and mock test series for
+Bank Exams
+Exam by signing up for free. Bank Exams: SBI PO 2024: Mains Memory Based Question Paper with Answers | SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams
+Description
+Full syllabus notes, lecture & questions for SBI PO 2024: Mains Memory Based Question Paper with Answers | SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams - Bank Exams | Plus exercises question with solution to help you revise complete syllabus for SBI PO Mock Test Series & Past Year Papers 2026 | Best notes, free PDF download
+Information about SBI PO 2024: Mains Memory Based Question Paper with Answers
+In this doc you can find the meaning of SBI PO 2024: Mains Memory Based Question Paper with Answers defined & explained in the simplest way possible. Besides explaining types of SBI PO 2024: Mains Memory Based Question Paper with Answers theory, EduRev gives you an ample number of questions to practice SBI PO 2024: Mains Memory Based Question Paper with Answers tests, examples and also practice
+Bank Exams
+tests
+SBI PO Mock Test Series & Past Year Papers 2026
+37 docs
+|
+62 tests
+Join Course for Free
+Download as PDF
+Download as PDF
+Explore Courses for Bank Exams exam
+Related Searches
+pdf
+,
+study material
+,
+SBI PO 2024: Mains Memory Based Question Paper with Answers | SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams
+,
+SBI PO 2024: Mains Memory Based Question Paper with Answers | SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams
+,
+Semester Notes
+,
+mock tests for examination
+,
+Exam
+,
+shortcuts and tricks
+,
+MCQs
+,
+video lectures
+,
+Objective type Questions
+,
+Extra Questions
+,
+past year papers
+,
+Important questions
+,
+Summary
+,
+Viva Questions
+,
+Previous Year Questions with Solutions
+,
+Sample Paper
+,
+practice quizzes
+,
+SBI PO 2024: Mains Memory Based Question Paper with Answers | SBI PO Mock Test Series & Past Year Papers 2026 - Bank Exams
+,
+Free
+,
+ppt
+;
+Additional Information about SBI PO 2024: Mains Memory Based Question Paper with Answers for Bank Exams Preparation
+SBI PO 2024: Mains Memory Based Question Paper with Answers Free PDF Download
+The SBI PO 2024: Mains Memory Based Question Paper with Answers is an invaluable resource that delves deep into the core of the Bank Exams exam. These study notes are curated by experts and cover all the essential topics and concepts, making your preparation more efficient and effective. With the help of these notes, you can grasp complex subjects quickly, revise important points easily, and reinforce your understanding of key concepts. The study notes are presented in a concise and easy-to-understand manner, allowing you to optimize your learning process. Whether you're looking for best-recommended books, sample papers, study material, or toppers' notes, this PDF has got you covered. Download the SBI PO 2024: Mains Memory Based Question Paper with Answers now and kickstart your journey towards success in the Bank Exams exam.
+Importance of SBI PO 2024: Mains Memory Based Question Paper with Answers
+The importance of SBI PO 2024: Mains Memory Based Question Paper with Answers cannot be overstated, especially for Bank Exams aspirants. This document holds the key to success in the Bank Exams exam. It offers a detailed understanding of the concept, providing invaluable insights into the topic. By knowing the concepts well in advance, students can plan their preparation effectively. Utilize this indispensable guide for a well-rounded preparation and achieve your desired results.
+SBI PO 2024: Mains Memory Based Question Paper with Answers Notes
+SBI PO 2024: Mains Memory Based Question Paper with Answers Notes offer in-depth insights into the specific topic to help you master it with ease. This comprehensive document covers all aspects related to SBI PO 2024: Mains Memory Based Question Paper with Answers. It includes detailed information about the exam syllabus, recommended books, and study materials for a well-rounded preparation. Practice papers and question papers enable you to assess your progress effectively. Additionally, the paper analysis provides valuable tips for tackling the exam strategically. Access to Toppers' notes gives you an edge in understanding complex concepts. Whether you're a beginner or aiming for advanced proficiency, SBI PO 2024: Mains Memory Based Question Paper with Answers Notes on EduRev are your ultimate resource for success.
+SBI PO 2024: Mains Memory Based Question Paper with Answers Bank Exams Questions
+The "SBI PO 2024: Mains Memory Based Question Paper with Answers Bank Exams Questions" guide is a valuable resource for all aspiring students preparing for the Bank Exams exam. It focuses on providing a wide range of practice questions to help students gauge their understanding of the exam topics. These questions cover the entire syllabus, ensuring comprehensive preparation. The guide includes previous years' question papers for students to familiarize themselves with the exam's format and difficulty level. Additionally, it offers subject-specific question banks, allowing students to focus on weak areas and improve their performance.
+Study SBI PO 2024: Mains Memory Based Question Paper with Answers on the App
+Students of Bank Exams can study SBI PO 2024: Mains Memory Based Question Paper with Answers alongwith tests & analysis from the EduRev app, which will help them while preparing for their exam. Apart from the SBI PO 2024: Mains Memory Based Question Paper with Answers, students can also utilize the EduRev App for other study materials such as previous year question papers, syllabus, important questions, etc. The EduRev App will make your learning easier as you can access it from anywhere you want. The content of SBI PO 2024: Mains Memory Based Question Paper with Answers is prepared as per the latest Bank Exams syllabus.
+×
+Signup to see your scores go up within 7 days!
+Access
+1000+ FREE
+Docs, Videos and Tests
+Continue with Google
+Takes less than 10 seconds to signup

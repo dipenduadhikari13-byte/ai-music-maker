@@ -1,0 +1,401 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2020
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2021/06/05112750/IBPS-RRB-PO-Prelims-Previous-Year-Paper-2020-Question-File-.pdf
+======================================================================
+
+Q41. Find average number of students appeared in shift I, II & IV of the exam. 
+(a) 1040 
+(b) 900 
+(c) 720 
+(d) 1140 
+(e) 880 
+ 
+Q42. Find the central angle for students appeared in shift II of the examination. 
+(a) 64.2 ̊ 
+(b) 48 ̊ 
+(c) 57.6 ̊ 
+(d) 43.6 ̊ 
+(e) 52.8 ̊ 
+ 
+Q43. Find total number of students appeared in shift V & VI together of the examination. 
+(a) 1740 
+(b) 1600 
+(c) 1820 
+(d) 1960 
+(e) 1540 
+ 
+I
+20%
+II
+16%
+III
+24%
+IV
+12%
+V
+10%
+VI
+18%
+Total students appeared in exam - 5500
+10 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q44. Students appeared in shift III & IV together of the examination are what percent more or less 
+than students appeared in shift I of the examination? 
+(a) 90% 
+(b) 80% 
+(c) 70% 
+(d) 50% 
+(e) 60% 
+ 
+Q45. Find ratio of students appeared in shift IV & VI together of the examination to students 
+appeared in shift II & III together of the examination. 
+(a) 3:4 
+(b) 5:7 
+(c) 4:3 
+(d) 7:5 
+(e) None of the above. 
+ 
+Q46. Students appeared in shift I & VI together of the examination are how much more or less than 
+students appeared in shift III & V together of the examination? 
+(a) 330 
+(b) 150 
+(c) 360 
+(d) 280 
+(e) 220 
+ 
+Q47. A vessel contains mixture of milk and water in the ratio of 7:1 respectively. 24 liters mixture 
+is removed from the vessel and if the quantity of remaining milk in the vessel is 56 liters, then find 
+quantity of water in the vessel initially. 
+(a) 11 liters 
+(b) 15 liters 
+(c) 12 liters 
+(d) 9 liters 
+(e) 8 liters 
+ 
+Q48. A & B together can complete a piece of work in 9 days. Time taken by A alone to complete the 
+same work is 7.5 days less than time taken by B alone to complete the same work. In how many 
+days B alone will complete 
+𝟐
+𝟗 of the work? 
+(a) 8 days  
+(b) 6 days 
+(c) 7 days 
+(d) 5 days 
+(e) 4 days 
+ 
+11 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q49. Ratio of ages of A and B, 4 years later is 8:9 respectively. If average of present ages of A & B is 
+47 years, then find difference in present ages of A & B. 
+(a) 5 years 
+(b) 6 years 
+(c) 3 years 
+(d) 2 years 
+(e) 4 years 
+ 
+Q50. There are 75% boys out of total students (boys + girls) in a school and 39% of the total 
+students of the school went on a picnic. If 32% of the total boys went on a picnic, then find what 
+percent of total girls went on a picnic? 
+(a) 60% 
+(b) 90% 
+(c) 75% 
+(d) 80% 
+(e) 50% 
+ 
+Q51. Number of passed students in an exam in section A & B are 240 & 210 respectively. If in section 
+A 40% of the total students got failed and in section B 30% of the total students got failed, then find 
+difference between total number of students in section A & B. 
+(a) 40 
+(b) 80 
+(c) 150 
+(d) 120 
+(e) 100 
+ 
+Directions (52-56): In the given questions, two equations (I) & (II) are given. You have to solve both 
+the equations and mark the answer accordingly. 
+ 
+Q52. I. x2 + 9x + 20 = 0 
+II. 8y2 −15y + 7 = 0 
+(a) x < y 
+(b) x > y 
+ (c) x ≤y 
+(d) x ≥y 
+(e) x = y or no relation. 
+ 
+Q53. I. x2 −11x + 30 = 0 
+II. y2 + 12y + 36 = 0 
+(a) x < y 
+(b) x > y 
+(c) x ≤y 
+(d) x ≥y 
+(e) x = y or no relation. 
+ 
+12 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q54. I. x2 + 13x + 40 = 0 
+II. y2 + 7y + 10 = 0 
+(a) x < y 
+(b) x > y 
+(c) x ≤y 
+(d) x ≥y 
+(e) x = y or no relation. 
+ 
+Q55. I. x2 −20x + 91 = 0 
+II. y2 + 16y + 63 = 0 
+(a) x < y 
+(b) x > y 
+(c) x ≤y 
+(d) x ≥y 
+(e) x = y or no relation. 
+ 
+Q56. I. x2 −x −12 = 0 
+II. y2 + 5y + 6 = 0 
+(a) x < y 
+(b) x > y 
+(c) x ≤y 
+(d) x ≥y 
+(e) x = y or no relation. 
+ 
+Directions (57-62): Study the table given below and answer the following questions. 
+ 
+Table gives information about total number of students in 3 different schools in 1999 & 2000 and also gives 
+information about total number of girls in these 3 schools in 1999 & 2000. 
+School 
+Year 
+1999 
+2000 
+Total students Total Girls Total students Total girls 
+A 
+720 
+360 
+900 
+450 
+B 
+360 
+180 
+600 
+180 
+C 
+450 
+270 
+400 
+120 
+Note: Total students in any school in any year = Total (Boys + Girls) in that school in that year. 
+ 
+Q57. If average number of students in school A in 1999, 2000 & 2001 are 700, then find total number 
+of students in school A in 2001. 
+(a) 540 
+(b) 480 
+(c) 420 
+(d) 600 
+(e) 360 
+ 
+13 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q58. Number of girls in school – A & B together in 2000 are what percent more or less than total 
+number of students in school – B & C together in 2000? 
+(a) 27% 
+(b) 42% 
+(c) 37% 
+(d) 30% 
+(e) 45% 
+ 
+Q59. Find total number of boys in school – A, B & C together in 1999. 
+(a) 720 
+(b) 640 
+(c) 680 
+(d) 760 
+(e) 800 
+ 
+Q60. Average number of students in school – A, B & C in 1999 are what percent of total students in 
+school – B in 2000? 
+(a) 95% 
+(b) 85% 
+(c) 75% 
+(d) 55% 
+(e) 65% 
+ 
+Q61. Find ratio of number of boys in school – B in 2000 to number of boys in school – C in 2000. 
+(a) 5:4 
+(b) 4:5 
+(c) 2:3 
+(d) 3:2 
+(e) None of the above. 
+ 
+Q62. Total number of girls in school – A, B & C together in 1999 are how much more or less than 
+total number of girls in school – A, B & C together in 2000? 
+(a) 140 
+(b) 60 
+ (c) 180 
+(d) 90 
+(e) 100 
+ 
+Directions (63-67): In the following questions, calculate quantity 
+I and quantity II, compare them and answer according to the 
+following options. 
+(a) If Quantity I > Quantity II 
+(b) If Quantity I < Quantity II 
+(c) If Quantity I ≥ Quantity II 
+(d) if Quantity I ≤ Quantity II 
+(e) if Quantity I = Quantity II or no relation can be established  
+ 
+14 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q63. Quantity I: Profit earned on selling an article at Rs. 450 at 20% profit 
+Quantity II: Cost price of the article which is sold at Rs.84 on 20% profit 
+ 
+Q64. In a village there are 60% males and rest are females. 30% of total male are illiterate and 25% 
+of total female are illiterate. Number of illiterate males is 1152. 
+Quantity I: Literate females in the village. 
+Quantity II: 1940 
+ 
+Q65. A man invested Rs. P at 12% p.a. on simple interest for two years. 
+Quantity I: If at the end of second year he gets Rs.1200 as interest, then find Rs.P. 
+Quantity II: Rs.6000 
+ 
+Q66. Ploughing cost of a rectangular field is Rs.288 at the rate of Rs.3 per square meter. Length of 
+the field is 4 meters more than the width of field. 
+Quantity I: Length of rectangular field. 
+Quantity II: 12 meters. 
+ 
+Q67. Quantity I: Sum of present ages of Shivam and Prashant is 32 years and Shivam is 8 years older than 
+Prashant. Find present age of Prashant. 
+Quantity II: 15 years. 
+ 
+Q68. ‘A’ invested Rs.4000 and ‘B’ invested Rs.1000 more than A. After eight months ‘C’ invested 
+Rs.3000. If at the end of the year ‘C’ gets profit of Rs.700, then find the total profit. 
+(a) Rs.7000 
+(b) Rs.8400 
+(c) Rs.5600 
+(d) Rs.8800 
+(e) Rs.6400 
+ 
+Q69. 440 meters long train passes a platform in 80 seconds. If speed of train is increased by 3 m/sec, 
+then it crosses a pole in 22 seconds. Find the length of platform. 
+(a) 720m 
+(b) 840m 
+(c) 700m 
+(d) 920m 
+(e) 900m 
+ 
+Q70. Selling price of an article becomes Rs.2160 after giving two successive discounts of x% and 
+25% and marked price of article is Rs.3600. Find the cost price of article if there is a profit of x% on 
+selling the article after giving two successive discounts. 
+(a) Rs. 1720 
+(b) Rs.1500 
+(c) Rs.1600 
+(d) Rs.1800 
+(e) Rs.1900 
+ 
+15 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q71. Three are 5 green balls, 7 blue balls and 3 red balls in a bag. If 2 balls are chosen randomly 
+from the bag, then find the probability that at least one ball is green ball. 
+(a) 
+1
+9 
+(b) 
+2
+7 
+(c) 
+3
+8 
+(d) 
+3
+5 
+(e) 
+4
+7 
+ 
+Q72. Speed of boat in still water is six times of speed of stream. If boat covers 210 km in upstream 
+in 7 hours, then find the downstream speed of boat? 
+(a) 42 km/hr. 
+(b) 36 km/hr. 
+(c) 30 km/hr. 
+(d) 32 km/hr. 
+(e) 24 km/hr. 
+ 
+Q73. Length of rectangle ‘A’ is 125% of its breadth and area of rectangle ‘A’ is 1280 cm². If width of 
+rectangle ‘A’ is half of the side of a square, then find perimeter of square. 
+(a) 72m 
+(b) 64m 
+(c) 84m 
+(d) 96m 
+(e) 60m 
+ 
+Q74. The average weight of a class of 45 girls is 53 kg. It was later found that weight of two girls was 
+read as 49 kg and 57 kg instead of 45 kg and 52 kg. Find the actual average weight of the class.  
+(a) 54 kg 
+(b) 53.40 kg 
+(c) 50.6 kg 
+(d) 52.80 kg 
+(e) 51.5 kg 
+ 
+Directions (75-80): Find the value of (?) in the following number series. 
+ 
+Q75. 1.5,     3,     12,     72,     576,     ? 
+(a) 5480 
+(b) 5620 
+(c) 5580 
+(d) 5340 
+(e) 5760 
+ 
+16 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q76. 80,     66,     85,     61,     90,     ? 
+(a) 50 
+(b) 56 
+(c) 64 
+(d) 60 
+(e) 63 
+ 
+Q77. 163,     ?,     43,     23,     13,     8 
+(a) 92 
+(b) 83 
+(c) 78 
+(d) 54 
+(e) 69 
+ 
+Q78. 150,     152,     157,     167,     184,     ? 
+(a) 229 
+(b) 245 
+(c) 232 
+(d) 210 
+(e) 206 
+ 
+Q79. 3.5,     2.5,     3,     6,     20,     ? 
+(a) 95 
+(b) 80 
+(c) 65 
+(d) 75 
+(e) 90 
+ 
+Q80. 6300,     ?,     525,     105,     17.5,     2.5 
+(a) 2400 
+(b) 2100 
+ (c) 4200 
+(d) 5200 
+(e) 3600 
+ 
+ 
+ 
+17 
+Adda247 | No. 1 APP for Banking & SSC Preparation

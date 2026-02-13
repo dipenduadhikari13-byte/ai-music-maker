@@ -1,0 +1,356 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2021
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05021034/SBI-PO-Pre-Mock-05-Based-on-1st-shift-21st-November-2021.pdf
+======================================================================
+
+Q66. In which among the following statements, G≥V and T>P holds definitely true, if the given 
+statements are definitely true? 
+(a) C≥V≥Z>T; G≥Z>P=R 
+(b) C<V≤Z>T; G≥Z<P≤R 
+(c) C>V≤Z<T; G≥Z>P>R 
+(d) C≥V≥Z≥T; G<Z≤P<R 
+(e) C≤V<Z≤T; G<Z=P>R 
+ 
+Directions (67-71): Study the following information and answer the questions given below: 
+Ten persons A, B, C, D, E, F, G, H, J and P live on five different floors in a building (but not necessarily in 
+the same order). The bottommost floor is numbered as 1st floor, just above floor is numbered as 2nd 
+floor and so on. Each floor has two flats i.e., P and Q. Flat P is in the west of Flat Q. Flat P of floor 2 is 
+immediate above to the flat P of floor 1 and immeiate below to the flat P of floor 3. In the same way, flat 
+Q of floor 2 is just aboe to the flat Q of floor 1 and just below to the flat Q of floor 3.  
+A lives in flat Q on even numbered floor. There is two floors gap between A and C. C lives to the west of 
+E. F lives to the north-west of D. D lives on the odd numbered floor. Two floors gap between F and G. 
+Both F and G lives in the same flat. One floor gap between E and B. No one lives to the east of B. H lives 
+just above J.   
+ 
+Q67. How many persons live below B? 
+(a) Five 
+(b) Four 
+(c) One 
+(d) Two 
+(e) None of these 
+ 
+ 
+ 
+Q68. Who among the following lives just above the flat of P? 
+(a) J 
+(b) C 
+(c) E 
+(d) A 
+(e) None of these 
+ 
+Q69. Who among the following does not live below B? 
+(a) G 
+(b) A 
+(c) J 
+(d) E 
+(e) D 
+ 
+Q70. P lives in which among the following flat and floor? 
+(a) Flat Q - floor 4 
+(b) Flat Q - floor 5 
+(c) Flat P – floor 4 
+(d) Flat P – floor 5 
+(e) Flat P – floor 3 
+ 
+Q71. Who among the following lives two floors below H? 
+(a) C 
+(b) E 
+(c) A 
+(d) G 
+(e) J 
+ 
+Q72. In the given statement, which among the following sign would replace the symbol % and & 
+in the statement, G≥V%Z≥P=T, H>T=K&L≥M to make the coclusion G≥K and Z>M definitely true? 
+(a) =, = 
+(b) ≥, ≥ 
+(c) ≥, > 
+(d) <, = 
+(e) <, ≥ 
+ 
+Q73. How many pair of letters are there in the word LUCKIEST, each of which has as many letters 
+between them (in both forward and backward direction) as they have according to English 
+alphabetical series? 
+(a) Two 
+(b) One 
+(c) None  
+(d) Three  
+(e) More than three 
+ 
+ 
+ 
+Directions (74-78): Study the given information and answer the questions below: 
+A certain number of persons sit in a linear row and all face north. Six persons sit between Z and A. M 
+sits fifth to the left of Z. R sits immediate right to Z. No person sits between R and B. T sits second to the 
+right of M. P sits sixth to the left of T. The number of persons sit between T and P is same as the number 
+of persons sit to the right of A. P sits third to the right of Q.  
+ 
+Q74. Who among the following sits fourth to the right of T? 
+(a) Z 
+(b) R 
+(c) B 
+(d) Q 
+(e) Either R or B 
+ 
+Q75. If the number of persons sit to the left of Q is two less than the number of persons sit to the 
+right of A, then find the total number of persons sit in the row? 
+(a) 26 
+(b) 25 
+(c) 28 
+(d) 27 
+(e) Can’t be determined 
+ 
+Q76. How many persons sit between Q and M? 
+(a) Three 
+(b) Five 
+(c) Seven 
+(d) Six 
+(e) None of these 
+ 
+Q77. What is the position of A with respect to B? 
+(a) Fourth to the left 
+(b) Sixth to the right 
+(c) Fifth to the right 
+(d) Fifth to the left  
+(e) None of these 
+ 
+Q78. Who among the following sits between Z and B? 
+(a) No one 
+(b) R 
+(c) Q 
+(d) P 
+(e) None of these 
+ 
+Q79. Find the odd one out? 
+(a) QSVP 
+(b) MORL 
+(c) HJMG 
+(d) ILPH 
+(e) EGJD 
+ 
+ 
+ 
+Q80. If we form a meaningful word by the first, third, fifth and sixth letter of the word ‘CLUTTER”, 
+then which of the following will be the third letter from left of the word thus formed. If more 
+than one word is formed mark Y as your answer. If no meaningful word is formed, mark X as 
+your answer?  
+(a) X 
+(b) T 
+(c) C 
+(d) U 
+(e) Y 
+ 
+Directions (81-85): Study the following information and answer the questions below: 
+Six persons A, B, C, D, G and F were born in six different years viz. 1976, 1980, 1983, 1991, 1998 and 
+2004 on the same date and in the same month but not necessarily in the same order. Age of all the 
+persons is calculated according to the base year 2021. They all like different fruits. 
+Age of the one who likes banana is an even number. Two persons were born between B and the one 
+who likes banana. Age of A is a multiple of 5. The one who likes avocado was born just after A. Difference 
+between the age of G and the one who likes avocado is 15years. No one was born between G and the 
+one who likes cherry. F is just older to the one who likes cherry. The one who likes blueberry is the 
+youngest person among all. C is older to the one who likes apricot and younger to the one who likes 
+orange.  
+ 
+Q81. Who among the following was born in 1998? 
+(a) The one who likes cherry 
+(b) D 
+(c) B 
+(d) The one who likes apricot 
+(e) None of these 
+ 
+Q82. Who among the following is 41 years old? 
+(a) The one who likes avocado 
+(b) The one who likes banana 
+(c) F 
+(d) C 
+(e) None of these 
+ 
+Q83. Who among the following likes ‘blueberry’? 
+(a) The one who was born in 1983 
+(b) The one who is just younger to D 
+(c) The one who is 23 years old 
+(d) A 
+(e) None of these 
+ 
+Q84. Which among the following pair is incorrect? 
+(a) C-41 years 
+(b) F-Orange 
+(c) 1983-A 
+(d) 2004- Blueberry 
+(e) D-23 years 
+ 
+ 
+ 
+Q85. Which among the following fruit is liked by the oldest person? 
+(a) Orange 
+(b) Cherry 
+(c) Blueberry 
+(d) Apricot 
+(e) None of these 
+ 
+Directions (86-90): Study the given information and answer the following questions: 
+Six persons A, B, C, D, E and F were born in different days (but not necessarily in the same order) of the 
+same week starting from Monday and ending on Saturday. They also like different vegetables. 
+C was born before Wednesday. Two persons were born between C and the one who likes spinach. One 
+person was born between the one who likes spinach and the one who likes asparagus. D was born just 
+after the one who likes asparagus. Two persons were born between D and B. F was born between D and 
+B. The one who likes broccoli was born just before F. E was born before the one who likes beetroot and 
+after the one who likes basil. The one who likes mushroom was born just after the one who likes 
+beetroot. A was born after E.  
+ 
+Q86. Who among the following persons like mushroom? 
+(a) B 
+(b) A 
+(c) F 
+(d) C 
+(e) None of these 
+ 
+Q87. Who among the following was born on Wednesday? 
+(a) The one who likes asparagus 
+(b) The one who likes broccoli 
+(c) B 
+(d) F 
+(e) None of these 
+ 
+Q88. A likes which among the following vegetables? 
+(a) Mushroom 
+(b) Spinach 
+(c) Beetroot 
+(d) Basil 
+(e) None of these 
+ 
+Q89. Four among the following five are same in a certain manner, which among the following 
+does not belong to the group? 
+(a) C-F 
+(b) C-E 
+(c) E-D 
+(d) D-F 
+(e) A-B 
+ 
+ 
+ 
+Q90. The one who was born on Thursday likes which among the following vegetables?  
+(a) Broccoli 
+(b) Basil 
+(c) Mushroom 
+(d) Spinach 
+(e) None of these 
+ 
+Directions (91-93): Study the given information and answer the following questions: 
+A person walks 21m towards south point L to reach point P. Now, he walks 23m towards west from 
+point P to reach point R. Now he turns left from R and walks 29m to reach point B. From point B, he 
+turns to his left and walks 44m to reach point G. Now, he walks 17m towards north from point G and 
+reached at point H. Now, he takes a right turn and walks 10m to reach point T. From T, he walks 23m 
+towards north and reached point M. Finally, from M, he walks certain distance towards north and 
+reached point N in such a way that N is in the east of L. 
+ 
+Q91. What is the distance between L and N? 
+(a) 30m 
+(b) 31m 
+(c) 33m 
+(d) 32m 
+(e) None of these 
+ 
+Q92. What is the direction of M with respect to P? 
+(a) South-east 
+(b) East 
+(c) North-east 
+(d) West 
+(e) None of these 
+ 
+Q93. What is the distance between N and M? 
+(a) 10m 
+(b) 21m 
+(c) 11m 
+(d) 12m 
+(e) Can’t be determined 
+ 
+Directions (94-97): Study the following information and answer the questions below: 
+Eight persons G, T, B, V, H, K, R and P sit in a linear row but not necessarily in the same order. Four 
+persons face north and four face south direction. 
+T sits second from one of the extreme ends of the row. Two persons sit between T and B. K sits third to 
+the right of B. G sits fourth to the right of K. One person sits between G and P. K and P face the same 
+direction. V sits third to the right of P. Immediate neighbours of G face the same direction. R sits adjacent 
+to P and face north. Not more than two consecutive persons face the same direction. V and H face the 
+same direction. 
+ 
+ 
+ 
+Q94. Who among the following sits immediate left of G? 
+(a) B 
+(b) V 
+(c) Either B or V 
+(d) H 
+(e) None of these 
+ 
+Q95. What is the position of H with respect to V? 
+(a) Second to the right 
+(b) Second to the left 
+(c) Third to the left 
+(d) Third to the right 
+(e) None of these 
+ 
+Q96. How many persons sit between V and K? 
+(a) Five 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None of these 
+ 
+Q97. Who among the following is the immediate neighbour of R? 
+(a) T 
+(b) B 
+(c) K 
+(d) V 
+(e) G 
+ 
+Directions (98-100): In each of the questions below some statements are given followed by two 
+conclusions. You have to take the given statements to be true even if they seem to be at variance 
+with commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements disregarding commonly known facts. 
+ 
+Q98. Statements:  
+Only a few bottles are metal.  
+No metal is matter.  
+Only a few plants are matter.  
+Conclusion:  
+I. Some plants are not metal. 
+II. Some bottles can never be matter.  
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+ 
+ 
+Q99. Statements:  
+All days are month.  
+No days are dates.  
+All dates are year. 
+Conclusion:  
+I. All days are year is a possibility. 
+II. Some year are not month. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+Q100. Statements:  
+No black is blue.  
+All blue is green.  
+Only a few red is green. 
+Conclusion:  
+I. No black is green. 
+II. Some red is not green. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusion I and II follow. 
+ 
+Solutions 

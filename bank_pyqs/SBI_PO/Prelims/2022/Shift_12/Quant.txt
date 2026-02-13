@@ -1,0 +1,380 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 12
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/01/29150858/SBI-PO-Pre-2022-20th-Dec-Shift-Wise-Previous-Year-Paper-Mock-12.pdf
+======================================================================
+
+Q31.  
+ 
+(a) If x=y or no relation can be established 
+(b) If x > y 
+(c) If x < y 
+ 
+ 
+ 
+ 
+(d) If x ≥ y 
+(e) If x ≤ y 
+ 
+Q32.  
+ 
+(a) If x=y or no relation can be established 
+(b) If x > y 
+(c) If x < y 
+ 
+ 
+ 
+ 
+(d) If x ≥ y 
+(e) If x ≤ y 
+ 
+Q33.  
+ 
+(a) If x=y or no relation can be established 
+(b) If x > y 
+(c) If x < y 
+ 
+ 
+ 
+ 
+(d) If x ≥ y 
+(e) If x ≤ y 
+ 
+ 
+9 
+ 
+ 
+Q34.  
+ 
+(a) If x=y or no relation can be established 
+(b) If x > y 
+(c) If x < y 
+ 
+ 
+ 
+ 
+(d) If x ≥ y 
+(e) If x ≤ y 
+ 
+Q35.  
+ 
+(a) If x=y or no relation can be established 
+(b) If x > y 
+(c) If x < y 
+ 
+ 
+ 
+ 
+(d) If x ≥ y 
+(e) If x ≤ y 
+ 
+Q36.  
+ 
+(a) If x=y or no relation can be established 
+(b) If x > y 
+(c) If x < y 
+ 
+ 
+ 
+ 
+(d) If x ≥ y 
+(e) If x ≤ y 
+ 
+Q37. The speed of the boat in still water is 400% more than the speed of stream. The boat can cover 
+240 km downstream & 140 km upstream in total 15 hours. Find the time taken by the boat to cover 
+70 km in upstream. 
+(a) 1.5 hours 
+(b) 4 hours 
+(c) 3.5 hours 
+(d) 3 hours 
+(e) 2.5 hours 
+ 
+Q38. Efficiency of Amit is 40% less than Bharat and 20% more than Chandra. If Amit and Bharat 
+work together they will take  1/4  days less than time taken by Bharat and Chandra working 
+together. Find in how many days Bharat can do the work alone. 
+ 
+ 
+10 
+ 
+(a) 10 days 
+(b) 8 days 
+(c) 12 days 
+(d) 6 days 
+(e) 5 days 
+ 
+Q39. Manav invested Rs. X in a scheme A that offers a simple interest at 25% per annum. After two 
+years, he withdraws all his money and invested 80% of it another scheme B that offers compound 
+interest at 20% per annum for another two years. If the difference between the interest he obtained 
+from both the scheme is Rs. 700, then find the value of X. 
+(a) Rs. 20000 
+(b) Rs. 25000 
+(c) Rs. 15000 
+(d) Rs. 30000 
+(e) Rs. 27500 
+ 
+Q40. Naman purchase two pair of shoes. On purchase of Puma shoes, he got a discount of 40% while 
+on Nike shoes he got successive discount of 20% and 20%. The marked price of Puma is 25% more 
+than that of Nike. While billing, shopkeeper charged him 5% tax on the sum of the selling price of 
+both the shoes. If total amount paid by Naman is Rs. 5838, then find the marked price of Puma shoes. 
+(a) Rs. 5000 
+(b) Rs. 3000 
+(c) Rs. 4000 
+(d) Rs. 6000 
+(e) Rs. 2500 
+ 
+Q41. A started a business with an amount. After 3 months, B joins him with Rs. 20000, after next 4 
+months, C also joins with an investment of Rs. 25000. If the ratio of profit share of A and B is 8. 3 and 
+total profit is Rs. 15700, then find the profit share of A. 
+(a) Rs. 3600 
+(b) Rs. 5600 
+(c) Rs. 2500 
+(d) Rs. 9600 
+(e) Rs. 7500 
+ 
+Q42. In an exam, 40% students passed in only Hindi and 50% students passed in English only. If 
+none of the students failed in both the subjects and number of students who failed in only English 
+are 75, then find number of students who failed in Hindi only. 
+(a) 75 
+(b) 60 
+(c) 30 
+(d) 15 
+(e) 45 
+ 
+ 
+11 
+ 
+ 
+Directions (43-47) : Read the given Table carefully and answer the following questions. The data 
+given below shows the number of watches (Analog + Digital) sold by five shopkeepers on Monday 
+and ratio of sold units of analog and digital watch by each shopkeeper on same day. 
+ 
+ 
+Q43. Find ratio of total Digital watches sold by B and C together to total analog watches sold by A 
+and D together. 
+(a) 1: 1 
+(b) 15: 14 
+(c) 10: 9 
+(d) 14: 11 
+(e) 13: 10 
+ 
+Q44. What is the difference between the average number of analog watches sold by B, C and E and 
+the average number of Digital watches sold by A, C and D? 
+(a) 10 
+(b) 15 
+(c) 8 
+(d) 5 
+(e) 0 
+ 
+Q45. Only 30% of Analog watches are sold by shopkeeper B and 75% of analog watches remains 
+unsold by shopkeeper A, then find the total number of analog watches shopkeeper A have is what 
+percentage of total number of analog watches shopkeeper B have. 
+(a) 100% 
+(b) 50% 
+(c) 75% 
+(d) 0% 
+(e) 200% 
+ 
+Q46. Shopkeeper D have only two brands of watches (Fossil & Titan) . 5/13th of the sold analog 
+watches and 6/19th sold digital watches are of Fossil, then find the total number of Titan watches 
+sold by D. 
+(a) 95 
+(b) 85 
+(c) 75 
+(d) 105 
+(e) 115 
+ 
+ 
+12 
+ 
+ 
+Q47. A and C sold 20% and 25% more watches on Tuesday than previous day. Find the number of 
+Analog watches sold by A on Tuesday is what percentage more/less than that by C on Tuesday, if 
+ratio of sold watches of Analog and Digital remains same as on Monday for both the shopkeepers. 
+(a) 0% 
+(b) 90% more 
+(c) 10% less 
+(d) 11
+1
+9 % more 
+(e) 20% less 
+ 
+Q48. Two unbiased dices are rolled. Find the probability of getting a sum more than 7 but the 
+number on dices is not same. 
+(a) 1/3 
+(b)  1/2 
+(c) 5/18 
+(d) 5/12 
+(e) 13/36 
+ 
+Q49. A container is full of mixture of milk and water contains 40% of water. A part of this mixture 
+is replaced by another mixture containing 81% of milk and rest is water and now the percentage of 
+milk was found to be 74% in the new mixture formed. Find quantity of mixture replaced. 
+(a) 1/3 
+(b) 2/3 
+(c) 2/5 
+(d) 3/5 
+(e) None of these  
+ 
+Q50. Train ‘A’ can cross a pole and 200 meters long platform in 16 seconds & 24 seconds respectively. 
+Find time taken by train ‘A’ to cross another train’ B’, whose length is 480 meters and running at the 
+speed of 108 km/hr. in opposite direction. 
+(a) 25 seconds 
+(b) 24 seconds 
+(c) 18 seconds 
+(d) 20 seconds 
+(e) 16 seconds 
+ 
+Q51. Sum of two numbers is equal to sum of square of 11 and cube of 9. Larger number is 25 less 
+than square of 25. Find the sum of twice of 30% of the smaller number and half of the larger 
+number?   
+(a) 445 
+(b) 425 
+(c) 415 
+(d) 435 
+(e) 450 
+ 
+ 
+13 
+ 
+ 
+Q52. The volume of the right circular cone is 3234cm³. If the diameter of the cone is 42 cm and the 
+height of a cone is equal to the height of the circular cylinder and radius of circular cylinder is 5/7th 
+of radius of cone, then find the volume of circular cylinder. 
+(a) 4250 cm³ 
+(b) 3950 cm³ 
+(c) 5650 cm³ 
+(d) 6150 cm³ 
+(e) 4950 cm³ 
+ 
+Directions (53-57) : What will come in the place of question (?) mark in following number series. 
+ 
+Q53. ?, 19, 15, 24, 8, 33 
+(a) 18 
+(b) 5 
+(c) 11 
+(d) 7 
+(e) 17 
+ 
+Q54. 72, 36, ?, 135, 472.5, 2126.25 
+(a) 90 
+(b) 101 
+(c) 54 
+(d) 68 
+(e) 72 
+ 
+Q55. 226, 101, 37, ?, 2, 1 
+(a) 30 
+(b) 8 
+(c) 15 
+(d) 25 
+(e) 10 
+ 
+Q56. 101, ?, 145, 168, 197, 224 
+(a) 104 
+(b) 120 
+(c) 125 
+(d) 132 
+(e) 116 
+ 
+ 
+14 
+ 
+ 
+Q57. 144, 155, 168, 185, 204, ? 
+(a) 229 
+(b) 231 
+(c) 268 
+(d) 227 
+(e) 245 
+ 
+Directions (58-60) : Read the following information and answer the questions given below 
+In 10th class there are four sections namely A, B, C, and D. The ratio of total number of boys to total number 
+of girls is 8:9. Ratio of boys to girls in school B is 1:3. The number of girls in school A and B is same. The 
+number of boys in section C is 10 less than number of girls in section C and the number of girls in section 
+D is 5 less than boys in section B. The number of girls in section C is 55 out of 225 total number of girls. The 
+ratio of boys in section A and D is 5:8. 
+ 
+Q58. Find the ratio of boys in section B and C together to girls in section A and D together. 
+(a) 14:19 
+(b) 19:14 
+(c) 15:17 
+(d) 17:15 
+(e) 21:23 
+ 
+Q59. The number of girls in section D is what percent more/less than the boys in section B of 10th 
+class. 
+(a) 18.34% 
+(b) 20% 
+(c) 56.32% 
+(d) 12% 
+(e) 16% 
+ 
+Q60. Find the average number of students studying in section B and C of 10th class. 
+(a) 130 
+(b) 140 
+(c) 100 
+(d) 200 
+(e) 110 
+ 
+Directions (61-65) : Pie chart shows income distribution of four earning member of a family out of 
+total family income in the year 2016. Read the data carefully and answer the questions given below.  
+ 
+ 
+15 
+ 
+ 
+ 
+Q61. If A and C spend 80% and 60% of their income respectively and total saving of both is Rs. 
+40800, then find the income of C? 
+(a) 72000 Rs. 
+(b) 78000 Rs. 
+(c) 54000 Rs. 
+(d) 90000 Rs. 
+(e) 60000 Rs. 
+ 
+Q62. If income of B and D increased by 20% and 40% in the year 2017 over the previous year, then 
+find the ratio of total income of B & D together in 2016 to that of in 2017? 
+(a) 3 : 4 
+(b) 45 : 56 
+(c) 45 : 53 
+(d) 47 : 56 
+(e) 6 :7 
+ 
+Q63. If expenditure of A and B is same, then find difference between saving of A and B is what 
+percent of income of D? 
+(a) 112% 
+(b) 125% 
+(c) 150% 
+(d) 100% 
+(e) 80% 
+ 
+ 
+16 
+ 
+ 
+Q64. If difference between income of A & D is Rs. 30000 in 2016 and income of B & C increased by 
+40% and 20% respectively in the year 2017 over 2016, then find difference between income of B & 
+C in the year 2017? 
+(a) 24000 Rs. 
+(b) 26000 Rs.  
+(c) 20000 Rs. 
+(d) 28000 Rs. 
+(e) 32000 Rs. 
+ 
+Q65.  What will be central angle for income of A & D together? 
+(a) 128° 
+(b) 136° 
+(c) 126° 
+(d) 144° 
+(e) 120° 
+ 
+Directions (66-70) : Study the following information carefully and answer the questions given 
+below. 
+In a certain code language: 
+“Banking aspirants give exams” is coded as “135    212     232     147” 
+“SSC aspirants applied exams” is coded as “165     135      118      232” 
+“SSC give exams score” is coded as “147    165     232     235” 
+“Banking services demanding now” is coded as “212      114      136     128”

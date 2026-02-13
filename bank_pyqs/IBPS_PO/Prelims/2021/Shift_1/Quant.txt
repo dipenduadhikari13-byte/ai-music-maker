@@ -1,0 +1,392 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2021
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2022/09/20123805/Formatted-IBPS-PO-Prelims-2021-Memory-Based-Paper-Based-on-4th-December-2021-1.pdf
+======================================================================
+
+Q31. 8, 12, 30, 105, ?, 2598.75 
+(a) 472.5 
+(b) 470.5 
+(c) 476.5 
+(d) 471.5 
+(e) 468.5 
+ 
+8 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q32. 9, 19, 39, 79, ?, 319 
+(a) 221 
+(b) 175 
+(c) 125 
+(d) 159 
+(e) 199 
+ 
+Q33. 580, 557, 528, 497, ?, 419 
+(a) 463 
+(b) 457 
+(c) 461 
+(d) 459 
+(e) 460 
+ 
+Q34. 81, 72, 136, 111, ?, 278 
+(a) 325 
+(b) 347 
+(c) 323 
+(d) 327 
+(e) 321 
+ 
+Q35. 14, 20, 28, 39, ?, 74 
+(a) 50 
+(b) 52 
+(c) 54 
+(d) 56 
+(e) 59 
+ 
+Direction (36 – 40): Table given below shows ratio of books to pens sold by four different shops and it 
+also shows average number of books and pens sold by these four shops. 
+Shops 
+Ratio of total books to pen sold 
+(books : Pens) 
+Average number of books 
+& Pens sold 
+A 
+4 : 1 
+100 
+B 
+1 : 3 
+60 
+C 
+2 : 3 
+75 
+D 
+3 : 2 
+90 
+ 
+Q36. If shop D sold each book at Rs. 75 & each pen at Rs. 30, then find the total earning (in Rs.) of shop D 
+by selling all the books and pens? 
+(a) 10220 
+(b) 10240 
+(c) 10260  
+(d) 10360 
+(e) 10460 
+9 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q37. Total books sold by shop B is what percent less than total pens sold by shop C? 
+(a) 63 
+2
+3 % 
+(b) 33 
+1
+3 % 
+(c) 60 
+2
+3 % 
+(d) 66 
+2
+3 % 
+(e) 66 
+1
+3 % 
+ 
+Q38. Find difference between average number of books sold by A & C and total pens sold by B? 
+(a) 10 
+(b) 5 
+(c) 15 
+(d) 25 
+(e) 20 
+ 
+Q39. If shop X sold 50% more pens than shop A and total books sold by shop X is 20 less than that of by 
+shop C, then find total pens sold by X is what percent more than total books sold by X? 
+(a) 20% 
+(b) 50% 
+(c) 30% 
+(d) 40% 
+(e) 10% 
+ 
+Q40. Find the ratio of total pens sold by shop A to total books sold by shop C? 
+(a) 1 : 3 
+(b) 2 : 3 
+(c) 3 : 4 
+(d) 2 : 5 
+(e) 1 : 4 
+ 
+Directions (41–45): In the following questions, there are two 
+equations in x and y. You have to solve both the equations and give 
+answer.  
+(a) if x > y 
+(b) if x < y 
+(c) if x ≥ y 
+(d) if x ≤ y 
+(e) if x = y or there is no relation between x and y 
+ 
+Q41. I. 𝑥2 + 3𝑥−40 = 0 
+II. 𝑦2 −11𝑦+ 30 = 0 
+ 
+10 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q42. I. 2𝑥2 + 7𝑥−15 = 0 
+II. 3𝑦2 + 5𝑦−12 = 0 
+ 
+Q43. I. 2𝑥2 + 26𝑥+ 84 = 0 
+II. 𝑦2 + 15𝑦+ 56 = 0 
+ 
+Q44. I. 𝑥2 −4𝑥−221 = 0 
+II. 𝑦2 −𝑦−132 = 0 
+ 
+Q45. I. 𝑥2 −13𝑥+ 42 = 0 
+II. 𝑦2 −17𝑦+ 72 = 0 
+ 
+Q46. Jaya & Shivani invested Rs. 5000 & Rs. 6000 respectively in a business. After six-month Riya join the 
+business with capital of Rs. 3000 and Jaya left the business. If at the end of one year the difference between 
+profit share of Jaya & Riya is Rs. 200, then find the profit share (in Rs.) of Shivani. 
+(a) 3000 
+(b) 2400 
+(c) 4200 
+(d) 3600 
+(e) 1200 
+ 
+Q47. If ratio of radius to height of a cylinder in 7 : 6 and curved surface area of cylinder is 1056 cm2 , then 
+find the total surface area of cylinder? 
+(a) 2218 cm2 
+(b) 2228 cm2 
+(c) 2248 cm2 
+(d) 2288 cm2 
+(e) 2268 cm2 
+ 
+Q48. Ram spend 20% of his monthly income on rent, 10% from the remaining income he spends on food, 
+30% on travel and 
+2
+5
+th amount he gives to his mother. If the difference between amount he spends on travel 
+& amount he gives to his mother is Rs. 11200, then find the monthly income of Ram? 
+(a) 120000 Rs. 
+(b) 140000 Rs. 
+(c) 150000 Rs. 
+(d) 180000 Rs. 
+(e) 130000 Rs. 
+ 
+Q49. Speed of bike is 10% less than speed of car and bike takes two hours more than car to cover 180 km 
+distance, while car covers 300 km. Find the speed (in km/hr) of bike? 
+(a) 50 
+(b) 45 
+(c) 36 
+(d) 54 
+(e) 27 
+ 
+11 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q50. The ratio of present age of Aman to that of David is 2 : 5 and after ten years the sum of their age will 
+be 69 years. Find the difference between present age of Aman & David? 
+(a) 14 years 
+(b) 21 years 
+(c) 17 years 
+(d) 19 years 
+(e) 7 years 
+ 
+Q51. A vessel contains total 95 liter mixture of milk & water in the ratio of 15 : 4 respectively. X liter mixture 
+of mixture taken out from the vessel and 18 liters water added in the remaining mixture, then the new ratio 
+of milk to water becomes 3 : 2, find the value of X? 
+(a) 9.5 
+(b) 57 
+(c) 27.5 
+(d) 19 
+(e) 38 
+ 
+Q52. The ratio of speed of a boat in downstream to upstream is 5 : 3 and total time taken by boat to cover 
+30 km distance in upstream is 5 hours. Find time taken by boat to cover 40 km in downstream. 
+(a) 4 hours 
+(b) 6 hours 
+(c) 8 hours 
+(d) 2 hours 
+(e) 3 hours 
+ 
+Q53. A man invested Rs. 8000 in each schemes A & B. Scheme A offers simple interest at the rate of 9% p.a. 
+for three years, while scheme B offers simple interest at the rate of 8% p.a. for four years. Find the total 
+interest (in Rs.) get by man from both schemes. 
+(a) 4700 
+(b) 4760 
+(c) 4780 
+(d) 4520 
+(e) 4720 
+ 
+Q54. A can do 25% of a work in 7 days, while B can do 
+2
+7
+th of the same work in 12 days. A and B start work 
+together and after 12 days both replace by C, who complete the remaining work in three days. Find in how 
+many days C can complete the same work alone? 
+(a) 6.5 days 
+(b) 7.5 days 
+(c) 8.5 days 
+(d) 10.5 days 
+(e) 12.5 days 
+ 
+12 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q55. A shopkeeper sold a table at 20% profit and a chair at profit of 25%. If the cost price of the chair is 
+equal to the selling price of table and shopkeeper earned an overall profit of Rs. 400, then find the sum of 
+selling price of both the articles together? 
+(a) 2160 Rs. 
+(b) 1760 Rs. 
+(c) 1960 Rs. 
+(d) 2260 Rs. 
+(e) 2460 Rs. 
+ 
+Directions (56-60): Study the charts given below carefully and answer the following questions. 
+ 
+Pie chart shows the percentage distribution of total students (Science +Commerce) in 12th class of five 
+different Zones and table shows the number of students in same class in science of same zones. 
+ 
+ 
+Zone 
+Students in Science 
+Northern Zone 
+400 
+Eastern Zone 
+310 
+Southern Zone 
+430 
+Central Zone 
+600 
+Western Zone 
+750 
+ 
+Q56. Number of students of commerce stream in Northern Zone are what percent more or less than 
+number of total students in Southern Zone. 
+(a) 20% 
+(b) 0% 
+(c) 5% 
+(d) 10% 
+(e) 12.5% 
+ 
+Northern 
+Zone
+25%
+Easter 
+Zone
+10%
+Southern 
+Zone
+15%
+Central 
+Zone
+20%
+Western 
+Zone
+30%
+Total students (Science + Commerce) = 4000
+13 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q57. Number of Commerce students in Western zone are how much more than Science students in 
+Northern zone, Eastern zone and Southern zone together. 
+(a) 660 
+(b) 770 
+(c) 630 
+(d) 730 
+(e) 690 
+ 
+Q58. If monthly library fee per student in Central zone for commerce students is Rs.60 which is Rs.20 less 
+than that for science students, then find total monthly fee of library of Central zone.  
+(a) Rs.60000 
+(b) Rs.45000 
+(c) Rs.42000 
+(d) Rs.54000 
+(e) Rs.63000 
+ 
+Q59. If Western zone also have Arts students and ratio of sum of students of science and commerce in 
+western zone and Arts students in western zone is 5 : 7, then find Arts students in western zone are how 
+much more than commerce students in Southern zone. 
+(a) 1510 
+(b) 1430 
+(c) 1570 
+(d) 1620 
+(e) 1690 
+ 
+Q60. Find ratio of science students in Western Zone to Commerce students in eastern zone. 
+(a) 7 : 1 
+(b) 22 : 9 
+(c) 21 : 8 
+(d) 17 : 5  
+(e) 25 : 3 
+ 
+Directions (61-65): Read the given data carefully and answer the 
+following questions. 
+There are 1080 (Fabric + paper) bag sold by shop A, B and C. 
+(i) Shop A sold (paper + fabric) bag 25% more than shop B. Equal 
+number of paper and fabric bag sold by shop B. 
+(ii) The number of paper bag sold by shop B is double the fabric bag 
+sold by A.  
+(iii) The number of paper bag sold by shop C is 50% of fabric bag sold 
+by shop A. 
+(iv) The number of fabric bag sold by shop C is 25% of that by shop B. 
+ 
+14 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q61. Find the ratio between paper bag sold by B and fabric bag sold by C? 
+(a) 4: 1 
+(b) 3: 2 
+(c) 5: 2 
+(d) 5: 4 
+(e) 5: 1 
+ 
+Q62. Fabric bag sold by shop A is what percentage more than paper bag sold by shop C? 
+(a) 50% 
+(b) 25% 
+(c) 200% 
+(d) 100% 
+(e) 150% 
+ 
+Q63. What is the difference between average number of paper bag sold by all the shops and fabric bag sold 
+by all the shops? 
+(a) 110 
+(b) 108 
+(c) 106 
+(d) 103 
+(e) 115 
+ 
+Q64. Fabric bags sold by shop A and C together is how much more or less than paper bag sold by shop B 
+and C together? 
+(a) 90 
+(b) 102 
+(c) 116 
+(d) 108 
+(e) 124 
+ 
+Q65. Each paper bag and each fabric bag of shop A sold at Rs. 10 and Rs.15 respectively. Find total revenue 
+from selling paper bag and fabric bag of shop A? 
+(a) Rs.4750 
+(b) Rs.5280 
+(c) Rs.5940 
+(d) Rs.5480 
+(e) Rs.6220 
+ 
+15 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Direction (66-70): Study the following information and answer the questions given below: 
+ 
+Fourteen persons viz. A, B, C, D, P, Q, R, S, K, L, M, N, Y and Z sit in two parallel rows (but not necessarily in 
+the same order) in such a way that seven persons sit in each row. A, B, P, Q, K, L and Y sit in row 1 and face 
+north while C, D, R, S, M, N and Z sit in row 2 and face south. The persons in row 1 sit exactly opposite to 
+the persons sit in row 2.  
+Y sits diagonally opposite to Z. One person sits between Z and R. P faces R and sits immediate right of A. 
+The number of persons sit between Y and A is same as the number of persons sit to the right of M. B sits 
+second to the right of the one who faces R. Three persons sit between B and Q. C sits diagonally opposite to 
+Q. C and D are immediate neighbours. N faces K.

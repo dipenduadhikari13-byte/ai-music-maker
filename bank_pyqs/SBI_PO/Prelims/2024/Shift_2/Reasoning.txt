@@ -1,0 +1,358 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2024
+Shift: 2
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/10173503/SBI-PO-Pre-2024-25-Memory-Based-Paper-8-Mar-2025-2nd-shift.pdf
+======================================================================
+
+Q66. The length of train X is equal to sum of length of train Y and Z together, while length of train 
+Z is 20% more than that of Y. Train Y running at speed of 50 meters/second and it cross a pole in 
+6 seconds. If the speed of train X is 40 m/sec and cross train Z in 17 second running in opposite 
+direction, then find the speed of train Z (in meters/second)? 
+(a) 25 
+(b) 15 
+(c) 30 
+(d) 20 
+(e) 40 
+ 
+Q67. A man invested a certain amount in scheme A at rate of 15% p.a. for two years and he 
+received total simple interest of Rs 7800. The man increased the amount by Rs. X and invested in 
+another scheme B on compound interest at rate of 10% p.a. for two years and received Rs. 6720 
+as interest. Find the value of X (in Rs.)? 
+(a) 8000 
+(b) 5000 
+(c) 4000 
+(d) 3000 
+(e) 6000 
+ 
+Q68. A shopkeeper made a loss of 15% on selling an article. Had he sold the article for Rs. 3000 
+more, he would have made a profit of 5%.  If he marked the article at 20% above the cost price, 
+then find the discount given on the article? 
+(a) 5050 Rs. 
+(b) 5250 Rs. 
+(c) 5450 Rs. 
+(d) 4850 Rs. 
+(e) 5350 Rs. 
+ 
+ 
+ 
+Q69. X is a series of five consecutive multiple of three whose average is 36 and Y is the series of 
+four consecutive multiple of four, which second smallest number is 13 more than second highest 
+number of X series. Find the sum of smallest number of X series and highest number of Y series? 
+(a) 84 
+(b) 96 
+(c) 80 
+(d) 90 
+(e) 72 
+ 
+Q70.  Vessel X contains milk and water in the ratio of 5:4 respectively. 9 litres of mixture is 
+removed and 20 litres of mixture from vessel Y which containing milk and water in the ratio 3: 2 
+respectively is mixed in the remaining mixture in vessel X. If the ratio of milk to water in the 
+resultant mixture in vessel X is 4: 3, then find the quantity of mixture in vessel X initially?  
+(a) 120 liters 
+(b) 60 liters 
+(c) 45 liters 
+(d) 90 liters 
+(e) 80 liters 
+ 
+Directions (71-74): Study the following information carefully and answer the questions given 
+below: 
+Nine persons A, B, C, D, E, F, G, H and I sit in a row facing north but not necessarily in the same order.  
+C sits 3rd to the left of F. Two persons sit between E and F. A sits 3rd to the right of I but not sit at any end. 
+There are as many persons sit to the left of A as right of B. F sits adjacent to A. The numbers of persons 
+sit between D and G is thrice than the numbers of persons sit between H and G.  
+ 
+Q71. Who sits exactly in the middle of the row? 
+(a) A 
+(b) F 
+(c) C 
+(d) B 
+(e) H 
+ 
+Q72. How many persons sit between C and D? 
+(a) One 
+(b) Two 
+(c) None 
+(d) Four 
+(e) Five 
+ 
+Q73. Which of the following pair of persons sits at the extreme ends of the row? 
+(a) D, G 
+(b) B, H 
+(c) C, I 
+(d) G, H 
+(e) H, I 
+ 
+ 
+ 
+Q74. If B and E interchange their positions, then who will sit third to the left of H? 
+(a) E 
+(b) D 
+(c) A 
+(d) F 
+(e) G 
+ 
+Directions (75-78): In each of the questions below, some statements are given followed by some 
+conclusions. You have to take the given statements to be true even if they seem to be at variance 
+from commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements disregarding commonly known facts. 
+ 
+Q75. Statements: P ≤ Q < R = S ≥ T; U = R ≥ V ≤ W 
+Conclusions: 
+I. P < W 
+II. T ≤ U 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+Q76. Statements: K ≥ L > M = N < O; P > Q ≥ N < R 
+Conclusions: 
+I. L > R 
+II. Q ≤ O 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+Q77. Statements: A < B = C ≥ D; E ≥ C < F; G ≤ F < H 
+Conclusions: 
+I. A < H 
+II. E ≥ D 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+ 
+ 
+Q78. Statements: X ≤ Y > Z = W ≤ V; T ≥ U = Z < S 
+Conclusions: 
+I. W > S 
+II. U ≤ S 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If neither conclusion I nor II is true 
+(e) If both conclusions I and II are true 
+ 
+Directions (79-83): Study the following information carefully and answer the questions given 
+below: 
+Six persons D, F, G, H, K and L are living in three-storey building where the ground floor is numbered as 
+1, just above it is floor 2 and the topmost floor is numbered as 3. Each of the floors has 2 flats in it as 
+flat-A and flat-B. Flat-A of floor-2 is immediately above flat-A of floor-1 and immediately below flat-A of 
+floor-3. In the same way, flat-B of floor-2 is immediately above flat-B of floor-1 and immediately below 
+flat-B of floor-3. Flat-A is in the west of flat-B. Each of them likes different fruits.  
+H lives in the north-west of the one who likes Kiwi. K lives below the one who likes Kiwi. One floor gap 
+between K and F who likes Apple. One floor gap between the ones who like Orange and Grapes. G lives 
+east of the one who likes Orange. The one who likes Banana lives above the one who likes Guava. L does 
+not like Banana.  
+ 
+Q79. Who among the following lives in Flat-A of Floor-3? 
+(a) D 
+(b) The one who likes Apple 
+(c) L 
+(d) The one who likes Grapes 
+(e) None of these 
+ 
+Q80. Which fruit does K like? 
+(a) Kiwi 
+(b) Orange 
+(c) Grapes 
+(d) Guava 
+(e) None of these 
+ 
+Q81. Who lives immediately above the flat of the one who likes Grapes? 
+(a) The one who likes Kiwi 
+(b) F 
+(c) D 
+(d) The one who likes Orange 
+(e) None of these 
+ 
+ 
+ 
+Q82. Which of the following statements is true? 
+(a) F lives in Flat-B of Floor-2 
+(b) H likes Orange 
+(c) K lives immediately below L’s floor 
+(d) The one who likes Banana lives on Floor-1 
+(e) None is true 
+ 
+Q83. Who among the following lives in Flat-B of Floor-1? 
+(a) K 
+(b) G 
+(c) H 
+(d) D 
+(e) None of these 
+ 
+Q84. If a four-letter meaningful word is formed by using of 1st, 2nd, 5th and 9th letter from eft end 
+of the word ‘RECLAIMING’, then what will be the second letter from right end of that meaningful 
+word. If more than one meaningful word is formed, mark the answer as Y and if no meaningful 
+word is formed, mark the answer as Z.  
+(a) R 
+(b) A 
+(c) Z 
+(d) N 
+(e) Y 
+ 
+Q85. How many pairs of digits are in the number ‘59267435’, each of which have as many digits 
+between them (both forward and backward direction) as they have between them according to 
+numeric series?  
+(a) One 
+(b) Two  
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+Directions (86-90): Read the given information carefully and answer the related questions: 
+Seven boxes A, B, C, D, E, F, G – are placed one above the other but not in the given order. These boxes 
+are numbered as 1 to 7 from bottom to top respectively. All the boxes are painted with different colors 
+– red, blue, violet, indigo, green, orange, yellow (but not in same order as given). 
+More than three boxes are placed below blue box. Two boxes are placed between box A and blue box. 
+Number of boxes placed below box A is two less than the number of boxes placed between blue box and 
+yellow box. Box G is not placed at odd numbered position and placed immediate above box E. Number 
+of boxes placed above box E and below red box are same. Green box is placed four boxes above box F. 
+Box D is placed immediately below Indigo box but box D is not painted with red color. Box C is placed 
+below violet box but not on odd numbered position.  
+ 
+ 
+ 
+Q86. Choose the correct pair. 
+(a) F - Indigo 
+(b) B - Green 
+(c) D - Red 
+(d) D - Blue 
+(e) E - Orange 
+ 
+Q87. How many boxes are placed between box B an Indigo box? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) Five 
+ 
+Q88. Which among the following box is painted with green color? 
+(a) Box B 
+(b) Box G 
+(c) Box C 
+(d) Box A 
+(e) Box E 
+ 
+Q89. Bottommost box is painted with which of the following color? 
+(a) Violet 
+(b) Orange 
+(c) Red 
+(d) Indigo 
+(e) Yellow 
+ 
+Q90. Which of the following statement is not correct? 
+I. No box is placed above box B 
+II. Box E is placed below box C 
+III. Green box is placed immediately above box G 
+(a) Only I 
+(b) Only II 
+(c) Only III 
+(d) Only I and II 
+(e) Only I and III 
+ 
+Directions (91-95): Read the given information carefully and answer the related questions: 
+Fourteen persons sit in two parallel rows in such a way that seven persons sit in each row. A, B, C, D, E, 
+F, G sit in row 1 and face north while P, Q, R, S, T, U, V sit in row 2 and face south (but not in the same 
+order as given). Persons of both rows face each other.  
+ 
+ 
+F is the only neighbor of A. Three persons sit between U and the one who faces F. P sits adjacent to U 
+who does not sit opposite to B. Number of persons sit to the left of P and to the left of D are same. T sits 
+opposite to the one who sits second to the left of C. G sits to the right of C but does not sit at the end. R 
+sits immediate left of Q and second to the right of V.  
+ 
+Q91. What is the position of S with respect to T? 
+(a) Third to the right 
+(b) Immediate left 
+(c) Fifth to the left 
+(d) Second to the right 
+(e) Fifth to the right 
+ 
+Q92. If the persons of row 2 are asked to sit in alphabetical order from left, then how many 
+persons will remain unchanged on their positions? 
+(a) None  
+(b) One 
+(c) Two 
+(d) Three 
+(e) Four 
+ 
+Q93. Who among the following sits second to the right of the person who sits opposite to F? 
+(a) R 
+(b) T 
+(c) U 
+(d) P 
+(e) Q 
+ 
+Q94. Four of the following five pair are similar in a certain manner, which among the following is 
+dissimilar to others? 
+(a) T-B 
+(b) V-E 
+(c) S-F 
+(d) R-D 
+(e) P-C 
+ 
+Q95. The number of persons sit to the left of E is same as the number of persons sit to the right 
+of ___. 
+(a) U 
+(b) P 
+(c) Q 
+(d) R 
+(e) V 
+ 
+ 
+ 
+Directions (96-100): Read the given information carefully and answer the related questions: 
+Eight persons were born on same date and month of different years – 1975, 1978, 1989, 1992, 1995, 
+1996, 2007, 2010. Consider 2025 as base year to calculate the age of the persons.  
+M is three years older to K. Fourteen years age gap between K and U. Total age of K and P is one year 
+more than the age of N. Q’s age is multiple of 3 but Q does not born in odd numbered year. L is younger 
+to Q and R both.   
+ 
+Q96. What is the age of R? 
+(a) 50 years 
+(b) 47 years 
+(c) 36 years 
+(d) 33 years 
+(e) 29 years 
+ 
+Q97. L was born in which of the following year? 
+(a) 1978 
+(b) 1989 
+(c) 1992 
+(d) 1996 
+(e) 1995 
+ 
+Q98. How many persons are younger to P? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+Q99. What will be the total age of N, R and U? 
+(a) 112 years 
+(b) 106 years 
+(c) 126 years 
+(d) 87 years 
+(e) None of the above 
+ 
+Q100. Who among the following is 30 years old? 
+(a) K 
+(b) R 
+(c) P 
+(d) L 
+(e) Q 
+ 
+ 
+ 
+Solutions 

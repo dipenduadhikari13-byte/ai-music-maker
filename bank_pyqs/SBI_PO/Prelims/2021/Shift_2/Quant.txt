@@ -1,0 +1,361 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2021
+Shift: 2
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05021406/SBI-PO-Pre-Mock-02-Based-on-2nd-shift-20th-November-2021.pdf
+======================================================================
+
+Q31. What is the average no. of players who play only one game? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q32. Players who play chess but not cricket is approximately what percent of total players? 
+(a) 35% 
+(b) 45% 
+(c) None of these 
+(d) 40% 
+(e) 50% 
+ 
+Q33. What is ratio of players who play both tennis & chess to players who play only cricket? 
+(a) 7 : 13 
+(b) 9 : 41 
+(c) 10 : 43 
+(d) None of these 
+(e) 2 : 5 
+ 
+Q34. Players who play at least two games is approximately what percent of players who play 
+utmost two games? 
+(a) 4% 
+(b) 6% 
+(c) 15% 
+(d)12% 
+(e)9% 
+ 
+Q35. What is the difference between no. of players who can play tennis & players who play only 
+cricket? 
+(a) 74 
+(b) 64 
+(c) 68 
+(d) None of these  
+(e) 72 
+ 
+Q36. Abhishek took a loan of Rs.1,20,000 from the bank at the rate of 8% compound interest for 
+2 years. He invested 3/4th of the loan amount in a scheme which offers 10% compound interest 
+annually for 2 years. Find his profit/loss at the end of 2 years, if he keeps rest of the money. 
+ 
+ 
+10 
+ 
+(a) Rs.600 profit 
+(b) R.300 profit 
+(c) Rs.700 loss 
+(d) Rs.700 profit 
+(e) Rs.1068 loss 
+ 
+Q37. Dev and Deepak start a business in partnership. Dev invested 25% more capital than 
+Deepak but he invested for 4 months less than that by Deepak. If the profit share of Deepak is 
+Rs.4000, which is Rs.1000, more than that of Dev, then find the time of investment of Dev. 
+(a) 10 months 
+(b) 8 months 
+(c) 6 months 
+(d) 4 months 
+(e) 9 months 
+ 
+Q38. The selling price of one chair and one table is Rs.480 each. If chair was sold at the loss of 
+25% and table was sold at the profit of 60%, then find the difference between the cost price of 
+chair and table. 
+(a) Rs.360 
+(b) Rs.280 
+(c) Rs.300 
+(d) Rs.340 
+(e) Rs.350 
+ 
+Q39. There is a mixture of 70 kg which contains Alcohol and water. The quantity of water in the 
+mixture is ‘S’ liter. If the 50% more water is added in the mixture, the ratio of alcohol and water 
+become 8: 9, then find the final quantity of the mixture. 
+(a) 70 kg 
+(b) 75 kg 
+(c) 85 kg 
+(d) 60 kg 
+(e) 80 kg 
+ 
+Q40. A boat covers 22.4 km in downstream in 48 minutes and the speed of the stream is 40% of 
+the speed of the boat in still water. Find the ratio of time taken by boat to cover 54 km in 
+upstream to the time taken by boat to cover 210 km in downstream respectively? 
+(a) 5 : 3 
+(b) 3 : 5 
+(c) 3 : 4 
+(d) 2 : 3 
+(e) 1 : 3 
+ 
+ 
+11 
+ 
+ 
+Directions (41-45): The table given below shows total number of bread packets (White+ Brown) 
+sold by five different shopkeepers on Monday and it also shows ratio of sold packets of white 
+and brown bread by each shopkeeper on same day. Read the given table carefully and answer 
+the following questions. 
+ 
+ 
+Q41. Find the ratio of total brown bread packets sold by B and C together to total white bread 
+packets sold by A and D together. 
+(a) 1: 1 
+(b) 15: 14 
+(c) 10: 9 
+(d) 14: 11 
+(e) 13: 10 
+ 
+Q42. Find the difference between the average number of white bread packets sold by B, C & E 
+and average number of brown bread packets old by A, C and D? 
+(a) 10 
+(b) 15 
+(c) 8 
+(d) 5 
+(e) 0 
+ 
+Q43. Shopkeeper B sold only 30% of total white bread packets and 75% of total white bread 
+packets remains unsold of shopkeeper A, then find the total white bread packets shopkeeper A 
+had is what percentage of total white bread packets shopkeeper B had. 
+(a) 100% 
+(b) 50% 
+(c) 75% 
+(d) 0% 
+(e) 200% 
+ 
+Q44. Shopkeeper D have only two brands of bread (Harvest & Good day). 5/13th of the total sold 
+white bread packets and 6/19th of total sold brown bread packets are of Harvest brand, then find 
+the total number of good day brand of bread sold by D. 
+ 
+ 
+12 
+ 
+(a) 95 
+(b) 85 
+(c) 75 
+(d) 105 
+(e) 115 
+ 
+Q45. A and C sold 20% and 25% more bread packets on Tuesday as compare to previous day. If 
+the ratio of sold bread packets of white bread and brown bread are same as on Monday, then 
+find total number of white breads sold by A is what percentage more or less than that of by C on 
+Tuesday. 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q46. An amount is divided among Deepak, Shivam and Prashant. Amount received by Deepak is 
+Rs. 40 more than 40% of total amount and amount received by Shivam is Rs. 5 more than 25% 
+of total amount, while amount received by Prashant is 32% of total amount. Find the amount 
+received by Shivam. 
+(a) Rs.480 
+(b) Rs.640 
+(c) Rs.540 
+(d) Rs.450 
+(e) Rs.380 
+ 
+Q47. 14 men working together can complete a piece of work in 18 days while 21 women working 
+together can complete same work in 20 days. If a child is 20% less efficient than a man, then find 
+the time taken to complete the same work by 15 children working together. 
+(a) 28 days 
+(b) 21 days 
+(c) 24 days 
+(d) 20 days 
+(e) 18 days 
+ 
+Q48.  Length of a rectangular field is 200% of radius of a circular field, having circumference 264 
+meters. If area of rectangular field is 2016 meters square, then find radius of circular field is 
+what percent more than breadth of rectangular field? 
+(a) 75% 
+(b) 125% 
+(c) 50% 
+(d) 25% 
+(e) 87.5% 
+ 
+ 
+13 
+ 
+ 
+Q49. The average age of Tanya, Himanshi and Shukhdeep is 51 years. The ratio of present age of 
+Tanya to that of Himanshi is 5:8 and present age of Shukhdeep is six years more than that of 
+Himanshi. Find the age of Shukhdeep five years ago. 
+(a) 57 years 
+(b) 59 years 
+(c) 52 years 
+(d) 47 years 
+(e) 42 years 
+ 
+Q50. Train A which length is 20% more than that of train B crosses each other in 13.2 sec when 
+moving in opposite direction. Train A overtakes train B in 66 sec. Find the ratio of speed of train 
+A and speed of train B. 
+(a) 4: 5 
+(b) 3: 4 
+(c) 5: 7 
+(d) 3: 5 
+(e) 3: 2 
+ 
+Directions (51-55): What will come in the place of question (?) mark in following number series: 
+ 
+Q51. ?, 19, 15, 24, 8, 33 
+(a) 18 
+(b) 5 
+(c) 11 
+(d) 7 
+(e) 17 
+ 
+Q52. 72, 36, ?, 135, 472.5, 2126.25 
+(a) 90 
+(b) 101 
+(c) 54 
+(d) 68 
+(e) 72 
+ 
+Q53. 226, 101, 37, ?, 2, 1 
+(a) 30 
+(b) 8 
+(c) 15 
+(d) 25 
+(e)10 
+ 
+ 
+14 
+ 
+ 
+Q54. 101, ?, 145, 168, 197, 224 
+(a) 104 
+(b)120 
+(c) 125 
+(d) 132 
+(e) 116 
+ 
+Q55. 144, 155, 168, 185, 204, ? 
+(a) 229 
+(b) 231 
+(c) 268 
+(d) 227 
+(e) 245 
+ 
+Directions (56-60): In each of these questions, two equations (I) and (II) are given. You have to 
+solve both the equations and give answer  
+Q56. 
+ 
+(a) If x> y  
+(b) If x≥ y  
+(c) If x< y 
+(d) If x≤ y  
+(e) If x = y or no relation can be established between x and y. 
+ 
+Q57. 
+ 
+(a) If x> y  
+(b) If x≥ y  
+(c) If x< y 
+(d) If x≤ y  
+(e) If x = y or no relation can be established between x and y. 
+ 
+Q58. 
+ 
+(a) If x> y  
+(b) If x≥ y  
+(c) If x< y 
+(d) If x≤ y  
+(e) If x = y or no relation can be established between x and y. 
+ 
+ 
+15 
+ 
+ 
+Q59. 
+ 
+(a) If x> y  
+(b) If x≥ y  
+(c) If x< y 
+(d) If x≤ y  
+(e) If x = y or no relation can be established between x and y. 
+ 
+Q60. 
+ 
+(a) If x> y  
+(b) If x≥ y  
+(c) If x< y 
+(d) If x≤ y  
+(e) If x = y or no relation can be established between x and y. 
+ 
+Directions (61-65): The following pie chart gives information about the distribution of no. of 
+students in five government schools. Read the following pie chart carefully and answer the 
+following questions given below. 
+ 
+ 
+Q61. If 30% and 20% of students in school A and D are girls respectively then find how many 
+boys are present in the in the school A and D? 
+ 
+ 
+16 
+ 
+(a) 4150 
+(b) 2250 
+(c) 3150 
+(d) 4950 
+(e) 4880 
+ 
+Q62. Find the average of students studying in school A, D and E? 
+(a) 1050 
+(b) 2250 
+(c) 7890 
+(d) 3250 
+(e) 4525 
+ 
+Q63. If the fee of students studying in B, C and D is Rs 50, Rs 30 and Rs 40 respectively. Find the 
+total fee collection in these schools. 
+(a) 277500 
+(b) 378700 
+(c) 322322 
+(d) 250040 
+(e) 354700 
+ 
+Q64. Find the difference of students studying in A and D together and B and C together? 
+(a) 1000 
+(b) 2500 
+(c) 1500 
+(d) 9000 
+(e) 3460 
+ 
+Q65. Find the difference of student studying in A and the average number student studying in C 
+and D together? 
+(a) 550 
+(b) 400 
+(c) 2500 
+(d) 2250 
+(e) 1500 
+ 
+Directions (66-70): Study the following information carefully and answer the questions given 
+below: 
+There are ten persons i.e. A, B, C, D, E, F, G, H, I and J who live in a building having five floors such that 
+ground floor is numbered as 1 and above it is 2 and so on up to top floor numbered as 5. Each of the 
+floor consist of 2 flats as flat-1 and flat-2. Flat-1 of floor-2 is immediately above flat-1 of floor-1 and 
+immediately below flat-1 of floor-3 and the same way followed by flat-2.  Flat-2 is in east of flat-1.  
+F lives east to A. B lives above I in odd numbered floor. Two floors gap between B and J who lives in odd 
+numbered flat. D lives above G and both live in same numbered flat. As many floors are above A as below 
+of F.  One floor gap between floor of F and H, but flat number of both is different. E does not live on same 
+floor of D.  I lives on even numbered floor and even numbered flat. Two floors gap between floors of I 
+and C who lives in flat-1. 
+ 
+ 
+17

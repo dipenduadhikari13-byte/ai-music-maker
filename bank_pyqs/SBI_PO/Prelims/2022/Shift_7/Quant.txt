@@ -1,0 +1,389 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 7
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05021229/SBI-PO-Pre-2022-19th-Dec-Shift-Wise-Previous-Year-Paper-Mock-07.pdf
+======================================================================
+
+Q31. In an alloy ‘A’, zinc & copper is in the ratio of 1 : 1. In the second alloy ‘B’, the same elements 
+are in the ratio 3 : 5. If these two alloys mixed to form a new alloy in which zinc and copper is in 
+the ratio 2 : 3, find the ratio in which alloy ‘A’ and alloy ‘B’ are mixed? 
+(a) 2 : 3 
+(b) 3 : 2 
+(c) 1 : 4 
+(d) 4 : 1 
+(e) 3 : 1 
+ 
+Q32. A boat can row to a place 56 km away and come back in 22 hours. The time to row 21 km 
+with the stream is same as the time to row 12 km against the stream. Find the speed of boat in 
+still water? 
+(a) 1.5 kmph 
+(b) 3.5 kmph 
+(c) 5.5 kmph 
+(d) 7.5 kmph 
+(e) 6 kmph 
+ 
+Q33. Present age of Ram is three times of his son’s present age and two-third of his father’s 
+present age. At present, the average age of all of them is 34 years. What is the difference between 
+present age of Ram’s son and his father’s age? 
+(a) 36 yrs 
+(b) 42 yrs 
+(c) 48 yrs 
+(d) 54 yrs 
+(e) 52 yrs 
+ 
+Q34. Ritu and Priya invested in the ratio 7 : 8 in a business .They got an annual profit of Rs 34450. 
+If Ritu withdrew her entire amount at the end of 9 months. Then find the difference between 
+their share in profit? 
+(a) Rs 6400 
+(b) Rs 8180 
+(c) Rs 7150 
+(d) Rs 8400 
+(e) Rs 7560 
+ 
+ 
+10 
+ 
+ 
+Q35. A person covers 132 km distance in ‘t’ hours by travelling some distance by car and some 
+by train and speed of train is 20% more than Speed of car. If ratio of distance travelled by car 
+and train is 4 : 7 and car covers 48 km distance with 24 km/h speed in (t+0.5) hours ,then find  
+speed of train(approximately) ? 
+(a) 100km/h 
+(b) 94 km/h 
+(c) 80 km/h 
+(d) 110 km/h 
+(e) 120km/h 
+ 
+Q36. Karan invested a sum of money ‘P’ for two years in scheme A at 20% p.a. on compound 
+interest. The amount received at end of two years from scheme A, reinvested in scheme B for 4 
+years that offers 25% p.a. on simple interest. If total interest received from scheme B is Rs 16500 
+more than P, then find ‘P’? 
+(a) Rs 35500 
+(b) Rs 27500 
+(c) Rs 34500 
+(d) Rs 37500 
+(e) Rs. 32500 
+ 
+Q37. 𝐒𝟏 is a series of five consecutive multiples of 4 whose sum is 100. 𝐒𝟐 is a series of 4 
+consecutive even integers such that the second smallest number of 𝐒𝟐 is 6 less than largest 
+number of 𝐒𝟏. Find average of series 𝐒𝟐. 
+(a) 28 
+(b) 25 
+(c) 32 
+(d) 34 
+(e) 23 
+ 
+Q38. 20 men and 35 women can complete a piece of work in ‘y’ and ‘y – 3’ days respective while 
+15 men and 20 women can complete same piece of work in ‘x – 4’ and ‘x’ days respectively. If 
+each man are 60% more efficient than each woman, then find difference between x and y. 
+(a) 11 
+(b) 21 
+(c) 14 
+(d) 12 
+(e) 15 
+ 
+Q39. The area of rectangular field of length 90 m and breadth 80 m is equal to the area of a square 
+plot. What will be the length of the diagonal of the square plot? 
+(a) 120 m 
+(b) 100 m 
+(c) 90 m 
+(d) 105 m 
+(e) 110 m 
+ 
+ 
+11 
+ 
+ 
+Q40.Train ‘A’ takes 2 hours more than train ‘B’ to cover certain distance ‘X’ while train ‘A’ can 
+cover (X + 160) is 8 hours. If speed of train ‘B’ is 1.5 times of speed of train ‘A’, then find the speed 
+of train ‘B’. 
+(a) 80 km/hr 
+(b) 120 km/hr 
+(c) 16 km/hr 
+(d) 40 km/hr 
+(e) 60 km/hr 
+ 
+Q41. Average salary of Santosh and Renu is Rs 3600. If salary of Santosh and Renu is increased 
+by 50% and 30% respectively, then their total salary is increased by 35%. Find salary of Renu is 
+what percent more or less than salary of Santosh before increment? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Directions (42-46) : In each question two equations numbered (I) and (II) are given. You have to 
+solve both the equations and mark appropriate answer.  
+ 
+Q42. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q43. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+ 
+12 
+ 
+ 
+Q44. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q45. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q46.  
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Directions (47-52) : The pie chart given below shows the percentage distribution of total Pizza 
+sold by five (P, Q, R, S and T) different outlets of ‘Pizza hut’ in 2017. Study the pie chart given 
+below and answer the following questions. 
+ 
+ 
+ 
+13 
+ 
+Note: I- Total Pizza sold by these five outlets in 2018 is 40% more than total Pizza sold by these five 
+outlets in 2017. 
+II -Percentage distribution of total Pizza sold by these five outlets in 2018 is same as that of in 2017.  
+ 
+Q47. If total Pizza sold by P in 2017 are 1800 less than total Pizza sold by R in 2018, then find 
+total Pizza sold by P and Q together in 2018.  
+(a) 28000 
+(b) 32000 
+(c) 26000 
+(d) 30000 
+(e) 34000 
+ 
+Q48.  Total Pizza sold by S and T together in 2018 are what percent (Approx.) more or less than 
+total Pizza sold by Q and R together in 2017? 
+(a) 41% 
+(b) 45% 
+(c) 46% 
+(d) 43% 
+(e) 48% 
+ 
+Q49. If total Pizza sold by P in 2018 are 5400 more than total Pizza sold by R in 2017 and selling 
+price of each Pizza of Q in 2018 is Rs.40, then find the total revenue of Q in 2018. 
+(a) Rs.150000 
+(b) Rs.156000 
+(c) Rs.168000 
+(d) Rs.174000 
+(e) Rs.162000 
+ 
+Q50. Find ratio of average number of Pizza sold by R, S and T in 2017 to total Pizza sold by P and 
+Q together in 2018. 
+(a) 9 : 11 
+(b) 11 : 9 
+(c) 5 : 14 
+(d) 14 : 5 
+(e) None of the above. 
+ 
+Q51. Total Pizza sold by P, R and S together in 2018 are what percent of total Pizza sold by P and 
+Q together in 2017? 
+(a) 265% 
+(b) 275% 
+(c) 255% 
+(d) 245% 
+(e) 285% 
+ 
+ 
+14 
+ 
+ 
+Q52. In 2018, total pizzas sold by shop T to males and females are in the ratio 4:3 respectively. If 
+the difference between total pizzas sold by shop T to males and females is 12, then find the 
+number of pizzaz sold by Q in 2017. 
+(a) 26 
+(b) 27 
+(c) 25 
+(d) 24 
+(e) 30 
+ 
+Directions (53-55) : Read the following data carefully and answer the following  question. 
+There are 210 persons in a party, and all of them eat three different types of flavoured icecreams. 40 
+people eat only butterscotch, 30 people eat all three flavoured icecream,there are total 130 people who 
+eat butterscotch and 100 people who eat vanila. 40 people eat butterscotch and vanila only, 10 people 
+eat chocolate and vanila only.  
+ 
+Q53. What is number of people who eat only Chocolate? 
+(a) 50 
+(b) 40 
+(c) 30 
+(d) 60 
+(e) 70 
+ 
+Q54. People eating chocolate and butterscotch only are what percent of people eating only 
+butterscotch? 
+(a) 50% 
+(b) 60% 
+(c) 25% 
+(d) 30% 
+(e) 40% 
+ 
+Q55.Number of people eating only vanilla is how much less than the people eating all three types 
+of ice-creams? 
+(a) 15 
+(b) 20 
+(c) 30 
+(d) 10 
+(e) 25 
+ 
+Directions (56-60) : Read the bar graph carefully and answer the following questions. 
+The bar graph given below shows the no. of employees working from Office and percentage of 
+employees working from home out of total employee in five different companies.  
+Number of employees working in any company = Employees working from Office + Employees working 
+from Home 
+ 
+ 
+15 
+ 
+ 
+ 
+Q56. Number of employee who are working from Home in company B and D together are what 
+percentage more/less than number of employees working from Office in company C. 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q57. Find the average number of employees working from Home in company A, C and D. 
+(a) 165 
+(b) 175 
+(c) 185 
+(d) 195 
+(e) 205 
+ 
+Q58. Total employee working in company A is what percentage of employee working in company 
+B. 
+(a) 93.75% 
+(b) 82.5% 
+(c) 72.25% 
+(d) 97.25% 
+(e) 87.75% 
+ 
+Q59. Number of employees working in company X are 40% more than that in company D. Find 
+the difference between number of employees working from Home and employees working from 
+Office in company X, if ratio of employee working from home to that from office in company X is 
+11: 17. 
+ 
+ 
+16 
+ 
+(a) 144 
+(b) 118 
+(c) 136 
+(d) 126 
+(e) 112 
+ 
+Q60. Find the ratio of number of employees working from Home in company E to that in company 
+C. 
+(a) 8: 5 
+(b) 10: 1 
+(c) 3: 5 
+(d) 15: 8 
+(e) 1: 12 
+ 
+Directions (61-65) : Find the wrong number in following number series. 
+ 
+Q61. 5 , 43 , 70 , 88 , 99 , 104,  108 
+(a) 104 
+(b) 5  
+(c) 99 
+(d) 70 
+(e) 88 
+ 
+Q62. 4 , 9 , 18 , 35 , 69 , 139,    277 
+(a) 4 
+(b) 9 
+(c) 18 
+(d) 35 
+(e) 69 
+ 
+Q63.  5 , 7 , 17 , 47 , 115 , 235,   467 
+(a) 5 
+(b) 7 
+(c) 17 
+(d) 235 
+(e) 115 
+ 
+Q64. 12 , 72 , 360 , 1440 , 4330 , 8640,   8640 
+(a) 12 
+(b) 72 
+(c) 360 
+(d) 1440 
+(e) 4330 
+ 
+ 
+17 
+ 
+ 
+Q65. 17 , 22 , 32,  47 , 67,   93,    122 
+(a) 93 
+(b) 22 
+(c) 32 
+(d) 17 
+(e) 67

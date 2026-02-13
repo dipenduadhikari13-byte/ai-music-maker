@@ -1,0 +1,558 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2025
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/08/25195423/IBPS-PO-Pre-2025-Memory-Based-Paper-24-Aug-2025-1st-shift-Formatted-file.pdf
+======================================================================
+
+Q31. How many persons sit between P and the one who 
+sits opposite to X? 
+(a) Two 
+(b) Three 
+(c) Four 
+(d) One 
+(e) More than four 
+ 
+Q32. Which of the following pair of persons sit at 
+extreme ends? 
+(a) W, M 
+(b) J, U 
+(c) L, P 
+(d) J, R 
+(e) None of these 
+ 
+Directions (33-35): In each question below some 
+statements are given followed by two conclusions 
+numbered I and II. You have to take the given statements 
+to be true even if they seem to be at variance with 
+commonly known facts. Read all the conclusions and 
+then decide which of the given conclusions logically 
+follows from the given statements, disregarding 
+commonly known facts. Give answer- 
+ 
+ 
+ 
+4 
+    www.sscadda.com                                         |                               Adda247 App  
+ 
+Q33. Statements: Only a few retro is power 
+Some power is fight 
+No fight is risky 
+Conclusions: 
+I. Some retro being fight is a possibility 
+II. No power is risky 
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+Q34. Statements: Only a few grey is work 
+All work is good 
+No good is food 
+Conclusions: 
+I. All work being food is a possibility 
+II. No grey is food 
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+Q35. Statements: Some regulate is order 
+All order is declare 
+Some declare is segment 
+Conclusions: 
+I. Some regulate is declare 
+II. No order is segment 
+pmarks: 0.9, nmarks: 0.225 
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+Directions (36-40): Rearrange the following sentences 
+to form a meaningful paragraph. 
+(A) Despite the rumours, Aragon is still widely used in 
+crypto and DeFi circles. 
+(B) Many suspected FBI control because the app’s design 
+matched known surveillance tools. 
+(C) Moreover, a leaked report tied Aragon’s code to a 
+government project in America. 
+(D) Aragon was promoted as a secure, independent 
+platform for encrypted chats. 
+(E) Developers denied all claims of FBI involvement or links 
+to any U.S. project. 
+(F) The chatting app Aragon became a hit in cryptocurrency 
+communities for its privacy features. 
+ 
+Q36. Which of the following is the FIRST sentence after the 
+rearrangement? 
+(a) A 
+(b) F 
+(c) C 
+(d) D 
+(e) E 
+ 
+Q37. Which of the following is the SECOND sentence after 
+the rearrangement? 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Q38. Which of the following is the THIRD sentence after the 
+rearrangement? 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Q39. Which of the following is the FOURTH sentence after 
+the rearrangement? 
+(a) F 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Q40. Which of the following is the FIFTH sentence after the 
+rearrangement? 
+(a) A 
+(b) B 
+(c) F 
+(d) D 
+(e) E 
+ 
+Q41. Identify the sentence that is grammatically 
+incorrect. 
+(a) She has already finished the assignment ahead of 
+schedule. 
+(b) Neither the manager nor the employees were at the 
+meeting. 
+(c) I have lived in this neighborhood since five years. 
+(d) We are planning a surprise party for her birthday 
+tonight. 
+(e) All are correct 
+ 
+Q42. Identify the sentence that is grammatically 
+incorrect. 
+(a) Each of the players have signed the registration form. 
+(b) He enjoys listening to classical music in the evenings. 
+(c) We have been waiting for the bus for over an hour. 
+(d) My sister and I are going hiking this weekend. 
+(e) All are incorrect 
+ 
+Q43. In the following question, a sentence with a blank 
+is given. Choose the most appropriate word to fill the 
+given blank to make the sentence grammatically correct 
+and meaningful. 
+The witness gave a/an __________ account of the events during 
+the trial which led to the verdict. 
+(a) cleared 
+(b) fictional 
+(c) vivid 
+(d) deceptive 
+(e) honestly 
+ 
+ 
+ 
+5 
+    www.sscadda.com                                         |                               Adda247 App  
+ 
+Q44. In the following question, a sentence with a blank 
+is given. Choose the most appropriate word to fill the 
+given blank to make the sentence grammatically correct 
+and meaningful. 
+The teacher was impressed by the student’s __________ to 
+improve. 
+(a) resistance 
+(b) determination 
+(c) refusal 
+(d) wise 
+(e) responsive 
+ 
+Q45. In the question below four words are given in bold. 
+These four words are may not be in their correct 
+position. The sentence is then followed by options with 
+the correct combination of words that should replace 
+each other in order to make the sentence grammatically 
+and contextually correct. Find the correct combination 
+of the words that replace each other. 
+The committee postpone (A) to decided (B) the annual 
+meeting because several key members (C) were unable 
+(D) to attend on time. 
+(a) B-C & A-D 
+(b) A-B 
+(c) C-D 
+(d) A-C & B-D 
+(e) No interchange required 
+ 
+Q46. In the question below four words are given in bold. 
+These four words are may not be in their correct 
+position. The sentence is then followed by options with 
+the correct combination of words that should replace 
+each other in order to make the sentence grammatically 
+and contextually correct. Find the correct combination 
+of the words that replace each other. 
+Despite facing multiple obstacles (A), the young 
+entrepreneur expanding (B) her determination (C) and 
+eventually succeeded in maintained (D)  her small 
+business. 
+(a) B-C & A-D 
+(b) A-C 
+(c) B-D 
+(d) A-C & B-D 
+(e) No interchange required 
+ 
+Q47. Match the parts of sentences given in Column I and 
+Column II to form meaningful and grammatically 
+correct complete sentences. Choose the option that 
+contains all the correct combinations. 
+ 
+COLUMN I 
+COLUMN II 
+A. Social media platforms 
+must 
+implement 
+stricter 
+policies to curb 
+D. 
+farmers 
+adopting 
+sustainable 
+agricultural 
+practices 
+B. The education system 
+needs reforms 
+E. to reduce dependence 
+on fossil fuels and cut 
+emissions 
+C. 
+The 
+government 
+announced new subsidies to 
+support 
+F. 
+problem-solving 
+in 
+industries like healthcare 
+and finance 
+(a) None of these 
+(b) B-F 
+(c) C-D 
+(d) A-E, B-F 
+(e) A-F, C-D, B-E 
+ 
+Q48. Match the parts of sentences given in Column I and 
+Column II to form meaningful and grammatically 
+correct complete sentences. Choose the option that 
+contains all the correct combinations. 
+ 
+COLUMN I 
+COLUMN II 
+A. Advances in artificial 
+intelligence are enabling 
+machines 
+D. controlling inflation and 
+stabilize the economy. 
+B. Several countries are 
+investing 
+heavily 
+in 
+renewable energy 
+E. forced farmers to migrate 
+to nearby cities in search of 
+work 
+C. 
+The 
+government 
+launched a new digital 
+literacy campaign 
+F. to learn and adapt 
+without 
+explicit 
+programming 
+(a) None of these 
+(b) A-F 
+(c) B-D 
+(d) A-E, B-F 
+(e) A-F, B-D, C-E 
+ 
+Q49. Identify the sentence that is grammatically correct. 
+(a) She don’t like walking in the rain every morning. 
+(b) They has been working on the project since last week. 
+(c) He go to the gym before work on weekdays. 
+(d) I was late because the bus arrived very slowly. 
+(e) All are incorrect 
+ 
+Q50. Identify the sentence that is grammatically correct. 
+(a) I seen him at the store just yesterday afternoon. 
+(b) He don’t have enough experience for this senior role. 
+(c) The cat sleeps peacefully in the sun every afternoon. 
+(d) Everyone in the team are excited for the trip. 
+(e) All are incorrect 
+ 
+Q51. A sentence is given below with a highlighted word 
+that may be incorrect. From the given options, choose 
+the word that can best replace the highlighted word to 
+make the sentence correct. 
+After months of practice and dedication, the athlete finally 
+achieved his dream of winning the national championship. 
+(a) gain 
+(b) procured 
+(c) shifted 
+(d) moved 
+(e) No replacement required 
+ 
+ 
+ 
+6 
+    www.sscadda.com                                         |                               Adda247 App  
+ 
+Q52. In the following question, a sentence with a blank 
+is given. Choose the most appropriate word to fill the 
+given blank to make the sentence grammatically correct 
+and meaningful. 
+The manager’s __________ response to the complaint irritated 
+the already angry customer. 
+(a) indifferent 
+(b) strong 
+(c) prompt 
+(d) detailed 
+(e) emotional 
+ 
+Q53. In the question below four words are given in bold. 
+These four words are may not be in their correct 
+position. The sentence is then followed by options with 
+the correct combination of words that should replace 
+each other in order to make the sentence grammatically 
+and contextually correct. Find the correct combination 
+of the words that replace each other. 
+The teacher participate (A) the students to encouraged 
+(B) actively in the discussion (C), ensuring everyone had an 
+equal opportunity (D) to speak. 
+(a) B-C & A-D 
+(b) A-B 
+(c) C-D 
+(d) A-C & B-D 
+(e) No interchange required 
+ 
+Q54. In the question below four words are given in bold. 
+These four words are may not be in their correct 
+position. The sentence is then followed by options with 
+the correct combination of words that should replace 
+each other in order to make the sentence grammatically 
+and contextually correct. Find the correct combination 
+of the words that replace each other. 
+The project required (A) a detailed (B) analysis of 
+financial data, followed by a clear presentation (C) of 
+strategies to improve profitability (D). 
+(a) B-C & A-D 
+(b) B-C 
+(c) C-D 
+(d) A-B 
+(e) No interchange required 
+ 
+Q55. A sentence is given below with a highlighted word 
+that may be incorrect. From the given options, choose 
+the word that can best replace the highlighted word to 
+make the sentence correct. 
+The fragile storm forced travelers to take shelter in nearby 
+lodges until the weather conditions improved significantly. 
+(a) mild 
+(b) forecast 
+(c) conditioned 
+(d) unexpected 
+(e) No replacement required 
+ 
+Q56. A sentence is given below with a highlighted word 
+that may be incorrect. From the given options, choose 
+the word that can best replace the highlighted word to 
+make the sentence correct. 
+The farmer worked tirelessly from dawn to dusk, ensuring 
+the crops received adequate care from the growing season. 
+(a) throughout 
+(b) under 
+(c) through 
+(d) of 
+(e) No replacement required 
+ 
+Q57. Match the parts of sentences given in Column I and 
+Column II to form meaningful and grammatically 
+correct complete sentences. Choose the option that 
+contains all the correct combinations. 
+ 
+COLUMN I 
+COLUMN II 
+A. The company invested in 
+D. regulate the functioning 
+of digital payment systems 
+B. The discovery of new 
+exoplanets has encouraged 
+astronomers 
+E. to explore the possibility 
+of life beyond Earth 
+C. The finance ministry 
+introduced stricter 
+F. to monitor deforestation 
+and climate changes 
+(a) None of these 
+(b) A-F 
+(c) C-D 
+(d) B-E 
+(e) A-F, B-D, C-E 
+ 
+Directions (58-65): Read the following passage and 
+answer the given questions. Certain words are 
+highlighted to answer some of the questions. 
+Language is more than just a tool for communication; it is 
+also a gateway to sharper thinking and wider opportunities. 
+Over the years, researchers have highlighted the benefits of 
+bilingualism as compared to monolingualism. While a 
+monolingual person relies on a single language, a bilingual 
+or multilingual individual manages two or more languages 
+with ease, which significantly boosts cognitive abilities. 
+In 2019, a study was conducted that revealed remarkable 
+findings. It was discovered that individuals who were 
+bilingual demonstrated better calculation speed and higher 
+intelligence levels than their monolingual counterparts. 
+This research confirmed what many educators had long 
+believed: bilingualism provides mental agility that 
+monolingualism simply cannot. The ability to switch 
+between languages seems ______________ with the additional 
+skill of switching between tasks more efficiently. Later, 
+further investigations reinforced this conclusion, pointing 
+out that bilinguals are exceptional in solving problems and 
+making quicker decisions. 
+The advantages of bilingualism also extend to the 
+professional world. In regions where poverty and limited 
+resources 
+prevail, 
+bilingual 
+workers 
+show 
+greater 
+adaptability. They can handle diverse work areas where 
+communication across cultures is essential. In such settings, 
+monolinguals often face a decline in effectiveness, while 
+bilinguals continue to thrive by bridging language barriers 
+and creating smoother interactions. 
+ 
+ 
+7 
+    www.sscadda.com                                         |                               Adda247 App  
+ 
+Children provide another fascinating example. Kids who 
+grow up in foreign countries, especially those under the age 
+of six, are more likely to develop bilingualism naturally. For 
+instance, children of diplomats often pick up more than one 
+language early in life. These children not only master new 
+languages with surprising ease but also perform 
+outstandingly in academic and social spheres. Their 
+bilingual upbringing grants them a mental flexibility that 
+gives them an edge over monolingual peers. 
+Thus, the benefits of bilingualism are far-reaching. From 
+improved intelligence and quicker problem-solving skills to 
+broader job opportunities and cultural adaptability, 
+bilinguals enjoy advantages that monolinguals do not. In a 
+globalized world where cross-cultural understanding is 
+vital, being bilingual or multilingual is not just an added 
+skill—it is a necessity for success. 
+ 
+Q58. According to the passage, what is the main advantage 
+of being bilingual in low-resource professional settings? 
+(a) Bilinguals demand lower salaries, making them easier to 
+hire in poor regions. 
+(b) Bilinguals can work longer hours without facing 
+language-related fatigue. 
+(c) Bilinguals improve communication and adapt better in 
+cross-cultural work environments. 
+(d) Bilinguals receive more government support in 
+multilingual workplaces. 
+(e) Bilinguals avoid jobs that require technical or 
+specialized training. 
+ 
+Q59. Which of the following statement(s) is/are incorrect 
+as per the passage? 
+(I) Bilingualism restricts mental flexibility and slows task-
+switching. 
+(II) Bilingual professionals struggle more in cross-cultural 
+work environments. 
+(III) Diplomatic children show poor fluency in new 
+languages due to relocation stress. 
+(a) Only I 
+(b) Both I and III 
+(c) Only II 
+(d) II and III 
+(e) All I, II, and III 
+ 
+Q60. Which of the following statement(s) is/are correct 
+according to the passage? 
+(I) Bilingual individuals switch tasks more efficiently due to 
+enhanced mental control. 
+(II) Diplomatic children easily acquire multiple languages 
+through early exposure. 
+(III) Bilingualism leads to increased emotional sensitivity 
+and empathetic behavior. 
+(a) Only I 
+(b) Both I and II 
+(c) Only III 
+(d) II and III 
+(e) All I, II, and III 
+ 
+Q61. What does the 2019 study mentioned in the passage 
+show? 
+(a) Bilinguals read faster but calculate more slowly. 
+(b) Monolinguals perform better in creative tasks. 
+(c) Bilinguals have better calculation speed and intelligence. 
+(d) Bilingualism has no measurable cognitive effect. 
+(e) Bilingualism reduces attention span in adults. 
+ 
+Q62. Choose the best word/phrase to fill the given blank. 
+(a) to function 
+(b) to come 
+(c) to results 
+(d) happens 
+(e) including 
+ 
+Q63. Choose the word that is most opposite in meaning to 
+“later” as used in the passage. 
+(a) When 
+(b) Eventually 
+(c) Prior 
+(d) Upcoming 
+(e) Gradually 
+ 
+Q64. Choose the word that is closest in meaning to 
+“decline” as used in the passage: 
+(a) Deteriorate 
+(b) Rejection 
+(c) Downsizing 
+(d) Support 
+(e) Progress 
+ 
+Q65. Choose the word that is closest in meaning to 
+“benefits” as used in the passage: 
+(a) Advantages 
+(b) Drawbacks 
+(c) Gains 
+(d) More 
+(e) Conflicts 
+ 
+Directions (66-70): Read the following bar graph 
+carefully and answer the questions given below. The bar 
+graph shows the total candidates registered and the 
+total candidates who participated in an activity from 
+four different cities. 
+ 
+ 
+ 
+ 
+8 
+    www.sscadda.com                                         |                               Adda247 App

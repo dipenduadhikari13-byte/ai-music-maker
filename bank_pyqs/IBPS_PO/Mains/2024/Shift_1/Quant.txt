@@ -1,0 +1,360 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2024
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/06/17165836/IBPS-PO-Mains-2024-Memory-Based-Paper-1st-shift.pdf
+======================================================================
+
+Q36. How many alphabets are either immediately followed or immediately preceded by a prime number in 
+Step I? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None 
+ 
+Directions (37-40): Read the given information carefully and answer the questions based on it: 
+Four machines (A, B, C, and D) are arranged in a production line to manufacture a specific product. Each machine 
+has distinct operational rules and performs a different function in the manufacturing process. 
+The factory works from 9:00 AM to 5:00 PM every day, and each product must pass through the machines in a specific 
+order to be completed. Each machine has a fixed processing time per product, but machines cannot process more 
+than one product at a time.  
+ 
+Here is the information about the machines: 
+Machine A: Takes 10 minutes to process a product. The products enter at 7-minute intervals starting at 9:00 AM. 
+Machine B: Takes 15 minutes to process a product. 
+It starts working only if Machine A has completed its task and sends the product forward. 
+Machine C: Takes 20 minutes to process a product. 
+It requires a 5-minute cooldown period before processing the next product. 
+ 
+ 
+11 
+ 
+Machine D: Takes 12 minutes to process a product. 
+It can only start processing a product if it receives it before or exactly on the half-hour mark. Otherwise, the product 
+must wait until the next half-hour mark. 
+The factory stops accepting new products for processing at 4:00 PM. 
+ 
+Q37. Find the total number of products fully manufactured by 5:00 PM? 
+(a) 38 
+(b) 39 
+(c) 37 
+(d) 40 
+(e) None of these 
+ 
+Q38. What are the number of products entering machine A? 
+(a) 59 
+(b) 53 
+(c) 60 
+(d) 61 
+(e) None of these 
+ 
+Q39. Find the exact time the last product completes processing in Machine D. 
+(a) 4:55 PM 
+(b) 4:57 PM 
+(c) 4:48 PM 
+(d) 5:00 PM 
+(e) None of the above 
+ 
+Q40. At what time does the 6th product finish processing in Machine B? 
+(a) 9:45 AM 
+(b) 9:48 AM 
+(c) 9:50 AM 
+(d) 9:56 AM 
+(e) None of these 
+ 
+Directions (41-42): Study the following information carefully and answer the questions given below: 
+ 
+Nine persons – A, B, C, D, E, F, G, H and I – sit in two different cars: Car 1 and Car 2. The maximum number of persons 
+sitting in a car is 5, and the minimum number of persons sitting in a car is 3. All the information is not necessarily in 
+the same order. 
+Note: The letters that come immediately before a vowel in the English alphabet do not sit in the same car. 
+A doesn’t sit in the same car as E. G doesn’t sit in the same car as H. E sits in the same car as C. B doesn’t sit in the 
+same car as I. F doesn’t sit in the same car as I. I doesn’t sit in the same car as G. F doesn’t sit in Car 2. A doesn’t sit in 
+the same car as H who doesn’t sit in car 1. 
+ 
+ 
+ 
+12 
+ 
+Q41. Who among the following person sit in Car 2? 
+(a) D 
+(b) G 
+(c) H 
+(d) F 
+(e) None of these 
+ 
+Q42. Four of the following five are alike in a certain way and so form a group. Find the one which does not 
+belong to that group? 
+(a) A 
+(b) G 
+(c) F 
+(d) B 
+(e) C 
+ 
+Directions (43-45): Study the following information carefully and answer the given questions. 
+In a certain coded language: 
+M@6N means M is 4m north of N. 
+M%9N means M is 6m south of N. 
+M#4N means M is 2m east of N. 
+M$5N means M is 2m west of N.  
+ 
+Conditions: A%8B, C$12B, Z#17D, E$19F, C%11E, Z@9F, G%4D, A$7R, R%14W 
+ 
+Q43. What is the direction of point W with respect to point F? 
+(a) South-west 
+(b) South-east 
+(c) North-east 
+(d) North-west 
+(e) None of these 
+ 
+Q44. If G#4S then what is the total distance between Point S and Point B? 
+(a) 47m 
+(b) 57m 
+(c) 48m 
+(d) 58m 
+(e) 60m 
+ 
+Q45. What is the shortest distance between Point W and Point C and Point W is in which direction with 
+respect to Point E? 
+(a) 2√59m, South-east 
+(b) 2√58m, South-east 
+(c) 3√59m, South-west 
+(d) 58m, South 
+(e) None of these 
+ 
+ 
+ 
+13 
+ 
+Q46. In September 2024, India’s first Vande Bharat Sleeper trainset, which was flagged off by the Railway 
+Minister Ashwini Vaishnaw at Bangalore rail complex, was indigenously designed and manufactured by 
+which of the following leading Indian rail and metro manufacturers? 
+(a) Indian Railways 
+(b) Bharat Electronics Limited (BEL) 
+(c) Bharat Earth Movers Limited (BEML) 
+(d) Hindustan Aeronautics Limited (HAL) 
+(e) Tata Advanced Systems  
+ 
+Q47. According to the National Strategy for Financial Inclusion (NSFI) report released by the Reserve Bank 
+of India (RBI), what is the radius distance within which banking access should be provided to every village 
+in hilly areas with 500 households? 
+(a) 3 kilometers 
+(b) 4 kilometers 
+(c) 6 kilometers 
+(d) 5 kilometers 
+(e) 10 kilometers  
+ 
+Q48. As per the revised norms by the RBI, the ceiling on the quantum of public deposits held by deposit-
+taking Housing Finance Companies (HFCs) has been reduced from 3 times of net owned funds to what revised 
+limit? 
+(a) 1.0 times 
+(b) 1.25 times 
+(c) 0.5 times 
+(d) 2.0 times 
+(e) 1.5 times  
+ 
+Q49. The National Centre for Financial Education (NCFE) is a Section 8 (Not-for-Profit) Company promoted 
+by all of the following financial sector regulators except: 
+(a) Reserve Bank of India (RBI) 
+(b) Securities and Exchange Board of India (SEBI) 
+(c) Insurance Regulatory and Development Authority of India (IRDAI) 
+(d) Pension Fund Regulatory and Development Authority (PFRDA) 
+(e) National Bank for Agriculture and Rural Development (NABARD)  
+ 
+Q50. As of July 2024, the Indian Railways has made significant progress in implementing the Kavach system, 
+which involves various activities to enhance train safety. According to the latest update, on how many Route 
+kilometers has the Kavach system been successfully deployed? 
+(a) 1,220 Route km 
+(b) 1,465 Route km 
+(c) 1,750 Route km 
+(d) 1,305 Route km 
+(e) 1,511 Route km  
+ 
+ 
+ 
+14 
+ 
+Q51. As of March 2024, what was the Gross Merchandise Value (GMV) achieved by the Government e-
+Marketplace (GeM) during the financial year 2023-24 (FY24), reflecting a significant surge in public 
+procurement? 
+(a) ₹2.01 Lakh Crore 
+(b) ₹3.5 Lakh Crore 
+(c) ₹4 Lakh Crore 
+(d) ₹4.5 Lakh Crore 
+(e) ₹1.97 Lakh Crore  
+ 
+Q52. As per the Reserve Bank of India's (RBI) four-tiered regulatory framework for Urban Cooperative 
+Banks (UCBs), what are the minimum Capital Adequacy Ratio (CAR) requirements for Tier-1 UCBs and Tier 
+2–4 UCBs, respectively? 
+(a) 8% for Tier-1 and 10% for Tier 2–4 
+(b) 9% for Tier-1 and 12% for Tier 2–4 
+(c) 10% for Tier-1 and 11% for Tier 2–4 
+(d) 9% for Tier-1 and 10% for Tier 2–4 
+(e) 10% for Tier-1 and 13% for Tier 2–4  
+ 
+Q53. In July 2024, Meta announced the release of Llama 3.1, which is claimed to be the "world's largest and 
+most capable openly available foundation model." How many parameters does the most capable version of 
+Llama 3.1 have? 
+(a) 700 billion 
+(b) 100 billion 
+(c) 405 billion 
+(d) 200 billion 
+(e) 8 billion  
+ 
+Q54. As of October 2024, the Securities and Exchange Board of India (SEBI) raised the position limit for 
+trading members in index futures and options contracts to what amount, or 15% of the total open interest, 
+whichever is higher? 
+(a) ₹5,700 crore 
+(b) ₹6,500 crore 
+(c) ₹7,100 crore 
+(d) ₹8,200 crore 
+(e) ₹7,500 crore  
+ 
+Q55. As per the Reserve Bank of India (RBI) regulations, what is the minimum Net Owned Fund (NOF) 
+requirement for a Non-Banking Financial Company (NBFC) in India to ensure financial stability and 
+customer protection? 
+(a) ₹5 crore 
+(b) ₹8 crore 
+(c) ₹12 crore 
+(d) ₹10 crore 
+(e) ₹15 crore  
+ 
+ 
+ 
+15 
+ 
+Q56. The government recently extended the benefits under the Remission of Duties and Taxes on Exported 
+Products (RoDTEP) scheme for exports made from domestic tariff area (DTA) units. Till which date has the 
+scheme been extended? 
+(a) September 30, 2025 
+(b) June 30, 2025 
+(c) March 31, 2025   
+(d) December 31, 2025 
+(e) January 31, 2026  
+ 
+Q57. The 80th anniversary of the D-Day landings was marked on June 6, 2024, with veterans and world 
+leaders gathering in Normandy, which is located in ___________? 
+(a) Belgium 
+(b) Germany 
+(c) United Kingdom 
+(d) France 
+(e) Italy  
+ 
+Q58. As of January 2024, which country has remained on the FATF's black list (high-risk jurisdictions) since 
+February 2020, with no material changes reported in its action plan? 
+(a) Iran 
+(b) Afghanistan 
+(c) North Korea 
+(d) Syria 
+(e) Myanmar  
+ 
+Q59. As of December 2023, which two states are among the top contributors to India's registered micro, 
+small, and medium enterprises (MSMEs), collectively contributing nearly 40 per cent along with Uttar 
+Pradesh? 
+(a) Karnataka and Gujarat 
+(b) Maharashtra and Tamil Nadu 
+(c) West Bengal and Rajasthan 
+(d) Andhra Pradesh and Telangana 
+(e) Punjab and Haryana  
+ 
+Q60. In November 2024, India signed a Memorandum of 
+Implementation (MoI) for the co-development of the UNICORN mast, a 
+stealth-enhancing conical structure for naval warships, with which of 
+the following countries? 
+(a) South Korea 
+(b) United States 
+(c) Japan 
+(d) Russia 
+(e) France  
+ 
+ 
+ 
+16 
+ 
+Q61. As per the Finance Ministry's statement, what was the net profit of Public Sector Banks (PSBs) during 
+the April-September period of the current fiscal year, showing a growth of 25.6% year-on-year? 
+(a) ₹65,000 crore 
+(b) ₹75,000 crore 
+(c) ₹95,000 crore 
+(d) ₹85,000 crore 
+(e) ₹1,05,000 crore  
+ 
+Q62. The Reserve Bank of India (RBI), through its Payments Vision 2025 document, has laid out five key 
+anchor points to guide the development of India’s payment systems. Which among the following is not listed 
+as one of these anchor points? 
+(a) Integrity 
+(b) Innovation 
+(c) Institutionalisation 
+(d) Infrastructure 
+(e) Internationalisation  
+ 
+Q63. What is the primary objective of the "Guidelines for Prevention and Regulation of Greenwashing or 
+Misleading Environmental Claims, 2024," issued by the Central Consumer Protection Authority (CCPA)? 
+(a) To promote the use of environmentally friendly products in industries. 
+(b) To prevent false or exaggerated environmental claims. 
+(c) To incentivize manufacturers for producing green products. 
+(d) To set mandatory emission reduction targets for businesses. 
+(e) To create a ranking system for green-certified companies.  
+ 
+Q64. What is the name of the Special Purpose Vehicle (SPV) responsible for implementing the BharatNet 
+project, one of the largest rural telecom initiatives in the world? 
+(a) Bharat Telecom Limited 
+(b) Bharat Broadband Network Limited 
+(c) Digital India Network Limited 
+(d) Rural Connectivity Network Limited 
+(e) National Telecom Corporation  
+ 
+Q65. As per the 2024 Global Nature Conservation Index (NCI), India ranked 176th out of 180 countries. 
+Among the following, which country is not listed among the top 5 performing countries in the index? 
+(a) Luxembourg 
+(b) Estonia 
+(c) Finland 
+(d) United States 
+(e) Denmark 
+ 
+Q66. What are the revised transaction limits for UPI 123Pay and UPI Lite as per the latest guidelines issued 
+by the Reserve Bank of India (RBI)? 
+ 
+ 
+17 
+ 
+(a) ₹10,000 for UPI 123Pay and ₹5,000 for UPI Lite 
+(b) ₹5,000 for UPI 123Pay and ₹10,000 for UPI Lite 
+(c) ₹10,000 for both UPI 123Pay and UPI Lite 
+(d) ₹5,000 for UPI 123Pay and ₹2,000 for UPI Lite 
+(e) ₹7,500 for UPI 123Pay and ₹3,000 for UPI Lite  
+ 
+Q67. Why did the Reserve Bank of India (RBI) impose business restrictions on four non-banking finance 
+companies (NBFCs), including Asirvad Micro Finance Ltd and Navi Finserv Ltd (in October 2024)? 
+(a) Non-compliance with loan recovery practices 
+(b) High levels of non-performing assets (NPAs) 
+(c) Excessive interest rates and pricing policy violations 
+(d) Failure to maintain adequate capital reserves 
+(e) Violation of anti-money laundering guidelines  
+ 
+Q68. What is the minimum regulatory Common Equity Tier 1 (CET1) capital ratio that banks in India must 
+maintain, as per RBI guidelines? 
+(a) 4.5% 
+(b) 5.0% 
+(c) 5.5% 
+(d) 6.0% 
+(e) 6.5%  
+ 
+Q69. Which company has secured orders from Kerala Gramin Bank and Karnataka Gramin Bank for its 
+banking SuperApp to accelerate digital transformation? 
+(a) FSS Technologies 
+(b) Network People Services Technologies Limited 
+(c) NPCI International Payments Limited 
+(d) Infibeam Avenues 
+(e) PayU India  
+ 
+Q70. What percentage of Adjusted Net Bank Credit (ANBC) are Small Finance Banks (SFBs) required to 
+allocate to Priority Sector Lending (PSL)? 
+(a) 50% 
+(b) 60% 
+(c) 65% 
+(d) 75% 
+(e) 80%

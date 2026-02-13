@@ -1,0 +1,1003 @@
+======================================================================
+Exam: SBI PO
+Phase: Mains
+Year: 2023
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/09/24150241/SBI-PO-Mains-Previous-Year-Paper-2023.pdf
+======================================================================
+
+Q36.After the card play, who sits just opposite to the one who likes Purple? 
+(a) R 
+(b) Q 
+(c) The one who likes mango 
+(d) T 
+(e) W 
+ 
+Q37. If the person who likes Mango gets a 2 in the dice roll, who will be his new immediate 
+neighbour after the interchange? 
+(a) The one who likes yellow 
+(b) R 
+(c) V 
+(d) The one who likes Kiwi 
+(e) P 
+ 
+Q38.How many persons sit between R and the one who likes yellow when counted from the left of 
+R, after the card play? 
+(a) Two 
+(b) More than four 
+(c) Three 
+(d) One 
+(e) None  
+ 
+Q39.How many persons sit in the outer circular table after interchange? 
+(a) Five 
+(b) More than Five 
+(c) Three 
+(d) One 
+(e) None of these  
+ 
+Q40.After the interchange, who is sitting 2nd to the left of the person who likes Yellow? 
+(a) The one who likes green 
+(b) The one who likes banana 
+(c) The one who likes white 
+(d) The one who likes apple 
+(e) The one who likes purple 
+11 
+
+ 
+ 
+Directions (41–42): The scatter graph given below shows total number of three different cookies 
+(Butter, Oatmeal and Sugar) baked by three different bakeries A, B and C on y-axis and percentage 
+of sold cookies out of total backed cookies on x-axis. Read the graph carefully and answer the 
+questions. 
+ 
+Note: ‘a’ is the two-digit number whose unit digit is perfect cube of its tens digit. 
+ 
+Q41. If number of oatmeal sold by A is (2a – 6) and the number of butter cookies sold by A is less 
+than oatmeal which is less than sugar cookies, then find the sum of maximum number of sugar 
+cookies and minimum number of sugar cookies sold by A. (Note: Number of Butter cookies sold by 
+A must be a perfect square) 
+(a) 186 
+(b) 188 
+(c) 185 
+(d) 196 
+(e) 176 
+ 
+Q42. If the sum of oatmeal cookies and Butter baked by C is a perfect cube of the one-digit number 
+and the number of Sugar cookies baked by A, B and C are square of two-digit consecutive natural 
+number. A baked least number of Sugar cookies and C baked largest number of cookies, then find 
+the number of oatmeal cookies baked all the bakers, if the ratio of oatmeal to butter cookies baked 
+by A, B and C is in the ratio of 2: 1, 1: 3 and 1: 2 respectively. 
+(a) 111 
+(b) 102 
+(c) 118 
+(d) 123 
+(e) 125 
+12 
+
+ 
+ 
+Direction (43–44): The table given below shows the information about five customers visited a 
+store. All customers are awarded with reward points according to purchase they made. Read the 
+table given below carefully and answer the questions given below. 
+Customers 
+Reward points 
+Discount offered 
+P 
+x 
+(𝑥−10)% 
+Q 
+0.8𝑥+ 3𝑦 
+(𝑦+ 10)% 
+R 
+4𝑥−5𝑦 
+0.4𝑥% 
+S 
+2.5y 
+2300 Rs 
+T 
+2x + 5y 
+1.5𝑦% 
+Note – (i) Customer awarded rewards points according to the amount spent on store 
+i.e., When price amount < 5000 Rs, then reward point = 50 
+  When price amount between (5000 – 10000) Rs, then reward point = 100 
+  When price amount > 10000 Rs, then reward amount = 200 
+(ii) Final amount on the bill = Original price – discount 
+(iii) Per reward point = Re 1 
+(iv) Reward given on original price and non-member reward points is given on final amount.  
+(v) Q, R and T each has membership of the store, while P and S do not have membership of store. 
+(vi) Reward points received by R is 50% of the total rewards points received by T. 
+ 
+Q43. Q purchased article A from the store and after availing he received reward points, he paid Rs 
+12500 to the store. T purchased article B from the store and after availing he received reward 
+points, he paid Rs 4700 to the store. Find the difference between original price of articles A and B. 
+(a) 10000 Rs 
+(b) 11000 Rs 
+(c) 13000 Rs 
+(d) 9000 Rs 
+(e) 7000 Rs 
+ 
+Q44. Find which of the following statement/s is or are can be true. 
+I. Rs 7200 could be the original price of an article for S. 
+II. Reward amount received by P is equal to average reward amount received by Q and R. 
+(a) None of these 
+(b) Only II 
+(c) Only I 
+(d) Both I and II 
+(e) Can’t be determined 
+ 
+Q45. Which of the combination of column (I) is correct for obtaining both statement in column (II) 
+is correct. 
+Column I 
+Column II 
+1.  Profit of A and B are equal and profit of C is greater than profit 
+of D. investment period of A and C are equal. 
+I)  Both A and B either invested for 
+6 months or 9 months.  
+2.  Investment of C is double the investment of A and 10/9 of the 
+investment of D 
+II)  Investment of B is Rs.5000. 
+3.  Profit of B is 6000 
+ 
+4.  Total profit is less or equal to Rs 15000 
+ 
+13 
+
+ 
+Note: (i) Maximum time period of investment is 12 months. 
+(ii) Profit share of D is 4500 and he invested for 12 months. 
+(iii) The time period/investment done by all four is integer. 
+(a) 1, 2 
+(b) 1, 2, 3 
+(c) 1,2,4 
+(d) 3, 4  
+(e) 1,3 
+ 
+Direction (46–49). There are two series I and II given below. Both series containing wrong term and 
+both the series follow different patterns. Solve the series and answer the following questions given 
+below. 
+Series I: a, b+5, c+8, 87, 412, 2185, 13326 
+Series II: b+4, c + 8, 36, a + 50, 79, 111, 152 
+Note – (i) 10𝑏𝑥2 −(21 −𝑎)𝑥+ 3 = 0, roots of the equation z/10 and y/20 (where z/10>y/20). 
+(ii) any multiple of y give a number with unit digit zero. 
+(iii) c – z = 9 and LCM of z and 5 is 15. 
+ 
+Q46. Find the LCM of y, z and c. 
+(a) 60 
+(b) 10 
+(c) 15 
+(d) 25 
+(e) 20 
+ 
+Q47. Find the difference between wrong term of series II and correct term of series I in place of 
+wrong term.  
+(a) Odd number  
+(b) Prime number  
+(c) Composite number  
+(d) Even number  
+(e) Both (d) and (c)  
+ 
+Q48. If wrong term of series I is subtracted from 25, then find the resultant term. 
+(a) 60 
+(b) 10 
+(c) 15 
+(d) 25 
+(e) 18 
+ 
+Q49. If a new series starting from z follows same logic as series I, 
+then find the third term.  
+(a) 6 
+(b) 16 
+(c) 15 
+(d) 25 
+(e) 20 
+14 
+
+ 
+ 
+Direction (50 – 54): Bar graph (i) shows the number of total balls of three different colors (Red + 
+Blue + Green) in four different (A, B, C & D) bags and bar graph (ii) shows the probability of picking 
+a red ball from each of bag’s A and C and probability of picking a green ball from each of bag’s B and 
+D. Read the data and answer the following questions. 
+       
+ 
+ 
+Q50. Blue balls in bag A are 2 more than the number of green balls in bag B. Find the probability of 
+picking two green balls from bag A.  
+(a) 0.6 
+(b) 0.1 
+(c) 3/19 
+(d) 3/38 
+(e) 3/20 
+ 
+Q51. Blue balls in C are 20% more than green balls in D. Find the sum of probability of picking one 
+green balls from bag C and one green balls in B. 
+(a) 0.60 
+(b) 0.75 
+(c) 0.15 
+(d) 0.25 
+(e) 0.20 
+ 
+Q52. In bag X, the number of red balls is the lowest prime number and number of green balls is the 
+highest one-digit number. If the probability of picking one blue ball from bag X is three time that of 
+picking red balls from bag A, then find the blue balls in X. (Note: only three types of balls in bag X) 
+(a) 5 
+(b) 10 
+(c) 15 
+(d) 9 
+(e) 20 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+A
+B
+C
+D
+bar graph (i)
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+A
+B
+C
+D
+bar graph (ii)
+15 
+
+ 
+ 
+Q53. If the number of blue balls is perfect cube and green balls in bag A is perfect square, then what 
+can be the value of green balls in bag A. (Blue balls < green balls) 
+(a) 6 
+(b) 10 
+(c) 15 
+(d) 25 
+(e) 16 
+ 
+Q54. Sum of green balls in all the bags is 30 and green balls in C is 4 more than that of in A. Find the 
+difference between total blue balls in A and C. 
+(a) 22 
+(b) 12 
+(c) 15 
+(d) 24 
+(e) 20 
+ 
+Q55. The age of four sister is in a series of consecutive composite number. The age of the oldest 
+sister is multiple of 25 & less than 100 while the age of second youngest sister eight years ago is 2x 
+where x is a positive integer. Find the age (in years) of youngest sister after seven years.  
+(a) 77 
+(b) 79 
+(c) 80 
+(d) 53 
+(e) 28 
+ 
+Direction (56 – 60): Read the data and answer the following questions. 
+The bar graph shows the monthly income of Uma, Pallavi and Sonia and line graph shows the percentage 
+of monthly expenditure of these people. Each of them deposits their saving in a bank on which they get 
+awarded with a credit card (silver and platinum) of the bank. 
+In silver credit card – deposit amount is less than Rs 21000, credit limit is sum of half of the salary and 
+5% of the saving while late payment is 5% of the amount due. 
+In platinum credit card – deposit amount is more than Rs 21000, credit limit is sum of 3/4th of the salary 
+and 25% of the saving while late payment is 3% of the amount due. 
+ 
+ 
+0
+10000
+20000
+30000
+40000
+50000
+60000
+Uma
+Pallavi
+Sonia
+16 
+
+ 
+ 
+ 
+ 
+Note - (i) Amount payable to bank = cash withdrawn + expense from credit limit + late payment of 5% if 
+applicable.  
+(ii) Cashback of 5% is given on any transaction except cash withdrawal. 
+(iii) The payment done in any month should be cleared in the immediate month if not then penalty should 
+be given. 
+ 
+Q56. Sonia bought a cycle costing 3/7th of credit limit and has delayed the payment by a month. 
+Find the amount payable to bank (in Rs)? 
+(a) 8977 
+(b) 8977.5 
+(c) None of these 
+(d) 8525 
+(e) 8520.5 
+ 
+Q57. Uma bought a gold ring costing 10% of credit limit, spend 15% of credit limit on shopping, 
+withdrew cash of 8000. Find the difference between her savings and the amount payable to the 
+bank. 
+(a) Rs.3095 
+(b) Rs. 3010 
+(c) Rs.3015 
+(d) Rs.3025  
+(e) Rs.3020 
+ 
+Q58. Salary of Aayush is 20% more than that of Pallavi and he spend 30% of income. If he spends 
+all his credit limit on shopping, then find the cash back he gets (in Rs). 
+(a) 1660 
+(b) 1556 
+(c) 1665 
+(d) 1225 
+(e) 1220 
+0
+10
+20
+30
+40
+50
+60
+70
+Uma
+Pallavi
+Sonia
+17 
+
+ 
+ 
+Q59. Find the difference between credit limit of Uma and Pallavi (in Rs). 
+(a) 49000 
+(b) 10000 
+(c) 47150 
+(d) 47600 
+(e) None of these 
+ 
+Q60. Pallavi withdrew 10% cash for house rent, 20% on shopping. Find the amount payable by 
+Pallavi to bank (in Rs). 
+(a) 4660 
+(b) 4622 
+(c) 4611 
+(d) 4625 
+(e) 4620 
+ 
+Direction (61–62): There are three equations I, II and III given below. Solve these three equations 
+and answer the questions given below. 
+Equation I. 3𝑥2𝑦−(
+5
+2) 𝑥−(
+1
+3) 𝑦+ 2𝑛+ 1 = 0 
+Equation II. −2𝑥2𝑦+ (
+1
+𝐴) 𝑥+ (
+4
+3) 𝑦−10 = 0  
+Equation III. 𝑥2𝑦−𝐴𝑥+ 𝑦−𝑃= 0  
+Note – (i) Equation I + Equation II = Equation III 
+(ii) ‘n’ is the smallest whole number, while A and P are the integer. 
+ 
+Q61. If y = 1.4 in equation III, then which of the following is the root of the equation? 
+(a) 7,11 
+(b) -21, 11 
+(c) 8,9 
+(d) None of these 
+(e) 11,21 
+ 
+Q62. Which of the statement/s is/are true? 
+1. A is a prime number 
+2. A is one of the factors of P 
+3. Product of A and 15 = 32 
+(a) Only 1 and 3 
+(b) Only 2 
+(c) Only 2 and 3 
+(d) Only 1 and 2 
+(e) None of these 
+18 
+
+ 
+ 
+Q63. A cube is cut into 8 pieces equal pieces and nine identical circles of maximum radius drawn on 
+one face of each piece of cube. The sum of diameter of two circles is 8 unit. Find one third of 
+maximum volume of cylinder that can be fit in the initial cube.  
+(a) none of these 
+(b) 120 𝜋 
+(c) 320 𝜋 
+(d) 1152 𝜋 
+(e) 1145 𝜋 
+ 
+Q64. Boat A covers z km upstream distance in nine hours. Boat B’s upstream speed is equal to 
+downstream speed of boat A and covers m km downstream in one hour. The speed of B in still water 
+is (m – 4) km/hr and speed of boat A in still water is 8 km/hr. find the relation between z and m. 
+(i) z:m = 9:5 
+(ii) m+ z = even number  
+(iii) z < m  
+(a) Both (i) and (iii) 
+(b) Only (i) 
+(c) Only (ii) and (i) 
+(d) All incorrect  
+(e) All are correct 
+ 
+Direction (65 – 68): Read the information and answer the following questions. 
+There are three classes A, B and C consisting girls and boys. Two teams P and Q are formed. Team P consist 
+of students who plays hockey and team Q who plays football. Each student participated only in one game. 
+The boys in A are x more than the girls. Total girls in B are x and boys are 20 than that of girls.  
+The boys and girls in C are 20% more than that of boys and girls in B respectively. 
+Boys in P is 13 less than that of girls, which is 60% of the combination of girls in two classes (except A and 
+C). Ratio of girls in team P to team Q is 3:4.  
+Boys in P is 50% of the combination of boys of two classes (except A and B). 
+ 
+Q65. 20% girls in class C got injured and 25% of them are in team P, then find the girls who are not 
+injured in team Q. 
+(a) 111 
+(b) 112 
+(c) 110 
+(d) 113 
+(e) 115 
+ 
+Q66. Find the average number of girls in both the teams.  
+(a) 111 
+(b) 112 
+(c) 110 
+(d) 105 
+(e) 115 
+19 
+
+ 
+ 
+Q67. Find the difference between girls and boys in both the teams.  
+(a) 91 
+(b) 92 
+(c) 94 
+(d) 93 
+(e) 95 
+ 
+Q68. In team P 30% of girls joined team Q and from team Q 10% of the girls joined team P. Girls in 
+team Q is what percentage of girls in team P. 
+(a) 180% 
+(b) 130% 
+(c) 110% 
+(d) 125% 
+(e) 115% 
+ 
+Q69. If abba (cd + dc) = cddc (ab + ba), then which of the following statement is /are correct (a/b/c/d 
+≠𝟎). 
+1. 
+1
+𝑏𝑎+
+1
+𝑎𝑏=
+1
+𝑐𝑑+
+1
+𝑑𝑐 
+2. If ab – dc = 0, then cd must be equal to ba, for all real values of a, b, c & d.  
+3. Given c =0, then ab + ba = 1, given d is a non-zero number.  
+(a) Only 1 
+(b) Only 2 
+(c) Only 1 & 3 
+(d) Only 3  
+(e) None of above  
+ 
+Q70. Ankur whose speed is < 4 m/s travels along a rectangular path. The diagonal length of the park 
+is 5√𝟏𝟑 𝒎𝒆𝒕𝒆𝒓. He reaches from one point of diagonal to another in 5 seconds. Find the bigger 
+dimension of the rectangle. 
+(a) 18 meters 
+(b) 10 meters 
+(c) 20 meters 
+(d) 22 meters 
+(e) 24 meters 
+ 
+Directions (121-132): Read the following passage and answer the given questions. Certain words 
+are highlighted to answer some of the questions. 
+The fashion industry, a dynamic rigid (A) that constantly reinvents itself, has undergone a remarkable(B) 
+transformation over the years. From the realm (C) standards of the past to the inclusive and diverse 
+landscape we witness today, the evolution of fashion reflects broader societal changes. 
+In the early days, fashion was synonymous with exclusivity (D). Trends were dictated by a select few, and 
+diversity was often overlooked (F). However, in the contemporary era, the fashion landscape has quite 
+(G) shifted. Gone are the days of rigid conformity; today's fashion celebrates diversity in all its forms. 
+20 
+
+ 
+One notable advancement (H) is the dismantling of racial barriers. The industry has moved towards 
+representing a spectrum of ethnicities, promoting inclusivity on the runway and in advertising campaigns. 
+This shift has not only given a platform to previously marginalized (I) voices but has also enriched fashion 
+with a kaleidoscope of cultural influences. 
+Body positivity is another stride forward. Earlier, restrictive (J) beauty standards perpetuated (K) body 
+shaming, leaving many feeling excluded. Today, the fashion industry champions inclusivity by featuring 
+models of all shapes and sizes. This change not only promotes self-love but also resonates with a broader 
+audience, fostering a sense of belonging. 
+The scope of the fashion industry has expanded exponentially as it embraces diversity and inclusivity(L). 
+Brands that champion these values resonate (M) more deeply with consumers who seek authenticity and 
+representation. As societal norms evolve, the fashion industry stands at the forefront, reflecting and 
+influencing the narrative of acceptance, ultimately making fashion a powerful tool for social change. 
+ 
+Q121. According to the passage which of the following pair of words is the synonym of each other? 
+Column (A) 
+(i) rigid 
+(ii) perpetuated 
+(iii) resonate 
+Column (B) 
+(iv) restrictive 
+(v) marginalized 
+(vi) inclusivity 
+(a) i-iv 
+(b) ii-v 
+(c) iii-vi 
+(d) i-vi 
+(e) ii-iv 
+ 
+Q122. Which of the following word should replace the highlighted word “quite” (G) given in the 
+passage? 
+(a) unnoticeably 
+(b) rather 
+(c) awfully 
+(d) selectively 
+(e) superficially 
+ 
+Q123. Rearrange the word (A) (B) (C) as highlighted in the passage in the right sequence. 
+(a) BAC 
+(b) ACB 
+(c) CAB 
+(d) CBA 
+(e) No rearrangement required 
+21 
+
+ 
+ 
+Q124. Among the following, which of the following pair of words is the antonym of each other? 
+Column (A) 
+(i) realm 
+(ii) remarkable 
+(iii) rigid 
+Column (B) 
+(iv) perpetuate 
+(v) resonate 
+(vi) marginalized 
+(a) i-iv 
+(b) ii-vi 
+(c) iii-vi 
+(d) i-v 
+(e) ii-iv 
+ 
+Q125. In what ways has the fashion industry facilitated the connection between brands and their 
+customers? 
+(a) Brands offer fashionable products, fostering trust and confidence among customers. 
+(b) Brand loyalty is established when customers remain devoted to a brand, irrespective of the 
+introduction of new fashionable products. 
+(c) Brands contribute to promoting the idea of self-acceptance among customers, encouraging them to stay 
+true to themselves without succumbing to brand influence. 
+(d) Brands utilize fashion as a means of connecting with their customers by embodying the principles of 
+authenticity and representation. 
+(e) None of these 
+ 
+Q126. How might the embrace of diversity and inclusivity by fashion brands contribute to a broader 
+societal shift in values? 
+(I) Fashion brands can influence societal attitudes toward acceptance of differences. 
+(II) Fashion brands challenge traditional norms and reinforce a broader definition of beauty and 
+acceptance. 
+(III) Fashion brands contribute to societal change by promoting exclusive beauty standards.  
+(IV) Consumers may feel empowered when they see themselves represented in fashion industry. 
+(a) Only (I) 
+(b) Both (I) and (II) 
+(c) Only (III) 
+(d) Only (I),(II) and (IV) 
+(e) All (I), (II), (III) and (IV) 
+ 
+Q127. What is the tone of the passage? 
+(a) analytical 
+(b) regressive 
+(c) satire 
+(d) didactic 
+(e) empowering 
+22 
+
+ 
+ 
+Directions (128-132): In the following questions, there are three columns, and each column 
+contains three phrases. Choose one phrase from each column to create a sentence that is both 
+grammatically correct and contextually coherent. 
+ 
+Q128. COLUMN (I) 
+(A) The sun dipped below the horizon, 
+(B) The ineffable intricacies of quantum mechanics challenge 
+(C) His erudite discourse on esoteric philosophical  
+COLUMN (II) 
+(D) casting a warm sunlight 
+(E) even the most astute physicists 
+(F) beneath the azure sky, 
+COLUMN (III) 
+(G) cutting-edge features and a sleek design  
+(H) with the labyrinthine complexities of abstract thought. 
+(I) pushing the boundaries of comprehension 
+(a) A-D-G 
+(b) B-E-I 
+(c) C-E-H 
+(d) A-F-G 
+(e) C-D-I 
+ 
+Q129. COLUMN (I) 
+(A) The protagonist, adorned in an eclectic ensemble, 
+(B) Vendors hawked their wares 
+(C) The aromatic fragrance of blooming jasmine 
+COLUMN (II) 
+(D) navigated the bustling city streets 
+(E) the suspense in the room heightened 
+(F) expounded upon the intricacies 
+COLUMN (III) 
+(G) with an air of nonchalant sophistication. 
+(H) of quantum entanglement 
+(I) with each passing moment. 
+(a) A-D-G 
+(b) B-F-I 
+(c) C-E-H 
+(d) A-F-G 
+(e) C-D-I 
+ 
+Q130. COLUMN (I) 
+(A) Time, an elusive concept, 
+(B) The venerable professor, 
+(C) Amidst the tumultuous storm, 
+COLUMN (II) 
+(D) the resolute captain steered the ship through 
+(E) its luminous beam cutting through the velvety darkness. 
+(F) with its arcane symbols and cryptic language, 
+23 
+
+ 
+COLUMN (III) 
+(G) a profound connection to the artist's soul. 
+(H) to even the most seasoned codebreakers. 
+(I) turbulent waters with unwavering determination. 
+(a) A-D-G 
+(b) B-F-I 
+(c) C-E-H 
+(d) A-F-G 
+(e) C-D-I 
+ 
+Q131. COLUMN (I) 
+(A) The clandestine meeting unfolded in the dimly lit alley, 
+(B) The intrepid explorer navigated treacherous terrain, 
+(C) The celestial bodies, suspended in the vast cosmos, 
+COLUMN (II) 
+(D) seemed to narrate an ancient tale 
+(E) the scent of aged leather and parchment 
+(F) conquering obstacles that tested the limits of 
+COLUMN (III) 
+(G) adorned the ground like nature's confetti 
+(H) immersed in complex calculations 
+(I) human endurance and resilience. 
+(a) A-D-G 
+(b) B-F-I 
+(c) C-E-H 
+(d) A-F-G 
+(e) C-D-I 
+ 
+Q132. COLUMN (I) 
+(A) In the laboratory, the scientist conducted experiments 
+(B) The avian migration painted the sky 
+(C) The poet's verses, like a lyrical cascade on the 
+COLUMN (II) 
+(D) echoed through the moonlit courtyard, 
+(E) a rain-soaked street sparked a 
+(F) that unraveled the mysteries of the microscopic world, 
+COLUMN (III) 
+(G) pushing the boundaries of human understanding. 
+(H) point where mysticism and astronomy intertwined. 
+(I) that resonated with the human experience 
+(a) A-D-G 
+(b) B-F-I 
+(c) C-E-H 
+(d) A-F-G 
+(e) C-D-I 
+24 
+
+ 
+ 
+Directions (133-136): In the following questions, each set presents two sentences with two blanks. 
+Select the most appropriate pair from the options provided to complete both the sentences and 
+ensure coherence. 
+ 
+Q133. (I) As she delved into the ___________________ details of the ancient manuscript, she remained 
+___________________ to the passage of time, enraptured by the mysteries unfolding before her. 
+(II) Lost in the ___________________ labyrinth of his thoughts, he remained ___________________ to the bustling city 
+around him, contemplating the enigma of his own existence. 
+(a) inundated, constructive 
+(b) intricate, oblivious 
+(c) serendipitous, resilient 
+(d) deliberate, hesitant 
+(e) astute, prolific 
+ 
+Q134. (I) The mountaineers, well aware of the ___________________ conditions awaiting them, ___________________ 
+planned each step and took every precaution to navigate the treacherous ascent. 
+(II) The ___________________ waste disposal team ___________________ executed their plan, emphasizing every 
+precaution to prevent environmental contamination. 
+(a) hazardous, meticulously 
+(b) adventure, carefully 
+(c) toxic, tragically 
+(d) conservative, reluctantly 
+(e) palpable, ubiquitously 
+ 
+Q135. (I) As the crisis unfolded, emergency responders ___________________ the chaotic scene with a 
+___________________ effort, swiftly deploying resources to provide aid and restore order. 
+(II) During the complex surgery, the medical team meticulously ___________________ through the delicate 
+procedure, each member playing a crucial role in a well-___________________ ballet of expertise. 
+(a) constructed, fortified 
+(b) captivated, malicious 
+(c) navigated, coordinated 
+(d) salient, collaborated 
+(e) disparaged, placid 
+ 
+Q136. (I) In the negotiation, specific clauses were meticulously ___________________ to ensure that no party 
+involved would be ___________________ from their agreed-upon responsibilities. 
+(II) The law clearly ___________________ the conditions under which businesses could be ___________________ from 
+certain tax obligations, providing a framework for compliance. 
+(a) detailed, accepted 
+(b) perplexed, evolved 
+(c) hinged, obfuscated 
+(d) connected, cogitated 
+(e) articulated, exempted 
+25 
+
+ 
+ 
+Directions (137-143): Rearrange the following sentences and answer the questions below. 
+Statement (D) is the sixth sentence of the coherent sequence.  
+(A) However, its popularity comes at a cost to health. The allure of quick and accessible meals often masks 
+the nutritional drawbacks that are associated with excessive consumption of fast food.  
+(B) Fast food, a ubiquitous element of modern life, has become a convenient option for those with busy 
+schedules.  
+(C) Loaded with high levels of saturated fats, sugars, and sodium, these meals contribute to the rising rates 
+of obesity and various lifestyle-related diseases.  
+(D) Striking a balance between convenience and nutrition remains a challenge in the face of the 
+pervasive influence of fast food on contemporary diets. 
+(E) Additionally, the environmental impact of fast food production, characterized by excessive packaging 
+and waste, adds to the broader concerns associated with this dietary choice.  
+(F) Thus, the convenience that fast food offers may save time, but it often _______________ the long-term health 
+of individuals. 
+ 
+Q137. Which of the following sentence is the FIRST sentence after the rearrangement?  
+(a) A 
+(b) B 
+(c) C 
+(d) E 
+(e) F 
+ 
+Q138. Which of the following sentence is the THIRD sentence after the rearrangement?  
+(a) A 
+(b) B 
+(c) C 
+(d) E 
+(e) F 
+ 
+Q139. Which of the following sentence is the SECOND sentence after the rearrangement?  
+(a) A 
+(b) B 
+(c) C 
+(d) E 
+(e) F 
+ 
+Q140. Which of the following word should correctly replace the highlighted word given in sentence 
+(A)? 
+(a) which 
+(b) who 
+(c) whose 
+(d) them 
+(e) whom 
+26 
+
+ 
+ 
+Q141. Which of the following sentence is the FIFTH sentence after the rearrangement?  
+(a) A 
+(b) B 
+(c) C 
+(d) E 
+(e) F 
+ 
+Q142. Which of the following sentence is the FOURTH sentence after the rearrangement?  
+(a) A 
+(b) B 
+(c) C 
+(d) E 
+(e) F 
+ 
+Q143. Which of the following word should fill the blank given in sentence (F)? 
+(a) propagates 
+(b) sacrifices  
+(c) objectifies 
+(d) surpass 
+(e) capitulates 
+ 
+Directions (144-149): Read the following passage and answer the given questions. 
+In the intricate tapestry of the Middle East's economic landscape, countries face enduring challenges, and 
+Portugal's ministerial predicament sheds light on the shortcomings of past economic philosophies. Two 
+ministers, Maria Silva and João Rodrigues, grapple with distinct and now seemingly inadequate 
+approaches, reflecting a negative tone in the quest to revive the economy. 
+Maria Silva, advocating a meticulous, methodical approach, once celebrated for its practicality, finds her 
+strategies faltering in the face of evolving challenges. Studying the highs and lows of the economy and 
+addressing root causes was once considered a robust strategy.  
+On the opposing front, João Rodrigues champions an immediate solution – the infusion of cash and 
+monetary resources into the economy. This Keynesian approach, effective in the past, now reveals its flaws 
+in the contemporary economic landscape. Rapid cash injections, while providing a quick fix, risk 
+contributing to inflation and fail to address the deep-seated, structural issues at the heart of the economic 
+challenges. 
+These once-successful policies from the 1980s are now proving inadequate in the current scenario. The 
+failure of Silva's methodical approach lies in its inability to swiftly adapt to the rapid changes and 
+interconnectedness characterizing today's global economy. Conversely, Rodrigues' cash infusion strategy, 
+while providing short-term relief, lacks the foresight needed to address the intricate challenges that have 
+evolved over time. 
+The inadequacy of these policies in today's scenario underscores the necessity for innovative, adaptive 
+strategies that account for the complexities of modern economies. Globalization, technological 
+advancements, and shifting geopolitical landscapes demand a departure from historical approaches. The 
+difficulty in reviving the Middle East's economy serves as a cautionary tale, emphasizing the imperative for 
+forward-thinking policies that can navigate the intricacies of the contemporary economic environment. 
+27 
+
+ 
+ 
+Q144. Why does Maria Silva's methodical approach face challenges in the contemporary economic 
+landscape, according to the passage? 
+(a) Owing to its unparalleled capacity to navigate the intricacies of the contemporary economic 
+environment. 
+(b) As it achieved success in the 1980s, Maria Silva was overly confident about its effectiveness.  
+(c) Because it lacks the agility to quickly adjust to the dynamic changes and interconnected nature of 
+today's global economy 
+(d) Since João Rodrigues was adopting a Keynesian approach, it impeded the success of Maria Silva's 
+approach. 
+(e) Due to Maria Silva's failure to analyze the intricacies of this approach. 
+ 
+Q145. What is the essential necessity in contemporary economies for formulating financial 
+policies? 
+(I) A reliance on archaic and unyielding approaches is key to successfully navigating the complexities of 
+modern economies. 
+(II) It is necessary to understand the dynamic global economy and technological advancements and shifting 
+geopolitical landscapes. 
+(III) The capability to create innovative and flexible strategies that consider the intricacies of present-day 
+economies. 
+(a) only (I) 
+(b) Both (I) and (II) 
+(c) Both (II) and (III) 
+(d) Only (III) 
+(e) All (I), (II) and (III) 
+ 
+Q146. In Rodrigues' approach, how can a trade-off be achieved between providing immediate relief 
+and ensuring long-term effectiveness? 
+(a) Rodrigues' strategy should focus exclusively on offering short-term relief and not be employed for long-
+term resolution. 
+(b) Injecting cash into the system to revitalize it on an international scale.  
+(c) Anticipating forthcoming changes and revolutions in the global economy. 
+(d) By prioritizing short-term gains, Rodrigues’ approach supported long term goals 
+(e) The information given in the passage is not enough to answer the question. 
+ 
+Q147. Which of the following statements is INCORRECT concerning João Rodrigues' approach? 
+(I) Rapid cash injections attempt to resolve the fundamental, structural issues at the core of the economic 
+challenges. 
+(II) While this Keynesian approach demonstrated effectiveness in earlier times, it exposes its shortcomings 
+in the present economic context.  
+(III) João Rodrigues provided only temporary relief to the economy. 
+(a) Only (I) 
+(b) Both (II) and (III) 
+(c) Only (II) 
+(d) Only (III) 
+(e) All (I), (II) and (III) 
+28 
+
+ 
+ 
+Q148. How would you characterize the resemblance between the approaches of Maria Silva and 
+João Rodrigues?  
+(a) Both strategies were devised in rejuvenating the economy in the 1980s. 
+(b) Both approaches failed to account for the intricacies of the modern economy. 
+(c) Both methods leverage the financial resources of the nation. 
+(d) Both (a) and (b) 
+(e) All (a) (b) and (c) 
+ 
+Q149. As per the passage, which of the following statements is accurate? 
+(I) The inadequacy of historical policies accentuates the imperative for avant-garde strategies adept at 
+navigating the intricacies of modern economies. 
+(II) Rodrigues' cash infusion strategy adeptly confronts the intricate challenges that have evolved over 
+time. 
+(III) Both the methodologies of Maria Silva and João Rodrigues efficaciously revitalized the economy during 
+the 1980s. 
+(a) Only (I) 
+(b) Both (II) and (III) 
+(c) Only (II) 
+(d) Only (III) 
+(e) All (I), (II) and (III) 
+ 
+Directions (150-151): Given below the sentences each of which has been divided into four parts 
+Each of the questions is then followed by the five options which give the sequence of the rearranged 
+parts. You must choose the option which gives the correct sequence of the parts. If the sentence is 
+already arranged in the correct sequence or the correct sequence doesn't match with any of the 
+given sequence, mark option " No arrangement required " as your answer. 
+ 
+Q150. (A) the pervasive degradation of the environment, 
+(B) global cooperation in fostering sustainable practices 
+(C) poses an existential threat that necessitates 
+(D) exacerbated by industrial pollutants and deforestation, 
+(a) BACD 
+(b) ACBD 
+(c) CBAD 
+(d) ADCB 
+(e) No rearrangement required 
+ 
+Q151. (A) underscoring the importance of designing communities that 
+(B) the intricate interplay between urban planning and public health 
+(C) becomes evident in the prevalence of "food deserts," 
+(D) facilitate access to nutritious options for all residents 
+(a) BACD 
+(b) ACBD 
+(c) BCAD 
+(d) ADCB 
+(e) No rearrangement required 
+29 
+
+ 
+ 
+Directions (152-153): The following questions consist of four sentences. Some of these may or may 
+not contain grammatical error. Choose the option which denotes the sentence(s) that has/have 
+grammatical error(s). If all the given sentences are correct, choose “All are correct” as your answer. 
+ 
+Q152. (A) Despite of facing challenges, she persevered and achieved success in her chosen field. 
+(B) The scientific community continues to explore innovative solutions to address environmental issues. 
+(C) Learning a new language can be both challenging or rewarding, requiring consistent practice and 
+dedication. 
+(D) The novel's intricate plot kept readers engaged from beginning to end. 
+(a) Only (A) 
+(b) Both (B) and (C) 
+(c) Only (A) and (C) 
+(d) Only (A), (B) and (D) 
+(e) All (A), (B), (C) and (D) 
+ 
+Q153. (A) The team collaborated seamlessly to develop a comprehensive strategy for the upcoming 
+project. 
+(B) In today's fast-paced world, effective time management is crucial for maintaining a healthy work-life 
+balance. 
+(C) Several factors, including climate, geography, and culture, play a significant role in shaping a region's 
+identity. 
+(D) The collection of rare stamps, along with a few vintage coins, were displayed in a glass case. 
+(a) Only (A) 
+(b) Only (D) 
+(c) Only (A) and (D) 
+(d) Only (A), (B) and (D) 
+(e) All (A), (B), (C) and (D) 
+ 
+Directions (154-155): In each of the questions given below five words are given in bold. These 
+words may or may not be in their correct position. Following each sentence four sequences are 
+provided. Select the sequence of the words which will make the given sentence contextually 
+meaningful. If the words are correct at their current position then choose ‘no rearrangement 
+required’ as your answer. 
+ 
+Q154. The unprecedented (A) of technology in education, while offering integration (B) opportunities 
+for learning, demands a nuanced (C) approach to address concerns such as exacerbation (D) issues and 
+the potential privacy (E) of educational inequalities. 
+(a) BCEDA 
+(b) CBAED 
+(c) BACED 
+(d) DCAEB 
+(e) No rearrangement required 
+30 
+
+ 
+ 
+Q155. The underscores (A) nature of the economy, marked (B) by fluctuations in GDP, employment 
+rates, and consumer spending, influence (C) the cyclical (D) web of factors that intricate (E) the financial 
+well-being of nations. 
+(a) DBAEC 
+(b) EDCBA 
+(c) BAECD 
+(d) CDEAB 
+(e) No rearrangement required 
+ 
+Solutions 
+ 
+Solutions (1-5): 

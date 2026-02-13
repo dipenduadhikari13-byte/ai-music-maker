@@ -1,0 +1,443 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2021
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2022/09/22123259/Formatted-IBPS-PO-Mains-Previous-Year-Paper-2021-Questions-with-Solutions-1.pdf
+======================================================================
+
+Q1. What is the experience of V? 
+(a) 23yr 
+(b) 19yr 
+(c) 15yr 
+(d) 7yr 
+(e) Either 19yr or 7yr 
+ 
+Q2. Who among the following sits fourth to the left of the one having 7yr experience? 
+(a) V 
+(b) A 
+(c) E 
+(d) D 
+(e) None of these 
+ 
+Q3. How many persons sit to the right of the one having 1yr less experience than B? 
+(a) Five 
+(b) Three 
+(c) Four  
+(d) One 
+(e) None of these 
+ 
+Q4. Which among the following is correct combination? 
+(a) E-12 
+(b) V-19 
+(c) A-2 
+(d) U-12 
+(e) D-23 
+ 
+2 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q5. Who among the following sit second from left end of the row and with how much experience? 
+(a) E, 12yr 
+(b) U, 12yr 
+(c) B, 7yr 
+(d) E, 2yr 
+(e) None of these 
+ 
+Direction (6-7): Read the following information carefully and answer the questions based on it: 
+A # (12) B means A is 21m east of B 
+A * (03) B means A is 30m north of B 
+A % (24) B means A is 42m west of B 
+A @ (52) B means A is 25m south of B 
+Conditions: X # (93) Y; T * (42) U; R @ (61)Q; T # (03) S; P % (14) Q; W @ (61) X; Z * (01) Y; W % (45) U; 
+S*(80)R 
+ 
+Q6. What is the shortest distance and direction of S with respect to X? 
+(a) 16m, north-east 
+(b) 24m, north-west,  
+(c) 8m, north 
+(d) 25m, north-east 
+(e) None of these 
+ 
+Q7. Name the point which lies in a straight line? 
+(a) S, R, U 
+(b) Q, R, W 
+(c) Y, P, Q 
+(d) Y, X, R 
+(e) None of these 
+ 
+Direction (8-12): A number arrangement machine when given an input line of numbers rearranges them 
+following a particular rule in each step. The following is an illustration of input and rearrangement: 
+Input:84629     57426     76932     27483     49853     62434 
+Step I:273      84629     57426     76932     49853     62434 
+Step II: 53     273      84629     57426     76932     62434 
+Step III:572    53      273      84629     76932     62434 
+Step IV:23      572       53      273      84629     76932 
+Step V:732    23      572       53      273      84629 
+Step VI:2    732      23      572       53      273       
+Step VI is the last step of the given arrangement. Based on the given logic, rearrange the given input. 
+Input: 63825     49857     38679     72548     45328      95763 
+ 
+Q8. What is the smallest number in the penultimate step of the given input? 
+(a) 32 
+(b) 37 
+(c) 57 
+(d) 325 
+(e) None of these 
+ 
+3 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q9. What is the sum of all the digits of the number which is 4th smallest in step III? 
+(a) 10 
+(b) 26 
+(c) 35 
+(d) 24 
+(e) None of these 
+ 
+Q10. If all the numbers in step VI are arranged in ascending order from left end, then which of the following 
+number will become 3rd from right end? 
+(a) 57 
+(b) 573 
+(c) 532  
+(d) 325 
+(e) None of these 
+ 
+Q11. Which of the following number is second to the left of fifth number from left end in step IV? 
+(a) 37 
+(b) 72548 
+(c) 532 
+(d) 325 
+(e) None of these 
+ 
+Q12. How many steps are required to complete the rearrangement for the given input? 
+(a) Eight 
+(b) Seven 
+(c) Four  
+(d) Five  
+(e) Six 
+ 
+Direction (13-17): Study the given information carefully to answer the related questions: 
+ 
+Nine persons work in three departments i.e., operations, finance and marketing of a company. On their 
+meeting day, they wear different color shirts i.e., white, blue, green, orange, red, black, purple, pink and 
+violet. All the information is not necessary in the same order as given.  
+The persons work in operations do not wear orange and black. T works only with the one wearing green 
+but not in marketing. R wears white and work with G but not in marketing. Only the persons wearing red 
+and black work together in same department. B works with E and none of them wear black. A does not 
+work in operations but wears violet. M neither works in finance nor with the one wearing red. The one 
+wearing purple does not work in finance. G and D do not wear red and orange.  
+H does not work with E who does not wear blue and orange. 
+ 
+Q13. Which of the given combination is correct? 
+(a) A- marketing 
+(b) M- blue 
+(c) White- operations 
+(d) T- finance 
+(e) E-pink 
+ 
+4 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q14. How many persons work in finance department? 
+(a) Two 
+(b) Three 
+(c) Five  
+(d) Four 
+(e) Either three or four 
+ 
+Q15. Name the persons work in marketing department? 
+(a) D, E 
+(b) H, D 
+(c) M, H, E 
+(d) G, B 
+(e) None of these 
+ 
+Q16. If M and the one wearing purple interchange their departments with E and G, then name the persons 
+(with their shirt color) who will work in operations department? 
+(a) G-pink, E-blue 
+(b) D-green, G-pink 
+(c) G-blue, E-pink 
+(d) E-orange, M-red 
+(e) None of these 
+ 
+Q17. Who among the following wears black shirt? 
+(a) D 
+(b) H 
+(c) E 
+(d) B 
+(e) None of these 
+ 
+Direction (18-20): Read the given information carefully and answer the questions below: 
+1%2 means 2 is neither smaller nor greater than 1 
+1&2 means 2 is neither greater nor equal to 1 
+1*2 means 2 is neither smaller nor equal to 1 
+1$2 means 2 is not greater than 1 
+1α2 means 2 is not smaller than 1 
+ 
+Q18. Statements: U$LαK%T; W&P; D*J; W%R$L; M*TαJ 
+Conclusions: I. M*W 
+II. D&K 
+III. J$P 
+(a) Both I and III are true 
+(b) None is true 
+(c) Only II is true 
+(d)Only I is true 
+(e) Both II and III are true 
+ 
+5 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q19. Statements: W*RαP; L%M$R&S; W$H%Q 
+Conclusions: I. M $H 
+II. L*Q  
+III. P&S  
+(a) Both II and III are true 
+(b) Only I is true 
+(c) Either I or II is true 
+(d) None is true 
+(e) Only III is true 
+ 
+Q20. Statements: P*D$C%B$A; H$T&Y%D; K*UαW%P 
+Conclusions: I. D&U  
+II. B*T  
+III. H&K  
+(a) Both I and II are true 
+(b) Only III is true 
+(c) Both II and III are true 
+(d) All are true 
+(e) None of these 
+ 
+Directions (21-22): Each question given below consists of a statement, followed by three or four 
+arguments numbered I, II, III and IV. You have to decide which of the arguments is/are ‘strong’ argument(s) 
+and which is/are ‘weak’ argument(s) and accordingly choose your answer from the alternatives given 
+below each question. 
+ 
+Q21. Statements: Should all the indirect taxes in India be combined into a single tax on all commodities? 
+Arguments: 
+I. Yes. This will considerably simplify the tax collection mechanism and the cost of collecting tax will also 
+reduce. 
+II. Yes. The manufacturers and traders will be benefited by this which in turn will boost tax collection. 
+III. No. No other country has adopted such system. 
+(a) None is strong 
+(b) Only I and III are strong 
+(c) Only II is strong 
+(d) Only II and III are strong 
+(e) None of these 
+ 
+Q22. Statements: Should trade unions be banned completely? 
+Arguments: 
+I. Yes. Workers can concentrate on production. 
+II. No. This is the only way through which employees can put their demands before the management. 
+III. Yes. Employees get their illegal demands fulfilled through these unions. 
+IV. No. Trade unions are not banned in other economically advanced countries. 
+(a) Only I is strong 
+(b) Only II is strong 
+(c) Only I and II are strong 
+(d) Only I, II and III are strong 
+(e) None of these 
+ 
+6 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Directions (23-25): Each of the following questions below consists of a question and three statements 
+numbered I, II and III given below it. You have to decide whether the data provided in the statements are 
+sufficient to answer the question. Read all the statements and give answer. 
+ 
+Q23. Six persons Q, R, T, W, X and Y go to the market on different consecutive days starts from Thursday. 
+Who among the following goes just after T? 
+Statement I. Q goes two persons before R who doesn’t go last. The number of persons goes before T is 
+same as after Y. 
+Statement II. W does not go before Y goes two persons after R. One person goes between X and W who 
+goes after Sunday.  
+Statement III.  T goes before the one who goes two persons after Q. Y and W goes one after another but 
+not on Thursday.  
+(a) If the data in statement I is sufficient 
+(b) If the data in statement II is sufficient 
+(c) If the data in statement I and statement II are sufficient to answer the question. 
+(d) If the data in all the statement I, II and III are necessary to answer the question. 
+(e) If the data in statement III is sufficient 
+ 
+Q24. In a family of three generation there are eight members. How many married couples are there in the 
+family?  
+Statement I.  R is son of P. S is sibling of R and has only one son. V is grandson of Q. 
+Statement II.  U has no siblings. W is daughter in law of U. P is sibling of T. 
+Statement III.  Q is sister-in-law of T has no siblings. U is brother-in-law of R. 
+(a) If the data in statement I is sufficient 
+(b) If the data in statement II is sufficient 
+(c) If the data in statement II and statement III are sufficient to answer the question. 
+(d) If the data in all the statement I, II and III are necessary to answer the question. 
+(e) If the data in statement III is sufficient 
+ 
+Q25. Eight persons have different heights and they are standing in a row according to their heights in 
+descending order. Who among the following is the tallest? 
+Statement I.  Two persons stand between H and F. The number of persons stands before A is one more 
+than the number of persons stands after E. 
+Statement II. E is not the shortest among all the persons. More than three persons are taller than E. C is 
+taller than F. 
+Statement III. Only two persons are taller than A. A is just taller than D. Two persons stand between E and 
+D. E is not the tallest person. G is taller than D but not just taller than A. 
+(a) If the data in statement I is sufficient 
+(b) If the data in statement II is sufficient 
+(c) If the data in statement II and statement III are sufficient to answer the question. 
+(d) If the data in all the statement I, II and III are necessary to answer the question. 
+(e) If the data in statement III is sufficient 
+ 
+7 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Direction (26-30): Read the given information carefully and answer the questions given below: 
+ 
+Sixteen persons i.e. A, B, C, E, N, O, P, Q, R, S, T, U, V, W, X and Y live in two different flats i.e., Flat 1 and Flat 
+2 of a four-floor building such that the lowermost floor is numbered as 1 and the floor just above it is 2 and 
+so on till the topmost floor is numbered as 4. Flat1 is to the west of flat 2 whereas flat 1 of floor 2 is 
+immediately above flat 1 of floor 1 and flat 2 of floor 2 is immediately above flat 2 of floor 1. There are eight 
+married couples and each married couple live together on the same floor in the same flat. Name of the 
+person starts with vowel are female and live on an even numbered floor. All the information is not 
+necessarily in the same order. 
+A lives just above P’s spouse flat. A’s spouse lives in an odd numbered flat. O and Q live on the same floor. 
+T lives to north east of U and he lives below E. Q doesn’t live in the same flat as E. B who lives on an even 
+numbered floor lives two floors above N.  S lives to the south west of B but she doesn’t live below N. R lives 
+to the north of X. R is not married to A. Spouse of X lives to the east of Y. C is spouse of neither Y nor X.  V 
+and U lives in the same flat and both have same gender. W’s gender is same as Q’s gender.  
+ 
+Q26. Who among the following is the wife of T? 
+(a) U 
+(b) P 
+(c) R 
+(d) S 
+(e) None of these 
+ 
+Q27. Four of the following five are alike in a certain way and thus form a group. Which among the following 
+does not belong to the group? 
+(a) V-Y 
+(b) W-X 
+(c) B-E 
+(d) P-S 
+(e) A-B 
+ 
+Q28. In which of the following flat and floor does S live? 
+(a) Flat 1, floor 3 
+(b) Flat 2, floor 3 
+(c) Flat 1, floor 4 
+(d) Flat2, floor 2 
+(e) Flat 1, floor 1 
+ 
+Q29. Which among the following statement is not true? 
+(a) C lives on an even numbered floor 
+(b) T is married to R 
+(c) O and A live in different flat 
+(d) Q and O live in the same flat 
+(e) B lives on an even numbered floor 
+ 
+8 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q30. How many floors are below Q’s spouse? 
+(a) Same as above A 
+(b) Same as below T 
+(c)Same as between P and X 
+(d) More than two 
+(e) None of these 
+ 
+Direction (31-32): In the following questions, the symbols- &, @, % and $ are used with the following 
+meanings as illustrated below. Study the following information and answer the given questions. In each of 
+the questions given below statements are followed by some conclusions. You have to take the given 
+statements to be true even if they seem to be at variance from commonly known facts. Read all the 
+conclusions and then decide which of the given conclusions logically follows from the given statements 
+regarding commonly known facts. 
+A@B means “All A are B” 
+A&B means “Only a few A are B” 
+A$B means “No A is B” 
+A%B means “Some A is B” 
+ 
+Q31. Statement: P&R%T$Q@M 
+Conclusions: 
+I. Some R being not Q is a possibility 
+II. All M can be T 
+III. Some T being not P is a possibility 
+IV. All P can never be R 
+(a) Both III and IV 
+(b) Only I 
+(c) Both II and III 
+(d) Only IV 
+(e) Only III 
+ 
+Q32. Statement: F%J$G&C@E 
+I. All C can never be F 
+II. Some G is not E 
+III. All F being G is not a possibility 
+IV. Some J being E is a possibility 
+(a) Both III and IV 
+(b) Only I 
+(c)Both II and III 
+(d) Only IV 
+(e) Only III 
+ 
+9 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Direction (33-34): Read the following information carefully and answer the questions given below: 
+ 
+Two rectangular gardens are there in a society such that the smaller garden is surrounded with the larger 
+garden. Each garden has four gates. Gates of the smaller garden are open towards outside and the gates of 
+the larger garden are open towards inside. All the gates are in the middle of the sides of the garden. Gates 
+of the smaller garden face the gates of the larger garden.  
+Note: Only gates of different garden are facing each other.  
+Gate U of smaller park is second to the right of T. The gate which faces T is immediate right of N. The number 
+of gates between U and T is one less than the number of gates between P and M. M is not adjacent to N. O 
+faces the gate which is immediate right of R. R doesn’t face N. Gate O is not at the longer side of the garden. 
+One of the gates is S.  
+ 
+Q33. Four of the following five are alike in a certain way and thus form a group. Which among the following 
+does not belong to the group? 
+(a) M 
+(b) O 
+(c) N 
+(d) R 
+(e) P 
+ 
+Q34. Which among the following gate faces N? 
+(a) O 
+(b) T 
+(c) S 
+(d) P 
+(e) M 
+ 
+Direction (35-39): Read the following information carefully and answer the questions given below: 
+ 
+Twelve buildings are constructed in two parallel rows from top to bottom such that 6 buildings are there 
+in each row. In row 1- A, B, C, D, E, and F are constructed and all face towards the east direction while in 
+row 2-J, K, L, M, N and O are constructed and all face towards the west direction. All buildings in each row 
+are facing each other. Each building has a different number of offices. None of the buildings has more than 
+28 offices and less than 5 offices. 
+M is constructed second to the right of the building which has 15 offices. The number of buildings towards 
+the right of M is one less than the number of buildings towards the left of L.  L has prime numbered offices.  
+The building which faces M constructed second to the left of the building which is immediate right of D. F 
+which has 22 offices is second from the either ends. The difference between the offices of F and L is 5. The 
+number of buildings between D and F is same as between J and L. K which has 12 offices constructed second 
+to the left of J. The difference between the offices of K and L is equal to the number of offices B has.  C is 
+constructed third to the right of B which doesn’t face M. C has 16 offices. O has two offices less than N. N 
+has less offices than L. The number of offices in E has a multiple of 11. E is constructed right to the building 
+which has 18 offices. The difference between the offices of O and A is equal to M. The number of offices in 
+J has a perfect square value. J has more offices than D. M has 15offices less than J. 
+ 
+10 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q35. How many offices does A have? 
+(a) 23 
+(b) 20 
+(c) 18 
+(d) 5 
+(e) 13

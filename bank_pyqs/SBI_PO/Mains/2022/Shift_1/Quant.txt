@@ -1,0 +1,477 @@
+======================================================================
+Exam: SBI PO
+Phase: Mains
+Year: 2022
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/09/26120224/SBI-PO-Mains-Previous-Year-Paper-2022.pdf
+======================================================================
+
+Q36. Which of the following statement is true? 
+(a) Box A and box D are not in the same stack 
+(b) The box placed immediate below box R contains more pencils than box F 
+(c) No box is placed in east of box P 
+(d) Five boxes are placed in stack C 
+(e) Box U is placed above box Y in same stack 
+ 
+Q37. Which of the following box is not placed in the same stack of box M? 
+(a) The box contains 14 pencils 
+(b) The box which is north-west of box D 
+(c) The box which is two boxes below box F 
+(d) The box which is placed in the stack containing least number of boxes 
+(e) The box which is 4th from bottom but in the stack of box U 
+ 
+Directions (38-40): Study the information carefully and answer the questions given below. 
+Rohit is standing at point A and wants to reach point E. He can only move in a straight line, but there are 
+obstacles in his path. Rohit first moves 4 km towards the north and reaches point B. From there, he turns 
+left and moves 3 km towards the west and reaches point C. He then turns left again and moves 5 km 
+towards the south and reaches point D. Finally, he turns right and moves 8 km and reaches point E. Sonia 
+wants to travel from point E to point A, but there is an additional obstacle in her path. There is a 
+mountain between points E and A, which she cannot cross. Sonia first moves 5 km towards the south 
+from point E and reaches point F. From there, she turns right and moves 6 km and reaches point G. She 
+then turns left and moves 7 km towards the south and reaches point H. Finally, she turns right and moves 
+3 km and reaches point I. From point I, Sonia needs to reach point A, with shortest distance.  
+ 
+Q38. What is the total distance Rohit needs to travel from point A to point G? 
+(a) 29 km 
+(b) 31 km 
+(c) 34 km 
+(d) 36 km 
+(e) 38 km 
+ 
+Q39. What is the shortest distance between point A and point I? 
+(a) 26km 
+(b) √469km 
+(c) 24km 
+(d) √569km 
+(e) None of these  
+11 
+
+ 
+ 
+Q40. If Kavita is in north of point G and west of point A then in which direction is she with respect 
+to point D? 
+(a) North-east 
+(b) South 
+(c) North-west  
+(d) South-east 
+(e) South-west 
+ 
+Q41. Subsequent terms in all the given three number series should follow the pattern “1 more 
+than the square of consecutive odd numbers”. 
+ 
+Which of the following series does not follow the pattern? 
+(a) Only C 
+(b) Only A  
+(c) Both A and C 
+(d) Both B and C 
+(e) None of these 
+ 
+Directions (42-43): Given below three series I, II & III and each series has a wrong number. The 
+number that should come in place of wrong number in series I, II & III is a, b & c respectively.  
+ 
+ 
+Q42. 
+ 
+(a) Only (A) and (C) 
+(b) Only (B) and (C) 
+(c) Only (A) and (B) 
+(d) All three  
+(e) Only C  
+ 
+Q43. If y is two times of the highest root of equation 
+ then which of the 
+following option/s is true. 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) None of these 
+(e) Both (a) and (b) 
+12 
+
+ 
+ 
+Directions (44-45): Read the following quadric equation carefully and answer the questions given 
+below.  
+ 
+Note: Roots of the equation 1 are ‘x’ and ‘y’ and the roots of equation 2 are ‘x’ and ‘y – x’. 
+ 
+Q44. If we multiply equation 2 by 3z and add 1 in the smallest root of the equation newly formed, 
+then find the resultant number? 
+(a) 4 
+(b) 3  
+(c) 2 
+(d) 0 
+(e) None of the above  
+ 
+Q45. 
+ 
+(a) 49 
+(b) 125 
+(c) 36 
+(d) 81 
+(e) 256 
+ 
+Directions (46-47): Read the following quadric equation carefully and answer the questions given 
+below.  
+Equation 1: ax² + bx + c = 0 
+Equation 2: dy² + ey + c = 0 
+Note:  
+(i) c is a single digit prime number greater than 2 
+(ii) d and b are two digits prime number less than 20 
+(iii) d is greater than 11 
+(iv) b is greater than d 
+(v) Smallest roots of both the equation are same  
+(vi) No root is irrational 
+(vii) e = b + 1 
+(viii) 3c is greater than b 
+ 
+Q46. Find the value of ‘a’. 
+(a) 13 
+(b) 14 
+(c) 12 
+(d) 10 
+(e) 15 
+ 
+Q47. Find the value of ‘d× e’. 
+(a) 190 
+(b) 196 
+(c) 225 
+(d) 250 
+(e) 260 
+13 
+
+ 
+ 
+Directions (48-51): The scatter chart given below shows the number of boys on (Y – axis) and 
+number of girls (X – axis) in three different class of P, Q and R. 
+NOTE: If there were 10 more girls in class R then the probability of selecting a girl from R would be 
+40%  
+ 
+ 
+Q48. Number of girls in class Q is 200/3 % the number of girls in class R. If the number of boys in 
+class S is 20% more than the boys in class Q and the number of girls are same as that of Q, then 
+find the probability of selecting two girls from class S. 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q49. If the number of girls in class P is 25% of the number of boys in the class P, then find the 
+difference between the total students in class P and Q. 
+(a) 15 
+(b) 25 
+(c) 20 
+(d) 10 
+(e) 5 
+14 
+
+ 
+ 
+Q50. If 11
+𝟏
+𝟗%  of students in class R opt science stream and the ratio of boys and girls is 7:3 and the 
+girls who opt science stream in class R is 16
+𝟐
+𝟑% of total girls in Q, then find the total number of 
+student in class Q. 
+(a) 27 
+(b) 30 
+(c) 25 
+(d) 38 
+(e) 35 
+ 
+Q51. Number of girls in class P is 40% of the number of girls in R. If a teacher wants to make a two 
+groups (A and B) from class R and P respectively such that in group A two girls and one boy are 
+selected and in group B two girls and one boy are slected. Find the difference between the number 
+of ways he can make such group from each class. 
+(a) 20760 
+(b) 22350 
+(c) 21350 
+(d) 22560 
+(e) 23460 
+ 
+Directions (52-54): Read the paragraph carefully and answer the questions given below : 
+Rahul and Ram have sold some wooden and plastic toys. Selling price of each wooden toy sold by Rahul 
+and Ram is equal and total number of toys sold by Ram is 100. Selling price of each plastic toy sold by ram 
+and rahul is equal and the selling price of each wooden toy is two times the selling price of each plastic 
+toy. Number of plastic toys sold by Rahul is 37.5% of the wooden toys sold by him. Number of wooden 
+toys sold by Rahul is 66
+2
+3% that of toys sold by Ram. Number of plastic toys sold by Ram is equal to the 
+number of wooden toys sold by Rahul. 
+ 
+Q52. Number of plastic toys sold by both is what percentage more/less than the wooden toys sold 
+by both. 
+(a) 45% 
+(b) 38% 
+(c) 40% 
+(d) 50% 
+(e) 48% 
+ 
+Q53. If the selling price of each wooden toys sold is Rs 120, then find the difference between the 
+revenue of Rahul to the revenue of Ram by selling both types of toys (Note: Ram & Rahul sold all 
+the plastic & wooden toys). 
+(a) Rs. 3500 
+(b) Rs. 4900 
+(c) Rs. 3900 
+(d) Rs. 3000 
+(e) Rs. 5000 
+15 
+
+ 
+ 
+Q54. Find the ratio of the wooden toys sold by Rahul to the wooden toys sold by Ram. 
+(a) 3:2 
+(b) 5:3 
+(c) 1:1 
+(d) 2:5 
+(e) 2:3 
+ 
+Directions (55-57): Read the following table carefully and answer the questions given below.  
+In the table some numbers are given and the probability of picking that number is given. 
+ 
+ 
+Q55. If the series 
+follows a certain pattern, then find the value 
+of P. 
+(a) 3.5 
+(b) 3.75 
+(c) 4 
+(d) 5 
+(e) 2.75 
+ 
+Q56. If R = 5Q – 20, then find the value of R. 
+(a) 3 
+(b) 8 
+(c) 4 
+(d) 5 
+(e) 2 
+ 
+Q57. 
+ 
+(a) 7 
+(b) 4 
+(c) 9 
+(d) 2 
+(e) 1 
+16 
+
+ 
+ 
+Directions (58-60): Read the information carefully and answer the following question given below. 
+A right circular cylindrical vessel was filled with milk and water in the ratio 4: 5. If x ml of mixture was 
+sold and replaced with x ml of pure milk , then the ratio of milk to water in the final mixture becomes 57: 
+60. The quantity of mixture sold is 108 ml less than the initial quantity of mixture in the vessel. 
+ 
+Q58. If 3x ml mixture was sold and 
+ of milk & 2x ml of water is added in the vessel, then how 
+much volume of vessel is filled in cm cube? 
+(a) 113 
+(b) 111 
+(c) 130 
+(d) 125 
+(e) 120 
+ 
+Q59. Find the quantity of milk in the final mixture. 
+(a) 59 ml 
+(b) 36 ml 
+(c) 57 ml 
+(d) 67 ml 
+(e) 89 ml 
+ 
+Q60. If the radius of vessel is 0.7 cm and 37 cm³ of the vessel is empty, then find the height of the 
+vessel. 
+(a) 150 cm 
+(b) 200 cm 
+(c) 100 cm 
+(d) 130 cm 
+(e) 195 cm 
+ 
+Directions (61-63): The following questions are accompanied by two statements i.e. statement (I) 
+and statement (II). You have to determine which statement (s) is/are sufficient/necessary to 
+answer the questions. 
+ 
+Q61. Rahul invested in a bank at a rate of R% compound annually for t years. Find the value of t? 
+Statement (I): Raj invested Rs. 10,000 in scheme A at a rate of R% at a simple interest for 3 years then he 
+gets Rs. 3000 as an interest. 
+Statement (II): If Rahul invested certain amount at a compound interest for t years at the rate of X%, 
+then he gets Rs.1900 less interest than the interest he got when he invested same amount at simple 
+interest at same rate for 4 years.  
+(a) Neither statement (I) nor statement (II) by itself is sufficient to answer the question. 
+(b) Statement (II) alone is sufficient to answer the question but statement (I) alone is not sufficient to 
+answer the question. 
+(c) Either statement (I) or statement (II) by itself is sufficient to answer the question. 
+(d) Both the statements taken together are necessary to answer the questions, but neither of the 
+statements alone is sufficient to answer the question. 
+(e) Statement (I) alone is sufficient to answer the question but statement (II) alone is not sufficient to 
+answer the questions 
+17 
+
+ 
+ 
+Q62. The ratio of the efficiency of A to B to do a certain work is 5: 2 respectively. A takes X hour to 
+complete the work and C destroys the work in X + 5 hour. If all them started doing the work at 7 
+a.m. and completed the work at 1 p.m. & C works only for A hours, then find the time taken by C 
+alone to destroy the completed work completely.  
+Statement (I): A can do the 8/9th of the work in 16 hrs.  
+Statement (II): Efficiency of B to C is 5:1. 
+(a) Neither statement (I) nor statement (II) by itself is sufficient to answer the question. 
+(b) Statement (II) alone is sufficient to answer the question but statement (I) alone is not sufficient to 
+answer the question. 
+(c) Either statement (I) or statement (II) by itself is sufficient to answer the question. 
+(d) Both the statements taken together are necessary to answer the questions, but neither of the 
+statements alone is sufficient to answer the question. 
+(e) Statement (I) alone is sufficient to answer the question but statement (II) alone is not sufficient to 
+answer the questions 
+ 
+Q63. Two equations are given below 
+ 
+Find the sum of A, X and Y 
+Statement (I) : Roots of the equation Xm³ + Ym² – 2m – 3 = 0 are (m-1) and (m+1) 
+Statement (II) : A = Y + 5, 3X + A = 14 
+(a) Neither statement (I) nor statement (II) by itself is sufficient to answer the question. 
+(b) Statement (II) alone is sufficient to answer the question but statement (I) alone is not sufficient to 
+answer the question. 
+(c) Either statement (I) or statement (II) by itself is sufficient to answer the question. 
+(d) Both the statements taken together are necessary to answer the questions, but neither of the 
+statements alone is sufficient to answer the question. 
+(e) Statement (I) alone is sufficient to answer the question but statement (II) alone is not sufficient to 
+answer the questions 
+ 
+Directions (64-66): Read the following bar graph and the table carefully and answer the given 
+question: 
+The bar graph shows the percentage distribution of the stocks sold by Ram to six different people(P, Q, R, 
+S, T and U). Total stock value of Ram is Rs. 3,60,000. Table shows the percentage increment in the price of 
+stocks in two years and the overall percentage increment in the price of stocks. Ram earned some return 
+amount from the each person on the increased price.  
+Note: % increase in Price = % of the return 
+18 
+
+ 
+ 
+ 
+ 
+Q64. If the percentage increment for both the years are same for T and S, then find the return from 
+T & S when calulated after 1 year. 
+(a) Rs. 24,300 
+(b) Rs. 24,600 
+(c) Rs. 25,300 
+(d) Rs. 20,000 
+(e) None of these 
+ 
+Q65. If the percentage increment for Q is same for both the years, then find the difference between 
+the return from Q after 1st year and return from after 2nd year. 
+(a) Rs. 20,080 
+(b) Rs. 27,070 
+(c) Rs. 28,080 
+(d) Rs. 25,000 
+(e) None of these 
+19 
+
+ 
+ 
+Q66. Ram invested the amount which he recieved as a return after two years from P and S together 
+at compound interest for two years at the rate of 20% p.a. Find the interest recieved after two 
+years. 
+(a) Rs. 22021.5 
+(b) Rs. 23013.2 
+(c) Rs. 22000.4 
+(d) Rs. 22413.6 
+(e) None of these 
+ 
+Directions (67-69): The radar graph given below shows the number of buckets (plastic + wooden) 
+sold by five different shops (P, Q, R, S and T) in two different months (May and June). Read the data 
+carefully and answer the questions. 
+ 
+ 
+Q67. In May, if total wooden buckets sold by R was 200% more than total number wooden buckets 
+sold by S in May and total number of plastic buckets sold by R in May are more than total plastic 
+bucket sold by S in May, then which of the following option cannot be the number of plastic 
+buckets by R in May. 
+(a) 90 
+(b) 117 
+(c) 96 
+(d) 120 
+(e) Both (a) and (c) 
+20 
+
+ 
+ 
+Q68. 40% of total buckets sold by P in June are plastic buckets and 1/8 th of total plastic buckets 
+sold by P are defective. If 25% of total wooden buckets sold by P in June are also defective and 
+total wooden buckets sold by Q in June are 50% more than the difference between total plastic 
+and wooden buckets sold by P in June which are not defective, then find total plastic buckets sold 
+by Q in June are what percent of total buckets sold by Q in May. 
+(a) 50% 
+(b) 60% 
+(c) 66.66% 
+(d) 33.33% 
+(e) 30% 
+ 
+Q69. In May, if total number of plastic buckets sold by T are four times of the difference between 
+total number of buckets sold by Q in both months, then find the minimum possible average of total 
+wooden buckets sold by T in May and total plastic buckets sold by T in June (Given, number of 
+wooden buckets sold by T in June > total wooden buckets sold by T in May and it also a perfect 
+square of even number). 
+(a) 90 
+(b) 82 
+(c) 60 
+(d) 80 
+(e) 72 
+ 
+Q70. Three trains T1, T2 and T3 leaves station X for station Y in equal time intervals, when three 
+trains reach station Y simultaneously and then they leave for station Z, which is 480 km away from 
+station Y. T1 reach station Z two hours after T2 and T3 turns back immediately towards station Y 
+after reaching station Z. T1 and T3 meet a point O, which is 160 km away from station Z and the 
+difference between speed of T1 & T3 is V km/hr. Find the time (in minutes) taken by T3 to reach 
+point O from station Y. 
+(a) 144  
+(b) 240 
+(c) 120 
+(d) 180 
+(e) 160  
+ 
+Directions (71-78): Read the passage given below and answer the following questions. 
+Information technology has revolutionized the modern world, transforming how individuals and 
+organizations communicate, learn, work, and entertain themselves. From the internet and mobile devices 
+to cloud computing and artificial intelligence, IT has transformed virtually every aspect of human activity. 
+As such, it has created new opportunities and challenges, raising questions about privacy, security, 
+intellectual property, and the digital divide. One of the most significant implications of IT is its impact on 
+the way we communicate and access information. With the advent of the internet and social media, 
+individuals can now connect with others, share their ideas, and access vast amounts of information from 
+anywhere in the world. This has empowered individuals, democratized knowledge, and enabled new 
+forms of collaboration and innovation. However, it has also created new risks, such as the spread of 
+misinformation, cyberbullying, and online harassment. 
+21 
+
+ 
+Another key implication of IT is its impact on the economy and the nature of work. With the rise of 
+automation and artificial intelligence, many jobs are becoming redundant, while new ones are emerging. 
+This has led to a widening skills gap and increased demand for digital skills. Moreover, the growing use of 
+freelancers and remote work has blurred the boundaries of traditional employment, raising questions 
+about labor rights and the gig economy. As such, policymakers and businesses must work together to 
+ensure that IT creates inclusive, equitable, and sustainable economic opportunities for all. With the 
+internet and various software tools, we can now access and process vast amounts of data quickly and 
+efficiently. This has led to improvements in areas such as healthcare, education, and business. For 
+example, doctors can now access patient data remotely and collaborate with specialists from around the 
+world, while businesses can use data analytics to optimize their operations and reach new customers. 
+However, with the benefits come concerns. One of the biggest challenges is data privacy and security. As 
+more and more personal information is stored and shared online, the risk of data breaches and identity 
+theft also increases. In addition, there are concerns about the impact of technology on jobs and the 
+economy. As automation and artificial intelligence become more prevalent, there is a risk of job 
+displacement and a widening income gap between those who possess the necessary skills and those who 
+do not. In addition to its impact on communication and information access, information technology has 
+also transformed the business landscape. From e-commerce to supply chain management, digital 
+technology has revolutionized how companies operate and interact with customers. By leveraging data 
+analytics and machine learning algorithms, businesses can now make data-driven decisions, personalize 
+customer experiences, and optimize their operations for maximum efficiency.

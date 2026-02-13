@@ -1,0 +1,425 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 8
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152902/RRB-PO-Pre-2022-21st-August-Shift-Wise-Previous-Year-Paper-Mock-08.pdf
+======================================================================
+
+Q1. How many persons sit between T and the one who sits 3rd to the right of P? 
+(a) One 
+(b) Three  
+(c) Two 
+(d) Four 
+(e) None of these 
+ 
+Q2. What is the position of Q with respect to the one who is 20 years old? 
+(a) 3rd to the left 
+(b) Immediate right  
+(c) 2nd to the right 
+(d) 3rd to the right  
+(e) Immediate left  
+ 
+Q3. How many years old is P? 
+(a) 25  
+(b) 18 
+(c)  21 
+(d) 33 
+(e) None of these 
+ 
+Q4. Four of the following five are alike in a certain way and so form a group. Find the one who 
+does not belong to that group? 
+(a) V 
+(b) The one who is 15 years old 
+(c) M 
+(d) The one who is 25 years old 
+(e) S 
+ 
+Q5. V sits ____ to the right of ___? 
+(a) 2nd, Q 
+(b) 3rd, M 
+(c) 4th, S 
+(d) 2nd, the one who is 25 years old 
+(e) Both (a) and (d) 
+ 
+ 
+2 
+ 
+ 
+Directions (6-8): Study the information carefully and answer the questions given below. 
+Five countries fighter planes do air force exercise. Russia plane is 10km north of China plane. Port O is 
+exactly in the middle of the point of Russia plane and China plane. Germany plane is 8km east of China 
+plane. India plane is 8km east of port O. USA plane is 6km north of India plane.  
+ 
+Q6. What is the shortest distance between USA and Germany plane?  
+(a) 12km 
+(b) 11km 
+(c) 8km 
+(d) 6km 
+(e) 14km 
+ 
+Q7. If Germany plane goes 20km in the in the west then, what is the direction of India plane with 
+respect to the Germany plane? 
+(a) North-east 
+(b) South-west 
+(c) North-west 
+(d) South-east 
+(e) North 
+ 
+Q8. What is the shortest distance between USA plane and port O? 
+(a) 12km 
+(b) 14km 
+(c) 8km 
+(d) 6km 
+(e) None of these 
+ 
+Directions (9-13): Study the following information carefully and answer the questions given 
+below: 
+Six persons were born in different months i.e., March, April, May, June, July and August but not 
+necessarily in same order. No one was born between D and K. K was born just before Q who was born 
+just before S. T was born in the month which has even numbers of days. L was born before D but not 
+born just before.  
+ 
+Q9. Who among the following person was born in June? 
+(a) K 
+(b) D 
+(c) Q 
+(d) L 
+(e) None of these 
+ 
+ 
+3 
+ 
+ 
+Q10. How many persons were born before Q? 
+(a) Two 
+(b) Three 
+(c) Five 
+(d) Four 
+(e) None of these 
+ 
+Q11. In which of the following month L was born? 
+(a) June 
+(b) July 
+(c) August 
+(d) September 
+(e) None of these 
+ 
+Q12. Who among the following person was born in August? 
+(a) T 
+(b) S 
+(c) D 
+(d) K 
+(e) None of these 
+ 
+Q13. Four of the following five are alike in certain way based from a group, Find the one which 
+does not belong to that group? 
+(a) L 
+(b) Q 
+(c) D 
+(d) K 
+(e) S 
+ 
+Q14. If we form a meaningful word by the first, second, fourth and fifth letter of the word 
+‘ENSURE”, then which of the following will be the first letter of the word thus formed. If more 
+than one word is formed mark Y as your answer. If no meaningful word is formed, mark X as 
+your answer? 
+(a) E 
+(b) X 
+(c) R 
+(d) Y 
+(e) U 
+ 
+Directions (15-19): In each question below some statements are given followed by some 
+conclusions. You have to take the given statements to be true even if they seem to be at variance 
+with commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements, disregarding commonly known facts. 
+ 
+ 
+4 
+ 
+ 
+Q15. Statements: 
+Some Silent are Mute. 
+No Good is Silent. 
+Only a few Mute is Sound.  
+Conclusions:  
+I. All Sound being Silent is a possibility. 
+II. Some Mute is not Good 
+(a) Only I follows 
+(b) Both I and II follow 
+(c) Only II follows 
+(d) None follows 
+(e) None of these 
+ 
+Q16. Statements:  
+Only Purple is Yellow. 
+Some Olive is Purple. 
+Only a few Green is Olive. 
+Conclusions:   
+I. Some Olive being Yellow is a possibility 
+II. Some Purple being Green is a possibility 
+(a) Only I follows 
+(b) Both I and II follow 
+(c) Only II follows 
+(d) Either I or II follows 
+(e) None follows 
+ 
+Q17. Statements: 
+Only a few Crowd are People. 
+No People is Social. 
+Only a few Crowd is Distance. 
+Conclusions:  
+I. Some Distance is not Social 
+II. All Social is Crowd. 
+(a) Only II follows 
+(b) Both I and II follow 
+(c) Only I follows 
+(d) Either I or II follows 
+(e) None follows 
+ 
+Q18. Statements:  
+Only Worm is Virus. 
+All Harm is Worm. 
+few Health is Harm. 
+ 
+ 
+5 
+ 
+Conclusions:   
+I. Some Harm being Virus is a possibility 
+II. Some Worm being Health is a possibility 
+(a) Only I follows 
+(b) Both I and II follow 
+(c) Only II follows 
+(d) Either I or II follows 
+(e) None follows 
+ 
+Q19. Statements: 
+Some Day are Night. 
+No Night is Light. 
+Only a few Day is Dark. 
+Conclusions:  
+I. Some Dark is not Light 
+II. All Light being Day is a possibility. 
+(a) Only II follows 
+(b) Both I and II follow 
+(c) Only I follows  
+(d) Either I or II follows 
+(e) None follows 
+ 
+Directions (20-24): Study the information carefully and answer the questions given below. 
+Eight persons are sitting around a circular table. Some of them are facing towards the center of the table 
+and some of them are facing outside the center of the table.  
+N sits third to right of T. One person sits between N and Q. Three persons sit between Q and M. R sits 
+second to the right of M. P sits second to the right of S. P does not sit adjacent to N. Immediate neighbours 
+of M faces the opposite direction. Q sits immediate right of P. Immediate neighbours of T faces opposite 
+direction. S sits immediate right of N. S faces T. Q faces the opposite direction as O. 
+ 
+Q20. Who among the following sits third to the right of O? 
+(a) S 
+(b) R 
+(c) Q 
+(d) P 
+(e) None of these 
+ 
+Q21. Who among the following faces R? 
+(a) O 
+(b) S 
+(c) N 
+(d) M 
+(e) None of these 
+ 
+ 
+6 
+ 
+ 
+Q22. How many persons sit between P and M, when counted right of P? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None of these 
+ 
+Q23. Which of the following statement is true about N? 
+(a) N faces the same direction as M 
+(b) P sits opposite to N 
+(c) N sits immediate right of O 
+(d) R sits second to the right of N 
+(e) None is true 
+ 
+Q24. Who among the following sits immediate right of the one who sits third to the left of Q? 
+(a) M 
+(b) T 
+(c) R 
+(d) P 
+(e) None of these 
+ 
+Directions (25-27): Read the following information carefully and answer the questions given 
+below: 
+There are seven members S, T, U, V, W, X and Y in a family among them only 3 females. S is married to 
+V. W is grandson of V who has two children. U is sister-in-law of Y who is unmarried. X is brother-in-
+law of S who is mother-in-law of U. 
+ 
+Q25. How X is related to Y? 
+(a) Uncle 
+(b) Brother 
+(c) Mother 
+(d) Sister 
+(e) Grandson 
+ 
+Q26. Who among the following is the father of W? 
+(a) U 
+(b) T 
+(c) X 
+(d) Y 
+(e) None of these 
+ 
+ 
+7 
+ 
+ 
+Q27. If Z is the husband of Y, then how T is related to Z? 
+(a) Father-in-Law 
+(b) Son 
+(c) Brother-in-Law 
+(d) Uncle 
+(e) None of these 
+ 
+Q28. The position of how many alphabets will remain unchanged if each of the alphabets in the 
+word ‘TRANSTROMER’ is arranged in alphabetical order from left to right? 
+(a) None 
+(b) One 
+(c) Two 
+(d) Three 
+(e) More than Three 
+ 
+Q29. Which of the following symbols should replace the question mark in the given expression 
+to make N ≥ D definitely true? 
+A= G ≥ B, N ? F ? M = D, B > N 
+(a) >, > 
+(b) =, > 
+(c) ≤, ≤ 
+(d) ≤, < 
+(e) None of these 
+ 
+Directions (30-34): Study the following series of five three-digit numbers and answer the 
+questions. 
+593   723   437   562   628    
+ 
+Q30. If all the numbers are arranged in ascending order from left to right, then which number 
+will come in the middle of the series? 
+(a) 628 
+(b) 593 
+(c) 723 
+(d) 562 
+(e) None of these 
+ 
+Q31. If all the digits are arranged in descending order within the number, then which number 
+will be the lowest number? 
+(a) 593  
+(b) 437 
+(c) 562 
+(d) 628 
+(e) None of these 
+ 
+ 
+8 
+ 
+ 
+Q32. If in each number first and second digit are added and then subtract third digit from the 
+resultant, after performing the operation how many numbers will be greater than 10?  
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None of these 
+ 
+Q33. If the third digit of the 2nd highest number is divided by the second digit of the highest 
+number, then what will be the resultant? 
+(a) 4 
+(b) 3 
+(c) 2 
+(d) 5 
+(e) None of these 
+ 
+Q34. If all the digits are arranged in ascending order within the number, then which number will 
+be the highest number? 
+(a) 593  
+(b) 437 
+(c) 562 
+(d) 628 
+(e) None of these 
+ 
+Directions (35-36): In these questions, the relationship between different elements is shown in 
+the statements. The statements are followed by conclusions. Study the conclusions based on the 
+given statements and select the appropriate answer: 
+ 
+Q35.  
+ 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q36.  
+  
+ 
+ 
+9 
+ 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Directions (37-40): Study the following information carefully and answer the questions given 
+below: 
+There are Ten friends E, F, G, H, I, J, K, L, M and N sitting around a circular table facing towards the center 
+of the table. M sits third to the right of E. G sits fourth to the right of M. There are as many persons sit 
+between M and F as between J and M.  I is not an immediate neighbor of F. One person sits between G 
+and H. I sits fourth to the left of H. Neither J nor F is an immediate neighbor of N. Two persons sit 
+between I and L who is not an immediate neighbor of M. K sits second to the left of L. 
+ 
+Q37. Who among the following sits third to the left of F? 
+(a) K 
+(b) G 
+(c) I 
+(d) E 
+(e) N 
+ 
+Q38. Who among the following sits exactly between I and H counting from right of I? 
+(a) J 
+(b) M 
+(c) F 
+(d) K 
+(e) E 
+ 
+Q39. Who among the following sits immediate right of J? 
+(a) I  
+(b) N 
+(c) L 
+(d) M 
+(e) None of these 
+ 
+Q40. Who among the following sits second to the right of G? 
+(a) N 
+(b) L 
+(c) E 
+(d) K 
+(e) H 
+ 
+ 
+10 
+ 
+ 
+Directions (41-46): Study the table given below and answer the following questions. 
+Table gives information about total number of smart phone users in 3 different offices (A, B and 
+C) in 1999 & 2000 and also gives information about total number of IOS phone users in these 
+three offices in 1999 & 2000. 
+ 
+Note: Total smart phone users in any office = (Total IOS phone users 
+                                                                  + Total android phone users) in that office in that year.

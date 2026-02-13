@@ -1,0 +1,389 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2024
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/24182534/SBI-PO-Pre-2024-25-Memory-Based-Paper-24-Mar-2025-1st-shift.pdf
+======================================================================
+
+Q66. A and B can complete a work in 15 and 30 days, respectively. A and B work together for 6 
+days, and then A leaves. C joins the work, and B & C together complete the remaining work in 5 
+days. In how many days can C complete the whole work alone? 
+(a) 110/9 
+(b) 123/8 
+(c) 150/7 
+(d) 121/3 
+(e) None of these 
+ 
+Q67. A sold two items, X and Y, at 25% and 35% profit, respectively. If the difference between 
+their profit is Rs 750 and the cost price of both items is the same, find the cost price of item X. 
+(a) Rs 750 
+(b) Rs 1750 
+(c) Rs 7500 
+(d) Rs 8750 
+(e) Rs 5750 
+ 
+Q68. The ratio of the speed of a boat in still water to the speed of a current is 4:1. The total time 
+taken by the boat to cover D km downstream and D - 10 km upstream is 12 hours. Find D. 
+(a) 125 
+(b) 105 
+(c) 80 
+(d) Can’t be determined 
+(e) None of these 
+ 
+ 
+ 
+Q69. The speed of train A is 20 m/sec, which is double the speed of train B. The ratio of the length 
+of the trains A to B is 10:7, respectively. Train B can cross a pole in 28 seconds; then find the 
+length of train A (in meters). 
+(a) 400 
+(b) 250 
+(c) 280 
+(d) 360 
+(e) 440 
+ 
+Q70. A invested Rs P+500 in compound interest for two years at 10% p.a. and received interest 
+of Rs 840. If he invested Rs P at 15% p.a. for simple interest for the same period, then find the 
+amount he received (in Rs). 
+(a) 4000 
+(b) 4550  
+(c) 1550 
+(d) 3500 
+(e) 4050 
+ 
+Q71. In the word ‘CREATION’, how many pairs of the letters have the same letters between them 
+(both forward and backward direction) as in the English alphabet? 
+(a) Four 
+(b) Two 
+(c) One 
+(d) Three 
+(e) More than four 
+ 
+Directions (72-74): In each question below, some statements are given followed by some 
+conclusions. You have to assume everything in the statements to be true even if they seem to be 
+at variance with commonly known facts. Now, decide which of the two given conclusions 
+logically follow from the statements, disregarding commonly known facts.  
+ 
+Q72. Statements:  
+All manager are help. 
+Only a few help are free. 
+Some free is not rude. 
+Conclusions:  
+I. All help being rude is a possibility.  
+II. Some manager is help. 
+(a) Only I follows 
+(b) Only II follows  
+(c) Either I or II follows  
+(d) Both I and II follow 
+(e) None follows 
+ 
+ 
+ 
+Q73. Statements:  
+Only travel are planet. 
+Some crow are travel. 
+All crow are silver. 
+Conclusions:  
+I. Some planet being silver is a possibility.  
+II. All travel can never be crow.  
+(a) Only I follows 
+(b) Only II follows  
+(c) Either I or II follows  
+(d) Both I and II follow 
+(e) None follows 
+ 
+Q74. Statements:  
+No cow are money. 
+Only a few cow are plate. 
+All money are singer. 
+Conclusions:  
+I. No plate is money. 
+II. All plate being singer is a possibility.  
+(a) Only I follows 
+(b) Only II follows  
+(c) Either I or II follows  
+(d) Both I and II follow 
+(e) None follows 
+ 
+Directions (75-79): Study the following information carefully and answer the questions given 
+below: 
+ 
+Nine persons – A, B, C, D, E, F, G, H, and I – are sitting around a circular table, all facing towards the 
+center. But not necessarily in the same order. 
+Only one person sits between A and F. C sits third to the right B, 
+who is an immediate neighbor of A. Only three people sit between 
+A and G. G sits second to the left of H. I is an immediate neighbor 
+of both A and H. F is not an immediate neighbor of D.  
+ 
+Q75. What is the position of E with respect to A? 
+(a) Third to the right 
+(b) Immediate left 
+(c) Fifth to the left 
+(d) Second to the right 
+(e) Fifth to the right 
+ 
+ 
+ 
+Q76. Who among the following sit between C and B when counted in clockwise direction from B? 
+I. H 
+II. F 
+III. D 
+(a) Both I and II 
+(b) Only III 
+(c) Both II and III 
+(d) Both I and III 
+(e) Only I 
+ 
+Q77. Four of the following five are alike in a certain way and thus form a group. Find the one 
+which doesn’t belong to the group. 
+(a) B-E 
+(b) F-C 
+(c) C-D 
+(d) D-I 
+(e) H-B 
+ 
+Q78. How many persons sit between G and E when counted from left of G? 
+(a) Three 
+(b) Two 
+(c) One 
+(d) Four 
+(e) None 
+ 
+Q79. Who among the following sit fourth to the right of I? 
+(a) E 
+(b) F 
+(c) C 
+(d) G 
+(e) None of these 
+ 
+Q80. If a four-letter meaningful word is formed by using of 1st, 4th, 7th and 10th letter from left 
+end of the word ‘INTERSTELLAR’, then what will be the second letter from right end of that 
+meaningful word. If more than one meaningful word is formed, mark the answer as Y and if no 
+meaningful word is formed, mark the answer as Z.  
+(a) I 
+(b) T 
+(c) Z 
+(d) E 
+(e) Y 
+ 
+ 
+ 
+Directions (81-85): Study the following information carefully and answer the questions given 
+below: 
+ 
+Ten people—J, K, L, M, N, O, P, Q, R, and S—live in a building with five floors and two flats (Flat 1 and 
+Flat 2) on each floor. The floors are numbered from 1 to 5 (1 being the lowermost floor and 5 being the 
+topmost floor).  
+Note I: Each floor has two flats viz., Flat-1 and Flat-2, where Flat 1 is to the west of Flat 2. 
+Note II: Flat 1 of floor 2 is immediately above Flat 1 of floor 1 and immediately below Flat 1 of floor 3 
+and so on. Similarly Flat 2 of floor 2 is immediately above Flat 2 of floor 1 and immediately below Flat 
+2 of floor 3 and so on. 
+Note III: The area of each flat is equal. 
+Note IV: Only two persons live on each floor and only one person lives in each flat.  
+L lives on an even-numbered floor in Flat-1. P lives in Flat-2 of the topmost floor. N lives west of Q. N 
+lives on a floor immediately below the L’s floor. K and R live on the same named flat. K and L lives in a 
+different named flat. Only one floor is between K and O. K lives below O. S lives to the west of P. M lives 
+immediately below O, but not in the same named flat. One floor between J’s floor and L’s floor.  
+ 
+Q81. Who lives in Flat 1 on the topmost floor? 
+(a) S 
+(b) J 
+(c) M 
+(d) O 
+(e) None of these 
+ 
+Q82. Which pair of people live on the same floor? 
+(a) M and K 
+(b) Q and P 
+(c) K and L 
+(d) R and O 
+(e) None of these 
+ 
+Q83. Who lives in Flat 2 on the third floor? 
+(a) M 
+(b) R 
+(c) K 
+(d) Q 
+(e) O 
+ 
+Q84. How many persons live between S and N in the same numbered flat? 
+(a) None 
+(b) One 
+(c) Four 
+(d) Two 
+(e) Three 
+ 
+ 
+ 
+Q85. Which among the following statement is/are false? 
+(a) Two floors between P’s floor and L’s floor 
+(b) J lives above L 
+(c) N lives immediately below K. 
+(d) Q lives above M 
+(e) K lives east of L 
+ 
+Directions (86-90): Study the following information carefully and answer the given questions: 
+ 
+Eight persons — A, B, C, D, E, F, G and H were studying about different birds in different months of the 
+same year, viz. January, March, May, June, July, October, November and December, but not necessarily 
+in the same order. Each of them is studying about different birds — Kingfisher, Toucans, Penguin, 
+Ostrich, Woodpecker, Loon, Sparrow and Peacock.  
+G is studying in the month having odd number of days. Either two persons were studying before G or 
+after G. Two persons were studying between G and the one who is studying about loon. H was studying 
+three persons after the person who is studying about ostrich and four months before A. Three persons 
+were studying between A and the one who is studying about Woodpecker. B is studying about Sparrow 
+two persons before F. F is studying before E. The one who is studying about Penguin is studying 
+immediately after the one studying about Kingfisher. Two persons were studying between the ones 
+studying about Kingfisher and Peacock. D is not the first one to study. 
+ 
+Q86. Which among the following combination is correct? 
+(a) D and the one studying about Loon 
+(b) G and the one studying about Peacock 
+(c) F and the one studying about Penguin 
+(d) C and the one studying about Ostrich 
+(e) H and the one studying about Toucans 
+ 
+Q87. Which of the following statement is true? 
+(a) B is studying in the month of June. 
+(b) Two persons were studying after F. 
+(c) G is studying about woodpecker 
+(d) A is studying in the month of October. 
+(e) E is not studying about Penguin. 
+ 
+Q88. How many persons were studying between D and the one studying about Kingfisher? 
+(a) Six 
+(b) Three 
+(c) Four 
+(d) Five 
+(e) Two 
+ 
+ 
+ 
+Q89. Which among the following statement is not true? 
+I. A is studying about Loon 
+II. F is studying in the month having even number of days. 
+III. C is studying in the month after D. 
+(a) Only III 
+(b) Both I and II 
+(c) Both I and III 
+(d) Both II and III 
+(e) All I, II and III 
+ 
+Q90. Who among the following was born in the month of June? 
+(a) The person studying about Penguin 
+(b) The person studying about Kingfisher 
+(c) The person studying about Ostrich 
+(d) The person studying about Loon 
+(e) The person studying about Peacock 
+ 
+Directions (91-95): Study the following information carefully and answer the given questions: 
+ 
+Eight persons – P, Q, R, S, T, U, V and W – sit in a linear row. Some of them face North and some face 
+South.  
+Note: Equal number of persons face north and south. 
+T sits third to the right of V. One person sits between S and V. Both S and V face opposite directions to 
+each other. P sits immediately to the right of S. P and V are not immediate neighbours. Three persons 
+sit between P and R. W sits second to the left of R. W is not an immediate neighbour of V. Immediate 
+neighbours of R face in the direction opposite to each other. T sits immediate to the right of Q. The 
+persons sit at both the ends of the row face opposite direction to each other. W and U face the same 
+direction. W doesn’t face north. 
+ 
+Q91. The number of persons sits to the right of T is same as than the number of persons sits to 
+the right of ____. 
+(a) V 
+(b) P 
+(c) W 
+(d) S 
+(e) R 
+ 
+Q92. What is the position of Q with respect to S? 
+(a) Sixth to the right 
+(b) Second to the left 
+(c) Fifth to the right 
+(d) Second to the right 
+(e) Sixth to the left 
+ 
+ 
+ 
+Q93. How many persons sit between W and U? 
+(a) None 
+(b) Two 
+(c) One 
+(d) Three 
+(e) Four 
+ 
+Q94. If R is related to T and in the same way Q is related to U then S is related to who among the 
+following persons? 
+(a) P 
+(b) V 
+(c) R 
+(d) U 
+(e) T 
+ 
+Q95. Who among the following persons sits exactly between V and Q? 
+(a) P 
+(b) S 
+(c) R 
+(d) U 
+(e) T 
+ 
+Directions (96-100): Read the following information carefully and answer the questions given 
+below: 
+ 
+Six persons –C, P, Q, S, T and U– were born in different years among 1933, 1944, 1981, 1987, 1993 and 
+2018. The base year for calculating age is 2025. Each of them likes to visit a different place among Italy, 
+Greece, Spain, Egypt, Maldives, and Japan (not necessarily in the same order). 
+C is six years elder than the person who likes to visit Italy. One person was born between the persons 
+who likes to visit Italy and Maldives. U is immediately elder than the person who likes to visit Maldives. 
+S is two persons elder than T. The one who likes to visit Spain is immediately younger than the T. C 
+doesn’t like to visit Spain. The one who likes to visit Japan is two persons elder than the one who likes 
+to visit Egypt. P doesn’t like to visit Greece and Maldives. 
+ 
+Q96. What is the sum of ages of S, U and Q? 
+(a) 120 years 
+(b) 111 years 
+(c) 101 years 
+(d) 122 years 
+(e) 121 years 
+ 
+ 
+ 
+Q97. What is the age of the person who likes to visit Maldives? 
+(a) 32 years 
+(b) 7 years 
+(c) 44 years 
+(d) 38 years 
+(e) 81 years 
+ 
+Q98. Which of the following combinations is correctly matched? 
+(a) S – 1944 – Egypt 
+(b) Q – 2018 – Spain 
+(c) P – 1933 – Japan 
+(d) U – 2018 – Maldives 
+(e) T – 1944 – Greece 
+ 
+Q99. Which among the following statement is/are false? 
+I. U is elder than T. 
+II. C is 37 years elder than S. 
+III. S doesn’t like to visit Maldives. 
+(a) Both I and III 
+(b) Only III 
+(c) Both I and II 
+(d) Both II and III 
+(e) All I, II and III 
+ 
+Q100. Four of the following five are alike in a certain way and thus form a group. Find the one 
+which doesn’t belong to the group. 
+(a) P 
+(b) U 
+(c) C 
+(d) T 
+(e) Q 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions 

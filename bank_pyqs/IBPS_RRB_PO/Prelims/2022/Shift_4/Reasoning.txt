@@ -1,0 +1,426 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 4
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152914/RRB-PO-Pre-2022-20th-August-Shift-Wise-Previous-Year-Paper-Mock-04.pdf
+======================================================================
+
+Q1. How many numbers are there which are immediately preceded by a symbol and immediately 
+followed by a letter? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None 
+ 
+Q2. How many letters are there which are immediately preceded by a symbol and immediately 
+followed by a number?  
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None 
+ 
+Q3. How many symbols are there which are immediately preceded by a letter and immediately 
+followed by a number? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) More than three 
+(e) None 
+ 
+Q4. If all the symbols are eliminated from the given series, then which element is exactly between 
+‘E’ and ‘8’? 
+(a) G 
+(b) B 
+(c) K 
+(d) 9 
+(e) F 
+ 
+ 
+2 
+ 
+ 
+Q5. Which element is second to the right of the one which is the tenth element from the right 
+end? 
+(a) 0  
+(b) X  
+(c) 3  
+(d) $ 
+(e) &  
+ 
+Directions (6-8): Study the following information and answer the given questions. 
+Point G is 18m to the north of Point F. Point J is 12m to the east of Point K. Point B is 8m to the north of 
+Point J. Point C is 6m to the west of Point B. Point E is 9m to the south of Point C. Point K lies exactly 
+between Point G and Point F. 
+ 
+Q6. In which direction is Point K with respect to Point E? 
+(a) West 
+(b) Northwest 
+(c) South 
+(d) Southeast 
+(e) Cannot be determined 
+ 
+Q7. In which direction is Point B with respect to Point G? 
+(a) West 
+(b) East 
+(c) Southwest 
+(d) Southeast 
+(e) None of these 
+ 
+Q8. What is the shortest distance between Point J and Point F? 
+(a) 9m 
+(b) 12m 
+(c) 15m 
+(d) 21m 
+(e) Cannot be determined 
+ 
+Directions (9-12): Study the following information carefully and answer the questions given 
+below: 
+In a certain code language:   
+“Online demo English class” is coded as “df   gh   jk   es” 
+“Offline extra class maths” is coded as “qw   df   rt   yu” 
+“Maths and English batch” is coded as “rt   zx   bv   gh” 
+ 
+ 
+3 
+ 
+ 
+Q9. What is the code of “English” as per the given code language? 
+(a) rt 
+(b) gh 
+(c) df 
+(d) qw 
+(e) Can’t be determined 
+ 
+Q10. What may be the code of “offline” as per the given code language? 
+(a) rt 
+(b) gh 
+(c) df 
+(d) qw 
+(e) jk 
+ 
+Q11. If “fresh batch” is coded as “zx cv”, then what will be the code of “and class” as per the given 
+code language? 
+(a) rt df 
+(b) jk gh 
+(c) df bv 
+(d) qw df 
+(e) Can’t be determined 
+ 
+Q12. In the given code language, “rt” is stand for? 
+(a) maths 
+(b) english 
+(c) demo 
+(d) extra 
+(e) None of these 
+ 
+Q13. In the given word ‘GOOSEBUMP’, how many pairs of the letters have the same number of 
+letters between them (both forward and backward direction) as in the alphabetical series? 
+(a) Four 
+(b) One 
+(c) Three 
+(d) Two 
+(e) More than Four 
+ 
+Directions (14-17): In each of the questions below some statements are given followed by two 
+conclusions. You have to take the given statements to be true even if they seem to be at variance 
+with commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements disregarding commonly known facts. 
+ 
+ 
+4 
+ 
+ 
+Q14. Statements:  
+Only a few Day are Night.  
+All Night are Noon.  
+Conclusion  
+I: All Day can be Noon.    
+II: Some noon is day. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q15. Statements:  
+Only a few Door are Lock.  
+Only a few Key are Lock. 
+Conclusion  
+I: All door can be lock. 
+II: Some Door can be Key. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q16. Statements:  
+Only Grey are Pink.  
+No Purple is Grey. 
+Conclusion  
+I: Some Purple are Pink 
+II: Some Pink can be Purple 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q17. Statements:  
+100% Tape are Record.  
+No Tape are Wire. 
+Conclusion  
+I: Some Record are Wire. 
+II: All Record can be wire. 
+ 
+ 
+5 
+ 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Directions (18-21): Study the following information carefully and answer the questions given 
+below: 
+Eight persons E, F, G, H, I, J, K and L sit in a row adjacent having equal distance between each other. 
+Some of them are facing south while some of them are facing north direction but not necessarily in the 
+same order. 
+Three persons sit between K and H both of them face the opposite direction. There are as many persons 
+sitting between F and K as between K and J who faces south. H is not an immediate neighbor of J and F. 
+E sits third to the right of H. The one who sits immediate right of H faces north. E and G face opposite 
+directions. I and G are not immediate neighbors of J. E sits second to the left of I. Immediate neighbors 
+of I faces the same direction as L. F sits at one of the extreme ends. J does not sit immediate right of E.  
+ 
+Q18. Which among the following pair sits at extreme ends? 
+(a) F, H 
+(b) E, F 
+(c) L, F 
+(d) F, G 
+(e) None of these 
+ 
+Q19. Who among the following sits third to the right of J? 
+(a) K 
+(b) G 
+(c) I 
+(d) F 
+(e) L 
+ 
+Q20. How many persons face the south direction? 
+(a) Three 
+(b) Four 
+(c) Five 
+(d) More than Five 
+(e) Cannot be determined 
+ 
+Q21. Four among the following five are alike in a certain way and hence belongs to a group. Who 
+does not belong to that group? 
+(a) I-G 
+(b) F-L 
+(c) L-E 
+(d) K-J 
+(e) F-E 
+ 
+ 
+6 
+ 
+ 
+Directions (22-23): In these questions, relationship between different elements is shown in the 
+statements. These statements are followed by two conclusions. 
+Mark answer as 
+ 
+Q22.  
+ 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q23.  
+ 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Directions (24-28): Study the information carefully and answer the questions given below. 
+Eight persons A, B, C, D, L, Q, R and S are living in a four-story building (but not necessarily in the same 
+order) such as ground floor is numbered as 1, just above it is numbered as 2 and so on till the topmost 
+floor is numbered as 4. Each of the floors has 2 flats in it viz. flat-1 and flat-2. Flat-1 of floor-2 is 
+immediately above flat-1 of floor-1 and immediately below flat-1 of floor-3 and so on. In the same way, 
+flat-2 of floor-2 is immediately above flat-2 of floor-1 and immediately below flat-2 of floor-3 and so on. 
+Flat-1 is in the west of flat-2. 
+Two floors gap between L and D but they do not live in the same flat. S lives on an odd-numbered floor 
+and to the west of B’s flat. One floor gap between the floors of L and C and they live in the same flat. A is 
+living above Q’s floor in the same flat. L lives on an even-numbered floor. R is living in an even-numbered 
+flat. 
+ 
+ 
+7 
+ 
+ 
+Q24. Who among the following lives in flat-1 on the 3rd floor? 
+(a) A 
+(b) S 
+(c) D 
+(d) Q 
+(e) None of these 
+ 
+Q25. Who among the following is/are living with C in the same numbered flat? 
+(a) L 
+(b) S 
+(c) Both L and B 
+(d) B 
+(e) None of these 
+ 
+Q26. Which of the following combination is/are true? 
+(a) A- Flat1 
+(b) S- Floor 3 
+(c) All are true 
+(d) R- Floor 1 
+(e) B-Flat 2 
+ 
+Q27. How many floors are there between R and S? 
+(a) Both are living on the same floor 
+(b) None 
+(c) Two 
+(d) One 
+(e) None of these 
+ 
+Q28. The number of floors gap between S and Q is same as the number of floors gap between __ 
+and ___. 
+(a) Q-A 
+(b) L-R 
+(c) B-C 
+(d) S-R 
+(e) None of these 
+ 
+Directions (29-32): Study the following information carefully and answer the questions given 
+below. 
+Nine teachers i.e. A, B, C, D, L, M, N, O and P take lectures on different dates- 1st, 4th and 5th of the month- 
+March, June and December but not necessarily in the same order.  
+ 
+ 
+8 
+ 
+N takes lecture on an even date in the month which has 30 days. Two persons take lectures in between 
+N and O. B takes lecture just before P but not in the same month. P does not take lecture before N. More 
+than two persons take lectures between O and P. Both D and M take lectures in the same month. One 
+person takes the lecture in between A and C. Not more than four persons take lectures in between C and 
+D.  
+ 
+Q29. How many teachers take lectures between L and D? 
+(a) Two 
+(b) One 
+(c) Three 
+(d) Five 
+(e) None of these 
+ 
+Q30. Who among the following person takes lecture just before O? 
+(a) L 
+(b) A 
+(c) D 
+(d) M 
+(e) None of these  
+ 
+Q31. How many persons take lectures in between N and C? 
+(a) None 
+(b) One 
+(c) Two 
+(d) Three 
+(e) None of these 
+ 
+Q32. Who among the following person definitely does not take lecture in March? 
+(a) O 
+(b) P 
+(c) A 
+(d) L 
+(e) Both P and L 
+ 
+Directions (33-34): In this question, relationship between different elements is shown in the 
+statements. The statements are followed by conclusions. Study the conclusions based on the 
+given statement and select the appropriate answer. 
+ 
+Q33.  
+ 
+ 
+ 
+9 
+ 
+(a) Only conclusion I is true 
+(b) Only conclusion II is true 
+(c) Either conclusion I or II is true 
+(d) Both conclusions I and II are true 
+(e) Neither conclusion I nor II is true 
+ 
+Q34.  
+ 
+(a) Only conclusion I is true 
+(b) Only conclusion II is true 
+(c) Either conclusion I or II is true 
+(d) Both conclusions I and II are true 
+(e) Neither conclusion I nor II is true 
+ 
+Q35. Which of the following words cannot be formed with the help of the letters of ‘WEDNESDAY’? 
+(a) Sadden  
+(b) Owns  
+(c) Days 
+(d) Weedy  
+(e) Ends  
+ 
+Directions (36-39): Study the following information carefully and answer the questions given 
+below. 
+Eight persons i.e., J, K, L, M, N, O, P and Q are seated around a circular table but not necessarily in the 
+same order. Equal number of persons are facing inside and outside from the table.  
+ 
+J sits third to the right of M. There are two persons sit between M and P. K and N faces each other. L sits 
+second to the right of N who sits immediate right of J. O is not an immediate neighbour of N. None of the 
+immediate neighbours are facing the same directions.  
+ 
+Q36. How many persons sit between M and L? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None 
+ 
+ 
+10 
+ 
+ 
+Q37. Who among the following sits third to the left of J? 
+(a) Q 
+(b) K 
+(c) L 
+(d) N 
+(e) None of these 
+ 
+Q38. Who among the following are immediate neighbour of both O and Q? 
+(a) M 
+(b) None of these 
+(c) J 
+(d) P 
+(e) K 
+ 
+Q39. Who among the following faces outside? 
+(a) M 
+(b) N 
+(c) L 
+(d) K 
+(e) J 
+ 
+Q40. Five batsmen score different runs in cricket match. R scores less than V but not score the 
+least. D scores twice runs than J. P scores more than V but not score the maximum. Who among 
+the following score the 2nd lowest runs? 
+(a) R 
+(b) J 
+(c) D 
+(d) V 
+(e) Can’t be determined

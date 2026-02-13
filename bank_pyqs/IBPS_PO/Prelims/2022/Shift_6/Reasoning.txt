@@ -1,0 +1,378 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2022
+Shift: 6
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/07/19005951/IBPS-PO-Pre-2022-16th-October-Shift-Wise-Previous-Year-Papers-Mock-06-1.pdf
+======================================================================
+
+Q66. Statements:  
+Some news are article.  
+All articles are headline. 
+Only a few articles are report. 
+Conclusions: 
+I: All headline can never be report. 
+II: Some news are not report. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q67. Statements:  
+No subject is relation. 
+Some relations are air. 
+No air is game. 
+Conclusions:  
+I: Some subject can be air. 
+II: Some relation is not game. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q68. Statements:  
+All rice is fry. 
+All fry are bake. 
+Only bake is chips. 
+Conclusions: 
+I: Some chips can be rice. 
+II: Some chips are rice. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Directions (69-73) : Study the following information and answer the questions given below: 
+Eight persons Y, U, I, R, E, W, Q and P sit in a linear row but not necessarily in the same order. 
+Four persons face south and the remaining four persons face north direction.  
+ 
+ 
+17 
+ 
+Y is the only neighbour of P who faces north. U sits second to the left of Y and sits third to the right of R. 
+Only two persons sit between W and E and none of them sit at any of the extreme ends of the row. Q and 
+U sit immediate right to each other. I and E face north and both are the immediate neighbours of R. 
+ 
+Q69. Who among the following sits immediate right of W? 
+(a) Y 
+(b) U 
+(c) Q 
+(d) R 
+(e) None of these 
+ 
+Q70. How many persons sit between E and P? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None of these 
+ 
+Q71. Four among the following five are alike in a certain way and form a group. Find the one who 
+does not belong to that group? 
+(a) Y 
+(b) R 
+(c) I 
+(d) W 
+(e) Q 
+ 
+Q72. What is the position of Q with respect to I? 
+(a) Third to the right 
+(b) Second to the left 
+(c) Third to the left 
+(d) Immediate right 
+(e) None of these 
+ 
+Q73. How many persons sit to the left of Y? 
+(a) Two 
+(b) Three 
+(c) Four 
+(d) Five 
+(e) None of these 
+ 
+Directions (74-76) : Study the following information carefully and answer the questions given 
+below. 
+ 
+ 
+18 
+ 
+Eight light houses installed in State Z at different distances and directions with respect to each other.  
+Light house S is 600m west of light house T. Light house R is 6oom west of light house S. Light house Q 
+is 600m north of light house R. Light house U is 1200m north of light house T. Light house V is 600m 
+east of light house U. Light house W is 600m south of light house V. Light house P is 600m east of light 
+house Q. 
+ 
+Q74. Light house V is in which direction with respect to light house P? 
+(a) South-east 
+(b) South 
+(c) East 
+(d) North-east 
+(e) None of these 
+ 
+Q75. If light house X is west of light house W at a distance of 600m, then what is the distance 
+between light house X and light house T? 
+(a) 1200m 
+(b) 600m 
+(c) 800m 
+(d) 1000m 
+(e) None of these  
+ 
+Q76. What is the total distance from light house Q to light house V? 
+(a) 360m 
+(b) 2600m 
+(c) 3.6km 
+(d) 1.3km 
+(e) None of these 
+ 
+Directions (77-80) : In these questions, relationship between different elements is shown in the 
+statements. These statements are followed by two conclusions. Find which of the conclusion will 
+be true according to the statement: 
+ 
+Q77. 
+ 
+(a) Only conclusion II is true 
+(b) Only conclusion I is true 
+(c) Either conclusion I or II is true 
+(d) Neither conclusion I nor II is true 
+(e) Both conclusions I and II are true 
+ 
+ 
+19 
+ 
+ 
+Q78. 
+ 
+(a) Only conclusion II is true 
+(b) Only conclusion I is true 
+(c) Either conclusion I or II is true 
+(d) Neither conclusion I nor II is true 
+(e) Both conclusions I and II are true 
+ 
+Q79. 
+ 
+(a) Only conclusion II is true 
+(b) Only conclusion I is true 
+(c) Either conclusion I or II is true 
+(d) Neither conclusion I nor II is true 
+(e) Both conclusions I and II are true 
+ 
+Q80. 
+ 
+(a) Only conclusion II is true 
+(b) Only conclusion I is true 
+(c) Either conclusion I or II is true 
+(d) Neither conclusion I nor II is true 
+(e) Both conclusions I and II are true 
+ 
+Directions (81-85) : Study the following information carefully and answer the questions given 
+below. 
+Six persons were born in three different months i.e., June, August and November of the same year and 
+on two different dates- 4th and 13th of the each given month. Each of them likes different colours. 
+K was born in the month having even number of days. D likes yellow and born just after K. More than 
+two persons were born between D and the one who likes pink. P was born just before the one who likes 
+pink. G was born on even numbered date but not after the one who likes yellow. The number of persons 
+born before G is same as the number of persons born after the one who likes black. The one who likes 
+blue born before J and born after the one who likes red. M doesn’t like green. 
+ 
+ 
+20 
+ 
+ 
+Q81. Who among the following likes black colour? 
+(a) P 
+(b) J 
+(c) M 
+(d) G 
+(e) None of these 
+ 
+Q82. How many persons are younger than M? 
+(a) One 
+(b) Two 
+(c) More than three 
+(d) Three 
+(e) None  
+ 
+Q83. Which of the following combination is correct? 
+(a) D-13th August 
+(b) G-Green 
+(c) M-Pink 
+(d) J-4th June 
+(e) None is correct 
+ 
+Q84. P likes which of the following colour? 
+(a) Black 
+(b) Red 
+(c) Pink 
+(d) Blue 
+(e) None of these 
+ 
+Q85. Which of the following statement(s) is/are true? 
+(a) J doesn’t like green colour 
+(b) D was born in November 
+(c) Two persons were born before G 
+(d) The one who likes green colour is younger than P 
+(e) All are true 
+ 
+Q86. Which of the following is the third letter of the meaningful word formed from the First, 
+fourth, sixth and eighth letters from the left end of the word “NUTRITION’. If more than one word 
+is formed your answer will be Z and if no word can be formed your answer will be X? 
+(a) O 
+(b) X 
+(c) R 
+(d) Z 
+(e) N 
+ 
+ 
+21 
+ 
+ 
+Directions (87-90) : Study the alphanumeric symbol series given below and answer the 
+questions which follow: 
+A ^ $ S F 7 9 K $ 5# X K 8 J * F I R 3 1 @ V 9 5 % M L  
+ 
+Q87. How many symbols are there in the given series which are immediately followed by a letter 
+and immediately preceded by a number? 
+(a) Three 
+(b) Four 
+(c) Two 
+(d) One 
+(e) None of these 
+ 
+Q88. Which among the following element will be sixth to the right of the one which is eighteenth 
+from right end? 
+(a) * 
+(b) I 
+(c) F 
+(d) J 
+(e) None of these 
+ 
+Q89. How many elements are there between the element which is tenth from left end and the 
+element which is fourteenth from right end? 
+(a) Two 
+(b) Four 
+(c) Six 
+(d) Five 
+(e) None of these 
+ 
+Q90. How many numbers are there in the series which are immediately followed by another 
+number? 
+(a) Three 
+(b) Two 
+(c) None 
+(d) One 
+(e) None of these 
+ 
+Q91. Five boxes Z, X, Q, P and L are arranged in a series according to their weight in increasing 
+order from right to left. Box L is lighter than only one box. Box X is heavier than box Z but lighter 
+than box Q which is not the heaviest among all. Find how many boxes are heavier than box P? 
+(a) Two 
+(b) One 
+(c) None  
+(d) Three 
+(e) None of these 
+ 
+ 
+22 
+ 
+ 
+Directions (92-96) : Study the following information carefully and answer the questions given 
+below. 
+Nine persons are sitting around a triangular table. Three persons sit at the corner of the table and facing 
+outside and two persons sit in the each side of the table and facing inside. A sits immediate right of N. 
+Three persons sit between E and D who does not sit at the side of the table. F does not sit near D. M sits 
+2nd to the right of E. The number of persons sit between M and D is same as between M and C (Either 
+from the left or right) . B is neither an immediate neighbour of M nor D. L faces inside.  
+ 
+Q92. If A interchanged his position with B then, who among the following is an immediate 
+neighbour of A? 
+(a) N 
+(b) L 
+(c) C 
+(d) E 
+(e) Both L and C 
+ 
+Q93. How many persons sit between E and A when counted in an anticlockwise direction from 
+A?  
+(a) Three 
+(b) Four 
+(c) One 
+(d) Two 
+(e) None 
+ 
+Q94. Which of the following pair/group of persons sit at the corner of the table? 
+(a) C, N 
+(b) E, B 
+(c) L, D 
+(d) C, D, M 
+(e) B, C, D 
+ 
+Q95. If all the persons sit in alphabetical order from A in clockwise direction, then, who among 
+the following persons remains the same position (Excluding A) ? 
+(a) Only E 
+(b) Both E and F 
+(c) Only D 
+(d) B, D and E 
+(e) Both L and M  
+ 
+Q96. Which of the following statement is true? 
+(a) F sits 3rd to the right of A 
+(b) Both L and B are not an immediate neighbour 
+(c) E sits immediate right of C 
+(d) B faces outside 
+(e) None is true 
+ 
+ 
+23 
+ 
+ 
+Directions (97-100) : Study the following information carefully and answer the questions given 
+below. 
+In a certain code language: 
+“Every Day score good” is coded as “ ev ba  cr  do” 
+“Day hard work good” is coded as “ba  hd rk do” 
+“Work always day practice” is coded as “ rk wl ba pc” 
+“Always practice score good” is coded as “ pc wl cr do” 
+ 
+Q97. What is the code for “good”? 
+(a) cr 
+(b) do 
+(c) wl 
+(d) Either cr or wl 
+(e) Either do or wl 
+ 
+Q98. Which among the following words are coded as “ba  cr”? 
+(a) Practice Score 
+(b) Day every 
+(c) Day score 
+(d) Good score 
+(e) Can’t be determined 
+ 
+Q99. What will be the code for “practice”? 
+(a) wl 
+(b) pc 
+(c) ev 
+(d) Either pc or ev 
+(e) Either wl or pc 
+ 
+Q100. Which among the following combination is not correct? 
+(a) Every- do 
+(b) Day-ba 
+(c) Hard-hd 
+(d) Work-rk 
+(e) All are correct 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+ 
+Solutions 

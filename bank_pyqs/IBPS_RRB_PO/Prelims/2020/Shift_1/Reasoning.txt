@@ -1,0 +1,384 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2020
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2021/06/05112750/IBPS-RRB-PO-Prelims-Previous-Year-Paper-2020-Question-File-.pdf
+======================================================================
+
+Q1. If 2 is subtracted from each even digit and 1 is added to each odd digit in the given number 
+‘2145673’, then how many digits will appear more than one in the new number thus formed? 
+(a) None 
+(b) One 
+(c) Two 
+(d) Three 
+(e) None of these 
+ 
+Directions (2-6): Study the following information carefully and answer the question given below- 
+ 
+Eight persons live in a building of four floors such that ground floor is numbered 1 and floor above it is 2 
+and so on up to 4th floor. Each of the floor consist of 2 flats as flat-P, which is in west of flat Q. Flat-P of floor-
+2 is immediately above flat-P of floor-1 and immediately below flat-P of floor-3 and in the same way flat-Q 
+of each floor follow same pattern. 
+A lives on an even numbered floor. A lives just above the flat of E. B lives to the west of E. One floor gap 
+between D and C. H lives in the east of D. G lives on the 3rd floor. Both F and C live in the different flats.  
+ 
+Q2. Who among the following lives just below the flat in which G lives? 
+(a) B 
+(b) C 
+(c) A 
+(d) Both (b) and (c) 
+(e) None of these 
+ 
+Q3. How many floors gap between B and H? 
+(a) None 
+(b) Two 
+(c) One 
+(d) Either (a) or (c) 
+(e) Either (b) or (c) 
+ 
+Q4. What is the direction of G with respect to E? 
+ (a) South 
+(b) North-east 
+(c) North 
+(d) East 
+(e) North-west 
+ 
+Q5. Which of the following floor does C lives? 
+(a) Floor-1 
+(b) Floor-4 
+(c) Floor-3 
+(d) Floor-2 
+(e) None of these 
+ 
+2 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q6. Which of the following is true regarding H? 
+(a) Floor 4 – Flat P 
+(b) Floor3 – Flat Q 
+(c) Floor 2- Flat P 
+(d) Floor4- Flat Q 
+(e) Floor1- Flat Q 
+ 
+Direction (7-11): Study the following information carefully and answer the questions given below: 
+ 
+In a certain code language 
+‘plan to go exam’ is coded as ‘oj kr mn pc’ 
+‘exam today easy’ is coded as ‘si oj ly’ 
+‘plan your exam today’ is coded as ‘zm oj si mn ’ 
+‘make your plan today’ is coded as ‘zm si mn rk’  
+ 
+Q7. What is the code of ‘make’ as per the given code language? 
+(a) zm 
+(b) mn 
+(c) rk 
+(d) pc 
+(e) None of these 
+ 
+Q8. What is the code of ‘exam’ as per the given code language? 
+(a) rk 
+(b) pc 
+(c) kr 
+(d) oj 
+(e) None of these 
+ 
+Q9. What is the code of ‘go’ as per the given code language? 
+(a) pc 
+(b) si 
+(c) kr 
+(d) either ‘pc’ or ‘kr’ 
+(e) None of these 
+ 
+Q10. What is the code of ‘exam today’ as per the given code language? 
+(a) si oj 
+(b) mn kr 
+(c) lv si 
+(d) zm oj 
+(e) None of these 
+ 
+3 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q11. If ‘easy to plan’ is coded as ‘mn ly pc’ then what is the code of ‘go’ as per the given code 
+language? 
+(a) pc 
+(b) zm 
+(c) kr 
+(d) mn 
+(e) None of these 
+ 
+Q12. How many pairs of letters are there in the word “GRANDUAL” each of which have as many 
+letters between them in the word as they have between them in the English alphabetical series?? 
+(a) Three 
+(b) Four 
+(c) Two 
+(d) One 
+(e) Five 
+ 
+Directions (13-15): Study the information carefully and answer the questions given below. 
+ 
+Point P is 26m west of point S. Point G is 52m north of point P. Point M is 39m east of point G and point K 
+is 13m south of point G. Point H is 39m north of point S. 
+ 
+Q13. In which direction point P with respect to point M? 
+(a) South 
+(b) South-east 
+(c) North-east 
+(d) East 
+(e) None of these 
+ 
+Q14. What is the shortest distance between point K and point H? 
+(a) 13m 
+(b) 26m 
+(c) 39m 
+(d) 25m 
+(e) None of these 
+ 
+Q15. If Point Z is 13m north of point H, then what is the distance between point M and point Z? 
+(a) 13m 
+(b) 26m 
+(c) 39m 
+(d) 25m 
+(e) None of these 
+ 
+4 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Directions (16-20): Study the following information carefully and answer the question given below- 
+ 
+Seven persons D, G, P, L, J, U and Q are sitting in a row facing to the north. They all have of different ages. D 
+sits 3rd from one of the extreme ends of the row. Q sits 2nd to the right of D. The number of persons sit to 
+the left of Q is same as the number of persons sit to the right of G, who is 20 years old. P sits 4th to the left 
+of the one who is 35 years old. Q is not 35 years old. Total age of immediate neighbours of D is 75 years. J 
+is 30 years old. P is 20 year older than one of his immediate neighbours. U sits to the right of L, who sits 
+immediate to the left of the one who is 25 years old. Q is 5 year younger than P.  
+ 
+Q16. The number of persons sit between L and Q is same as the number of persons sit between P 
+and ____? 
+(a) D 
+(b) G 
+(c) U 
+(d) Q 
+(e) None of these 
+ 
+Q17. What is the position of J with respect to Q? 
+(a) 2nd to the left 
+(b) Immediate left 
+(c) Immediate right 
+(d) 4th to the left 
+(e) 3rd to the right 
+ 
+Q18. Four of the following five are alike in a certain way and so form a group. Find the one who does 
+not belong to that group? 
+(a) P 
+(b) G 
+(c) J 
+(d) L 
+(e) U 
+ 
+Q19. Who among the following is 40 years old? 
+ (a) L 
+(b) P 
+(c) D 
+(d) U 
+(e) None of these 
+ 
+Q20. Which of the following statement is true? 
+(a) J sits to the right of L 
+(b) D sits 3rd to the right of G 
+(c) P sits at one of the extreme ends 
+(d) None is true 
+(e) Q sits immediate right of the one who is 35 years old 
+ 
+5 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q21. Study the following information carefully and answer the given questions. 
+Six persons i.e. P, Q, R, S, T and U was born on different days of the same week starting from Monday to 
+Saturday, but not necessarily in the same order. P was born on Friday. Two persons were born between U 
+and P. One person was born between R and S. If T was born immediate before S, then who among the 
+following person was born on Wednesday? 
+(a) U 
+(b) R 
+(c) S 
+(d) T 
+(e) None of these 
+ 
+Directions (22-26): Study the following information carefully and answer the question given below- 
+ 
+Ten boxes are placed one above the other. Four boxes are placed between J and M. Two boxes are placed 
+between J and k, which placed above of the J. L is placed just below K. The number of boxes between L and 
+M is same the number of boxes between M and Q. T is placed just above Q. Y is placed just above O. X is 
+adjacent to M. P is placed below X.  
+ 
+Q22. How many boxes are placed between O and L? 
+(a) One 
+(b) More than Five 
+(c) Four 
+(d) Three 
+(e) Two 
+ 
+Q23. Four of the following five are alike in a certain way and so form a group. Find the one who does 
+not belong to that group? 
+(a) T-Y 
+(b) X-L 
+(c) K-P  
+(d) Q-O 
+(e) M-Q 
+ 
+Q24. Which of the following statement is true? 
+(a) L is 3rd from the topmost position 
+(b) Two boxes placed between K and M 
+(c) Q is above P 
+(d) T is placed at bottommost position 
+(e) Three boxes placed between Y and M 
+ 
+6 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q25. What is the position of Y from the bottommost? 
+(a) Seven 
+(b) Eight 
+(c) Six 
+(d) Five 
+(e) Three 
+ 
+Q26. If T and O interchange their positions then which among the following box is placed just below 
+O? 
+(a) Y 
+(b) X 
+(c) K 
+(d) Q 
+(e) None of these 
+ 
+Directions (27-31): Study the following information carefully and answer the question given below- 
+A certain number of persons sit in a row facing to the north direction. L sits 3rd to the left of M. Five persons 
+sit between M and N. J sits immediate to the right of M. Three persons sit between Q and J. Q does not sit 
+next to N. N is 7th from one of the ends. The number of persons sit to the right of Q is four more than the 
+persons who sit to the left of N. K sits 2nd from one of the ends and sit to the right of M.  
+ 
+Q27. How many persons sit in the above arrangement? 
+(a) 25 
+(b) 26 
+(c) 28 
+(d) 24 
+(e) None of these 
+ 
+Q28. If two persons sit between X and N, then what is the position of X with respect to L? 
+(a) 4th to the left 
+(b) 6th to the left 
+(c) 5th to the right 
+(d) 3rd to the left 
+(e) 7th to the left 
+ 
+Q29. How many persons sit between L and J? 
+(a) Five  
+(b) None of these 
+(c) Seven 
+(d) Four 
+(e) Three 
+ 
+7 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q30. What is the position of L with respect to Q? 
+(a) 8th to the right 
+(b) 8th to the left 
+(c) 6th to the right 
+(d) 5th to the left 
+(e) None of these 
+ 
+Q31. How many persons sit to the right of the one, who sits immediate left of J? 
+(a) Ten 
+(b) Seven 
+(c) None of these 
+(d) Eight 
+(e) Eleven 
+ 
+Directions (32-35): In these questions, relationships between different elements are shown in the 
+statements. These statements are followed by two conclusions. Give answer 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q32. Statements: Z > O = G < I  S > P 
+Conclusions: I. S > O  
+II. P > G 
+ 
+Q33. Statements: K  M > W  T  Y< Q 
+Conclusions: I. T < Q  
+II. T < K 
+ 
+Q34. Statement: J  V < R > M, L> M = I  H 
+Conclusions: I. V  H  
+II. H  M 
+ 
+Q35. Statement: I = H  B  N < D > L 
+Conclusions: I. B < N  
+II. L > H 
+ 
+Directions (36-40): Study the following information carefully and answer the question given below- 
+ 
+Nine persons sit around a circular table. Some of them are facing to the centre while some are facing outside 
+the centre. C sits 2nd to the right of A, who faces inside. Two persons sit between C and G. J sits 3rd to the 
+left of G. L sits 2nd to the left of J, who does not sit next to C. B sits 3rd to the right of L and is an immediate 
+neighbour of P. K sits 4th to the right of H, who does not sit near J. Both B and P face same direction as A. C 
+and G face opposite direction to each other. K does not face outside.  
+ 
+8 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q36. What is the position of P with respect to K? 
+(a) 3rd to the right  
+(b) 2nd to the left 
+(c) Immediate left 
+(d) 3rd to the left 
+(e) 5th to the right 
+ 
+Q37. How many persons sit between J and H, when counted from 
+the left of H? 
+(a) Five 
+(b) Six 
+(c) Four 
+(d) One 
+(e) Three 
+ 
+Q38. Four of the following five are alike in a certain way and so form a group. Find the one who does 
+not belong to that group? 
+(a) C-H 
+(b) L-K 
+(c) B-J 
+(d) H-L 
+(e) B-P 
+ 
+Q39. How many persons sit between G and H, when counted from the left of G? 
+(a) Three 
+(b) Five 
+(c) Two 
+(d) Four 
+(e) None of these 
+ 
+Q40. How many persons face outside from the centre? 
+(a) Three 
+(b) Four 
+(c) None of these 
+(d) Six 
+(e) Five 
+ 
+9 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Directions (41-46): Pie chart shows the percentage distribution of total students appeared in six 
+different shifts of an exam. Study the pie chart given below and answer the following questions.

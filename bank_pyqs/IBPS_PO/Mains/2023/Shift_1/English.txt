@@ -1,0 +1,434 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2023
+Shift: 1
+Subject: English
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/07/10152536/IBPS-PO-Mains-Previous-Year-Paper-2023.pdf
+======================================================================
+
+Q71. How do businesses navigate compliance with stringent data protection regulations? 
+(a) Assessing and ensuring the data protection regulations formulated by their cartel. 
+(b) Designating a Data Protection Officer (DPO) can facilitate compliance efforts 
+(c) Conducting a thorough data mapping and inventory helps identify what personal data is collected and 
+processed 
+(d) Both (a) and (c) 
+(e) The passage does not provide enough information 
+ 
+Q72. Choose the most suitable word to fill in the blank. 
+(a) elucidates 
+(b) absconds 
+(c) vilifies 
+(d) exacerbates 
+(e) ruptured 
+ 
+Q73. What is the tone of the passage? 
+(a) Pessimistic 
+(b) Informative 
+(c) Sarcastic 
+(d) Didactic 
+(e) Analytical 
+ 
+Q74. According to the passage, choose the most suitable word that has a similar meaning as “Ominous”. 
+(a) propitious 
+(b) threatening 
+(c) cacophony 
+(d) ubiquitous 
+(e) disparate 
+21 
+
+ 
+ 
+Directions (75-80): Read the following passage and answer the questions. 
+Voice or speaker recognition refers to a machine or program's ability to interpret dictation or understand 
+and execute spoken commands. This technology has become increasingly prominent with the _____________ 
+of artificial intelligence (AI) and intelligent assistants like Amazon's Alexa and Apple's Siri. Offering hands-
+free interactions, voice recognition systems enable users to make requests, set reminders, and perform 
+various tasks simply by speaking. 
+The process involves automatic speech recognition (ASR) programs that can identify and differentiate 
+voices. Some ASR programs necessitate users to train the system for improved accuracy in converting 
+speech to text. Evaluation of a voice's frequency, accent, and speech flow is integral to voice recognition 
+systems. 
+While voice recognition and speech recognition are often used interchangeably, they have distinct 
+meanings. Voice recognition identifies the speaker, whereas speech recognition assesses the content of 
+what is said. 
+In practice, voice recognition software on computers converts analog audio into digital signals through 
+analog-to-digital (A/D) conversion. This digital database of words or syllables is then compared to signals 
+during pattern recognition. The size of the program's effective vocabulary depends on the computer's RAM 
+capacity, with faster processing speeds enhancing search capabilities. 
+Voice recognition involves analyzing speech through models like the hidden Markov model or recurrent 
+neural networks. The former breaks down spoken words into phonemes, while the latter uses previous 
+outputs to influence current inputs, improving capabilities and accuracy with increased data. 
+The integration of voice recognition into smartphones and home devices like Google Home and Amazon 
+Echo has made this technology ubiquitous. As more users engage with voice recognition, the wealth of data 
+generated enhances the capabilities and accuracy of these systems, indicating a promising trajectory for 
+the technology's future. 
+ 
+Q75. What is the specific focus of voice recognition in comparison to speech recognition? 
+(a) Voice recognition predominantly centers on discerning the speaker's identity rather than appraising 
+the uttered content. 
+(b) Voice recognition deciphers the speaker's words and then correlates them with nearby speakers.  
+(c) Speech recognition primarily concentrates on the speaker's tone, whereas voice recognition identifies 
+the speaker's voice modulations. 
+(d) The terms voice recognition and speech recognition are frequently used interchangeably, as they serve 
+a similar purpose. 
+(e) Voice recognition entails discerning the distinct acoustic modulations of the speaker, whereas speech 
+recognition proffers lexical conjectures to the speaker. 
+ 
+Q76. What is the function of pattern recognition as described in the passage in the context of voice 
+recognition software? 
+(a) Translating analog audio into digital signals 
+(b) Recognizing the digital signals and subsequently converting them into analog signals for the system to 
+comprehend the language. 
+(c) Analyzing and comparing a digital repository of words derived from converting analog audio into digital 
+signals 
+(d) Evaluating the computer's RAM capacity to expedite the search for an effective vocabulary. 
+(e) Both (a) and (c) 
+22 
+
+ 
+ 
+Q77. How does Markov model contribute to the overall improvement of voice recognition 
+capabilities? 
+(a) Incorporating and neglecting the preceding output to impact the input of the subsequent stage in voice 
+recognition. 
+(b) Utilizing phonemes for coarse identification of the origin of words and their association with the correct 
+meaning. 
+(c) Aggregating words into components to generate the output for the voice recognition process. 
+(d) Dissection of words into phonetic components allows for a more granular analysis of voice recognition. 
+(e) None of these 
+ 
+Q78. Why does the passage suggest that the wealth of data is a crucial factor in determining the 
+positive course of development for voice recognition technology? 
+(a) The substantial amount of data will allow users to obtain authentic results of their search requests. 
+(b) It will provide a diverse and extensive range of speech patterns, accents, and variations, enriching the 
+system's database.  
+(c) More users will be engaged to contribute to the wealth of data 
+(d) It enhances the capabilities of voice recognition systems to accurately interpret and respond to a wide 
+array of voices and linguistic nuances 
+(e) Both (b) and (d) 
+ 
+Q79. Choose the most suitable word that should fill the given blank. 
+(a) advent 
+(b) oblivious 
+(c) conservation 
+(d) adversity 
+(e) mundane 
+ 
+Q80. Choose the most appropriate choice that can substitute the three highlighted words in the 
+passage in the same order. 
+(a) require, alleviated, vital 
+(b) rationalize, progressed, exclusive 
+(c) crucial, discern, inherent 
+(d) mandate, elevated, indispensable 
+(e) impose, augmented, resilient 
+ 
+Directions (81-84): The table given below shows information about total number products sold by 
+five shops (A, B, C, D and E) on three (Monday + Tuesday + Wednesday) days. Read the data carefully 
+and answer the questions. 
+ 
+23 
+
+ 
+Note: (i) The difference between total number of products sold by C and E in all three days is 120. 
+(ii) Total products sold by D in all three day is 120. 
+(iii) Some data are missing, calculate the data if required. 
+ 
+Q81. In shop A, the ratio of total product sold on Monday to Tuesday is 8 : 5 and total number of 
+products sold by shop A on Wednesday is 12.5% less than that of on Monday. If D sold total 40% 
+products on Monday, then find total products sold by D on Tuesday. 
+(a) 40 
+(b) 48 
+(c) 42 
+(d) 36 
+(e) 24 
+ 
+Q82. The difference between total products sold by B on Monday and Tuesday is 15 and Shop B sold 
+20% of total products on Tuesday out of total products sold on all three days. Find total number of 
+products sold by E on Wednesday are what percent of total number of products sold by shop B on 
+Wednesday. 
+(a) 48% 
+(b) 30% 
+(c) 36% 
+(d) 24% 
+(e) 12% 
+ 
+Q83. Total number of products sold by shop A on Monday is two times of the total products sold by 
+E on that day and total products sold by A on all three days is 350. Find the ratio of total product 
+sold by C to D on Wednesday. 
+(a) 5 : 6 
+(b) 2 : 1 
+(c) 3 : 4 
+(d) 1 : 2 
+(e) 2 : 3 
+ 
+Q84. Total number of products sold by shop A in all the three days 246 more than total number of 
+products sold by shop C and E on Monday together. If total number of products sold by A on Monday 
+and Wednesday is equal, then find the ratio of ‘x’ to ‘y’. 
+(a) 16: 73 
+(b) 17: 25 
+(c) 16: 75 
+(d) 18: 77 
+(e) None of these 
+ 
+Directions (85-87): Read the pie chart carefully and answer the following question. 
+Pie chart given below shows the percentage distribution of questions attempted by four different (A, B, C 
+and D) students in an exam. Exam contains three subjects English, History and Mathematics which consist 
+of 120, 60 and 100 questions respectively. 
+Maximum number of questions attempted by each student is 240 and total number of questions attempted 
+by all the students is 800. 
+24 
+
+ 
+ 
+ 
+Q85. Form which of the given statement/s we can find the exact value of (x – y). 
+I: If B attempted highest number of questions and D attempted lowest number of questions. 
+II: If B attempted more than 200 questions, then D attempted less than 190 questions. 
+(a) Only (I)  
+(b) Only (II)  
+(c) Neither (I) and (II) 
+(d) Either (I) and (II) 
+(e) Both (I) and (II) together 
+ 
+Q86. If C attempted 54 questions in History and questions attempted in English are more than that 
+of history but less than that in Mathematics, then find possible number of questions attempted in 
+Mathematics by C. 
+(a) 81 
+(b) 75 
+(c) 70 
+(d) none of these 
+(e) all of these 
+ 
+Q87. For each incorrect question one mark is deducted and for each right answer two marks is given. 
+If A attempted 30% of the total question attempted by him in history and gain 66 marks from 
+history, then find the number of incorrect questions attempted by A in history.  
+(a) 18 
+(b) 15 
+(c) 20 
+(d) None of these 
+(e) 42 
+25 
+
+ 
+ 
+Directions (88-91): Read the table carefully and answer the following question. 
+The table shows the data about distance (km) covered from one point to another point by the vehicle used 
+between each point and speed of each vehicle (km/hr). 
+i.e., If one person wants to travel from P to S, then he/she can only use vehicle available at the point P  
+Note: ** means there is no direct connection between given points 
+ 
+ 
+Q88. If Ram travels from P to S and Rahul travels from Q to P, then find the difference between the 
+maximum distance travelled by both of them. 
+(a) 145 
+(b) 160 
+(c) 150 
+(d) 140 
+(e) None of these 
+ 
+Q89. If Raj wants to travel from P to R, then find the minimum time required to cover this distance 
+by Raj. 
+(a) 40 hours 
+(b) 40.5 hours 
+(c) 30.5 hours 
+(d) 35 hours 
+(e) 42 hours 
+ 
+Q90. If Rahul travels from P to S via Q and the fair of the vehicle per km from point Q to S is 20% 
+more than that of from P to Q, then the total fair collected from P to S via Q is Rs. Rs. 72000. Find the 
+fare of the taxi per km. 
+(a) Rs. 100 
+(b) Rs. 150 
+(c) Rs. 120 
+(d) Rs. 140 
+(e) Rs. 130 
+ 
+Q91. Find the minimum possible sum of the time (in hours) taken to cover distance from P to S and 
+from R to S. 
+(a) 17⅔ 
+(b) 18⅔ 
+(c) 16 
+(d) 25 
+(e) 12 
+26 
+
+ 
+ 
+Directions (92-94): Read the information carefully and answer the questions. 
+A, B, C and D together can do a work ‘X’ in seven days and D did ¼th of the work ‘X’. The ratio of efficiency 
+of A to that of B is 3 : 4, while B is 100% more efficient than C. A and B together can complete work ‘X’ in ‘x’ 
+days, while A and D can do the same work together in ‘y’ days. 
+ 
+Q92. Two person P and Q together can complete another work ‘Y’ in (x+12) days, while Q and R 
+together can complete the same work in (y - 2) days. If P, Q and R together can compete the work ‘Y’ 
+in 
+ days, then find efficiency of ‘Q’ is what percent more or less than efficiency of ‘P’.  
+(a) 80% 
+(b) 120% 
+(c) 100% 
+(d) 150% 
+(e) 60% 
+ 
+Q93. ‘m’ men can complete a work in (x+9) day, while ‘y’ men can complete the same work in ‘n’ days. 
+If ‘y – 7’ men can complete the same work in (n+12) days, then find in how many days (n–m) men 
+can complete the same work? 
+(a) 21 days 
+(b) 42 days 
+(c) 35 days 
+(d) 14 days 
+(e) 84 days 
+ 
+Q94. ‘m’ men can do a work in ‘n’ days and ‘n’ women can do the same work in ‘2m’ days. ‘x’ men and 
+‘1.5y’ women together can complete the same work in 20 days. 5 men and (y+1) women started 
+working together and they did work only for D days and remaining work is completed by a woman 
+in 
+ days. Find the value of ‘D’. 
+(a) 33 
+(b) 18 
+(c) 21 
+(d) 24 
+(e) 27 
+ 
+Directions (95-98): The line graph shows the percentage of people using debit card to pay the bill, 
+percentage of people getting 10% cashback using debit card out of the total people using debit card 
+for payment, percentage of people getting 2% cashback using cash payments out of the total people 
+using cash for payment while paying their bills either through debit card or cash only in four 
+different restaurants (P, Q, R and S) on any day. Read the line graph carefully and answer the 
+following questions. 
+Note: (i) Cash back is given to customers in the given manner. 
+1. Debit card users get 10% cashback 
+2. Cash payments users get 2 % cashback 
+(ii) Total people who paid bill using debit card = number of people getting 10% discount + number of people 
+did not get any discount using debit card 
+(iii) Total people who paid bill using cash = number of people getting 2% discount + number of people did 
+not get any discount using cash 
+27 
+
+ 
+ 
+ 
+Q95. In restaurant P, 400 customers are using debit card but not getting cashback, then find the 
+number of people getting cashback in restaurant P? 
+(a) 640 
+(b) 650 
+(c) 660 
+(d) 670 
+(e) None of these 
+ 
+Q96. Total 800 people went to restaurant Q. As per new festival scheme, if the average cashback for 
+only cash users who do not get 2% cashback offer is Rs. 200 per person, then find the total amount 
+of cashback given to the person who initially didn’t get 2% cashback from those who are paying bill 
+through cash. (in Rs) 
+(a) 37600 
+(b) 38400 
+(c) 29000 
+(d) 98000 
+(e) None of these 
+ 
+Q97. Total 3000 people went to restaurant R. Find the difference the number of customers who are 
+getting 10% cashback and the number of customers who are using cash payments. 
+(a) 480 
+(b) 460 
+(c) 590 
+(d) 500 
+(e) None of these 
+28 
+
+ 
+ 
+Q98. If 630 people are using debit card in restaurant S, then find the total number of people getting 
+2 % cashback on cash.  
+(a) 81 
+(b) 89 
+(c) 90 
+(d) 91 
+(e) None of these 
+ 
+Q99. ABC is a three-digit number, when ABC is multiplied by a single digit number X, then the 
+product is 2634. In that three-digit number ABC, the digit at tens place is equal to half of X. Which 
+of the following statement/s is/are correct about ABC? 
+(i) Unit digit in ABC is 9 
+(ii) ABC is a prime number 
+(iii) Sum of digits of ABC is 16 
+(a) Only (i) and (iii) 
+(b) Only (i) and (ii) 
+(c) Only (iii) 
+(d) All (i), (ii) and (iii) 
+(e) None of these 
+ 
+Q100. Read the passage carefully and answer the question. 
+There are two bags A and B having balls of colors red, blue, green and yellow. They have 3 and 4 colored 
+balls (not necessarily in the same order). Only one of the bags has yellow color balls. In bag A difference 
+between red and blue color balls is 6. In both bags, the number of green balls is half of the red color balls. 
+The difference between red and blue balls of bag B is 5. The yellow balls are 3 more than number of green 
+balls in the bag containing yellow balls. Average number of balls in bag A and B are 48 & 37 respectively. 
+Quantity I : Find the difference between blue balls of A and red balls of bag B. 
+Quantity II: Difference between yellow balls of bag containing it and number of green balls in bag B. 
+(a) Quantity I > Quantity II 
+(b) Quantity I < Quantity II 
+(c) Quantity I ≥ Quantity II 
+(d) Quantity I ≤ Quantity II 
+(e) Quantity I = Quantity II or can’t be determined 
+ 
+Directions (101-102): Solve the number series to answer the following questions. 
+ 
+Note:  
+(i) ‘n’ is a positive integer. 
+(ii) Difference between 29 and B is X, which has 3 factors excluding X itself, those are 13, 5 and A but when 
+we include X then number of factors become 4. 
+29 
+
+ 
+ 
+Q101. What is the value of A + C? 
+(a) 221 
+(b) 222 
+(c) 223 
+(d) 224 
+(e) 225 
+ 
+Q102. What is the LCM of B + 20 and A? 
+(a) 101 
+(b) 102 
+(c) 114 
+(d) 104 
+(e) 115 
+ 
+Directions (103-105): Solve the series to answer the following questions. 
+ 
+Note: Both series follows the same patterns 
+ 
+Q103. Find the difference between (Y+X) and (Y+Z) 
+(a) 12 
+(b) 24 
+(c) 14 
+(d) 4 
+(e) 25 
+ 
+Q104. If a new series starts with the value of (W-X) following the same logic mentioned in the above 
+series, then what is the 3rd term of the newly formed series? 
+(a) 120 
+(b) 121 
+(c) 144 
+(d) 64 
+(e) 25 
+ 
+Q105. If roots of quadratic equation are 
+ then find the quadratic equation whose 
+variable is r? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+30 
+
+ 
+ 
+Directions (106-108): Solve the quadratic and answer the following questions.

@@ -1,0 +1,421 @@
+======================================================================
+Exam: SBI PO
+Phase: Mains
+Year: 2022
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/09/26120224/SBI-PO-Mains-Previous-Year-Paper-2022.pdf
+======================================================================
+
+Q1. What is the difference between the lowest and the highest number in step II? 
+(a) 45322 
+(b) 31052 
+(c) 50890 
+(d) 50908 
+(e) None of these  
+ 
+Q2. Which of the following number is 2nd to the left of the number which is 3rd from the right end 
+in step III? 
+(a) 121 
+(b) 25 
+(c) 81 
+(d) 36  
+(e) None of these  
+ 
+Q3. What is the product of the digits of 1st and last digit of the highest number in the final step? 
+(a) 54 
+(b) 12 
+(c) 36 
+(d) 8 
+(e) 9 
+ 
+Q4. Which of the following is the penultimate step? 
+(a) 128 16 122 09 117 
+(b) 7135 6632 310 160 127 
+(c)128 106 122 90 117 
+(d)351532 312 164 127 
+(e) None of these  
+2 
+
+ 
+ 
+Directions (5-9): Study the following information carefully and answer the given questions.  
+In a building there are certain number of floors each floor has two flats i.e.; flat A is to the west of flat B. U 
+lives on an odd numbered floor but below 7th floor. T lives two floors below U. X lives to the south west of 
+T but not just south west. Three floors gap between S and T. X and S lives in the same named flat. The 
+number of floors between S and X is two more than the numbers of floor between S and R. No one lives to 
+the east of R. J lives to the immediate north west of R. The number of floors below X is same as the 
+number of floors above O who lives just above R floors. K lives two floors below O’s flat. Only one floor 
+gap between W and Q. W lives exactly between the S and U’s floor. S and T didn’t live on the adjacent floor. 
+P lives to the north west of Q and lives on an even numbered floor. P and W live in different named flats. Q 
+lives above S. W and U live in different named flat.  
+ 
+Q5. How many flats are there in the building? 
+(a) 26 
+(b) 24 
+(c) 22 
+(d) 20 
+(e) 18 
+ 
+Q6. Four of the following five are alike in a certain way and thus forms a group, then who among 
+the following doesn’t belong to that group? 
+(a) J 
+(b) P 
+(c) U 
+(d) S 
+(e)W 
+ 
+Q7. Which among the following statement(s) is/are true? 
+I. J lives on the topmost floor 
+II. 12 floors are there in the building 
+III. Even number of floors are between K and T  
+(a) Only I 
+(b) Only II 
+(c) Both I and II 
+(d) Both II and III 
+(e) All I, II and III 
+ 
+Q8. On which of the following floor does J live? 
+(a) 12th  
+(b) 10th  
+(c) 9th  
+(d) 7th  
+(e) 11th  
+3 
+
+ 
+ 
+Q9. Who among the following persons live to the south east of P? 
+(a) T 
+(b) U 
+(c) S 
+(d) W 
+(e) Both T and W 
+ 
+Directions (10-10): Dismissing four petitions challenging the collection of fine in cars when the 
+drivers were found without a mask, the Delhi high court said it is mandatory to wear a mask in a 
+private car even when the driver is alone in the car, as a vehicle is considered a public place. The 
+high court said a mask acts as Suraksha Kavach, which would prevent the spread of the deadly 
+virus. 
+ 
+Q10. Which of the following can be hypothesized from the above statement? 
+(I) People will follow the rules to wear mask even they are alone in car. 
+(II) Awareness among people will be spread as court has termed “Suraksha Kavach” to mask. 
+(III) Less car will be seen on the roads of Delhi after verdict of High Court. 
+(a) Only III 
+(b) Only I and II 
+(c) Only II and III 
+(d) Only II 
+(e) All I, II & III 
+ 
+Directions (11-13): Each of these questions is based on the given information:  
+X@Y means X is son of Y 
+X#Y means X is mother of Y 
+X$Y means X is spouse of Y 
+X%Y means X is daughter-in-law of Y 
+X*Y means X is sister of Y 
+X&Y means X is father of Y 
+X+Y means X is grandmother of Y 
+Statement: V$A+B, E&T, C#S*T, B@H%C$E 
+ 
+Q11. If ‘K*B, N$K, M#N’, then how is B’s brother-in-law is related to V’s son-in-law? 
+(a) Brother 
+(b) Son-in-law 
+(c) Grandson 
+(d) Father 
+(e) None of these 
+ 
+Q12. If R is niece of S, then what will come in blanks respectively? 
+R__W@P__Q*W 
+(a) +, % 
+(b) $, + 
+(c) $, # 
+(d) @, & 
+(e) %, # 
+4 
+
+ 
+ 
+Q13. If ‘Z*H’, then who among the following is sister-in-law of Z? 
+(a) T 
+(b) None of these 
+(c) S 
+(d) H 
+(e) B 
+ 
+Directions (14-15): Study the information carefully and answer the questions given below. 
+Five boxes are placed one above the other in a stack. Box A is placed adjacent to box D. Box E is placed 
+above box C but not on the topmost position. Box D is not placed adjacent to box B. If box F is added to the 
+stack, then the box F is placed below the box B. All the boxes contain different numbers of pencils in a 
+consecutive multiple of 6 from bottom to top. Box A contains 36 pencils and does not place at odd 
+numbered position when counts from the top. More than two boxes are placed above the box D. Total 
+number of pencils is not more than 198. Neither box E nor box F is kept adjacent to box D. 
+ 
+Q14. What is the sum of the numbers of pencils of box E and box F? 
+(a) 54 pencils 
+(b) 48 pencils 
+(c) 42 pencils 
+(d) 60 pencils 
+(e) 72 pencils 
+ 
+Q15. How many boxes are placed between box D and box B? 
+(a) One 
+(b) Three 
+(c) Four 
+(d) Can’t be determined  
+(e) Two 
+ 
+Directions (16-17): New Zealand on Thursday temporarily suspended entry for all travellers from 
+India, including its own citizens, for about two weeks following a high number of positive 
+coronavirus cases arriving from the South Asian country. The move comes after New Zealand 
+recorded 23 new positive coronavirus cases at its border on Thursday, of which 17 were from 
+India.  
+ 
+Q16. Which of the following can be inferred from the given statement? 
+(I) Government of New Zealand is aware and cautious for coronavirus cases. 
+(II) Huge vaccination drive has been launched by Government of India. 
+(III) India is among top 3 countries in world for positive cases of coronavirus. 
+(a) Only II and III 
+(b) Only I and III 
+(c) Only II 
+(d) Only I 
+(e) All I, II and III 
+5 
+
+ 
+ 
+Q17. What may be the repercussions after precautionary step of New Zealand? 
+(I) India will also suspend the flights coming from New Zealand on temporary basis. 
+(II) India will ban the export and import from New Zealand. 
+(III) New Zealand will feel safe after temporary suspension. 
+(a) Only I and II 
+(b) Only III 
+(c) Only II and III 
+(d) Only I and III 
+(e) All I, II and III 
+ 
+Directions (18-21): Read the given information carefully and answer the related questions:  
+Six persons A, B, C, D, E and F stand in a row in the same order from right to left. Three of them face south 
+and three face north direction. Consecutive distance between any two persons is 8m. They all start 
+walking either in north or south direction, covering some certain distances, then reach their final 
+positions. 
+A walks 14m in a certain direction and then turns right and walks 20m to reach his final position. C walks 
+10m in certain direction and then turns left and walks 6m to reach his final destination. E walks 6m in a 
+certain direction and then turns left and walks 8m to reach his final position. F walks 8m in certain 
+direction and then turns left and walks 22m to reach his final position. D walks 16m in a certain direction 
+and then turns right and walks 6m to reach his final position. B walks 12m north and then turns left and 
+walks certain meter to reach his final position which is in the south of D’s final position. C’s final 
+destination is not in south-east of F’s final destination.  
+ 
+Q18. Find the direction of D’s final position with respect to A’s final position.  
+(a) North-east 
+(b) North 
+(c) South-west 
+(d) None of these 
+(e) South-east 
+ 
+Q19. Who walks 2nd highest distance among all persons? 
+(a) A 
+(b) C 
+(c) B 
+(d) None of these 
+(e) F 
+ 
+Q20. E’s initial position is in which direction of B’s final position? 
+(a) North-east 
+(b) South 
+(c) South-west 
+(d) None of these 
+(e) South-east 
+6 
+
+ 
+ 
+Q21. Find the difference between the distance walked by C and F. 
+(a) 10m 
+(b) 12m 
+(c) None of these 
+(d) 14m 
+(e) 8m 
+ 
+Directions (22-24): Each of the questions below, consist of a question and three statements 
+numbered I, II and III. You have to decide whether the data provided in the statements are 
+sufficient to answer the question. Read the three statements and Give answer 
+ 
+Q22. A certain number of persons sit in line facing north. Then, how many persons sit between P 
+and C? 
+Statement I: K sits second to the right of B. Two persons sit between K and P. Only one person sits 
+between B and T. 
+Statement II: N is the only person sits to the right of P. The number of persons sits between K and N is one 
+more than the number of persons sits between D and T. 
+Statement III: F sits adjacent to D who sits fourth to the right of C.  
+(a) If the data in statement I and II together are sufficient to answer the question, while the data in 
+statement III are not required to answer the question. 
+(b) If the data in all the statements, I, II and III even together are not sufficient to answer the question. 
+(c) If the data in statement II and III are sufficient to answer the question, while the data in statement I 
+are not required to answer the question. 
+(d) If the data in all three statements I, II and III together are necessary to answer the question. 
+(e) If the data in statement I and III together are sufficient to answer the question, while the data in 
+statement II are not required to answer the question 
+ 
+Q23. Eight cars are parked at different directions with respect to each other. At which direction is 
+car F is parked with respect to car C? 
+Statement I: Car A is parked in the north of car B which is parked in the south of car C. Car E is parked in 
+the east of car C.  
+Statement II: Car D is parked in the south west of car A which is parked in the north west of car G. Car F is 
+in the north east of car E. 
+Statement III: Car G is parked in the north of car E and to the west of car F. Car C is parked in the south of 
+car A. 
+(a) If the data in statement I and II together are sufficient to answer the question, while the data in 
+statement III are not required to answer the question. 
+(b) If the data in all the statements, I, II and III even together are not sufficient to answer the question. 
+(c) If the data in statement II and III are sufficient to answer the question, while the data in statement I 
+are not required to answer the question. 
+(d) If the data in all three statements I, II and III together are necessary to answer the question. 
+(e) If the data in statement I and III together are sufficient to answer the question, while the data in 
+statement II are not required to answer the question 
+7 
+
+ 
+ 
+Q24. In a family of nine members. How N is related to J? 
+Statement I: P is spouse of J who has only two children. K is grandchild of P. V is the sister-in-law of B. 
+Statement II: B is the only son of J. L has no siblings. K is nephew of R and brother-in-law of V 
+Statement III: L is sister-in-law of R. R is the only sibling of B. C is brother-in-law of B. N is niece of R. 
+(a) If the data in statement I and II together are sufficient to answer the question, while the data in 
+statement III are not required to answer the question. 
+(b) If the data in all the statements, I, II and III even together are not sufficient to answer the question. 
+(c) If the data in statement II and III are sufficient to answer the question, while the data in statement I 
+are not required to answer the question. 
+(d) If the data in all three statements I, II and III together are necessary to answer the question. 
+(e) If the data in statement I and III together are sufficient to answer the question, while the data in 
+statement II are not required to answer the question 
+ 
+Directions (25-29): Study the information carefully and answer the questions given below. 
+Seven friends - P, Q, R, S, T, U, and V - went to attend a cooking class for a week from Monday to Sunday, 
+not necessarily in the same order. Each person prepared a different number of dishes during these 
+classes. 
+Q prepared the most dishes. The person who prepared the least dishes attended immediately after R.S 
+prepared the 2ndmost dishes and attended on Sunday. T and the person who prepared the second-most 
+dishes attended on consecutive days. Q prepared 5 dishes more than T who prepared 6 dishes more than 
+P. P attended the classes immediately after the person who prepared 9 dishes. The person who prepared 
+10 dishes attended immediately before the person who prepared 8 dishes. Q attended on Wednesday, 
+while V attended on Friday. There were 2 people between R and the person who prepared 6 dishes. Only 
+One person prepared half number of dishes than the other one.  
+ 
+Q25. Who attended the cooking class on Thursday? 
+(a) P 
+(b)U 
+(c) R 
+(d) S 
+(e) T 
+ 
+Q26. Who prepared the least number of dishes? 
+(a) P 
+(b) V 
+(c) R 
+(d) None of these 
+(e) T 
+ 
+Q27. Who attended the cooking class on two days after P? 
+(a) S 
+(b) Q 
+(c) R 
+(d)U 
+(e) T 
+8 
+
+ 
+ 
+Q28. Four of the following five are alike in a certain way and hence form a group. Which of the 
+following does not belong to that group? 
+(a) S 
+(b) P 
+(c) T 
+(d) V 
+(e) R 
+ 
+Q29. How many persons attend class between P and the one who prepared the 2nd most dishes? 
+(a) 4 
+(b) 2 
+(c) 3 
+(d) 1 
+(e) None of these  
+ 
+Directions (30-32): In the following questions, the symbols- &, @, % and $ are used with the 
+following meanings as illustrated below. In each of the questions given below statements are 
+followed by some conclusions. You have to take the given statements to be true even if they seem 
+to be at variance from commonly known facts. Read all the conclusions and then decide which of 
+the given conclusions logically follows from the given statements regarding commonly known 
+facts. 
+A@B means “All A are B” 
+A&B means “Only a few A are B” 
+A$B means “No A is B” 
+A%B means “Some A is B” 
+ 
+Q30.  
+ 
+(a) Both III and IV 
+(b) Only I 
+(c) Both I and III 
+(d) Only IV 
+(e) Only III 
+ 
+Q31.  
+ 
+9 
+
+ 
+(a) Both I and II 
+(b) Only I 
+(c) Both II and III 
+(d) Only IV 
+(e) Only III 
+ 
+Q32.  
+ 
+(a) Both III and IV 
+(b) Only I 
+(c) Both II and III 
+(d) Only IV 
+(e) Only III 
+ 
+Directions (33-37): Read the given information carefully and answer the questions based on it: 
+Some boxes are placed one above other in three stacks C, K and T (west to east in same order). None of 
+the stack contains more than six boxes. Two boxes are placed below box D. Box Y is not in the same stack 
+of box D. Box W is in the west of box Y but not in stack K. Box L is placed three places above box W. Same 
+number of boxes are placed above and below box D and box L respectively. Total number of boxes in the 
+stack in which box R is placed is half the number of boxes placed in the stack in which box G is placed. 
+Only box J is placed just above box R. Box U is in immediate north-east of box F which is in the west of box 
+J. Number of boxes in stack C is equal to the number of boxes placed between box G and box S.  
+The boxes in each stack contains some number of pencils. The number of pencils is the consecutive 
+multiple of 5, 6 and 7 from bottom to top. Now, some new boxes are entered in these stacks. Box M is in 
+the south-west of box P and contains 21 pencils. The number of pencils in topmost box of stack C is 7/3 of 
+the number of pencils in lowermost box of stack T. Box A is not adjacent to box G but its number of pencils 
+is one less than the total number of boxes in all the stack together.  
+ 
+Q33. What is the total number of pencils in the boxes which are placed 3rd from bottom in each 
+stack? 
+(a) 78 
+(b) 60 
+(c) 53 
+(d) 71 
+(e) None of these 
+ 
+Q34. Which of the following box contains 6th highest number of pencils and placed in which stack? 
+(a) Box J, stack T 
+(b) Box F, stack C 
+(c) Box U, stack T 
+(d) Box P, stack K 
+(e) Box U, stack K 
+10 
+
+ 
+ 
+Q35. How many boxes are placed in the stack where the number of pencils in each box is multiple 
+of 6? 
+(a) Six 
+(b) Five 
+(c) Four 
+(d) Three 
+(e) None of these

@@ -1,0 +1,540 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2023
+Shift: 3
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/08/15011513/SBI-PO-Pre-2023-1st-Nov-Shift-wise-Paper-Mock-03.pdf
+======================================================================
+
+Q66. Four of the following five are alike in a certain way and thus form a group. Find the one who doesn’t 
+belong to the group?  
+Study the following information carefully and answer the questions given below: 
+Six persons – A, B, C, D, E and F sit in a row and all are facing north but not in same order as given. Each of them 
+has different number of bags. None of them has bags less than 15 and more than 60. Only two persons sit 
+between E and the one who has 35 bags, and neither of them sits at the extreme ends. The number of persons 
+sitting to the right of E is one less than the number of persons sitting to the left of A. The one who has two bags 
+less than C sits second to the left of A who sits adjacent to C. F sits to the immediate right of D who has even 
+square number of bags. A has 18 bags less than B who has 20 bags more than D. E has prime number of bags 
+and 15 bags more than the one who sits two places away from B. 
+(a) B 
+(b) A 
+(c) F 
+(d) C 
+(e) E 
+ 
+Q67. What is the sum of the number of bags of the persons who sits at the extreme ends? Study the following 
+information carefully and answer the questions given below: 
+Six persons – A, B, C, D, E and F sit in a row and all are facing north but not in same order as given. Each of them 
+has different number of bags. None of them has bags less than 15 and more than 60. Only two persons sit 
+ 
+ 
+24 
+ 
+between E and the one who has 35 bags, and neither of them sits at the extreme ends. The number of persons 
+sitting to the right of E is one less than the number of persons sitting to the left of A. The one who has two bags 
+less than C sits second to the left of A who sits adjacent to C. F sits to the immediate right of D who has even 
+square number of bags. A has 18 bags less than B who has 20 bags more than D. E has prime number of bags 
+and 15 bags more than the one who sits two places away from B. 
+(a) 67 
+(b) 52 
+(c) 54 
+(d) 47 
+(e) 68 
+ 
+Q68. What is the position of C with respect to the one who has maximum number of bags? Study the following 
+information carefully and answer the questions given below: 
+Six persons – A, B, C, D, E and F sit in a row and all are facing north but not in same order as given. Each of them 
+has different number of bags. None of them has bags less than 15 and more than 60. Only two persons sit 
+between E and the one who has 35 bags, and neither of them sits at the extreme ends. The number of persons 
+sitting to the right of E is one less than the number of persons sitting to the left of A. The one who has two bags 
+less than C sits second to the left of A who sits adjacent to C. F sits to the immediate right of D who has even 
+square number of bags. A has 18 bags less than B who has 20 bags more than D. E has prime number of bags 
+and 15 bags more than the one who sits two places away from B. 
+(a) Fourth to the left 
+(b) Fourth to the right 
+(c) Fifth to the left 
+(d) Fifth to the right 
+(e) Second to the right 
+ 
+Q69. Which among the following statement(s) is/are true? 
+I. E doesn’t sit at the extreme end 
+II. A has minimum number of bags 
+III. D sits exactly between B and C 
+Study the following information carefully and answer the questions given below: 
+Six persons – A, B, C, D, E and F sit in a row and all are facing north but not in same order as given. Each of them 
+has different number of bags. None of them has bags less than 15 and more than 60. Only two persons sit 
+between E and the one who has 35 bags, and neither of them sits at the extreme ends. The number of persons 
+sitting to the right of E is one less than the number of persons sitting to the left of A. The one who has two bags 
+less than C sits second to the left of A who sits adjacent to C. F sits to the immediate right of D who has even 
+square number of bags. A has 18 bags less than B who has 20 bags more than D. E has prime number of bags 
+and 15 bags more than the one who sits two places away from B. 
+(a) Only I 
+(b) Only III 
+(c) Both I and III 
+(d) Both I and II 
+(e) Only II 
+ 
+Q70. What is the difference between the number of bags of F and the one who sits at the extreme right end? 
+Study the following information carefully and answer the questions given below: 
+ 
+ 
+25 
+ 
+Six persons – A, B, C, D, E and F sit in a row and all are facing north but not in same order as given. Each of them 
+has different number of bags. None of them has bags less than 15 and more than 60. Only two persons sit 
+between E and the one who has 35 bags, and neither of them sits at the extreme ends. The number of persons 
+sitting to the right of E is one less than the number of persons sitting to the left of A. The one who has two bags 
+less than C sits second to the left of A who sits adjacent to C. F sits to the immediate right of D who has even 
+square number of bags. A has 18 bags less than B who has 20 bags more than D. E has prime number of bags 
+and 15 bags more than the one who sits two places away from B. 
+(a) 15 
+(b) 12 
+(c) 16 
+(d) 11 
+(e) 13 
+ 
+Q71. If R is wife of A, then how is A related to V? Study the following information carefully and answer the 
+questions given below: S is the nephew of V who is the only brother-in-law of T. T has no siblings. X is the 
+mother of W who is the father of S. Y who has only two children, and is the spouse of X. U is the mother of R who 
+is the grandchild of Y. 
+(a) Brother-in-law 
+(b) Father-in-law 
+(c) Son-in-law 
+(d) Son 
+(e) Uncle 
+ 
+Q72. How is S related to X? Study the following information carefully and answer the questions given below: S 
+is the nephew of V who is the only brother-in-law of T. T has no siblings. X is the mother of W who is the father 
+of S. Y who has only two children, and is the spouse of X. U is the mother of R who is the grandchild of Y. 
+(a) Son 
+(b) Uncle 
+(c) Brother 
+(d) Grandson 
+(e) Nephew 
+ 
+Q73. Four of the following five are alike in a certain way and thus form a group. Find the one who doesn’t 
+belong to the group? Study the following information carefully and answer the questions given below: S is the 
+nephew of V who is the only brother-in-law of T. T has no siblings. X is the mother of W who is the father of S. Y 
+who has only two children, and is the spouse of X. U is the mother of R who is the grandchild of Y. 
+(a) Y 
+(b) T 
+(c) W 
+(d) V 
+(e) S 
+ 
+Q74. How many such pairs of letters are there in the word “MUNICIPAL” each of which has as many letters 
+between them as in the alphabetical series (both in the forward and backward directions)? 
+(a) Four 
+(b) Three 
+(c) None 
+(d) Two 
+(e) One 
+ 
+ 
+26 
+ 
+ 
+Q75. Who among the following sits third to the left of V? Study the following information carefully and answer 
+the questions given below: 
+Nine persons- P, Q, R, S, T, U, V, W and X sit around the circular table, where all are facing towards the centre 
+but not necessarily in the same order. 
+One person sits between Q and W. S sits third to the right of W. S and X sit adjacent to each other. R sits second 
+to the right of X. As many persons sit between R and T as between T and U. Two persons sit between U and V 
+who neither sits adjacent to T nor P. Q and V doesn’t sit together. 
+(a) The one who sits second to the right of U 
+(b) T 
+(c) R 
+(d) The one who sits immediate left of S 
+(e) None of these 
+ 
+Q76. How many persons sit between Q and T when counts from the left of T? Study the following information 
+carefully and answer the questions given below: 
+Nine persons- P, Q, R, S, T, U, V, W and X sit around the circular table, where all are facing towards the centre 
+but not necessarily in the same order. 
+One person sits between Q and W. S sits third to the right of W. S and X sit adjacent to each other. R sits second 
+to the right of X. As many persons sit between R and T as between T and U. Two persons sit between U and V 
+who neither sits adjacent to T nor P. Q and V doesn’t sit together. 
+(a) Four 
+(b) Three 
+(c) Five 
+(d) Two 
+(e) One 
+ 
+Q77. Who among the following is the neighbour of P? Study the following information carefully and answer the 
+questions given below: 
+Nine persons- P, Q, R, S, T, U, V, W and X sit around the circular table, where all are facing towards the centre 
+but not necessarily in the same order. 
+One person sits between Q and W. S sits third to the right of W. S and X sit adjacent to each other. R sits second 
+to the right of X. As many persons sit between R and T as between T and U. Two persons sit between U and V 
+who neither sits adjacent to T nor P. Q and V doesn’t sit together. 
+(a) W 
+(b) S 
+(c) X 
+(d) Q 
+(e) Both W and Q 
+ 
+Q78. Which among the following statement(s) is/are incorrect? 
+I. T doesn’t sit adjacent to S 
+II. Q sits exactly between W and V 
+III. U sits third to the left of Q 
+Study the following information carefully and answer the questions given below: 
+Nine persons- P, Q, R, S, T, U, V, W and X sit around the circular table, where all are facing towards the centre 
+but not necessarily in the same order. 
+ 
+ 
+27 
+ 
+One person sits between Q and W. S sits third to the right of W. S and X sit adjacent to each other. R sits second 
+to the right of X. As many persons sit between R and T as between T and U. Two persons sit between U and V 
+who neither sits adjacent to T nor P. Q and V doesn’t sit together. 
+(a) Only I 
+(b) Only II 
+(c) Both II and III 
+(d) Both I and II 
+(e) Only III 
+ 
+Q79. Four of the following five are alike in a certain way and thus form a group. Find the one which doesn’t 
+belong to the group? Study the following information carefully and answer the questions given below: 
+Nine persons- P, Q, R, S, T, U, V, W and X sit around the circular table, where all are facing towards the centre 
+but not necessarily in the same order. 
+One person sits between Q and W. S sits third to the right of W. S and X sit adjacent to each other. R sits second 
+to the right of X. As many persons sit between R and T as between T and U. Two persons sit between U and V 
+who neither sits adjacent to T nor P. Q and V doesn’t sit together. 
+(a) U, T 
+(b) S, Q 
+(c) R, V 
+(d) W, X 
+(e) P, W 
+ 
+Q80. Four of the following five are alike in a certain way and thus form a group. Find the one which doesn’t 
+belong to the group? 
+Study the following information carefully and answer the questions given below: 
+Riya starts walking from point Z towards west for 11m to reach point Y. Then, she turns right and walks for 4m 
+to reach point X. Then she again turns right and walks for 14m to reach point W and then finally she turns 
+towards south and walks for 6m to reach point V. 
+Karan starts walking towards north for 2m from point Z to reach at point U. Then, he takes right and left turn 
+and walks for 6m and 9m to reach point T and S respectively. Then, he takes left turn and walks for 5m to reach 
+point R. - 
+(a) YU 
+(b) ZW 
+(c) XV 
+(d) US 
+(e) VT 
+ 
+Q81. What is the shortest distance between points W and Y? Study the following information carefully and 
+answer the questions given below: 
+Riya starts walking from point Z towards west for 11m to reach point Y. Then, she turns right and walks for 4m 
+to reach point X. Then she again turns right and walks for 14m to reach point W and then finally she turns 
+towards south and walks for 6m to reach point V. 
+Karan starts walking towards north for 2m from point Z to reach at point U. Then, he takes right and left turn 
+and walks for 6m and 9m to reach point T and S respectively. Then, he takes left turn and walks for 5m to reach 
+point R. - 
+ 
+ 
+28 
+ 
+(a) 2√53m 
+(b) 212m 
+(c) √252m 
+(d) 234m 
+(e) 2√51m 
+ 
+Q82. . In which direction is point V with respect to point R? Study the following information carefully and 
+answer the questions given below: 
+Riya starts walking from point Z towards west for 11m to reach point Y. Then, she turns right and walks for 4m 
+to reach point X. Then she again turns right and walks for 14m to reach point W and then finally she turns 
+towards south and walks for 6m to reach point V. 
+Karan starts walking towards north for 2m from point Z to reach at point U. Then, he takes right and left turn 
+and walks for 6m and 9m to reach point T and S respectively. Then, he takes left turn and walks for 5m to reach 
+point R. - 
+(a) South-west 
+(b) North-west 
+(c) West 
+(d) South-east 
+(e) North 
+ 
+Q83. If a meaningful word is formed by using the First, Fifth, seventh and twelfth letters (from the left end) of 
+the word “ENTERTAINMENT”, then which of the following will be the third letter from the right end of the 
+word thus formed. If more than one such word is formed mark Z as your answer. If no meaningful word is 
+formed, mark X as your answer? 
+(a) X 
+(b) R 
+(c) N 
+(d) A 
+(e) Z 
+ 
+Q84. Which among the following statement(s) is/are true? 
+I. No box is kept below box F 
+II. Box D is kept below box C 
+III. Box A is not red in colour 
+Study the following information carefully and answer the questions given below: 
+Six paint boxes are kept one above another in the form of the stack. Each box has different colours paint- Pink, 
+Blue, Red, White, Yellow and Grey but not in same order as given. 
+Yellow coloured box is kept three boxes above box B. Box D is kept adjacent to box B. As many boxes are kept 
+above box D as below red coloured box. Box E is kept immediately below red coloured box. Box B is not red in 
+colour. More than one box is kept between box E and the grey coloured box. Box D is kept above grey coloured 
+box. Box A is kept above the white coloured box but below box C. Box B is not kept below white coloured box. 
+More than one box is kept between box F and blue coloured box. Pink coloured box doesn’t keep adjacent to 
+blue coloured box. 
+(a) Only I 
+(b) Both I and II 
+(c) Only III 
+(d) Both II and III 
+(e) All I, II and III 
+ 
+ 
+29 
+ 
+ 
+Q85. How many boxes are kept below the pink coloured box? Study the following information carefully and 
+answer the questions given below: 
+Six paint boxes are kept one above another in the form of the stack. Each box has different colours paint- Pink, 
+Blue, Red, White, Yellow and Grey but not in same order as given. 
+Yellow coloured box is kept three boxes above box B. Box D is kept adjacent to box B. As many boxes are kept 
+above box D as below red coloured box. Box E is kept immediately below red coloured box. Box B is not red in 
+colour. More than one box is kept between box E and the grey coloured box. Box D is kept above grey coloured 
+box. Box A is kept above the white coloured box but below box C. Box B is not kept below white coloured box. 
+More than one box is kept between box F and blue coloured box. Pink coloured box doesn’t keep adjacent to 
+blue coloured box. 
+(a) One 
+(b) None 
+(c) Five 
+(d) Three 
+(e) Four 
+ 
+Q86. Which among the following combination is incorrect? Study the following information carefully and 
+answer the questions given below: 
+Six paint boxes are kept one above another in the form of the stack. Each box has different colours paint- Pink, 
+Blue, Red, White, Yellow and Grey but not in same order as given. 
+Yellow coloured box is kept three boxes above box B. Box D is kept adjacent to box B. As many boxes are kept 
+above box D as below red coloured box. Box E is kept immediately below red coloured box. Box B is not red in 
+colour. More than one box is kept between box E and the grey coloured box. Box D is kept above grey coloured 
+box. Box A is kept above the white coloured box but below box C. Box B is not kept below white coloured box. 
+More than one box is kept between box F and blue coloured box. Pink coloured box doesn’t keep adjacent to 
+blue coloured box. 
+(a) C- Yellow 
+(b) A- Red 
+(c) E- Blue 
+(d) D-Pink 
+(e) F- White 
+ 
+Q87. As many boxes are kept above box A as below ____. Study the following information carefully and answer 
+the questions given below: 
+Six paint boxes are kept one above another in the form of the stack. Each box has different colours paint- Pink, 
+Blue, Red, White, Yellow and Grey but not in same order as given. 
+Yellow coloured box is kept three boxes above box B. Box D is kept adjacent to box B. As many boxes are kept 
+above box D as below red coloured box. Box E is kept immediately below red coloured box. Box B is not red in 
+colour. More than one box is kept between box E and the grey coloured box. Box D is kept above grey coloured 
+box. Box A is kept above the white coloured box but below box C. Box B is not kept below white coloured box. 
+More than one box is kept between box F and blue coloured box. Pink coloured box doesn’t keep adjacent to 
+blue coloured box. 
+(a) Box C 
+(b) Box F 
+(c) The pink coloured box 
+(d) The blue coloured box 
+(e) Box B 
+ 
+ 
+30 
+ 
+ 
+Q88. . If we arrange all the boxes in alphabetical order from top to bottom, then which among the following box 
+will be of grey colour? Study the following information carefully and answer the questions given below: 
+Six paint boxes are kept one above another in the form of the stack. Each box has different colours paint- Pink, 
+Blue, Red, White, Yellow and Grey but not in same order as given. 
+Yellow coloured box is kept three boxes above box B. Box D is kept adjacent to box B. As many boxes are kept 
+above box D as below red coloured box. Box E is kept immediately below red coloured box. Box B is not red in 
+colour. More than one box is kept between box E and the grey coloured box. Box D is kept above grey coloured 
+box. Box A is kept above the white coloured box but below box C. Box B is not kept below white coloured box. 
+More than one box is kept between box F and blue coloured box. Pink coloured box doesn’t keep adjacent to 
+blue coloured box. 
+(a) Box F 
+(b) Box A 
+(c) Box B 
+(d) Box D 
+(e) Box C 
+ 
+Q89. Statements: 
+Only a few print is paper 
+All paper is tree 
+No tree is wood 
+Conclusions: 
+I. Some print is not wood 
+II. All paper being print is a possibility 
+In each question below, some statements are given followed by some conclusions. You have to take the given 
+statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions 
+and then decide which of the given conclusions definitely follows from the given statements, disregarding 
+commonly known facts. Give answer: 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q90. Statements: 
+All money is bank 
+Some bank is collection 
+Only collection is cheque 
+Conclusions: 
+I. No money is cheque 
+II. All collection being bank is a possibility 
+In each question below, some statements are given followed by some conclusions. You have to take the given 
+statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions 
+and then decide which of the given conclusions definitely follows from the given statements, disregarding 
+commonly known facts. Give answer: 
+ 
+ 
+31 
+ 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q91. Statements: Only a few blue is red. 
+Some blue is pink. 
+Some pink is not yellow 
+Conclusions: I. Some red is not pink 
+II. All red is pink 
+In each question below, some statements are given followed by some conclusions. You have to take the given 
+statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions 
+and then decide which of the given conclusions definitely follows from the given statements, disregarding 
+commonly known facts. Give answer: 
+(a) Only conclusion I follows 
+(b) Only conclusion II follows 
+(c) Either conclusion I or II follows 
+(d) Neither conclusion I nor II follows 
+(e) Both conclusions I and II follow 
+ 
+Q92. Statements: J < Q < M = D; I < H = G ≥ D; L > O = Q 
+Conclusions : I. Q < H II. L > J 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If both conclusions I and II are true 
+(e) If neither conclusion I nor II is true 
+ 
+Q93. Statements: S < Q > G = D > H; M > T < H; S ≤ E > N < J 
+Conclusions : I. T < G II. D ≤ E 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If both conclusions I and II are true 
+(e) If neither conclusion I nor II is true 
+ 
+Q94. Statements: H < I < J = C; N ≤ T ≤ L; P > S ≥ L = J 
+Conclusions : I. H < P II. N < S 
+In these questions, the relationship between different elements is shown in the statements. The statements are 
+followed by conclusions. Study the conclusions based on the given statements and select the appropriate 
+answer: 
+ 
+ 
+32 
+ 
+(a) If only conclusion I is true 
+(b) If only conclusion II is true 
+(c) If either conclusion I or II is true 
+(d) If both conclusions I and II are true 
+(e) If neither conclusion I nor II is true 
+ 
+Q95. If in the given number “972569345”, the even digits are increased by two and the odd digits are decreased 
+by one, then the digits are arranged in descending order from left to right, then what will be the product of the 
+digits which are fifth from the left end and second from the right end? 
+(a) 36 
+(b) 24 
+(c) 16 
+(d) 20 
+(e) None of these 
+ 
+Q96. Four of the following five are alike in a certain way and thus form a group. Find the one which doesn’t 
+belong to the group? Study the following information carefully and answer the questions given below: 
+Ten persons- A, B, C, D, E, F, G, H, I and J have exam (but not necessarily in the same order) on two different 
+dates either 8th or 11th of four different months - April, May, June, July and August of the same year. 
+Only three persons have exam between H and C who has exam in the month which has 31 days and on an odd 
+numbered date. As many persons have exam after C as before I. C and E does not have exam in the same month. 
+F has exam three persons after I. Only two persons have exam between E and A who has exam in the month 
+which has 30 days. G has exam immediately after month of E but not in the same month as F. B has exam after G 
+and both have exam on the same date. J has exam immediately before B. 
+(a) B 
+(b) E 
+(c) D 
+(d) I 
+(e) J 
+ 
+Q97. Who among the following has exam four persons after D? Study the following information carefully and 
+answer the questions given below: 
+Ten persons- A, B, C, D, E, F, G, H, I and J have exam (but not necessarily in the same order) on two different 
+dates either 8th or 11th of four different months - April, May, June, July and August of the same year. 
+Only three persons have exam between H and C who has exam in the month which has 31 days and on an odd 
+numbered date. As many persons have exam after C as before I. C and E does not have exam in the same month. 
+F has exam three persons after I. Only two persons have exam between E and A who has exam in the month 
+which has 30 days. G has exam immediately after month of E but not in the same month as F. B has exam after G 
+and both have exam on the same date. J has exam immediately before B. 
+(a) I 
+(b) H 
+(c) G 
+(d) J 
+(e) B 
+ 
+ 
+33 
+ 
+ 
+Q98. Which among the following combination is correct? Study the following information carefully and answer 
+the questions given below: 
+Ten persons- A, B, C, D, E, F, G, H, I and J have exam (but not necessarily in the same order) on two different 
+dates either 8th or 11th of four different months - April, May, June, July and August of the same year. 
+Only three persons have exam between H and C who has exam in the month which has 31 days and on an odd 
+numbered date. As many persons have exam after C as before I. C and E does not have exam in the same month. 
+F has exam three persons after I. Only two persons have exam between E and A who has exam in the month 
+which has 30 days. G has exam immediately after month of E but not in the same month as F. B has exam after G 
+and both have exam on the same date. J has exam immediately before B. 
+(a) B- 11 August 
+(b) E- 8 July 
+(c) F- 11 June 
+(d) G- 8 July 
+(e) None is correct 
+ 
+Q99. How many persons have exam between G and I? Study the following information carefully and answer the 
+questions given below: 
+Ten persons- A, B, C, D, E, F, G, H, I and J have exam (but not necessarily in the same order) on two different 
+dates either 8th or 11th of four different months - April, May, June, July and August of the same year. 
+Only three persons have exam between H and C who has exam in the month which has 31 days and on an odd 
+numbered date. As many persons have exam after C as before I. C and E does not have exam in the same month. 
+F has exam three persons after I. Only two persons have exam between E and A who has exam in the month 
+which has 30 days. G has exam immediately after month of E but not in the same month as F. B has exam after G 
+and both have exam on the same date. J has exam immediately before B. 
+(a) Five 
+(b) Four 
+(c) Six 
+(d) Seven 
+(e) Three 
+ 
+Q100. Which among the following statement is not true? Study the following information carefully and answer 
+the questions given below: 
+Ten persons- A, B, C, D, E, F, G, H, I and J have exam (but not necessarily in the same order) on two different 
+dates either 8th or 11th of four different months - April, May, June, July and August of the same year. 
+Only three persons have exam between H and C who has exam in the month which has 31 days and on an odd 
+numbered date. As many persons have exam after C as before I. C and E does not have exam in the same month. 
+F has exam three persons after I. Only two persons have exam between E and A who has exam in the month 
+which has 30 days. G has exam immediately after month of E but not in the same month as F. B has exam after G 
+and both have exam on the same date. J has exam immediately before B. 
+(a) No one has exam after C 
+(b) More than five persons have exam before H 
+(c) D has exam on an even numbered date 
+(d) J has exam after I 
+(e) All are true 
+ 
+ 
+ 
+34 
+ 
+Solutions 

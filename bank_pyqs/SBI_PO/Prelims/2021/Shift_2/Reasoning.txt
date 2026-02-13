@@ -1,0 +1,361 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2021
+Shift: 2
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05021332/SBI-PO-Pre-Mock-06-Based-on-2nd-shift-21st-November-2021.pdf
+======================================================================
+
+Q66. Which of the following subject test conducted by G?  
+(a) English 
+(b) Hindi 
+(c) Physics 
+(d) Math 
+(e) None of these 
+ 
+Q67. Who among the following conducts test of Physics? 
+(a) G 
+(b) L 
+(c) E 
+(d) F 
+(e) None of these 
+ 
+Q68. On which of the following day K conducts test? 
+(a) Thursday 
+(b) Saturday 
+(c) Tuesday 
+(d) Sunday 
+(e) None of these 
+ 
+ 
+ 
+Q69. Which of the following subject’s test is on Thursday? 
+(a) English 
+(b) Math 
+(c) Physics 
+(d) Chemistry 
+(e) None of these 
+ 
+Q70. Which of the following combination is true? 
+(a) G - Tuesday 
+(b) Computer - Saturday 
+(c) E - Saturday 
+(d) G - Physics 
+(e) English - Wednesday 
+ 
+Directions (71-74): In each of the questions below. Some statements are given followed by 
+conclusions/group of conclusions. You have to assume all the statements to be true even if they 
+seem to be at variance from the commonly known facts and then decide which of the given 
+conclusions logically follow from the information given in the statements: 
+ 
+Q71. Statements:  
+Only a few wall is floor.  
+Some door is fan.  
+No floor is door. 
+Conclusions:  
+I. Some fan is not floor.  
+II. All wall being door is a possibility. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q72. Statements:  
+All jeep are car.  
+Some car is not truck.  
+Only a few van is truck. 
+Conclusions:  
+I. All jeep being truck is a possibility.  
+II. All van being truck is a possibility. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+ 
+ 
+Q73. Statements:  
+Some Park is cabin.  
+Only cabin is coach.  
+No park is metro.  
+Conclusions:  
+I. Some coach being park is a possibility.         
+II. All cabin being metro is a possibility.  
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q74. Statements:  
+Some new are not old.  
+Only a few old are same.  
+All same are again. 
+Conclusions:  
+I. Some again is not old.  
+II. All same being new is a possibility. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Directions (75-79): Study the information carefully and answer the questions given below. 
+Eight persons A, B, C, D, L, Q, R and S are living in a four-story building such as ground floor is numbered 
+as 1, above it is floor 2 and so on till the topmost floor is numbered as 4. Each of the floors has 2 flats in 
+it viz. flat-1 and flat-2. Flat-1 of floor-2 is immediately above flat-1 of floor-1 and immediately below 
+flat-1 of floor-3 and so on. In the same way, flat-2 of floor-2 is immediately above flat-2 of floor-1 and 
+immediately below flat-2 of floor-3 and so on. Flat-1 is in the west of flat-2. 
+Two floors gap between L and D but they do not live in the same flat. S lives on an odd-numbered floor 
+and to the west of B’s flat. One floor gap between the floors of L and C and they live in the same flat. A is 
+living above Q’s floor in the same flat. L lives on an even-numbered floor. R is living in an even-numbered 
+flat. 
+ 
+Q75. Who among the following lives in flat-1 on the 3rd floor? 
+(a) R 
+(b) S 
+(c) D 
+(d) Q 
+(e) None of these 
+ 
+ 
+ 
+Q76. Who among the following is/are living with C in the same numbered flat? 
+(a) L 
+(b) S 
+(c) Both L and B 
+(d) B 
+(e) None of these 
+ 
+Q77. Which of the following combination is/are true? 
+(a) A- Flat1 
+(b) S- Floor 3 
+(c) All are true 
+(d) R- Floor 1 
+(e) B-Flat 2 
+ 
+Q78. How many floors are there between R and S? 
+(a) Both are living on the same floor 
+(b) None 
+(c) Two 
+(d) One 
+(e) None of these 
+ 
+Q79. The number of floors gap between S and Q is same as the number of floors gap between _____ 
+and _____.  
+(a) Q-A 
+(b) L-R 
+(c) B-C 
+(d) S-R 
+(e) None of these 
+ 
+Directions (80-82): Study the following information carefully and answer the questions given 
+below: 
+In a certain code language: 
+“We getting late” is coded as “blue yellow white”  
+“You should awake late” is coded as “black pink white marron” 
+“We should win prize” is coded as “blue marron magenta orange” 
+“Getting late win” is coded as “yellow white magenta”  
+ 
+Q80. What is the code for “should” in the given code language? 
+(a) marron 
+(b) pink 
+(c) white 
+(d) black 
+(e) None of these 
+ 
+ 
+ 
+Q81. What is the code for “prize” in the given code language? 
+(a) blue  
+(b) magenta  
+(c) orange 
+(d) marron  
+(e) None of these 
+ 
+Q82. What is the code for “you” in the given code language? 
+(a) black  
+(b) pink  
+(c) marron 
+(d) white  
+(e) Either black or pink 
+ 
+Directions (83-87): Study the following information carefully and answer the questions given 
+below: 
+Twelve persons are sitting in two parallel rows containing six persons in each row in such a way that 
+there is an equal distance between adjacent persons. In the first row, D, F, H, L, M and O are seated and 
+all of them are facing south. In the second row, P, Q, R, V, W and Z are seated and all of them are facing 
+north. Therefore, in the given seating arrangement, each member seated in a row faces another member 
+of the other row. 
+There are 2 persons sit between L and D and one of them sits at one of the extreme ends of the row. Q 
+faces to the L. F faces to R and sits at one of the extreme ends. There are more than one person sits 
+between Q and R. W sits 2nd to the left of Z and both are not facing D. The number of persons sit between 
+Q and Z is same as the number of persons sit between R and V who does not sit near to Z. M does not sit 
+near to D and F. O does not sit 2nd from any of the extreme end.  
+ 
+Q83. Who among the following faces to H? 
+(a) V 
+(b) W 
+(c) Z 
+(d) P 
+(e) None of these 
+ 
+Q84. How many persons sit between O and F? 
+(a) Four 
+(b) One 
+(c) None  
+(d) Two 
+(e) Three 
+ 
+Q85. Four of the following five are alike in a certain way and hence they form a group. Which one 
+of the following does not belong to that group? 
+(a) Q 
+(b) D 
+(c) M 
+(d) V 
+(e) P 
+ 
+ 
+ 
+Q86. Who among the following is an immediate neighbour of O? 
+(a) M 
+(b) L 
+(c) D 
+(d) Both M and D 
+(e) None of these 
+ 
+Q87. What is the position of M with respect to H? 
+(a) 3rd to the left  
+(b) 3rd to the right  
+(c) 2nd to the left  
+(d) 2nd to the right  
+(e) Immediate to the left  
+ 
+Directions (88-90): Study the following information and answer the questions given below: 
+Dheeraj walks 8m towards west from point P to reach point Q. He takes a left turn from point Q and 
+walks 10m to reach point R. He takes a right turn from point R and walks 12m to reach point S. He takes 
+another right turn from point S and walks 6m to reach point T. He takes a left turn from point T and 
+walks 8m to reach his home. 
+ 
+Q88. In which direction is point T with respect to point to Q? 
+(a) North 
+(b) South 
+(c) South-east 
+(d) South-west 
+(e) North-east 
+ 
+Q89. What is the shortest distance between point S and Dheeraj’s home? 
+(a) 22m 
+(b) 10m 
+(c) 12m 
+(d) 26m 
+(e) None of these 
+ 
+Q90. What is the total distance travelled by Dheeraj 3m east from Point S to Point P? 
+(a) 27m 
+(b) 30m 
+(c) 24m 
+(d) 21m 
+(e) 36m 
+ 
+ 
+ 
+Directions (91-93): In these questions, a relationship between different elements is shown in 
+the statements. The statements are followed by two conclusions. Give answer 
+ 
+Q91.  
+  
+(a) if only conclusion II is true. 
+(b) if only conclusion I is true. 
+(c) if neither conclusion I nor II is true. 
+(d) if either conclusion I or II is true. 
+(e) if both conclusions I and II are true. 
+ 
+Q92.  
+  
+(a) if both conclusion I and II are true. 
+(b) if only conclusion I is true. 
+(c) if neither conclusion I nor II is true. 
+(d) if either conclusion I or II is true. 
+(e) if only conclusion II is true. 
+ 
+Q93.  
+  
+(a) if only conclusion II is true. 
+(b) if either conclusion I or II is true. 
+(c) if neither conclusion I nor II is true. 
+(d) if only conclusion I is true. 
+(e) if both conclusions I and II are true. 
+ 
+Directions (94-96): Study the following information to answer the given questions: 
+There are some persons are sitting in a row such that all are facing towards the north direction. Three 
+persons sit between Q and S. R sits fifth right of S. U sits third from the right end of the row. T sits exactly 
+between S and U. Only four persons sit to the left of Q. Number of persons sit right of R is two more than 
+the number of persons sit left of P. Not more than two persons sit between U and T who does not sit left 
+of Q.  
+ 
+ 
+ 
+Q94. Who among the following sits second to the right of P? 
+(a) R 
+(b) T 
+(c) Unknown person 
+(d) S 
+(e) None of these 
+ 
+Q95. How many persons sit between Q and T? 
+(a) Four 
+(b) Six 
+(c) Seven 
+(d) Five 
+(e) None of these 
+ 
+Q96. What the position of R with respect to T? 
+(a) Third to the left 
+(b) Second to the left 
+(c) Immediate right 
+(d) Second to the right 
+(e) None of these 
+ 
+Directions (97-100): Study the following series of five three-digit numbers and answer the 
+questions. 
+593 723 437 562 628  
+ 
+Q97. If all the numbers are arranged in ascending order, then which number will come in the 
+middle of the series? 
+(a) 628  
+(b) 593  
+(c) 723  
+(d) 562  
+(e) None of these 
+ 
+Q98. If all the digits are arranged in descending order within the number, then which number 
+will be the lowest number? 
+(a) 593  
+(b) 437  
+(c) 562  
+(d) 628  
+(e) None of these 
+ 
+Q99. If in each number first and second digit are added and then subtract third digit from the 
+resultant, after performing the operation how many numbers will be greater than 10?  
+(a) One  
+(b) Two  
+(c) Three  
+(d) Four  
+(e) None of these 
+ 
+ 
+ 
+Q100. If the third digit of the 2nd highest number is divided by the second digit of the highest 
+number, then what will be the resultant? 
+(a) 4  
+(b) 3  
+(c) 2  
+(d) 5  
+(e) None of these 
+ 
+Solutions 

@@ -1,0 +1,425 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 3
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152916/RRB-PO-Pre-2022-20th-August-Shift-Wise-Previous-Year-Paper-Mock-03.pdf
+======================================================================
+
+Q1. What is the shortest distance between point A and point E?  
+(a) 25m  
+(b) 23m  
+(c) √653m  
+(d) 5√26m  
+(e) None of these  
+ 
+Q2. In which direction is point E with respect to starting point? 
+(a) North-east 
+(b) South-west 
+(c) North-west 
+(d) South-east 
+(e) None of these 
+ 
+Q3. If Waqar walks 4m towards west from point F to reach point G, then in which direction point 
+G is with respect to starting point?   
+(a) South-east  
+(b) South 
+(c) South-west 
+(d) North-east 
+(e) None of these 
+ 
+Q4. If in the number “7263586391”, positions of the first and the second digits are interchanged, 
+positions of the third and fourth digits are interchanged and so on till the positions of 9th and 
+10th digits are interchanged, then find the multiple value of 3rd and 6th number from the left end 
+respectively? 
+(a) 21 
+(b) 42 
+(c) 15 
+(d) 35 
+(e) None of these 
+ 
+ 
+2 
+ 
+ 
+Directions (5-7): Study the following information carefully and answer the given questions. 
+In a family of nine members there are five male members. M is the son of V. V is married to J. L is 
+daughter-In-law of V. J has three children and two of them are married. U is the mother of B. W is son-
+in-law of J. S is aunt of B and she is unmarried. J is grandfather of A. B don’t have any siblings. S doesn’t 
+have child. 
+ 
+Q5. How is B related to M? 
+(a) Son 
+(b) Daughter 
+(c) Nephew  
+(d) Niece  
+(e) None of these 
+ 
+Q6. How is V related to B? 
+(a) Mother 
+(b) Maternal Grandmother 
+(c) Paternal Grandmother 
+(d) Aunt 
+(e) Cannot be determined 
+ 
+Q7. How is A related to M? 
+(a) Son 
+(b) Daughter 
+(c) Nephew 
+(d) Niece 
+(e) Cannot be determined 
+ 
+Q8. If a four letter meaningful word will be formed from the first, fourth, seventh and ninth letter 
+from the left end of the word “SEPTEMBER” then which letter is 4th from the left end in the 
+meaningful word thus formed? If more than one word is formed, then mark the answer as X and 
+if no meaningful word is formed then mark the answer as Z. 
+(a) T 
+(b) X 
+(c) R 
+(d) Z 
+(e) B 
+ 
+Directions (9-13): Study the following instructions and answer the questions given below: 
+Eight persons are sitting around a square table. Four persons are sitting at the corner and facing outside 
+while four persons are sitting at the side and facing inside.  
+M sits second to the right of P. Only one person sits between M and R. N is an immediate neighbor of P 
+and sits second to the left of the one who sits second to the left of O. S sits third to the right of Q who sits 
+immediate left of L. L does not face inside. 
+ 
+ 
+3 
+ 
+ 
+Q9. Who among the following sits opposite to M? 
+(a) L 
+(b) Q 
+(c) S 
+(d) O 
+(e) None of these 
+ 
+Q10. Who among the following sits second to the left of S? 
+(a) R 
+(b) M 
+(c) P 
+(d) O 
+(e) None of these 
+ 
+Q11. Four of the following five pairs are alike in a certain way so form a group, which of the 
+following does not belong to that group? 
+(a) M-R 
+(b) N-L 
+(c) S-O 
+(d) Q-P 
+(e) L-O 
+ 
+Q12. How many persons sit between P and O, when counted from the right of P? 
+(a) One 
+(b) Four 
+(c) None 
+(d) Three 
+(e) None of these 
+ 
+Q13. Who among the following sits second to the left of the one who sits third to the right of N? 
+(a) M 
+(b) R 
+(c) S 
+(d) O 
+(e) None of these 
+ 
+Directions (14-18): Study the information carefully and answer the questions given below. 
+Seven persons A, B, C, D, E, F and G of a college are working (but not necessarily in the same order) at 
+seven different designations viz. Chancellor, Vice Chancellor (VC), Dean, HOD, Professor, Assistant 
+Professor and Lecturer. All the designations given are to be considered in a given order (as Chancellor 
+is considered as Senior-most and Lecturer is considered as the Junior-most). 
+Not more than two persons are junior to E. Two designations are between E and B. A is senior to D. C is 
+neither VC nor Chancellor. C is Senior to F. More than two persons are senior to A. D is not Lecturer.  
+ 
+ 
+4 
+ 
+ 
+Q14. Who among the following person is HOD? 
+(a) B 
+(b) C 
+(c) F 
+(d) D 
+(e) None of these 
+ 
+Q15. Who among the following is VC? 
+(a) C 
+(b) G 
+(c) B 
+(d) D 
+(e) E 
+ 
+Q16. How many designations lie between G and D? 
+(a) Three 
+(b) Five 
+(c)  None 
+(d) Four  
+(e) More than Five 
+ 
+Q17. Who among the following is Chancellor? 
+(a) G 
+(b) F 
+(c) A 
+(d) D 
+(e) None of these 
+ 
+Q18. Which of the following statement is true regarding F? 
+(a) F is senior to only one person 
+(b) D is just junior to F 
+(c) F is Lecturer 
+(d) F is junior to only three persons 
+(e) None is true 
+ 
+Directions (19-22): In each of the questions below. Some statements are given followed by 
+conclusions/group of conclusions. You have to assume all the statements to be true even if they 
+seem to be at variance from the commonly known facts and then decide which of the given 
+conclusions logically follow from the information given in the statements: 
+ 
+ 
+5 
+ 
+ 
+Q19. Statements: 
+Only a few wall is floor.  
+Some door is fan.  
+No floor is door. 
+Conclusions:  
+I. Some fan is not floor.    
+II. All wall being door is a possibility. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q20. Statements:  
+All jeep are car.  
+Some car is not truck.  
+Only a few van is truck. 
+Conclusions:  
+I. All jeep being truck is a possibility.  
+II. All van being truck is a possibility. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q21. Statements:  
+Some Park is cabin.  
+Only cabin is coach.  
+No park is metro.  
+Conclusions:  
+I. Some coach being park is a possibility.                                
+II. All cabin being metro is a possibility.  
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+ 
+6 
+ 
+ 
+Q22. Statements:  
+Some new are not old.  
+Only a few old are same.  
+All same are again. 
+Conclusions: 
+I. Some again is not old.     
+II. All same being new is a possibility. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Directions (23-26): Study the following information carefully and answer the questions given 
+below: 
+Seven persons i.e. A, B, P, R, X, Y and Z were born on different days of the same week but not necessarily 
+in the same order. Week starts from Monday.  
+Y was born just before P and just after A. X was born just after B. B was born before Wednesday. Z was 
+born before of the day when R was born. P was not born on Sunday. Z was neither born on Monday nor 
+on Saturday.   
+ 
+Q23. On which of the following day Z was born? 
+(a) Tuesday 
+(b) Wednesday 
+(c) Thursday 
+(d) Friday 
+(e) Sunday 
+ 
+Q24. How many persons were born between X and P? 
+(a) None  
+(b) One  
+(c) Two 
+(d) Three 
+(e) More than three 
+ 
+Q25. Who among the following person was born on Friday? 
+(a) P 
+(b) A 
+(c) Y 
+(d) Z 
+(e) R 
+ 
+ 
+7 
+ 
+ 
+Q26. Which of the following pair of persons were born on Monday and Sunday respectively? 
+(a) R and X 
+(b) B and R 
+(c) P and Z 
+(d) X and B 
+(e) None of these 
+ 
+Directions (27-30): In these questions, a relationship between different elements is shown in 
+the statements. The statements are followed by two conclusions. Give answer 
+ 
+Q27.  
+ 
+(a) If only conclusion II is true. 
+(b) If only conclusion I is true. 
+(c) If neither conclusion I nor II is true. 
+(d) If either conclusion I or II is true. 
+(e) If both conclusions I and II are true. 
+ 
+Q28.  
+ 
+(a) If both conclusion I and II are true. 
+(b) If only conclusion I is true. 
+(c) If neither conclusion I nor II is true. 
+(d) If either conclusion I or II is true. 
+(e) If only conclusion II is true. 
+ 
+Q29.  
+ 
+(a) If only conclusion II is true. 
+(b) If either conclusion I or II is true. 
+(c) If neither conclusion I nor II is true. 
+(d) If only conclusion I is true. 
+(e) If both conclusions I and II are true. 
+ 
+ 
+8 
+ 
+ 
+Q30.  
+ 
+(a) If only conclusion II is true. 
+(b) If only conclusion I is true. 
+(c) If neither conclusion I nor II is true. 
+(d) If either conclusion I or II is true. 
+(e) If both conclusions I and II are true. 
+ 
+Directions (31-35): Study the following information carefully and answer the questions given 
+below: 
+756 
+946 
+845 
+549 
+291 
+ 
+ 
+Q31. If ‘1’ is subtracted from the first digit of each number and then all the numbers are arranged 
+in ascending order from left to right, then which of the following number is second from right 
+end? 
+(a) 549  
+(b) 946 
+(c) 756 
+(d) 291 
+(e) 845 
+ 
+Q32. If in each number, the first and the third digits are interchanged then which number will 
+be the lowest? 
+(a) 946 
+(b) 291 
+(c) 756 
+(d) 549 
+(e) 845 
+ 
+Q33. If the first and the second digits in each number are interchanged, then which number will 
+be the fourth smallest? 
+(a) 946 
+(b) 291 
+(c) 845 
+(d) 549 
+(e) 756 
+ 
+ 
+9 
+ 
+ 
+Q34. What is the sum of 2nd digit of the 3rd number from left end and 1st digit of 2nd number from 
+right end? 
+(a) 5 
+(b) 2 
+(c) 4 
+(d) 9 
+(e) 8 
+ 
+Q35. If in each number first digit is shifted to the third digit, second digit is shifted to the first 
+digit and third digit is shifted to the second digit, then which number will be the highest?  
+(a) 946 
+(b) 291 
+(c) 845  
+(d) 549 
+(e) None of these 
+ 
+Directions (36-38): Study the following information to answer the given questions: 
+A certain number of persons are sitting in a row such that all are facing towards the north direction. 
+Three persons sit between Q and S. R sits fifth right of S. U sits third from the right end of the row. T sits 
+exactly between S and U. Only four persons sit to the left of Q. Number of persons sit to the right of R is 
+two more than the number of persons sit left of P. Not more than two persons sit between U and T who 
+does not sit left of Q.  
+ 
+Q36. Who among the following sits second to the right of P? 
+(a) R 
+(b) T 
+(c) Unknown person 
+(d) S 
+(e) None of these 
+ 
+Q37. How many persons sit between Q and T? 
+(a) Four 
+(b) Six 
+(c) Seven 
+(d) Five 
+(e) None of these 
+ 
+Q38. What the position of R with respect to T? 
+(a) Third to the left 
+(b) Second to the left 
+(c) Immediate right 
+(d) Second to the right 
+(e) None of these 
+ 
+ 
+10 
+ 
+ 
+Q39. In a class Piyush is 10th from the top and Aarya is 20th from the bottom. Naveen is 11 ranks 
+above Aarya and 21 ranks below Piyush. How many students are there in the class?  
+(a) 60 
+(b) 61 
+(c) 62 
+(d) 58  
+(e) None of these 
+ 
+Q40. How many such pair of letters are there in the word “HOUSEFUL’”, each of which has as 
+many letters between them in the word as they have in English alphabet (from the both forward 
+and backward direction)?  
+(a) Four 
+(b) Two  
+(c) One 
+(d) Three 
+(e) More than four 
+ 
+Directions (41 -45): In the following questions, there are two equations in x and y. You have to 
+solve both the equations and give answer

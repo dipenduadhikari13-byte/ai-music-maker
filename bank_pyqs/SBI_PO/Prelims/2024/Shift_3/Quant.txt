@@ -1,0 +1,337 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2024
+Shift: 3
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/16102954/SBI-PO-Pre-2024-25-Memory-Based-Paper-8-March-2025-3rd-shift-2.pdf
+======================================================================
+
+Q31. Find the word similar in meaning to "swell" as used in the passage. 
+(a) Huge 
+(b) Multiply 
+(c) Expand 
+(d) Minimize 
+(e) Liberate 
+ 
+Q32. What is the primary reason for the rapid expansion of the kids’ clothing, toy, and 
+merchandise industry as highlighted in the passage? 
+(a) The rise in the global birth rate, leading to higher demand for children's products. 
+(b) Increasing disposable income among parents who prioritize quality, sustainability, and premium 
+products. 
+(c) Government policies promoting children's welfare and encouraging businesses to manufacture kids' 
+products. 
+(d) The decline in adult fashion sales, leading brands to shift focus toward children's products. 
+(e) The impact of automation and AI in manufacturing, reducing production costs. 
+ 
+ 
+ 
+Q33. Choose the correct option to fill in the blank: 
+(a) Jumping off the trend 
+(b) Jumping on the bandwagon 
+(c) Stepping aside from competition 
+(d) Moving against the tide 
+(e) Avoiding the mainstream 
+ 
+Q34. Find the word similar in meaning to "space" as used in the passage. 
+(a) Distance 
+(b) Void 
+(c) Area 
+(d) Vacancy 
+(e) Isolation 
+ 
+Q35. Which of the following challenges does the passage highlight as potential obstacles for 
+companies in this industry? 
+(a) Lack of innovation and brand awareness among emerging companies. 
+(b) High advertising costs and reduced consumer interest in sustainability. 
+(c) Fluctuating raw material prices and rising competition in the market. 
+(d) Government-imposed restrictions on e-commerce and digital marketing. 
+(e) A declining birth rate leading to reduced demand for children's products. 
+ 
+Q36. Find the word similar in meaning to "firm" as used in the passage. 
+(a) Company 
+(b) Weak 
+(c) Unstable 
+(d) Flexible 
+(e) Fragile 
+ 
+Q37. In the given question, two words are omitted, which are replaced by blanks. Choose the 
+best combination of the words that can fit into the given blank at the same order so to make a 
+grammatically and logically correct statement. 
+Despite his polished manners, there was a subtle ______ in his voice that seemed to ______ his true 
+intentions. 
+(a) melody, amplify 
+(b) undertone, reveal 
+(c) undertones, conceal  
+(d) resonance, revealed 
+(e) cadence, validate 
+ 
+ 
+ 
+Q38. In the given question, two words are omitted, which are replaced by blanks. Choose the 
+best combination of the words that can fit into the given blank at the same order so to make a 
+grammatically and logically correct statement. 
+The young artist’s work was both ______ and provocative, drawing critics who either praised her ______ 
+or dismissed it as erratic. 
+(a) dull, hierarchy 
+(b) muted, unpredictable 
+(c) bold, unpredictability 
+(d) dulled, symmetry 
+(e) orating, precise 
+ 
+Q39. In the given question, two words are omitted, which are replaced by blanks. Choose the 
+best combination of the words that can fit into the given blank at the same order so to make a 
+grammatically and logically correct statement. 
+He approached the ancient manuscript with great ______, afraid that even a careless breath might ______ 
+its fragile pages. 
+(a) difference, crumbles 
+(b) reverence, damage 
+(c) urgency, preserve 
+(d) curiosity, illuminate 
+(e) impulse, damaging 
+ 
+Q40. In the given question, two words are omitted, which are replaced by blanks. Choose the 
+best combination of the words that can fit into the given blank at the same order so to make a 
+grammatically and logically correct statement. 
+Her memoir paints a ______ portrait of survival, shaped by loss but told with a voice both ______ and 
+unyielding. 
+(a) forlorn, distant 
+(b) vibrant, resilience 
+(c) raw, resilient 
+(d) fiction, passive 
+(e) bleak, resigned 
+ 
+Directions (41-45): Read the following pie chart carefully and answer the questions given below. 
+The pie chart shows the percentage distribution of profit earned on selling five different items 
+on Monday by a company.  
+ 
+ 
+ 
+ 
+Q41. Find the ratio of the profit earned on selling registers to the profit earned on selling pens 
+on Monday. 
+(a) 3:4 
+(b) 4:3 
+(c) 1:4 
+(d) 5:8 
+(e) 8:5 
+ 
+Q42. The profit earned on boxes selling on Thursday is 60% more than the profit earned on pens 
+selling on Monday. Find the difference between the profit earned on selling papers on Monday 
+and the profit earned on boxes selling on Thursday. 
+(a) Rs 4500 
+(b) Rs 3800 
+(c) Rs 3150 
+(d) Rs 4200 
+(e) Rs 3700 
+ 
+Q43. The profit on each register and each pen is Rs 150 and Rs 50, respectively. Find the ratio of 
+the total number of registers sold to the total number of pens sold on Monday. 
+(a) 1:2 
+(b) 4:7 
+(c) 3:4 
+(d) 4:9 
+(e) 8:3 
+ 
+Q44. The profit earned on registers selling on Tuesday to on Monday is in the ratio of 11:15, 
+respectively. The profit earned on Registers selling on Tuesday is what percentage of the profit 
+earned on Boxes selling on Monday? 
+(a) 150% 
+(b) 95% 
+(c) 80% 
+(d) 125% 
+(e) 110% 
+ 
+Q45. Find the central angle (in degree) of profit earned on 
+pens selling on Monday. 
+(a) 64.8 
+(b) 108 
+(c) 144 
+(d) 62.6 
+(e) 56.8 
+ 
+ 
+ 
+Directions (46-48): In each of these questions a number series is given. In each series only one 
+number is wrong. Find out the wrong number. 
+ 
+Q46.  20,   24,  51,  115,   240,  456,  799 
+(a) 24 
+(b) 20 
+(c) 51 
+(d) 115 
+(e) 240 
+ 
+Q47.  24,  6,  12,  10,  28,  62,  194 
+(a) 62 
+(b) 10 
+(c) 12 
+(d) 24 
+(e) 6 
+ 
+Q48.  6,  11,  34,  67,  202,  403,  1215 
+(a) 34 
+(b) 11 
+(c) 6 
+(d) 1215 
+(e) 67 
+ 
+Q49. Karan invested Rs 9000 in scheme A at (x+2)% p.a. and invested Rs 12000 in scheme B at 
+(x-2)% p.a. Both schemes offer simple interest, and after five years, the interest received from 
+both schemes is equal. Find the value of x. 
+(a) 24 
+(b) 14 
+(c) 12 
+(d) 10 
+(e) 8 
+ 
+Q50. A, B and C can complete a work in 15 days, 12 days and 10 days respectively. If A and C 
+together work for x days and B remaining work for 2x days, then find the value of 3x. 
+(a) 18 
+(b) 12 
+(c) 6 
+(d) 3 
+(e) 9 
+ 
+ 
+ 
+Directions (51-55): Read the following Bar graph and table carefully and answer the questions 
+given below. The Bar graph shows the total number of employees (males and females) working 
+in five different companies. The table shows the percentage of females out of total employees in 
+these companies. 
+ 
+ 
+ 
+Q51. The average number of females in B and C together is what percentage more or less than 
+the total number of males in E? 
+(a) 65% 
+(b) 40% 
+(c) 32.5% 
+(d) 87.5% 
+(e) 90% 
+ 
+Q52. The total number of males in X is five more than the average of the females in E and D. If the 
+total number of employees in X is 25% more than that in A, then find the total number of females 
+in X. 
+(a) 120 
+(b) 180 
+(c) 150 
+(d) 100 
+(e) 190 
+ 
+ 
+ 
+Q53. If each male and each female work 8 hours and 6 hours in a day in C, then find the difference 
+between the number of hours worked by total males and total females in a week in C. 
+(a) 6262 
+(b) 6645 
+(c) 6652 
+(d) 6525 
+(e) 6552 
+ 
+Q54. One-fourth of the total males and 5/8 of the total females work in the sales department in 
+A. Find the average number of males and females who work in the HR department in A (Males 
+and females work only two department).  
+(a) 54 
+(b) 66 
+(c) 72 
+(d) 80 
+(e) 70 
+ 
+Q55. Find the ratio of the total number of males in C, B and E to the total number of employees 
+in A and B. 
+(a) 31:51 
+(b) 35:47 
+(c) 32:47 
+(d) 33:49 
+(e) 31:50 
+ 
+Directions (56-60): Read the following information carefully and answer the questions given 
+below. 
+The three companies i.e. A, B, and C sold cars and bikes, and the ratio of cars sold by A, B, and C is 4:5:6, 
+respectively. The ratio of bikes sold by A, B, and C is 3:2:5, respectively. The difference between the cars 
+and bikes sold by B is 18 and the ratio of cars sold by B to bikes sold by C is 8:11 respectively. 
+ 
+Q56. The total cars sold by C is how many more or less than the total bikes sold by A? 
+(a) 12 
+(b) 15 
+(c) 14 
+(d) 13 
+(e) 10 
+ 
+Q57. Find the ratio of the total cars sold by A and the average bikes sold by C and B. 
+(a) 64:77 
+(b) 77:64 
+(c) 23 : 77 
+(d) 32:77 
+(e) 77:23 
+ 
+ 
+ 
+Q58. If 5/8th and 7/12th of the cars sold by A and C are diesel and the rest are petrol, then find 
+the difference between the petrol cars sold by A and C. 
+(a) 4 
+(b) 10 
+(c) 8 
+(d) 6 
+(e) 12 
+ 
+Q59. The total bikes sold by C is what percentage more or less than the total cars sold by B? 
+(a) 12.5% 
+(b) 25% 
+(c) 37.5% 
+(d) 8.33% 
+(e) 32.5% 
+ 
+Q60. If the ratio of total bikes sold by A to D is 3:7 and the total cars sold by D is 20% more than 
+that of B, then find the sum of the total bikes and cars sold by D. 
+(a) 150 
+(b) 105 
+(c) 110 
+(d) 125 
+(e) 80 
+ 
+Q61. A vessel contains milk and water, and the quantity of milk is 85% in the vessel. If 20 liters 
+of the mixture are taken out and 30 liters of water are added to the vessel, then the quantity of 
+milk becomes 65%. Find the initial quantity of vessel (in liters). 
+(a) 140 
+(b) 112.5 
+(c) 114 
+(d) 117.5 
+(e) 105.5 
+ 
+Q62. The ratio of the average weight of A and B to A and C is 4:5, respectively. The weight of C is 
+40 kg, and the weight of A and B is in the ratio of 7:5. Find the average weight of A, B, and C (in 
+kg). 
+(a) 40 
+(b) 12.5 
+(c) 33.33 
+(d) 32.5 
+(e) 66.67 
+ 
+ 
+ 
+Q63. A boat goes X to Y in downstream and come back Y to X upstream in total 5 hours. If the 
+speed of the current is 4 km/hr, then find the speed of the boat in still water (in km/hr). 
+(a) 16 
+(b) 25 
+(c) 40 
+(d) Can’t be determine 
+(e) None of these 
+ 
+Q64. The ratio of the present age of P to Q six years ago was 8:7. The present age of R is twice the 
+present age of Q. If six years hence the ratio of the age of P to R is 11:23, then find the present 
+age of R (in years). 
+(a) 28 
+(b) 32 
+(c) 40 
+(d) 35 
+(e) 50 
+ 
+Q65. The ratio of the volume of a cube to a sphere is 21:88, and the total surface area of the cube 
+is 294 cm². Find the curved surface area of the sphere (in cm²). 
+(a) 1450 
+(b) 1080 
+(c) 576 
+(d) 484 
+(e) 616

@@ -1,0 +1,418 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 3
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152916/RRB-PO-Pre-2022-20th-August-Shift-Wise-Previous-Year-Paper-Mock-03.pdf
+======================================================================
+
+Q41.  
+ 
+(a) if x > y 
+(b) if x < y 
+(c) if x ≥ y 
+(d) if x ≤ y 
+(e) if x = y or there is no relation between x and y 
+ 
+Q42.  
+ 
+(a) if x > y 
+(b) if x < y 
+(c) if x ≥ y 
+(d) if x ≤ y 
+(e) if x = y or there is no relation between x and y 
+ 
+Q43.  
+ 
+ 
+ 
+11 
+ 
+(a) if x > y 
+(b) if x < y 
+(c) if x ≥ y 
+(d) if x ≤ y 
+(e) if x = y or there is no relation between x and y 
+ 
+Q44.  
+ 
+(a) if x > y 
+(b) if x < y 
+(c) if x ≥ y 
+(d) if x ≤ y 
+(e) if x = y or there is no relation between x and y 
+ 
+Q45.  
+ 
+(a) if x > y 
+(b) if x < y 
+(c) if x ≥ y 
+(d) if x ≤ y 
+(e) if x = y or there is no relation between x and y 
+ 
+Directions (46-50): Read the given information carefully and answer the following questions. 
+There are four covid hospitals i.e., P, Q, R and S. 
+In hospital P: Number of male patients are 120 and number of female patients are 30% more than that 
+of number of female patients in hospital Q. 
+In hospital Q: Number of male patients are double than that of number of female patients. 
+In hospital R: Number of male patients are 100 more than that of male patients in hospital P and total 
+number patients in hospital R is 1000. 
+In hospital S: Number of male patients is 182 more than the number of male patients in hospital P. 
+Average of number of female patients in hospital P and that of in hospital S is 223.Number of male 
+patients in hospital S is 98 less number male patients in hospital Q. 
+ 
+Q46. Find difference between number of male patients and female patients in S is what percent 
+of difference between number of male patients and female patients in Q? 
+(a) 53% 
+(b) 58% 
+(c) 63% 
+(d) 60% 
+(e) 57.5% 
+ 
+ 
+12 
+ 
+ 
+Q47. Find difference between total number patients in hospital P and total number patients in 
+hospital S? 
+(a) 108 
+(b) 118 
+(c) 112 
+(d) 98 
+(e) 128 
+ 
+Q48. Find ratio of total number of patients in Q to that of in R?  
+(a) 3: 5 
+(b) 2: 5 
+(c) 3: 4 
+(d) 4: 5 
+(e) 6: 5 
+ 
+Q49. If 20 male patients from each hospital have recovered and left their respective hospitals, 
+then find the average of remaining male patients in all the hospitals?  
+(a) 239.5 
+(b) 235 
+(c) 250.5 
+(d) 240.5 
+(e) 245.5 
+ 
+Q50. Total number of male patients in P and female patients in R together is what percent more 
+than number of male patients in Q?  
+(a) 100% 
+(b) 125% 
+(c) 150% 
+(d) 137.5% 
+(e) 175% 
+ 
+Directions (51-55): What will come in place of (?) in the following number series? 
+ 
+Q51. 150, 186, 106, 230, ?, 274 
+(a) 94 
+(b) 88 
+(c) 62 
+(d) 80 
+(e) 74 
+ 
+ 
+13 
+ 
+ 
+Q52. 6, 6, 12, 48, ?,  6144 
+(a) 354 
+(b) 374 
+(c) 388 
+(d) 382 
+(e) 384 
+ 
+Q53. 680, 675, 660, 615, 480, ? 
+(a) 75 
+(b) 120 
+(c) 110 
+(d) 95 
+(e) 55 
+ 
+Q54. ?, 328, 285, 238, 185, 126 
+(a) 369 
+(b) 382 
+(c) 375 
+(d) 362 
+(e) 387 
+ 
+Q55. ?, 1728, 1000, 512, 216, 64 
+(a) 225 
+(b) 3375 
+(c) 196 
+(d) 2744 
+(e) 2197 
+ 
+Directions (56-60): What approximate value should come in place of (?) in the following 
+questions. 
+ 
+Q56. 
+ 
+(a) 62 
+(b) 48 
+(c) 54 
+(d) 58 
+(e) 46 
+ 
+Q57. 
+ 
+(a) 260 
+(b) 230 
+(c) 250 
+(d) 270 
+(e) 240 
+ 
+ 
+14 
+ 
+ 
+Q58. 
+ 
+(a) 64 
+(b) 54 
+(c) 84 
+(d) 94 
+(e) 74 
+ 
+Q59. 
+ 
+(a) 20 
+(b) 50 
+(c) 40 
+(d) 80 
+(e) 60 
+ 
+Q60. 
+ 
+(a) 40 
+(b) 30 
+(c) 25 
+(d) 20 
+(e) 35 
+ 
+Q61.  Ankit invested Rs. 1080 at the rate of 7.5% p.a. for two years on simple interest and Rs. ‘P’ 
+at the rate of 20% p.a. for two years on compound interest annually. If ratio of total simple 
+interest after two years to the total compound interest received by Ankit in the second year is 9 
+: 10, then find ‘P’? 
+(a) Rs. 720 
+(b) Rs. 640 
+(c) Rs. 840 
+(d) Rs. 750 
+(e) Rs. 800 
+ 
+Q62. B is twice as old as A. Average of present age of A and B is 24 years and average of present 
+age of B and C is 38 years. Find present age of C is what percent less than present age of A and B 
+together? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+ 
+15 
+ 
+ 
+Q63. Pipe P alone takes 20% less time than that of pipe Q alone to fill a tank. When both pipes 
+together open for 8 hours in the same tank, then 90% of the tank filled. Find difference between 
+their individual time to fill the same tank? 
+(a) 4.5 hours 
+(b) 4 hours 
+(c) 5 hours 
+(d) 6 hours 
+(e) 8 hours  
+ 
+Q64.The ratio of the radius and height of a cylinder is 7: 12. If its volume is 6237 cm³ then find 
+difference between its total surface area and curved surface area? 
+(a) 700 cm² 
+(b) 686 cm² 
+(c) 679 cm² 
+(d) 672 cm² 
+(e) 693 cm² 
+ 
+Q65. The ratio of investment of P to Q is 4 : 5 and P & Q invested for 10 months and 6 months 
+respectively. If R invested Rs ‘2X’ in that business for last 8 months and profit of R is twice of 
+profit of Q, then find investment of Q is what percent more or less than that of R? 
+(a)  
+ 
+(b)
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Directions (66-70):- The table given below shows the no. of books published by 4 different 
+publishers in 4 months. Study the data and answer the following questions. 
+ 
+ 
+ 
+16 
+ 
+ 
+Q66. What is the average no. of books published by A in all the given months? 
+(a) 1740 
+(b) 2275 
+(c) 2050 
+(d) 2175 
+(e) 2250 
+ 
+Q67. Books published by B in February and March together is what percent more/less than that 
+by C in March and April? (approximate) 
+(a) 21% 
+(b) 24% 
+(c) 16% 
+(d) 12% 
+(e) 27% 
+ 
+Q68. Find the ratio between books published by C to D in all given months. 
+(a) 23 : 45 
+(b) 24 : 43  
+(c) 42 : 23 
+(d) 41 : 25 
+(e) 23 : 42 
+ 
+Q69. Find the revenue obtained by B in March is how much more/less than that by D in same 
+month, if selling price of book is Rs 120 and all books are sold. (Note – cost price and selling price 
+of each book is same for all publishers) 
+(a) Rs 50,000 
+(b) Rs 40,000 
+(c) Rs 55,000 
+(d) Rs 70,000 
+(e) Rs 60,000 
+ 
+Q70. Books published by A in April is what percent of book published by C in March? 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+ 
+17 
+ 
+ 
+Directions (71-75): Line chart given below shows total number of students in six different 
+classes( A, B , C , D , E & F) and percentage of passed students out of total number of students in 
+these six classes. Study the line charts carefully and answer the following questions. 
+ 
+ 
+ 
+Note – (i) Total number of students in any class = Number of passed students + Number of failed 
+students 
+(ii) All students appeared for the exam from all the six classes. 
+ 
+Q71. Find average number of students in class A & D is how much more or less than average 
+number of students in class C & E? 
+(a) 45 
+(b) 40 
+(c) 35 
+(d) 25 
+(e) 15 
+ 
+Q72. Total number of passed students in class A & F together is what percentage of total number 
+of students in class E? 
+(a) 102% 
+(b) 120% 
+(c) 162% 
+(d) 110% 
+(e) 152% 
+ 
+ 
+18 
+ 
+ 
+Q73. Find the ratio of total number of passed students in class A & B together to total number of 
+failed students in class C & E together? 
+(a) 101:55 
+(b) 103:50 
+(c) 101:51 
+(d) 104:55 
+(e) 103:53 
+ 
+Q74. Find the average number of students in class A, B & D? 
+(a) 64 
+(b) 58 
+(c) 70 
+(d) 80 
+(e) 72 
+ 
+Q75. If in another class G, the number of passed student is equal to average number of passed 
+students in class D & F together, then find the number of passed students in class G? 
+(a) 35 
+(b) 44 
+(c) 32 
+(d) 40 
+(e) 42 
+ 
+Q76. A boat covers 192 km in upstream in 6 hours. If speed of boat in still water is 200% more 
+than speed of stream, then find time taken by boat to cover 240 km in downstream. 
+(a) 3 hours 45 minutes 
+(b) 3 hours 15 minutes 
+(c) 4 hours 45 minutes 
+(d) 4 hours 15 minutes 
+(e) 5 hours 45 minutes 
+ 
+Q77. Length of rectangle is 5m more than side of square, whose area is 225m². Ratio of length to 
+breadth of rectangle is 5 : 4, then find perimeter of rectangle. 
+(a) 60m 
+(b) 68m 
+(c) 84m 
+(d) 90m 
+(e) 72m 
+ 
+ 
+19 
+ 
+ 
+Q78. Vinit made a loss of 15% on selling his scooter. If he had sold it for Rs. 1500 more, he would 
+have made a profit of 5%. Find the selling price when it is sold at 10% profit? 
+(a) Rs. 8050 
+(b) Rs. 8250 
+(c) Rs. 8170 
+(d) Rs. 8350 
+(e) Rs. 8150 
+ 
+Q79. Ayush can travel from his house to office in ‘a’ hours if he does not stop at any place. If he 
+increases his speed by 8 km/hr but stops at Tea & cigarette shop for total 30 minutes, then he 
+reaches his office 30 minutes earlier. If the distance between his house & office is 48 km then 
+find value of ‘a’? 
+(a) 5 
+(b) 4 
+(c) 2.5 
+(d) 2 
+(e) 3 
+ 
+Q80. There are five numbers and the second number is 25% more than the first number, while 
+third number is 20% more than second number.  If the average of all the five numbers is 126 
+and that of first, fourth and fifth number is 100, then find the sum of last two numbers?  
+(a) 180 
+(b) 120 
+(c) 140 
+(d) 156 
+(e) None of these 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+Solutions 

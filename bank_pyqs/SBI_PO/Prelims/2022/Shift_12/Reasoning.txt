@@ -1,0 +1,381 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 12
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/01/29150858/SBI-PO-Pre-2022-20th-Dec-Shift-Wise-Previous-Year-Paper-Mock-12.pdf
+======================================================================
+
+Q66. What is the code for “Aspirants score”? 
+(a) 212 135 
+(b) 118 235  
+(c) 114 135  
+(d) 135 235  
+(e) None of these  
+ 
+Q67. The code “128” is coded for ______.  
+(a) Demanding  
+(b) Services  
+(c) Now 
+(d) Score 
+(e) Can’t be determined  
+ 
+ 
+17 
+ 
+ 
+Q68. What is the code for “Banking exams”? 
+(a) 118 235 
+(b) 232 212  
+(c) 232 165 
+(d) 114 118 
+(e) None of these  
+ 
+Q69. The code “147 165 135” is coded for ______. 
+(a) Aspirants give exams  
+(b) SSC Applied exams 
+(c) Aspirants applied exams  
+(d) Aspirants give SSC 
+(e) None of these  
+ 
+Q70. If “SSC services demanding” is coded as “165   128    136” then what is the code for “Applied 
+now”? 
+(a) 235 118 
+(b) 118 114  
+(c) 118 235 
+(d) Either 118 114 or 118 235 
+(e) None of these  
+ 
+Directions (71-75) : Study the following information carefully and answer the questions given 
+below. 
+Five boxes A, B, C, D and F are placed one above the other but not necessarily in the same order.  
+Each box contains different food items viz. Maggie, Dhokla, Sushi, Khakhra and Pasta but not necessarily in 
+the same order.  
+Box F is placed two places above the box which contains Khakhra but not placed at the topmost position. 
+Box F neither contains nor placed adjacent to the box which contains Maggie. Box B is placed below the box 
+which contains Maggie but not just below. The number of boxes placed above box B is same as the number 
+of boxes placed below box C which does not contain Maggie. The box which contains Pasta is placed above 
+the box which contains Dhokla but not just above.  
+ 
+Q71. Which among the following box is placed two places below box A? 
+(a) The box which contains Sushi 
+(b) The box which contains Dhokla 
+(c) The box which contains Maggie 
+(d) B 
+(e) Can’t be determined  
+ 
+ 
+18 
+ 
+ 
+Q72. How many boxes are placed between the box C and the box which contains Khakhra? 
+(a) None 
+(b) Two 
+(c) One 
+(d) Three 
+(e) Either one or two 
+ 
+Q73. Four of the following five are alike in a certain way and hence form a group. Which of the 
+following does not belong to that group? 
+(a) D- Dhokla 
+(b) A-Maggie 
+(c) C-Sushi 
+(d) B-Dhokla 
+(e) F-Khakhra 
+ 
+Q74. If box D is placed above the box C, then how many boxes are placed below the box A? 
+(a) One 
+(b) Three 
+(c) None 
+(d) Two 
+(e) None of these  
+ 
+Q75. Box F contains _____ items and placed _____ places above the box which contains Khakhra.  
+(a) Sushi, Two 
+(b) Dhokla, One 
+(c) Pasta, Three 
+(d) Sushi, Three 
+(e) None of these  
+ 
+Q76. How many such numerals are there in the number ‘53786589’ which will remain at the same 
+position when these are arranged in ascending order from right to left? 
+(a) One  
+(b) Four 
+(c) Two 
+(d) None  
+(e) Five 
+ 
+Directions (77-79) : Study the following information carefully and answer the questions given 
+below. 
+U stays 20m north of X. S stays 16m west of W. V stays 6m south of R. T stays 18m east of X. S stays 34m 
+north of T. V stays 8m west of U. 
+ 
+ 
+19 
+ 
+ 
+Q77. What is the shortest distance between R and U? 
+(a) 14m 
+(b) 12m 
+(c) 10m 
+(d) 11m 
+(e) None of these  
+ 
+Q78. What is the total distance from U to W? 
+(a) 72m 
+(b) 88m 
+(c) 80m 
+(d) 84m 
+(e) None of these  
+ 
+Q79. Find the odd one out. 
+(a) R, S 
+(b) T, S 
+(c) V, S 
+(d) U, S 
+(e) X, S 
+ 
+Directions (80-83) : Study the following information carefully and answer the questions given 
+below. 
+Nine persons belong to three different families i.e., Family A, Family B and Family C. At least two persons 
+but not more than four persons belong to one family. Joshi doesn’t belong to Family A. Geeta belongs to 
+Family C. Komal belongs to one of the families only with Kiran. Poonam and Pihu belong to the same family 
+but not to Family A. Lisha neither belongs to the family of Poonam nor Joshi. Nikhil and Payal doesn’t belong 
+to Family B. Lisha does not belong to family A.  
+ 
+Q80. Who among the following persons belongs to Family C? 
+(a) Lisha 
+(b) Komal 
+(c) Kiran 
+(d) Joshi 
+(e) Both Joshi and Nikhil 
+ 
+Q81. Which of the following combination(s) is/are not correct? 
+(a) Kiran – Family A 
+(b) Lisha – Family C 
+(c) Poonam – Family C 
+(d) Nikhil – Family C 
+(e) None is correct 
+ 
+ 
+20 
+ 
+ 
+Q82. Which of the following persons belongs to the same family? 
+(a) Pihu, Geeta, Joshi 
+(b) Geeta, Lisha, Pihu 
+(c) Nikhil, Pihu, Poonam 
+(d) Lisha, Geeta, Nikhil 
+(e) None of these 
+ 
+Q83. Payal belongs to which of the following Families? 
+(a) Family A 
+(b) Family B 
+(c) Family C 
+(d) Either Family A or Family B 
+(e) Either Family B or Family C 
+ 
+Directions (84-86) : In the following questions assuming the given statement to be true, find which 
+of the conclusion(s) among the given conclusions is/are definitely true and then give your answers 
+accordingly.  
+ 
+Q84. Statement.  
+K > Y ≥ R, M ≤ R = S, J > M 
+Conclusions.  
+I. K > J 
+II. Y ≥ S 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+Q85. Statement.  
+873 > 532 < 462 = 943, 532 ≥ 471 = 341    
+Conclusions.  
+I. 462 > 471 
+II. 341 < 873 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+ 
+21 
+ 
+ 
+Q86. Statement. 
+Jsg < Ats = Yer ≥ Ple > Brs, Ats < Qvc = Gxa 
+Conclusions.  
+I. Jsg < Gxa   
+II. Brs > Qvc 
+(a) Only conclusion I is true  
+(b) Only conclusion II is true  
+(c) Either conclusion I or II is true  
+(d) Neither conclusion I nor II is true  
+(e) Both conclusions I and II are true 
+ 
+Directions (87-91) : Study the following information carefully and answer the questions given 
+below. 
+Twelve persons sit on twelve seats arranged in a row but only some persons are known and all of them are 
+facing towards the north direction. Y is the only neighbour of S. Three persons sit between S and O who sits 
+immediately left of K. More than three persons sit between K and H.  K sits 2nd to the left of P who sits exactly 
+between K and U. The number of persons sit between P and B is multiple of 2. The prime number of persons 
+sits between H and B. 
+ 
+Q87. Who among the following persons sits 3rd to the right of B? 
+(a) O 
+(b) Y 
+(c) K 
+(d) P 
+(e) Unknown person 
+ 
+Q88. How many persons sit between K and U? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+Q89. Who among the following persons sits immediately right of H? 
+(a) P 
+(b) O 
+(c) K 
+(d) Unknown person 
+(e) U 
+ 
+ 
+22 
+ 
+ 
+Q90. The number of persons sit to the right of _____ is same as sit to the left of ____ respectively. 
+(a) K, B 
+(b) U, Y 
+(c) P, K 
+(d) S, B 
+(e) U, B 
+ 
+Q91. How many persons sit to the left of B? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+Directions (92-95) : In each of the questions below some statements are given followed by two 
+conclusions. You have to take the given statements to be true even if they seem to be at variance with 
+commonly known facts. Read all the conclusions and then decide which of the given conclusions 
+logically follows from the given statements disregarding commonly known facts. 
+ 
+Q92. Statements. I. Some A are B 
+II. Only a few C are B 
+III. At least some C are D 
+Conclusions. I. All C can be B. 
+II. Some C can be A. 
+(a) If only conclusion I follow 
+(b) If only conclusion II follow 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+Q93. Statements. I. Some Tes are Nan 
+II. Only Nan is Hty 
+III. Only a few Tes are Wld 
+Conclusions. I. Some Tes can be Hty. 
+II. All Wld can be Tes. 
+(a) If only conclusion I follow 
+(b) If only conclusion II follow 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+ 
+23 
+ 
+ 
+Q94. Statements. I. Only Black is Red 
+II. Each Pink is Black 
+III. None Blue is Orange 
+IV. A few Pink are Blue  
+Conclusions. I. Some Blue is Black 
+II. No Orange is Red 
+(a) If only conclusion I follow 
+(b) If only conclusion II follow 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+Q95. Statements: I. No Sea is marine 
+II. Some Mango is Sea 
+III. 100% Yatch are Marine 
+Conclusions. I. All Mango can be Yatch 
+II. Some Mango is not Marine 
+(a) If only conclusion I follow 
+(b) If only conclusion II follow 
+(c) If either conclusion I or II follows 
+(d) If neither conclusion I nor II follows 
+(e) If both conclusions I and II follow 
+ 
+Directions (96-100) : Study the following information carefully and answer the questions given 
+below. 
+ 
+Seven persons go to Shimla on seven different days from Monday to Sunday. Two persons go between A 
+and B who goes after Thursday. C goes just before A. The number of persons goes before C is one less than 
+the number of persons goes after D. G goes three persons before F and goes after E. At least one person 
+goes before E.  
+ 
+Q96. How many persons go after A? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+ 
+ 
+24 
+ 
+Q97. Who among the following persons goes on Wednesday? 
+(a) C 
+(b) A 
+(c) E 
+(d) D 
+(e) None of these 
+ 
+Q98. If the position of D and G interchanged then who among the following will go three persons 
+before G?  
+(a) E 
+(b) A 
+(c) F 
+(d) Either A or F 
+(e) Either E or A 
+ 
+Q99. Which among the following statement(s) is/are true? 
+I. G goes after C 
+II. No one goes after F 
+III. More than three persons go between A and D 
+(a) Only I 
+(b) Both I and III 
+(c) Both I and II 
+(d) Only II 
+(e) All I, II and III 
+ 
+Q100. If C is related to E in the similar manner A is related to G, then who among the following is 
+related to F? 
+(a) A 
+(b) D 
+(c) E 
+(d) B 
+(e) None of these 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+ 
+Solutions 

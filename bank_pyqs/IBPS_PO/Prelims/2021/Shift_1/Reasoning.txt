@@ -1,0 +1,327 @@
+======================================================================
+Exam: IBPS PO
+Phase: Prelims
+Year: 2021
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2022/09/20123805/Formatted-IBPS-PO-Prelims-2021-Memory-Based-Paper-Based-on-4th-December-2021-1.pdf
+======================================================================
+
+Q66. Who among the following faces S? 
+(a) P 
+(b) L 
+(c) A 
+(d) B 
+(e) None of these 
+ 
+Q67. Who among the following sits third to the left of L? 
+(a) Q 
+(b) A  
+(c) P 
+(d) K 
+(e) Y 
+ 
+Q68. What is the position of M with respect to D? 
+(a) Immediate right 
+(b) Immediate left 
+(c) Third to the left 
+(d) Second to the left 
+(e) Second to the right 
+ 
+Q69. Who among the following sits fourth to the right of the one who faces Z? 
+(a) Y 
+(b) P 
+(c) K 
+(d) L 
+(e) B 
+ 
+Q70. Four among the following five are alike in a certain way and related to a group, who among the 
+following does not belong to the group? 
+(a) Z 
+(b) C 
+(c) Q 
+(d) R 
+(e) Y 
+ 
+16 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q71. In the given number ‘85274369’, if all the odd digits are decreased by 1 and all the even digits are 
+decreased by 2, then what would be the sum of the digits which are not repeated in the new number formed 
+after rearrangement? 
+(a) 10 
+(b) 14 
+(c) 2 
+(d) 8 
+(e) None of these 
+ 
+Directions (72-74): In each of the questions below are given some statements followed by some 
+Conclusions. You have to take the given statements to be true even, if they seem to be at variance from 
+commonly known facts. Read all the conclusions and then decide which of the given conclusions logically 
+follows from the given statements disregarding commonly known facts.  
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q72. Statements: Some key is chain. Some chain is plant. All plant is lock. 
+Conclusion: 
+I: No key is lock is a possibility.  
+II: All lock is plant.  
+ 
+Q73. Statements: Only a few story is real. No real is drama. No drama is news.  
+Conclusion:  
+I: Some story is not real.  
+II: Some news can be real.  
+ 
+Q74. Statements: Only pen is city. Some pen is black. Only a few office is black.  
+Conclusion:  
+I: Some black is not pen.  
+II: All office is pen.  
+ 
+Direction (75-78): Study the following information and answer the questions given below: 
+ 
+Nine persons i.e., H, I, J, K, L, M, B, P and T visit three different cities viz. Mumbai, Pune and Bangalore but 
+not necessarily in the same order. At least two persons but not more than four persons visit the same city.  
+H visits with T. T does not visit Pune. K visits Mumbai. B visits neither Pune nor with K. J visits only with P. 
+More than three persons visit Mumbai. L and I visit together. M does not visit with I.  
+ 
+17 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q75. Who among the following visits Pune? 
+(a) L 
+(b) P 
+(c) J 
+(d) M 
+(e) Both (b) and (c) 
+ 
+Q76. Who among the following visits with K? 
+(a) H 
+(b) T 
+(c) L 
+(d) Both (a) and (b) 
+(e) None of these 
+ 
+Q77. Four among the following five are same in a certain manner and related to a group, who among the 
+following does not belong the group? 
+(a) K 
+(b) B 
+(c) M 
+(d) T 
+(e) H 
+ 
+Q78. Which among the following pair is incorrect as per the data given? 
+(a) I-L 
+(b) P-J 
+(c) L-M 
+(d) T-K 
+(e) H-M 
+ 
+Direction (79-81): Study the given information and answer the following questions: 
+ 
+A certain number of persons sit in a linear row and all face north. Four persons sit between A and B. G sits 
+second to the right of B. One person sits between G and K. The number of persons sit between B and K is 
+same as the number of persons sit to the right of K. V sits fifth to the left of G. P sits third from one of the 
+extreme ends. P sits just left of V. P sits to the left of A.  
+ 
+Q79. Find the total number of persons sit in the row? 
+(a) 14 
+(b) 13 
+(c) 15 
+(d) 16 
+(e) Can’t be determined 
+ 
+18 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q80. If P sits exactly between V and R, then how many persons sit between R and G? 
+(a) Three 
+(b) Four 
+(c) Seven 
+(d) Six 
+(e) None of these 
+ 
+Q81. What is the position of A with respect to W, if only four persons sits to the right of W? 
+(a) Immediate right 
+(b) Third to the left 
+(c) Fourth to the right 
+(d) Immediate left 
+(e) Second to the right 
+ 
+Direction (82-85): In these questions, relationship between different elements is shown in the statements. 
+The statements are followed by conclusions. Study the conclusions based on the given statements and 
+select the appropriate answer: 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows. 
+(e) If both conclusions I and II follow. 
+ 
+Q82. Statements: W > Q ≥ P < N ≤ A; N > R = X 
+Conclusions: I. A > X II. Q > N 
+ 
+Q83. Statements: V ≤ B ≤ M = S ≥ F ≥ G = H  
+Conclusions: I. M > G II. M = H 
+ 
+Q84. Statements: L ≤ C ≥ F > K ≥ D > M  
+Conclusions: I. L < F II. C > D 
+ 
+Q85. Statements: N > V ≥ L ≥ O ≤ W ≤ A > D 
+Conclusions: I. N > O II. A > O 
+ 
+Direction (86-90): Study the following information carefully to answer the given questions: 
+ 
+Six persons P, Q, R, S, T and U live in a three-storey building such that ground floor is numbered as 1, above 
+it is floor 2 then topmost floor is numbered as 3. Each of the floor has 2 flats in it as flat-A and flat-B. Flat-
+A of floor-2 is immediately above flat-A of floor-1 and immediately below flat-A of floor-3 and so on. In the 
+same way flat-B of floor-2 is immediately above flat-B of floor-1 and immediately below flat-B of floor-3 
+and so on. Flat-A is in west of flat-B. They like different country.  
+19 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+R lives in the east of the one who likes Norway. One person lives between U and R but not live in the same 
+flat number. The one who likes Russia live in the south-west of Q, who live just above T’s flat. The one who 
+likes Latvia does not live-in flat B. P lives just above S’s flat but not like Norway. The one who likes Kosovo 
+lives above the one who likes Greece and live below the one who likes Serbia.  
+ 
+Q86. Who among the following lives just below P’s flat? 
+(a) The one who likes Greece 
+(b) U 
+(c) The one who likes Norway 
+(d) R 
+(e) None of these 
+ 
+Q87. Which of the following statement is true? 
+I. U lives on the 3rd floor 
+II. T does not like Kosovo 
+III. R lives in the odd number floor. 
+(a) Both I and III 
+(b) Only I 
+(c) Both II and III 
+(d) Only II 
+(e) Only III 
+ 
+Q88. Who lives in Flat B of 2nd floor? 
+(a) P 
+(b) S 
+(c) Q 
+(d) T 
+(e) R 
+ 
+Q89. Who lives in the west of the one who likes Kosovo?  
+(a) P  
+(b) The one who likes Russia  
+(c) Q 
+(d) The one who likes Norway 
+(e) Both (a) and (b) 
+ 
+Q90. Four of the following five are alike in a certain way and so form 
+a group. Find the one who does not belong to that group? 
+(a) U-Serbia 
+(b) P-Russia 
+(c) T-Greece 
+(d) S-Kosovo 
+(e) Q-Latvia 
+20 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q91. In the given word “LAVISHLY” if all the consonants replaced with its previous letter and all the vowels 
+replaced with its next letter after that remove all the repeated letter and arranged them in alphabetical 
+order then, which of the following letters is 3rd from the left end?  
+(a) J 
+(b) R 
+(c) U  
+(d) G 
+(e) B 
+ 
+Directions (92-94): Study the following information and answer the given questions 
+ 
+Point K is 12m to the West of point G. Point M is 4m to the North of Point K. Point J is 10m to the South of 
+Point L. Point F is 6m to the West of point J. Point G lies exactly between Point L and Point J. Point F is 5m 
+north of point O. Point Q is 18m west of point O.  
+ 
+Q92. In which direction is Point J with respect to Point M? 
+(a) North 
+(b) Northwest 
+(c) South 
+(d) Southeast 
+(e) None of these 
+ 
+Q93. What is the shortest distance between Point K and Point L? 
+(a) 10m 
+(b) 12m 
+(c) 13m 
+(d) 17m 
+(e) None of these 
+ 
+Q94. If Point N is 12m to the East of Point Q, then what is the shortest distance between Point K and Point 
+N? 
+(a) 12m 
+(b) 10m 
+(c) 9m 
+(d) 8m 
+(e) 16m 
+ 
+Directions (95-99): Study the following information and answer the given questions. 
+ 
+5 persons like different color one after another. Only two persons after the one who likes red. One person 
+between D and the one who likes red. There are as many persons after D as same as before the one who 
+likes white. The one who likes Purple is before than one who likes White and after the one who likes Yellow 
+but not just after. O is before L and after M, who does not like Green. K is between M and O.  
+21 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q95. How many persons after M? 
+(a) Three 
+(b) One 
+(c) None 
+(d) Two 
+(e) Four 
+ 
+Q96. Who among the following like Purple? 
+(a) L 
+(b) K 
+(c) O 
+(d) M 
+(e) None of these 
+ 
+Q97. The number of persons between O and L is same as the number of persons between __ and __? 
+(a) M-O 
+(b) D-K 
+(c) K-L 
+(d) M-K 
+(e) O-D 
+ 
+Q98. How many persons between M and the one who likes white? 
+(a) None 
+(b) Two 
+(c) Three 
+(d) Either (b) or (c) 
+(e) None of these 
+ 
+Q99. Four of the following five are alike in a certain way and so form a group. Find the one who does not 
+belong to that group? 
+(a) L-Purple 
+(b) M-Yellow 
+(c) O-Purple 
+(d) K-Red 
+(e) D-Green 
+ 
+Q100. In the word ‘OBSEQUIOUS’, how many pairs of the letters have 
+the same number of letters between them in both forward and backward 
+direction in the word as in alphabetical series?  
+(a) More than four 
+(b) One 
+(c) None 
+(d) Three 
+(e) Two 
+22 
+Adda247 | No. 1 APP for Banking & SSC Preparation

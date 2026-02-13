@@ -1,0 +1,423 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2023
+Shift: 4
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/08/15011058/SBI-PO-Pre-2023-1st-Nov-Shift-wise-Paper-Mock-04.pdf
+======================================================================
+
+Q31. The total number of mountains in F and D is in the ratio of 3:8 respectively. If the total number of beaches 
+in F is 20% less than that in B, then find the total number of mountains and baches in F. 
+Read the following bar graph and table carefully and answer the questions given below. The bar graph shows 
+total number of beaches in five different countries. The table shows percentage of mountains out of total 
+beaches and mountains together in these countries. 
+ 
+ 
+ 
+15 
+ 
+ 
+(a) 298 
+(b) 289 
+(c) 294 
+(d) 283 
+(e) 281 
+ 
+Q32. Find the ratio between the total number of mountains in A and the difference between the number of 
+mountains and beaches in C. 
+Read the following bar graph and table carefully and answer the questions given below. The bar graph shows 
+total number of beaches in five different countries. The table shows percentage of mountains out of total 
+beaches and mountains together in these countries. 
+ 
+ 
+(a) 5:3 
+(b) 4:5 
+(c) 3:4 
+(d) 6:5 
+(e) 7:3 
+ 
+ 
+16 
+ 
+ 
+Q33. The total number of mountains in A is what percentage more or less than the average number of beaches 
+in B and C? 
+Read the following bar graph and table carefully and answer the questions given below. The bar graph shows 
+total number of beaches in five different countries. The table shows percentage of mountains out of total 
+beaches and mountains together in these countries. 
+ 
+(a) 33.33% 
+(b) 16.67% 
+(c) 75% 
+(d) 25% 
+(e) 50% 
+ 
+Q34. Find the difference between the average number of beaches in D, E and C and the average number of 
+mountains in B, A and E. 
+Read the following bar graph and table carefully and answer the questions given below. The bar graph shows 
+total number of beaches in five different countries. The table shows percentage of mountains out of total 
+beaches and mountains together in these countries. 
+ 
+ 
+ 
+17 
+ 
+ 
+(a) 20 
+(b) 30 
+(c) 50 
+(d) 40 
+(e) 60 
+ 
+Q35. The ratio of fold to block mountains in D is 3:5 respectively. If the number of fold mountains in A is one-
+fifth that of in D, then the block mountains in A is what percentage of the total number of fold mountains in A 
+and D together (approx.)?(Note: Mountains are either fold or block) 
+Read the following bar graph and table carefully and answer the questions given below. The bar graph shows 
+total number of beaches in five different countries. The table shows percentage of mountains out of total 
+beaches and mountains together in these countries. 
+ 
+(a) 48% 
+(b) 43% 
+(c) 39% 
+(d) 23% 
+(e) 29% 
+ 
+ 
+18 
+ 
+ 
+Q36. 25% of the total number of beaches in C are rocky, and the remaining are sandy. If the average number of 
+sandy beaches in C and E is 60, then find the number of rocky beaches in E and C together. 
+Read the following bar graph and table carefully and answer the questions given below. The bar graph shows 
+total number of beaches in five different countries. The table shows percentage of mountains out of total 
+beaches and mountains together in these countries. 
+ 
+(a) 90 
+(b) 120 
+(c) 60 
+(d) 45 
+(e) 75 
+ 
+Q37. A, B, and C together can complete a piece of work in 12 3/5 days, while A and C together can finish it in 14 
+days. Find in how many days B alone can complete 66.67% of the same work. 
+(a) 90 days 
+(b) 84 days 
+(c) 73 days 
+(d) 79 days 
+(e) None of these 
+ 
+Q38. The length and breadth of a rectangle are in the ratio 4:3, respectively. When the length of the rectangle is 
+increased by 30% and the breadth remains the same, the area of the rectangle increases by 360 sq m. Find the 
+original length (in meters) of the rectangle. 
+ 
+ 
+19 
+ 
+(a) 10 
+(b) 20 
+(c) 40 
+(d) 30 
+(e) 50 
+ 
+Q39. The average cost price of two articles, X and Y is Rs 1600. Article X is sold at a 15% profit, and article Y is 
+sold at a 25% profit. The total selling price of articles X and Y is Rs 3800. If article Y is sold at a 50% profit, find 
+the new selling price of article Y (in Rs). 
+(a) 1800 
+(b) 1150 
+(c) 1450 
+(d) 1500 
+(e) 1700 
+ 
+Q40. R and S started a business by investing Rs 20000 and Rs (20000+y), respectively. After six months, S 
+withdrew 30% of his initial investment. At the end of the year, the total profit was Rs 13200, and the profit 
+share of S was Rs 6800. Find the value of 3y. 
+(a) 5000 
+(b) 15000 
+(c) 10000 
+(d) 1500 
+(e) 12000 
+ 
+Q41. Find the ratio between the total number of diesel cars sold by A and B together and the total number of EV 
+cars sold by C and D together. 
+Read the following table carefully and answer the questions given below. The table shows the total number of 
+cars (EV, Diesel and petrol) sold and the percentage of EV cars sold out of the total cars sold by four different 
+companies. The table also shows the difference between the petrol and diesel cars sold by these four 
+companies. 
+Note: Petrol cars sold are more than the diesel cars sold by each company . 
+ 
+(a) 32:15 
+(b) 31:18 
+(c) 29:18 
+(d) 19:29 
+(e) 21:23 
+ 
+Q42. The total number of petrol cars sold by C is what percentage more or less than the total number of EV cars 
+sold by A? 
+Read the following table carefully and answer the questions given below. The table shows the total number of 
+cars (EV, Diesel and petrol) sold and the percentage of EV cars sold out of the total cars sold by four different 
+companies. The table also shows the difference between the petrol and diesel cars sold by these four 
+companies. 
+ 
+ 
+20 
+ 
+Note: Petrol cars sold are more than the diesel cars sold by each company . 
+ 
+(a) 28% 
+(b) 52% 
+(c) 55% 
+(d) 48% 
+(e) 63% 
+ 
+Q43. The total number of diesel cars sold by B is how many more or less than the total number of petrol cars 
+sold by C. 
+Read the following table carefully and answer the questions given below. The table shows the total number of 
+cars (EV, Diesel and petrol) sold and the percentage of EV cars sold out of the total cars sold by four different 
+companies. The table also shows the difference between the petrol and diesel cars sold by these four 
+companies. 
+Note: Petrol cars sold are more than the diesel cars sold by each company . 
+ 
+(a) 69 
+(b) 62 
+(c) 49 
+(d) 53 
+(e) 41 
+ 
+Q44. The total number of defective to non-defective EV cars sold by D is in the ratio of 3:4 respectively. The 
+total number of defective petrol cars sold D is three times more than that of defective EV cars sold. Find the 
+total number of non- defective EV and petrol cars sold by D. 
+Read the following table carefully and answer the questions given below. The table shows the total number of 
+cars (EV, Diesel and petrol) sold and the percentage of EV cars sold out of the total cars sold by four different 
+companies. The table also shows the difference between the petrol and diesel cars sold by these four 
+companies. 
+Note: Petrol cars sold are more than the diesel cars sold by each company . 
+ 
+ 
+ 
+21 
+ 
+(a) 129 
+(b) 124 
+(c) 122 
+(d) 109 
+(e) 114 
+ 
+Q45. The total number of petrol cars sold by E is 33.33% more than that of the total number of EV cars sold by 
+C. If the total number of diesel cars sold by E is two-fifths of the total number of petrol cars sold by D and the 
+total number of cars sold by E is two times that of A, then find the difference between the total number of EV 
+cars sold by E and the total number of diesel cars sold by C. 
+Read the following table carefully and answer the questions given below. The table shows the total number of 
+cars (EV, Diesel and petrol) sold and the percentage of EV cars sold out of the total cars sold by four different 
+companies. The table also shows the difference between the petrol and diesel cars sold by these four 
+companies. 
+Note: Petrol cars sold are more than the diesel cars sold by each company . 
+ 
+(a) 688 
+(b) 388 
+(c) 488 
+(d) 288 
+(e) 788 
+ 
+Q46. . The total number of EV and petrol cars sold by A is how many more or less than the half of the total 
+number of petrol cars sold by B and D. 
+Read the following table carefully and answer the questions given below. The table shows the total number of 
+cars (EV, Diesel and petrol) sold and the percentage of EV cars sold out of the total cars sold by four different 
+companies. The table also shows the difference between the petrol and diesel cars sold by these four 
+companies. 
+Note: Petrol cars sold are more than the diesel cars sold by each company . 
+ 
+(a) 55 
+(b) 40 
+(c) 60 
+(d) 50 
+(e) 90 
+ 
+ 
+22 
+ 
+ 
+Q47. A woman invested Rs Y in Scheme P and Rs Y+500 in Scheme Q. The rate of interest for Scheme P is 8% 
+p.a., and for Scheme Q is 10% p.a. If the total interest she received after three years from Scheme P and after 
+two years from Scheme Q is Rs 452, find Y. (Both schemes offered Simple interest) 
+(a) 1000 
+(b) 1200 
+(c) 700 
+(d) 500 
+(e) 800 
+ 
+Q48. Vessel P contains 200 liters of a mixture of milk and water in which water is 35%. y liters of the mixture 
+are taken out, where the quantity of water in y liters is 21 liters. This y liters are then poured into vessel Q, 
+which already contains y liters of water. Find the difference between the quantity of milk and water in the 
+resultant mixture of vessel Q (in liters). 
+(a) 33 
+(b) 54 
+(c) 29 
+(d) 42 
+(e) 37 
+ 
+Q49. A boat takes a total of 35 hours to cover 300 km downstream and 200 km upstream. The downstream 
+speed of the boat is 10 km/hr more than its upstream speed. Find the time taken by the boat to cover 600 km 
+downstream. 
+(a) 30 hours 
+(b) 28 hours 
+(c) 33 hours 
+(d) 36 hours 
+(e) 32 hours 
+ 
+Q50. The average weight of 20 boys and 10 girls in a class is 50 kg. If the weight of all the girls is excluded, the 
+average weight of the remaining students decreases by 5 kg. Find the average weight of all 10 girls. 
+(a) 60 kg 
+(b) 40 kg 
+(c) 45 kg 
+(d) 75 kg 
+(e) 50 kg 
+ 
+Q51. Train A travels at a speed of 72 km/hr and crosses a 500-meter-long platform in 50 seconds. After 
+crossing the platform, it encounters train B moving in the opposite direction at a speed of 54 km/hr. If both 
+trains completely pass each other in 24 seconds, them find the length of the train B. 
+(a) 280 
+(b) 340 
+(c) 420 
+(d) 350 
+(e) 290 
+ 
+Q52. The average of five consecutive even numbers is 8 less than the average of four consecutive odd numbers. 
+If the sum of the smallest odd number and the smallest even number is 33, then find the difference between the 
+second largest odd number and the second smallest even number. 
+ 
+ 
+23 
+ 
+(a) 5 
+(b) 11 
+(c) 12 
+(d) 14 
+(e) 8 
+ 
+Q53. The population of a village in 2020 is 15,000. If it is increased in 2021 by 15%, decreased in 2022 by 10%, 
+and increased in 2023 by X% and the population in 2023 is 18630, then find X. 
+(a) 10 
+(b) 15 
+(c) 30 
+(d) 25 
+(e) 20 
+ 
+Q54. The average weight of 15 students in a class is 60 kg. The average weight of the first 8 students is 58 kg, 
+and the average weight of the last 5 students is 63 kg. If the ratio of the weights of the 9th and 10th students is 
+7 : 4, find the weight of the 9th student. 
+(a) 81 kg 
+(b) 79 kg 
+(c) 73 kg 
+(d) 72 kg 
+(e) 77 kg 
+ 
+Q55.  
+ 
+In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give 
+answers. 
+(a) If x > y 
+(b) If x ≥ y 
+(c) If x < y 
+(d) If x ≤ y 
+(e) If x = y or no relation can be established between x and y 
+ 
+Q56.  
+ 
+In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give 
+answers. 
+(a) If x > y 
+(b) If x ≥ y 
+(c) If x < y 
+(d) If x ≤ y 
+(e) If x = y or no relation can be established between x and y 
+ 
+Q57.  
+ 
+ 
+ 
+24 
+ 
+In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give 
+answers. 
+(a) If x > y 
+(b) If x ≥ y 
+(c) If x < y 
+(d) If x ≤ y 
+(e) If x = y or no relation can be established between x and y 
+ 
+Q58.  
+ 
+In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give 
+answers. 
+(a) If x > y 
+(b) If x ≥ y 
+(c) If x < y 
+(d) If x ≤ y 
+(e) If x = y or no relation can be established between x and y 
+ 
+Q59.  
+ 
+In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give 
+answers. 
+(a) If x > y 
+(b) If x ≥ y 
+(c) If x < y 
+(d) If x ≤ y 
+(e) If x = y or no relation can be established between x and y 
+ 
+Q60. The present age ratio of C to D is 4:5. Y years ago, the ratio of their ages was 3:4. The sum of their ages 
+after Y years will be 66. Find the present age of D. 
+(a) 34 years 
+(b) 28 years 
+(c) 24 years 
+(d) 22 years 
+(e) 30 years 
+ 
+Q61. 14.982% of 740.25 - 64.87% of 800.26 = 552.21 -?2 
+What approximate value will come in place of question mark (?) in the following questions? (You are not 
+expected to calculate the exact value) 
+(a) 31 
+(b) 38 
+(c) 34 
+(d) 39 
+(e) 32 
+ 
+ 
+25 
+ 
+ 
+Q62. 
+ 
+What approximate value will come in place of question mark (?) in the following questions (You are not 
+expected to calculate the exact value). 
+(a) 9/16 
+(b) 5/16 
+(c) 3/16 
+(d) 7/16 
+(e) 11/16 
+ 
+Q63. 
+ 
+What approximate value will come in the place of question (?) mark in the following given questions? 
+(a) 205 
+(b) 300 
+(c) 159 
+(d) 220 
+(e) 196 
+ 
+Q64. 240.012% of 19.99 + 117.23 ÷ √81.099 + ? = 220.088 
+What approximate value should come in the place of question (?) mark in the following questions. 
+(a) 139 
+(b) 128 
+(c) 179 
+(d) 159 
+(e) 239 
+ 
+Q65. 380.380 + 619.99 – 190.011% of 820.21 = ? – 120.21× √24.95 
+What approximate value should come in the place of question (?) mark in the following questions. 
+(a) 42 
+(b) 54 
+(c) 32 
+(d) 24 
+(e) 14

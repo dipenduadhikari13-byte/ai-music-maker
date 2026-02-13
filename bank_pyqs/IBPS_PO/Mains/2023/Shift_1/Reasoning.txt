@@ -1,0 +1,474 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2023
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/07/10152536/IBPS-PO-Mains-Previous-Year-Paper-2023.pdf
+======================================================================
+
+Q1. Which alphabet will come in (III, III) to make the meaningful word of row III and column III? 
+(a) U 
+(b) I 
+(c) O 
+(d) R 
+(e) None of the above 
+ 
+Q2. What is the difference between the total value of column III and total value of row 1? 
+(a) 1 
+(b) 3 
+(c) 4 
+(d) 2 
+(e) None of the above 
+ 
+Q3. Which meaningful word is formed in column III? 
+(a) AREA 
+(b) None of these 
+(c) DRUM 
+(d) CRUX 
+(e) IRON 
+ 
+Q4. What is the sum of the positional value of the letter in (I, IV) 
+and (III, II), where the bracket represents (row, column)? 
+(a) 6 
+(b) 8 
+(c) 5 
+(d) 7 
+(e) None of the above 
+2 
+
+ 
+ 
+Directions (5-5): The question below, consist of a question and three statements numbered as I, II 
+and III given below it. You have to decide whether the data given in the statements are sufficient to 
+answer the question or not. Read all statements and choose the most appropriate option. 
+ 
+Q5. What is the code of town? 
+I. “town is clean” is coded as “mp wy hz”, “small area city” is coded as “rt mh ap” and “town is good” is coded 
+as “hz aw wy” 
+II. “town is authentic” is coded as “wy ap hz”, “every city worth” is coded as “mt rt ng” and “no best city” is 
+coded as “ax nr rt” 
+III. “town is best” is coded as “wy nf hz”, “best small city” is coded as “rt sk ax” and “level in city” is coded as 
+“wr rt uc” 
+(a) If data in statement I alone is sufficient 
+(b) If data in statement III alone is sufficient 
+(c) If data either in statement I alone or in statement III alone is sufficient 
+(d) If data in all statements i.e., I, II and III even together is not sufficient 
+(e) If data in all statements i.e., I, II and III together is sufficient 
+ 
+Directions (6-9): Study the following information carefully and answer the questions given below: 
+Twelve persons live in a five-floor building such that the bottommost floor is numbered as 1, the floor just 
+above it is numbered as 2 and so on till the topmost floor is numbered as 5. Each floor has four flats – J, K, 
+L and M from west to east respectively. Flat K is to the east of flat J and to the west of flat L which is to the 
+west of flat M. 8 flats are vacant.  
+Note: 1) At least two but not more than three persons live on each floor. The adjacent flats are not vacant. 
+Adjacent flats are immediate left, immediate right, immediately above and immediately below. 
+2) If it is given that A lives immediately above/immediately below B’s flat then either a vacant flat is 
+between A and B or there is no vacant flat (no floor) between A and B. 
+U lives on an even number floor below the 3rd floor. W lives to the east of U but neither in flat K nor in flat 
+M. Only one floor gap is between W and P who lives to the west of S but not just west. U and P live in different 
+named flats. R lives above S and adjacent to one of the vacant flats. R and W live in different named flats. O 
+lives to the west of R and east of V. Q lives immediately below O’s flat. T lives to the east of Q. Only one floor 
+gap between T and Y. T lives immediately above Y’s flat. Z lives just northwest of X. 
+ 
+Q6. In which among the following flats minimum persons live? 
+(a) Flat J 
+(b) Flat K 
+(c) Flat L 
+(d) Flat M 
+(e) Either flat K or flat L 
+ 
+Q7. Who among the following lives in flat M on floor 3? 
+(a) R 
+(b) T 
+(c) Z 
+(d) Y 
+(e) X 
+3 
+
+ 
+ 
+Q8. Which among the following statements is not true? 
+(a) Z and P live in the same named flat 
+(b) Only one flat is vacant on floor 2 
+(c) P lives on an even-numbered floor 
+(d) On floor 2, even number of persons live 
+(e) None is true 
+ 
+Q9. Four of the following five are alike in a certain way and thus form a group, then who among the 
+following doesn’t belong to that group? 
+(a) O 
+(b) Q 
+(c) U 
+(d) X 
+(e) P 
+ 
+Q10. If we use the following alphabets from the words which are given in the options below: first 
+vowel from the left end in the first word, the consonant which has the highest place value in the 
+second word, the consonant which is second from the right end in the third word and immediately 
+preceding consonant (in the fourth word) of the second vowel from the left end. Then which of the 
+following options does not give a meaningful word? 
+(a) Fire, Hand, Port, Atom  
+(b) Read, Song, City, Hope 
+(c) Open, Work, Wind, Time 
+(d) Hear, Star, Fish, Life 
+(e) None of these 
+ 
+Directions (11-14): A word and number arrangement machine when given an input line of numbers 
+and words rearranges them following a particular rule in each step. The following is an illustration 
+of input and rearrangement: 
+ 
+ 
+Q11. Which among the following statement(s) is/are correct? 
+I. Three words start with the letter which comes after “M” in alphabetical series in step III 
+II. More than two odd numbers are found in step V 
+III. More than two even numbers are found in Step IV  
+4 
+
+ 
+(a) Both I and II 
+(b) Both II and III 
+(c) Both I and III 
+(d) Only I 
+(e) All I, II and III 
+ 
+Q12. What is the difference between the third-highest number in Step II and the third-lowest 
+number in Step IV? 
+(a) 46540 
+(b) 46527 
+(c) 46590 
+(d) 46630 
+(e) 46780 
+ 
+Q13. What is the sum of the numbers found in step V? 
+(a) 898 
+(b) 768 
+(c) 548 
+(d) 914 
+(e) 998 
+ 
+Q14. Which among the following element is third to the left of the element which is fourth from the 
+right end in step III? 
+(a) QBLF  
+(b) 14 
+(c) VMJSX  
+(d) 12 
+(e) MS 
+ 
+Directions (15-18): Study the following information carefully and answer the questions given 
+below:  
+Thirteen boxes are kept in two stacks i.e., Stack 1 and Stack 2 where Stack 1 is in west of Stack 2. Each stack 
+has seven shelves and one box is placed in each shelf. Stack 1 contains more boxes than Stack 2. Different 
+numbers are printed on each of the boxes. If a box is kept between two boxes, then these boxes are kept in 
+the same stack, unless stated otherwise. If a box is immediately above or below another box then they are 
+in the same stack unless stated otherwise. One of the shelves is vacant in any of the stack. Adjacent shelf 
+means just above, just below shelf of same stack and immediate left/right shelf of another stack.  
+Box M is kept two shelves above the box which has number 51 on it. More than one odd number of boxes 
+are kept below the box which has number 51 on it. Box M and the box which has number 21 on it is not 
+kept in the topmost shelf. Two boxes are kept between Box L and the box which has the number 11 on it. 
+Box M and Box L are kept in the adjacent shelf of different stacks. Box O’s shelf is below box M’s shelf and 
+above the shelf of the box which has number 11 on it. Two boxes are kept between Box O and the box which 
+has number 21 on it (no vacant shelf between them). Box M and Box O are not kept in the same stack. Box 
+O and Box X do not have number 51 and number 21 on it respectively. Two boxes are kept between Box X 
+and the box which has number 27 on it (no vacant shelf between them). Box M and the box which has 
+number 27 on it, are neither kept in the adjacent shelf nor in the same shelf. Neither the topmost shelf is 
+5 
+
+ 
+vacant nor the shelf just below box O is vacant. Box X and the box which has number 21 on it are not kept 
+in the adjacent shelf of Box L. Neither Box X and Box M are kept in the adjacent shelf nor the box which has 
+number 27 on it is kept in the topmost shelf. The box which has number 58 on it is kept just above Box U 
+and these boxes are kept below box M. Box U neither has number 11 on it nor it is placed in the adjacent 
+shelf of Box O. Box U is kept below Box L (in different stack) but not on the bottommost shelf. One box is 
+kept between Box T and Box Y. Box X and Box T are not kept in the adjacent shelf but kept in the same stack. 
+Box U neither have number 51 on it nor it is kept just above Box X. Box T is neither kept in the topmost 
+shelf nor has number 21 on it. Two boxes are kept between the Box Q and the box which has number 33 on 
+it. Box L and Box O don’t have the number of multiple of 3 on it. Box Q is not placed just above Box X. Box Q 
+is placed below the vacant shelf in same stack but not just below. Box R is kept below Box N but not just 
+below. Box N and Box T are not placed in the same stack. One box is placed between Box R and the box 
+which has number 29 on it. The box which has number 29 on it is neither kept in the east of Box Y nor 
+below box Y. The number on Box L is two more than the number on Box R. The number on Box U is 5 less 
+than the number on Box T. One box is placed between the box which has number 17 on it and Box C. One 
+box is kept between the Box S and the box which has number 38 on it. Box C and Box R are not placed in 
+the same stack. Box C is not placed in the topmost shelf. One Box is placed between the Box A and the box 
+which has number 39 on it. The number on Box M is 8 more than the number on Box C.  
+ 
+Q15. How many boxes are kept above box M in the same stack?  
+(a) Two 
+(b) One 
+(c) Three  
+(d) Four 
+(e) None of these 
+ 
+Q16. Which of the following numbers is printed on Box X? 
+(a) 51 
+(b) 58 
+(c) 39 
+(d) 27 
+(e) None of these 
+ 
+Q17. How many boxes are kept between Box T and Box C? 
+(a) Two 
+(b) Four 
+(c) Three 
+(d) One 
+(e) None of these 
+ 
+Q18. What is the sum of the numbers printed on Box Y and Box L? 
+(a) 70 
+(b) 72 
+(c) 71 
+(d) 75 
+(e) None of these 
+6 
+
+ 
+ 
+Directions (19-20): Amid mounting pressure over the Centre to postpone the CBSE Board exams 
+scheduled for next month, Prime Minister will hold a meeting with Education Minister and other 
+important officials at 12 pm to discuss the issue. The government is likely to consider postponing 
+the exams as Covid-19 cases continue to rise across states. Several state governments and 
+Opposition leaders such as Arvind Kejriwal and Rahul Gandhi have been appealing to the Centre to 
+postpone board exams. 
+ 
+Q19. Which of the following substantiates the demand raised by Opposition leaders? 
+(I) Several crowded markets in many states have been closed after Covid-19 guidelines. 
+(II) Many state governments have postponed the state board exams for X and XII classes as cases of Covid-
+19 continue to rise. 
+(III) Cases has been rising but elections in many states are conducted. 
+(a) Only II and III 
+(b) Only III 
+(c) Only I and II 
+(d) Only I and III 
+(e) All of three 
+ 
+Q20. Which of the following can be inferred from the above statement? 
+(I) Arvind Kejriwal is considered as opposition leader for central government. 
+(II) If Board exam will be conducted, it may act as catalyst in rising number of cases for Covid-19. 
+(III) Only Central government has the right to postpone state government exam. 
+(a) Only III 
+(b) Only II and III 
+(c) Only I and II 
+(d) Only II 
+(e) None of them 
+ 
+Directions (21-24): Study the following information carefully and answer the questions given 
+below- 
+Ten persons A, B, C, D, E, F, G, H, I and J sit in two rectangular tables X and Y. Three of them like horror novel, 
+three likes thriller and four of them likes romance novel. 
+Four persons sit in table X and remaining sits in table Y. The person sits in middle faces outside the centre 
+and the person sit in corner face inside the centre. Persons sits in table X sit in middle and in Table Y four 
+seats are placed in middle and four seats are placed in the corner. Two seats are vacant in Table Y. 
+D sits in table X. J does not sit in table Y. G sits immediate left of J and neither of them like thriller. The one 
+who likes romance does not sit in the middle of table Y. D likes romance and sits opposite to G. E likes 
+romance and sit on table Y. Both the immediate neighbours of E like thriller. More than three seats between 
+the persons who likes thriller. A sits immediate left of the one who likes thriller. F sits third to the left of A. 
+C sits in table X. Two persons sits between D and J. B does not like thriller and romance. Two persons sit 
+between D and the one who likes thriller. The persons who likes thriller does not sit in the corner. I sits 2nd 
+to the left of a vacant seat. Both the vacant seats are not adjacent two each other. The one who likes horror 
+sits immediate right of the one who likes romance in table Y. A doesn’t like Horror. 
+7 
+
+ 
+ 
+Q21. If J and H change their novels then who sits 3rd to the left of the one who sits immediate right 
+of B? 
+(a) The person who likes Thriller novel  
+(b) The person who likes Romance novel 
+(c) The person who likes Horror 
+(d) The person who likes either horror or thriller novel  
+(e) Can’t be determined  
+ 
+Q22.Which of the following statements is true? 
+(a) G sits in the corner of Table X. 
+(b) E sits immediate left of the one who likes horror novels. 
+(c) B likes romance novels. 
+(d) I sits immediate right of F. 
+(e) F sits in the middle of Table Y. 
+ 
+Q23.Four of the following five are alike in a certain way and hence form a group. Who among the 
+following does not belong to that group? 
+(a) H 
+(b) J 
+(c) I 
+(d) F 
+(e) C 
+ 
+Q24.Which among the following pair of persons sits near to the vacant seats in Table Y? 
+(a) H and G 
+(b) F and I 
+(c) I and C 
+(d) C and H 
+(e) F and H 
+ 
+Directions (25-27): In one of the historical reforms of the economy of India, Rs 500 and Rs 1,000 
+notes were banned. This was one of the boldest movements by the Government of India announced 
+over a 40-minute speech. Most of the industry and commoners alike reacted to this decision to curb 
+corruption with overwhelming support. Whereas some sections are of the opinion that it is a 
+draconian scheme causing hardships to people. A recent study had pegged India’s black-market 
+economy at over Rs 30 lakh crore or about 20 percent of total GDP. This is even bigger than the GDP 
+of countries like Thailand and Argentina. 
+ 
+Q25. Rather getting support from most of the industry, what would have been the reason that some 
+of them declared it as a draconian scheme? 
+(I) It was declared without giving time to people to withdraw ample cash for their use. 
+(II) It had caused certain hardships in daily activities. 
+(III) It stopped the earning of black money for majority of the people. 
+8 
+
+ 
+(a) Only II and III 
+(b) Only III 
+(c) Only I and II 
+(d) Only I and III 
+(e) All of three 
+ 
+Q26. Which of the following can be assumed from the above statement? 
+(I) After this historical decision, corruption rate would have been gone down in India. 
+(II) India is ranked among top 5 big economic country. 
+(III) Many of the countrymen wanted to corruption and black marketing should be reduced. 
+(a) Only I and III 
+(b) Only II 
+(c) All of three 
+(d) Only II and III 
+(e) None 
+ 
+Q27. Which of the following negates the motive behind the decision taken by Government of India? 
+(I) In recent survey, India falls with 25 rank in terms of corruption among world. 
+(II) Mr X, the former CEO of a reputed company has been arrested in corruption charge of Rs. 15 thousand 
+crores. 
+(III) CBI has raided the house of top businessmen of different states and has seized a total of 2 lakh crores 
+of black money. 
+(a) Only I 
+(b) Only I and III 
+(c) Only II 
+(d) Only II and III 
+(e) All of three 
+ 
+Directions (28-30): Study the following information carefully and answer the questions given 
+below: 
+Eight persons work in two different departments i.e., Research and Agriculture and all of them get different 
+marks in the Research and Agriculture sessions organized by organization. Each of them has different years 
+of experience (in whole number) in their departments. They have qualification in either HR or diploma. No 
+one has more experience than 11 years. Equal number of persons work in both departments. 
+A and D have same qualification. B gets twice marks as the experience of F and doesn’t qualification in HR. 
+F has twice experience than E who has more experience than A. F did Diploma same as C. A’s marks is two 
+more than B’s marks but not multiple of 7. C and D have different qualification. The one who gets marks in 
+multiple of 8 works in agriculture department. G’s experience is equivalent to smallest two digits prime 
+number. F have 4 marks less than E. G’s experience and C’s Mark are not equal. G gets the marks which is 
+3/2 of the marks get by A. C’s experience is five times of A’s experience. The marks get by D is twice of C’s 
+experience. A and D work in the same department but not as B. A gets marks which is twice of C marks. C 
+and F work in same department but not as A’s department. A has even number of experiences. B has more 
+experience than H but less than D and all have prime number experience. E and H work in same department. 
+E, G and H have same qualification but different than B. H marks is 9 more than E and just less than D. 
+9 
+
+ 
+ 
+Q28. Four of the following five are alike in a certain way and thus form a group then who among the 
+following doesn’t belong to the group? 
+(a) A- HR 
+(b) B-Diploma 
+(c) D-HR 
+(d) F-Diploma 
+(e) H-Diploma 
+ 
+Q29. What is the sum of the experience of A, C, F and H? 
+(a) 33 years 
+(b) 28 years 
+(c) 23 years 
+(d) 39 years 
+(e) 26 years 
+ 
+Q30. Which among the following statement is not true? 
+(a) G has maximum years of experience among all 
+(b) Only three persons are qualified in Diploma 
+(c) A gets the fourth highest marks 
+(d) More than three persons have more experience than D 
+(e) None is true 
+ 
+Directions (31-34): Read the given information and answer the questions based on it: 
+There are four platforms in a railway station. The platforms open at different time one after the other such 
+that platform 1 opens at 5am, platform 2 opens at 6am, platform 3 opens at 7am and platform 8 opens at 
+8am. Some trains arrive at these platforms one by one at a gap of 1 hour i.e., if train X arrived at platform 1 
+at 5am, then train Y will arrive at platform 1 at 6am. Multiple trains can arrive at single platform but having 
+1 hour gap in their arrival.  
+Read the following statements to get the desired output: 
+1. Train M is not the single train to arrive on a platform.  
+2. Train D arrives just before train B on the same platform.  
+3. One hour arrival gap between train G and train H on the same platform.  
+4. No train arrives after train C which also arrives on one of the platforms at 6am.  
+5. Arrival time of train G and train B is same where train B arrives on platform 1.  
+6. The train which first arrives at 5am on platform 1, next arrives at 7am on platform 3.  
+7. Train K arrives at platform 1 before train S, on platform 2.  
+8. Train H arrives at platform 2 at 7am.  
+ 
+Q31. How many trains arrive on all the platforms (consider a train only once)? 
+(a) Six 
+(b) Seven 
+(c) Nine  
+(d) Eight 
+(e) None of the above 
+10 
+
+ 
+ 
+Q32. Which of the following combination is correct for the train which arrives just before M on same 
+platform? 
+(a) Platform 1, 7am 
+(b) Platform 3, 7am 
+(c) Platform 1, 5am 
+(d) Platform 2, 6am 
+(e) Platform 2, 7am 
+ 
+Q33. Which of the following train arrives at last on platform 1? 
+(a) The train which arrives just after train D 
+(b) The train which arrives at same time with train S on different platform 
+(c) The train which arrives two hours after train K 
+(d) The train which also stops on platform 2 at 7am 
+(e) None of the above 
+ 
+Q34. Which of the following statement is not true? 
+I. Train S arrives at last on one of the platforms  
+II. Train K arrives after train B on same platform 
+III. Only two train arrives on more than one platform 
+(a) Only I is true 
+(b) None is true 
+(c) Only II and III is true 
+(d) Only I and II is true 
+(e) Only III is true 
+ 
+Directions (35-35): Below in each question are given two Statement I and II. These statements may 
+be either independent causes or may be effects of independent causes or a common cause. One of 
+these statements may be the effect of the other statement. Read both the statements and decide 
+which of the following answer choice correctly depicts the relationship between these two 
+statements. Give answer 
+ 
+Q35. I. The central government has started to build 500 beds with the help of DRDO in Mumbai after 5000 
+covid cases come in a single day. 
+II. Amid surge in covid cases two players of RCB have withdrawn their name form ongoing IPL cricket 
+match. 
+(a) If Statement I is the cause and Statement II is its effect. 
+(b) If Statement II is the cause and Statement, I is its effect. 
+(c) If both the Statements I and II are independent causes. 
+(d) If both the Statements I and II are effects of independent causes. 
+(e) If both the Statement I and II are effects of some common causes. 
+11 
+
+ 
+ 
+Directions (36-39): Study the following information carefully and answer the questions given 
+below: 
+A certain number of persons sit in a linear row such that some of them face north while some of them face 
+south. Some of them like different cities. 
+B sits at the fourth position from one of the extreme ends. The one who likes Hamilton sits fourth to the left 
+of B. The number of persons sit between B and the one who likes Hamilton is one more than the number of 
+persons sit between E and the one who likes Hamilton. Only two persons sit between E and F. F neither 
+likes Hamilton nor sits to the right of B. The one who likes Tokyo sits third to the left of F. B and F face 
+opposite directions. K sits adjacent to both H and F. The immediate neighbours of K face the opposite 
+direction as K faces. The number of persons sit between K and the one who likes Tokyo is multiple of 3. The 
+number of persons sits between H and J is thrice of the persons sit to the right of H. J sits to the left of F. 
+Only one person sits between H and I. Only three persons sit between D and J. Only one person sits to the 
+right of D. The one who likes Boston sits fourth to the left of D. One person sits between J and the one who 
+likes Houston who faces north. G sits second to the left of J and both face same direction. The one who likes 
+Madrid sits third to the left of E. The one who likes Toronto sits second to the left of I.

@@ -1,0 +1,678 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2020
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2021/12/29144902/IBPS-PO-Mains-Previous-Year-Paper-2020-.pdf
+======================================================================
+
+QUANTITATIVE APTITUDE 
+ 
+7 
+
+ 
+ 
+than that of time taken between C and D. Find the 
+speed of train between C to D on Monday? 
+ 
+(a) 20 kmph 
+(b) 60 kmph 
+(c) 30 kmph 
+ 
+(d) 50 kmph 
+(e) 40 kmph 
+ 
+49. Scheme A offers R% p.a. rate of interest on compound 
+annually. Find the value of R. 
+ 
+Statement I – If interest received on Rs. 
+2
+5 𝑃 on simple 
+interest for 11 years at the rate of 
+𝑅
+4 % p.a. is half of 
+when Rs. P invested in scheme A for 2 years. 
+ 
+Statement II – Rs. X is invested in scheme A for two 
+years and it amounted Rs. 3600. If Rs. 
+16
+25 𝑋 is invested 
+at rate of (R – 10) % on CI annually for two years, then 
+it amounted Rs. 1936. 
+ 
+Statement III- When Rs. Q invested in scheme A for 
+two years and three years, then difference between 
+interests is Rs. 1152. 
+(a) Statement (I) alone is sufficient answer the 
+question 
+(b) Statement (II) alone is sufficient to answer the 
+question 
+ 
+(c) All the three statements taken together are 
+necessary to answer the question 
+(d) Either statement (I) alone or statement (II) and 
+(III) together sufficient to answer the question. 
+(e) Either statement (I) alone or statement (II) alone 
+is sufficient to answer the question. 
+ 
+Direction (50 – 52): Read the data given below carefully 
+and answer the questions. 
+ 
+There are two schools A & B in a town. Total number of 
+girls in school B are 30 more than twice of total number of 
+girls in school A. Total number of boys in school B are equal 
+to total number of students (boys + girls) in school A. 
+ 
+50. If in school A total number of boys and girls are ‘X’ and 
+‘Y’ respectively, then the difference between total boys 
+in both schools and total girls in both schools will be 
+represented as (Total boys in both schools together are 
+more than that of total girls): 
+ 
+(a) 2X – 2Y - 30 (b) 3X – 2Y + 30 
+ 
+(c) 2X – Y – 30 
+(d) 3X–3Y + 30 (e) None of these 
+ 
+51. If total students in school B is 180 less than twice of 
+total students in school A, then find the difference 
+between total students in school A and total girls in 
+school B? 
+ 
+(a) 240 
+(b) 280 
+(c) 420 
+ 
+(d) 210 
+(e) None of these 
+ 
+52. If the number of girls in school B is 450, then find the 
+number of boys in school B (total number of students 
+in school B is 180 less than twice the number of 
+students in school A) 
+ 
+(a) 630 
+(b) 420 
+(c) 570 
+ 
+(d) 600 
+(e) 480 
+ 
+53. ‘X’ is the nth term of the given series and ‘Y’ is the  
+(n + 1)th term of the given series. Choose the correct 
+statement from the following statements (i), (ii) & (iii). 
+ 
+701, 349, 173, 85, 41, 19, 8, 2.5 
+(i)  X = 2Y + 3 
+(ii)  Y = 3X + 2 
+(iii) Difference between 1st and 2nd term is twice of the 
+difference between 2nd and 3rd term and so on. 
+ 
+(a) Only (i) and (iii)  
+ 
+(b) Only (i) and (ii) 
+ 
+ 
+(c) Only (ii) and (iii) 
+ 
+(d) Only (i) 
+ 
+ 
+(e) All (i), (ii) & (iii) 
+ 
+54. In the following questions, a series is given in which 
+one term is wrong with which another series started. 
+You have to find the wrong term in the given series 
+then starting from that, find IVth term of new series so 
+formed. 
+ 
+1,  3,   6,   21,   88,   445,    2676 
+ 
+(a) 39 
+(b) 37 
+(c) 25 
+ 
+(d) 33 
+(e) 35 
+ 
+Direction (55 – 56): Series I: 8,  9,  15,  25,  42,   68,  105 
+Series II: 60,   180,   450,   900,  1350,   1380,   675 
+ 
+55. Wrong term of series I is the nearest square of which 
+of the given term? 
+ 
+(a) 5 
+(b) 4 
+(c) 8 
+ 
+(d) 7 
+ 
+56. If wrong term in series II is ‘N’, then which statement 
+is true about (
+𝑁
+30 + 1)? 
+(i) It’s a prime number. 
+(ii) Sum of the digits is less than 9. 
+(iii) It’s a nearest multiple of 5 and its remainder is 4. 
+ 
+(a) Only (ii) and (iii) follow 
+ 
+ 
+(b) Only (i) and (ii) follow 
+ 
+ 
+(c) Only (i) follow 
+ 
+(d) Non follow 
+ 
+ 
+(e) All (i), (ii) and (iii) follow 
+ 
+Direction (57 – 61): Table given below shows percentage 
+of total literate population of five (A, B, C, D & E) villages, 
+literate male, illiterate male and total female (literate + 
+illiterate). Read the data carefully and answer the 
+questions. 
+ 
+ 
+Note – ‘NA’ means some vales are missing which you have 
+to calculate if required. 
+ 
+ 
+8 
+
+ 
+ 
+57. Find total population of village E? 
+ 
+(a) 4200 
+(b) 3600 
+(c) 4000 
+ 
+(d) 3000 
+(e) 4800 
+ 
+58. Find difference between total male and total female 
+population of village A? 
+ 
+(a) 600 
+(b) 300 
+(c) 500 
+ 
+(d) 400 
+(e) 200 
+ 
+59. Find the ratio between total male population to total 
+female population in village B? 
+ 
+(a) 3 : 2 
+(b) 3 : 1 
+(c) 2 : 1 
+ 
+(d) 5 : 3 
+(e) 4 : 1 
+ 
+60. If the number of female graduates in village C is equal 
+to the number of illiterate males in village C and the 
+difference between the number of graduate female and 
+under graduate female in village C is 120, then find the 
+total population of village C (Note – There is only 
+graduate and under graduate population in village C)? 
+ 
+(a) 4000 
+(b) 2000 
+(c) 1250 
+ 
+(d) 3000 
+(e) 2500 
+ 
+61. If difference between male and female population of 
+village D is 1152, then find total number of illiterate 
+females in village D? 
+ 
+(a) 60 
+(b) 40 
+(c) 90 
+ 
+(d) 120 
+(e) 80 
+ 
+62. A bag kept some green balls, some blue balls and seven 
+red balls. Probability of picking one green ball is 
+1
+7 more 
+than that of picking one red ball from the bag and 
+probability of picking one blue ball is 
+9
+35 more than that 
+of picking one red ball from the bag. Find total number 
+of blue balls in the bag? 
+ 
+(a) 12 
+(b) 14 
+(c) 18 
+ 
+(d) 20 
+(e) 16 
+ 
+63. Aman born three years after marriage of his parents 
+and Aman’s mother is three years younger than his 
+father. At present Aman is 20 years younger than his 
+mother and after three years ratio of the age of Aman’s 
+father to his mother’s will be 11 : 10. Find how many 
+years before his parents got married? 
+ 
+(a) 10 years 
+(b) 7 years 
+(c) 13 years 
+ 
+(d) 8 years 
+(e) 6 years 
+ 
+64. Shopkeeper marked up a pen at certain percentage 
+above its cost price. If marked price of pen is Rs. Y, then 
+find the value of Y? 
+ 
+Statement I – Y is marked up 80% above cost price. 
+ 
+Statement II – Cost price of the pen is Rs. X. If 
+shopkeeper allows a discount of 4% on marked price, 
+then he makes a profit of 8% on it. When shopkeeper 
+sells the pen at marked price, then he makes a profit of 
+Rs. 28. 
+ 
+Statement III – Cost price of the pen is Rs. P. If 
+shopkeeper allows a discount of 22 
+2
+9 % on marked 
+price, then he makes a profit of Rs. 70. 
+(a) Statement (I) alone is sufficient answer the 
+question 
+(b) Statement (II) alone is sufficient to answer the 
+question 
+ 
+(c) All the three statements taken together are 
+necessary to answer the question 
+(d) Either statement (II) alone or statement (I) and 
+(III) together sufficient to answer the question.  
+(e) Statement (III) alone is sufficient to answer the 
+question 
+ 
+Direction (65 – 67): A man is going shop from his home 
+with the speed of _______ kmph and time taken to reach the 
+shop by him is _______ hours. After reaching there he 
+purchases a cylindrical jar of certain height having capacity 
+equal to 83259 cm3. The man also purchases a conical 
+vessel whose capacity is 
+1
+27
+th of cylindrical jar and height of 
+conical vessel is 14 cm. 
+Note: Height of conical vessel is four times of the height of 
+cylindrical jar. 
+ 
+65. Find the ratio of the radius of cylindrical jar to the 
+radius of conical vessel? 
+ 
+(a) 3 : 1 
+(b) 4 : 1 
+(c) 5 :1 
+ 
+(d) 6 : 1 
+(e) 5 : 2 
+ 
+Direction (66 – 67): The distance (in km) between the 
+home and shop in numerical value is equal to seven more 
+than 
+1
+3 𝑟𝑑 of square root of 
+1
+11 𝑡ℎ of the capacity of the 
+cylindrical jar and the speed of the man is four times of the 
+time taken by him to reach the shop. 
+ 
+66. Speed of man _________kmph. 
+ 
+(a) 12 
+(b) 15 
+(c) 10 
+ 
+(d) 8 
+(e) 18 
+ 
+67. Time taken to reach the shop by man is _______ hours. 
+ 
+(a) 3.5 
+(b) 2 
+(c) 3 
+ 
+(d) 2.5 
+(e) 4 
+ 
+ 
+9 
+
+ 
+ 
+Direction (68 – 69): Match the column I and II based on 
+the given questions. 
+ 
+Column I 
+Column II 
+(i)  X = Cone 
+ 
+Volume of cone = 1232 m3 
+ 
+(A)  Radius = 14 m 
+(ii)  Y = Cylinder 
+ 
+Volume of cylinder = 1848 
+m3 
+ 
+(B)  Radius = 7 m 
+(iii)  S = Square, which inscribe 
+in circle 
+ 
+(C)  Circumference of 
+circle = 44 m  
+ 
+68.  If the difference of the height of Y and side of S is 
+greater than 20 m. 
+ 
+(a) (i) Only A, either B or C 
+    
+ 
+(ii) Only A 
+ 
+ 
+(iii) Only A 
+ 
+ 
+(b) (i) Only C 
+ 
+ 
+(ii) Only B 
+    
+ 
+(iii) Only A 
+ 
+ 
+(c) (i) Only B 
+    
+ 
+(ii) Only A 
+    
+ 
+(iii) Only A 
+ 
+(d) (i) Only C 
+ 
+     (ii) Only B 
+      
+(iii) Only B 
+ 
+ 
+(e) None of these 
+ 
+69. If height of X is greater than height of Y. 
+ 
+(a) (i) Only A, either B or C 
+    
+ 
+(ii) Only A 
+ 
+ 
+(iii) Only A 
+ 
+ 
+(b) (i) Either B or C 
+      
+(ii) Only A 
+    
+ 
+(iii) Only A, either B or C 
+ 
+ 
+(c) (i) Only B 
+    
+ 
+(ii) Only A 
+    
+ 
+(iii) Only A 
+ 
+ 
+(d) (i) Only C 
+      
+(ii) Only B 
+      
+(iii) Only B 
+ 
+ 
+(e) None of these 
+ 
+Direction (70 – 75): Line graph given below shows 
+percentage of managers out of total employees in six (A, B, 
+C, D, E & F) different companies and table shows number 
+of female managers out of total managers in these six 
+companies. Read the data carefully and answer the 
+questions. 
+ 
+ 
+Companies 
+Total number of female  
+managers 
+A 
+32 
+B 
+56 
+C 
+80 
+D 
+50 
+E 
+24 
+F 
+18 
+ 
+70. Out of total number of employee (Non managers + 
+managers) in company B 40% are females. If out of Non 
+managers employees in company B 40% are female 
+employee, then find total number of Non managers 
+employee in company B? 
+ 
+(a) 480 
+(b) 420 
+(c) 400 
+ 
+(d) 360 
+(e) 240 
+ 
+71. If the total number of male managers in company C is 
+100 and the total female employee in C is 260, then find 
+the total number of male employee (Non managers + 
+managers) are what percent more than the total 
+number of male managers in company C? 
+ 
+(a) 160% 
+(b) 280% 
+(c) 140% 
+ 
+(d) 340% 
+(e) 240% 
+ 
+72. If the difference between total number of managers in 
+company A and total number of employee (Non 
+managers) in same company is 288, then find total 
+number of male managers in company A? 
+ 
+(a) 64 
+(b) 32 
+(c) 48 
+ 
+(d) 72 
+(e) 56 
+0
+5
+10
+15
+20
+25
+30
+A
+B
+C
+D
+E
+F
+% of managers out of total employees
+ 
+10 
+
+ 
+ 
+73. The ratio of total male managers in company F to total 
+female managers in same company is 7 : 2. Find the 
+number of total employee (Non managers) in company 
+F? 
+ 
+(a) 363 
+(b) 349 
+(c) 359 
+ 
+(d) 369 
+(e) 381 
+ 
+74. If total number of Non managers employees in 
+company D is 612, then find total number of male 
+managers in company D? 
+ 
+(a) 78 
+(b) 88 
+(c) 68 
+ 
+(d) 48 
+(e) 58 
+ 
+75. The difference between total male managers in 
+company E and the total female managers in company 
+E is 50% of total female managers in that company, 
+then find total number of employees in company E 
+(male mangers are more than female managers in 
+company E)? 
+ 
+(a) 400 
+(b) 300 
+(c) 500 
+ 
+(d) 600 
+(e) 800 
+ 
+ 
+Direction (76 – 80): Pie chart (i) shows distribution of total cookies (butter + chocolate) produced by four different 
+companies and pie chart (ii) shows distribution of total chocolate cookies produced by these four companies. Read the 
+data carefully and answer the questions. 
+ 
+ 
+Note – Total number of butter cookies produced by A and B is 110 & 30 respectively. 
+ 
+76. Find total butter cookies produced by company C is 
+how much less than the total butter cookies produced 
+by company D? 
+ 
+(a) 40 
+(b) 60 
+(c) 20 
+ 
+(d) 80 
+(e) 100 
+ 
+77. Find the ratio of total butter cookies produced by all 
+four companies to total chocolate cookies produced by 
+all four companies? 
+ 
+(a) 1 : 3 
+(b) 2 : 3 
+(c) 4 : 5 
+ 
+(d) 2 : 5 
+(e) 3 : 4 
+ 
+78. If a pie – chart of total butter cookies produced by all 
+four companies made, then find the central angle for 
+total butter cookies produced by company C? 
+ 
+(a) 117° 
+(b) 108° 
+(c) 99° 
+ 
+(d) 121° 
+(e) 95.4° 
+ 
+79. Find the difference between total chocolate cookies 
+produced by company B and total butter cookies 
+produced by company D? 
+ 
+(a) 50 
+(b) 40 
+(c) 10 
+ 
+(d) 30 
+(e) 20 
+ 
+80. Company C & D sold 60% & 80% of total produced 
+butter cookies respectively. If company C & D sold each 
+butter cookies at Rs. 12 & Rs. 15 respectively, then find 
+total revenue got by company C is what percent less 
+than total revenue got by company D by selling these 
+butter cookies? 
+ 
+(a) 64% 
+(b) 44% 
+(c) 52% 
+ 
+(d) 48% 
+(e) 56%
+ 
+ 
+ 
+Directions (81-84): Read the passage carefully and 
+answer the questions given below it. 
+ 
+The last few months have been great for the economy. New 
+cases have fallen, and economic activity is racing back to 
+pre-pandemic levels. After a c.24% contraction in the 
+quarter ending June 2020, we expect GDP to grow by a 
+positive 1.8% in the quarter ending December 2020. 
+ 
+This is quite a sharp turnaround in a short period. A careful 
+look suggests that a key driver of the rebound has been 
+pent-up goods demand. As the lockdown ended, the 
+production 
+of 
+consumer 
+non-durables 
+shot 
+up, 
+followed______________(I)___________. A large mountain of 
+household financial savings funded this rebound. 
+ 
+N +5%
+N%
+N +20%
+2N%
+Total cookies (Butter + Chocolate) produced
+A
+B
+C
+D
+M%
+20%
+40%
+M +10%
+Total chocolate cookies produced
+A
+B
+C
+D

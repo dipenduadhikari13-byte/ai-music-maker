@@ -1,0 +1,410 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2022
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2024/09/10162540/IBPS-PO-Mains-Previous-Year-Paper-2022-1.pdf
+======================================================================
+
+Q1. How many persons are senior to V? 
+(a) Three 
+(b) Five 
+(c) Four 
+(d) Six 
+(e) None of these  
+ 
+Q2. How many persons are transfer to Legal department? 
+(a) Eight 
+(b) Seven 
+(c) Five 
+(d) Three 
+(e) None of these  
+ 
+Q3. Which of the following statement is not true? 
+I. The number of persons transfer to Marketing department is 
+more than the ones who transfer to Legal department.  
+II. T is junior to O 
+III. P and T both are senior to Z  
+(a) Both I and II 
+(b) Only II 
+(c) Both II and III 
+(d) Only III 
+(e) All I, II and III 
+2 
+
+ 
+ 
+Q4. Who among the following person/s is/are designated as Manager? 
+(a) Q, P, W 
+(b) M, E, H 
+(c) G, O, Y 
+(d) E, H, B 
+(e) L, M, Z 
+ 
+Q5. Who among the following is working with M? 
+(a) Z 
+(b) H 
+(c) W 
+(d) Y 
+(e) Both Z and Y 
+ 
+Directions (6-9): Study the following information carefully to answer the given questions: 
+In a certain code language: 
+ 
+ 
+Q6. What is the code for “Press”? 
+(a) &#? 
+(b) &@? 
+(c) $#+ 
+(d) &@+ 
+(e) None of these  
+ 
+Q7. What is the code for “Blue”? 
+(a) $@? 
+(b) &@+ 
+(c) ^#+ 
+(d) ^@+ 
+(e) None of these  
+ 
+Q8. The code “&@+” is coded for? 
+(a) Iron 
+(b) Europe 
+(c) Erase 
+(d) Trail 
+(e) Jail 
+ 
+Q9. Which of the following is wrong combination? 
+(a) Trail - &#* 
+(b) Real - ^#* 
+(c) June - &#? 
+(d) Jungle - %#+ 
+(e) Freeze - %#+ 
+3 
+
+ 
+ 
+Directions (10-11): After 8 phases of election in Bengal, on 2nd May the ‘khela’ becomes over. TMC 
+lead by Chief Minister Mamata Banerjee has got success to clean sweep Bengal election despite of 
+strong opposition heavyweight Bhartiya Janata Party. Top Central Ministers and chief ministers of 
+BJP ruled states also participated in rallies. While seated in a wheelchair Didi with her injured left 
+foot, rallies could not have been easy. But Didi scored! And her supporters and TMC cheered. 
+ 
+Q10. I. TMC Party workers start celebration and there is some news of violence between BJP & 
+TMC workers. 
+II. Out of 292 seats, TMC has marked a major victory by winning 225 seats and BJP has not 
+touched the triple figure. 
+Give answer 
+(a) If Statement I is the cause and Statement II is its effect. 
+(b) If Statement II is the cause and Statement, I is its effect. 
+(c) If both the Statements I and II are independent causes. 
+(d) If both the Statements I and II are effects of independent causes. 
+(e) If both the Statement I and II are effects of some common causes. 
+ 
+Q11. Which of the following abrogates the news of winning by TMC party? 
+(I) At one of the hottest seats in Bengal i.e. Nandigram. BJP has defeated TMC by 1952 votes. 
+(II) Vote share of BJP has increased from 25% to 32% as compared to last year.  
+(III) Out of 292 seats, TMC won 225 seats which is a record number. 
+(a) Only II and III 
+(b) Only I and III 
+(c) Only I and II 
+(d) Only III 
+(e) Only II 
+ 
+Directions (12-14): Study the following information carefully to answer the given questions: 
+Two buses P and Q start their journey from bus depot to different destinations. Bus P starts 12km in 
+south and reach at point 1. Then turns left and travel 13km to reach at point 2. Then turns right and 
+travel 14km to reach at point 3. After that it turns left and travels 18km to reach at point 4. Then bus P 
+turns to left and travel 9km to reach final stops 5. Bus Q travel 16km in east of depot to reach at point 6. 
+Now turns right and travel 11km to reach at point 7. Then turns left and travel 22km to reach at point 8. 
+Then turns left and travel 14km to react at point 9. Finally turns left and travel 39km to reach at point 10. 
+These stops are assigned names according to the given below conditions: 
+* If the distance between two consecutive points is prime number, then first stops is called ‘A’ 
+* If the stops (points) are in north-west and south-east of bus depot, then these points are called ‘B’ 
+* If the stops (points) are in north-east of bus depot, then these points are called ‘C’ 
+* If the distance between two consecutive points is even number, then first stops is called ‘D’ 
+ 
+Q12. Find the odd one out? 
+(a) Distance between stop 2 and stop 4 
+(b) Distance between stop 7 and stop 9 
+(c) Distance between stop 3 and bus depot 
+(d) Distance between stop 8 and stop 9 
+(e) Distance between stop 6 and bust depot 
+4 
+
+ 
+ 
+Q13. What is the shortest distance between point 1 and point 6? 
+(a) 28km 
+(b) 20km 
+(c) 24km 
+(d) 32km 
+(e) None of these  
+ 
+Q14. Ajay takes E-rikshaw from bus depot and goes 8km in west direction then takes left and goes 
+6km to reach his house. Find the shortest between Ajay’s house and stop 1? 
+(a) 12km 
+(b) 10km 
+(c) Can’t be determined  
+(d) 14km 
+(e) 20km 
+ 
+Directions (15-18): Study the following information carefully to answer the given questions: 
+Ten persons- M, N, O, P, Q, T, U, V, W and X sit around a circular table but not necessarily in the same 
+order. Five of them face inside and rest of them face outside. No two consecutive alphabetical named 
+persons sit adjacent to each other. Not more than two neighbours face the same direction.  
+Two persons sit between W and N. M sits 3rd to the right of N. Immediate neighbour of M face opposite 
+direction to each other. X and V sit immediate left to each other but not an immediate neighbour N. O and 
+P sit 2nd to the right of each other. Immediate neighbours of U face the same direction but not same as U. 
+No one sits between O and X either one of the sides. W and Q face the same direction. X does not face 
+outside.  
+ 
+Q15. How many minimum numbers of persons sit between Q and the one who sits just left of X? 
+(a) Six 
+(b) Seven 
+(c) Two 
+(d) Eight  
+(e) Can’t be determined  
+ 
+Q16. Four of the following five are alike in a certain way and hence form a group. Who among the 
+following does not belong to that group? 
+(a) X 
+(b) W 
+(c) Q 
+(d) V 
+(e) M 
+ 
+Q17. The number of persons sit between N and W when counted to the left of W is same as the 
+numbers of persons sit between _____ and _____ when counted to the left of _____. 
+(a) X, T 
+(b) Q, U 
+(c) U, O 
+(d) V, Q 
+(e) None of these  
+5 
+
+ 
+ 
+Q18. Which of the following statement is true? 
+I. Both V and T face the same direction 
+II. O and T are not an immediate neighbour 
+III. V sits 3rd to the left of W 
+(a) Both I and III 
+(b) Only III 
+(c) Both II and III 
+(d) Only II 
+(e) Only I 
+ 
+Q19. Statement: The current active wet spell over the two states A and B, the largest producer of 
+wheat, brought cheers to farmers, especially wheat growers.  
+Which of the following can be the reason of happiness of wheat growers from the given statement? 
+(I) The rain will help in improving photosynthesis resulting in better growth of the crop, which will result 
+in improved yield. 
+(II)The minimum temperature has also come down which is good for wheat crop as it thrives in cold 
+conditions.  
+(III) Rain will help in reducing pressure on groundwater and would also help in retaining soil moisture.  
+(IV) As the both states A and B are biggest crop producer and completely dependent on farming as 
+occupation so adequate amount of rain at right time is a matter of joy for them.  
+(a) Only I and II are implicit 
+(b) Only III is implicit 
+(c) Only III and IV are implicit 
+(d) All are implicit 
+(e) Only I, II and III are implicit 
+ 
+Q20. Statement: All State governments have been asked to create awareness about the testing and 
+prevention of widely spread swine flu and also to ensure that there are enough beds and 
+medicines to treat any cases of this contagious disease. 
+Which of the following can be assumed from the given statement? 
+(I) H1N1 influenzas (or swine flu) is a highly contagious acute respiratory disease of pigs.  
+(II) Swine flu viruses do not normally infect humans. 
+(III) Even being contagious disease, the treatment of swine flu is possible.  
+(a) Only I and II are implicit 
+(b) Only III is implicit 
+(c) Only III and I is implicit 
+(d) All are implicit 
+(e) None of the above 
+ 
+Directions (21-24): Study the following information carefully to answer the given questions: 
+9 persons P, Q, R, S, T, U, V, W and X of different age belong to three different states viz. Assam, Manipur 
+and Tripura but not necessarily in the same order. Not less than two and not more than four persons 
+belong to any state.  
+Note: If it is given that A and the one who is 12 years old belong to same state then it means A is 
+not 12 years old.  
+6 
+
+ 
+W and the one who is 51 years old belong to same state. Only Q and the one whose age is 18 years belong 
+to same state. P and V belong to different state. W is 7 years younger to V. S is twice older to Q. P and S 
+belong to different state. V who is 61 years old and the one whose age is 64 years belong to same state. S 
+neither belongs to Assam nor Tripura. The one whose age is 35 years belong to Tripura. No one’s age is 
+less than 18 years and more than 68 years. T and the one who is 64 years old belong to the same state. W 
+does not belong to Tripura. U and the one who is 29 years old belong to same state. P is not belonged to 
+Assam. R is 29 years old and 3 years younger to Q. X is the youngest one. P is 2 years older to U. P’s age is 
+not multiple of 5. 
+ 
+Q21. How many persons are younger to the one who is just younger to T? 
+(a) Seven 
+(b) Four 
+(c) Three 
+(d) Five 
+(e) More than seven 
+ 
+Q22. Who among the following belongs to Manipur? 
+(a) The one who is 37 years old 
+(b) U 
+(c) The youngest one 
+(d) T 
+(e) Both T and U 
+ 
+Q23. What is the sum of the ages of T, P and W? 
+(a) 134 years 
+(b) 142 years 
+(c) 147 years  
+(d) 98 years 
+(e) None of these  
+ 
+Q24. Which of the following statement is true? 
+I. U is younger to W 
+II. R does not belong to Manipur 
+III. Sum of the ages of Q and T is more than 35 years 
+(a) Both I and II 
+(b) Only III 
+(c) All I, II and III 
+(d) Both II and III 
+(e) Only I 
+ 
+Directions (25-28): Each of the questions below consists of a question and two statements 
+numbered I, and II given below it. You have to decide whether the data provided in the statements 
+are sufficient to answer the question. Read all the statements and answer the following questions. 
+ 
+Q25. Eight persons sit around a circular table and face inside. Who among the following sits 3rd to 
+the left of Q? 
+Statement I: P and O are immediate neighbors. One person sits between P and Q. R does not sits 2nd to the 
+right of O. Neither Q nor S is immediate neighbor of T.  
+Statement II: One person sits between S and T. Two persons sit between S and R. Q neither sits near S nor 
+R. Q sits near T and O who does not sit just left of Q.  
+7 
+
+ 
+(a) If the data in statement I alone are sufficient 
+(b) If the data in statement II alone are sufficient 
+(c) If the data either in statement I alone or statement II alone are sufficient to answer 
+(d) If the data given in both I and II together are not sufficient 
+(e) If the data given in both the statements I and II together are necessary to answer 
+ 
+Q26. Seven persons A-G sit in a row face north but not necessarily in the same order. Who among 
+the following sits exactly between B and E? 
+Statement I: C is the only immediate neighbor of G. F sits 2nd to the left of B. E sits three places away from 
+A.  
+Statement II: D sits 3rd to the left of B but not sit at any extreme end. C sits 2nd to the right of A. B and G 
+are not an immediate neighbor.  
+(a) If the data in statement I alone are sufficient 
+(b) If the data in statement II alone are sufficient 
+(c) If the data either in statement I alone or statement II alone are sufficient to answer 
+(d) If the data given in both I and II together are not sufficient 
+(e) If the data given in both the statements I and II together are necessary to answer 
+ 
+Q27. Nine persons of different heights are arranged in descending order according to their height. 
+Who among the following is the 3rd tallest? 
+Statement I: Two persons are between Q and R. P is shorter than S but not just shorter. The number of 
+persons between R and S is same as the number of persons between Q and R. T and U are not shorter to S. 
+More than two persons between P and U. T is taller than R.  
+Statement II: Only two persons are shorter to Q. One person is between Q and V. No one is between V and 
+R. The number of persons between R and Q is same as the number of persons taller to T. U is taller than T 
+and shorter than S.  
+(a) If the data in statement I alone are sufficient 
+(b) If the data in statement II alone are sufficient 
+(c) If the data either in statement I alone or statement II alone are sufficient to answer 
+(d) If the data given in both I and II together are not sufficient 
+(e) If the data given in both the statements I and II together are necessary to answer 
+ 
+Q28. Eight balls throw on the floor and now they are at some distance and direction from each 
+other. In which direction is ball R with respect to ball O? 
+Statement I: Ball R is in 15m west of ball P. Ball M is in 6m south of Ball R. Ball T is in 12m north of Ball Q.  
+Statement II: Ball S is in 15m south of Ball P. Ball O is in 6m south of Ball N. Ball T is in 18m west of Ball O. 
+Ball N is in 9m east of Ball S.  
+(a) If the data in statement I alone are sufficient 
+(b) If the data in statement II alone are sufficient 
+(c) If the data either in statement I alone or statement II alone are sufficient to answer 
+(d) If the data given in both I and II together are not sufficient 
+(e) If the data given in both the statements I and II together are necessary to answer 
+8 
+
+ 
+ 
+Directions (29-31): Study the following information carefully and answer the questions that 
+follow: 
+‘P@Q’ means ‘P is the son of Q’ 
+‘P ^Q’ means ‘P is the father of Q’ 
+‘P ÷ Q’ means ‘P is the brother of Q’ 
+‘P+Q’ means ‘P is the daughter of Q’ 
+‘P - Q’ means ‘P is the mother of Q’ 
+‘P = Q’ means ‘P is the sister of Q’ 
+‘P%Q’ means ‘P is the husband of Q’ 
+ 
+Q29. If the given expression “A^E+D; L+G ____ M÷L” is true then what will come in the blank so that 
+the relation “E is the mother of M” is true? 
+(a) @ 
+(b) + 
+(c) ^ 
+(d) = 
+(e) None of these  
+ 
+Q30. Which of the following expression holds true that ‘E is the maternal grandmother of A’? 
+(a) A-B÷C^D=E 
+(b) A-B÷C^D^E 
+(c) A-B+C^D÷E 
+(d) A=B+C÷D+E 
+(e) A+D=C@B%E 
+ 
+Q31. If the expression ‘Q÷O-K+D and N÷M-Q@L’ is true which of the following is definitely true?  
+(a) M is the sister-in-law of D 
+(b) N is the son of L 
+(c) L is the mother of O 
+(d) Q is the brother-in-law of D 
+(e) N is the son of K 
+ 
+Directions (32-35): Study the following information carefully to answer the given questions: 
+Ten family members are sitting in two parallel rows containing five people each, in such a way that there 
+is an equal distance between adjacent persons. In row–1 A, B, C, D and E are seated and all of them are 
+facing north. In row-2 P, Q, R, S and T are seated and all of them are facing south. Therefore, in the given 
+seating arrangement each member seated in a row faces another member of the other row. 
+P faces the one who sits 2nd to the left of his nephew. One person sits between P’s nephew and P’s mother. 
+A is the sister-in-law of D who is not married. S is the granddaughter of B who sits left of P’s mother but 
+not just left. R is the only brother of D who is the only immediate neighbour of B’s wife. Q is the husband 
+of S and sits 2nd to the right of R’s father. A is the daughter of E and faces to the one who sits 2nd to the 
+right of Q’s wife. P is the brother-in-law of R who is the father of C. T’s son sits just right of C’s brother-in-
+law. A’s father-in-law sits at one of the extreme ends. Both D and A are of same gender but opposite to C’s 
+gender. B is not father of R. 
+9 
+
+ 
+ 
+Q32. How many persons sit between A’s father and T’s daughter? 
+(a) Three 
+(b) One 
+(c) Two 
+(d) None  
+(e) Can’t be determined  
+ 
+Q33. How is R related to the one who sits exactly in the middle of the row-1? 
+(a) Brother-in-law 
+(b) Son 
+(c) Father-in-law 
+(d) Father 
+(e) Son-in-law 
+ 
+Q34. Which of the following statement is true? 
+(a) A is the P’s spouse  
+(b) A’s father-in-law and E’s husband sits diagonally opposite to each other  
+(c) Two persons sit between D’s brother and Q 
+(d) S is sister of D 
+(e) None is true  
+ 
+Q35. Four of the following five are alike in a certain way and hence form a group. Who among the 
+following does not belong to that group? 
+(a) P 
+(b) S 
+(c) R 
+(d) B 
+(e) T

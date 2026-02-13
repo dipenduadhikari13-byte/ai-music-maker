@@ -1,0 +1,362 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 10
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/01/30113028/SBI-PO-Pre-2022-20th-Dec-Shift-Wise-Previous-Year-Paper-Mock-10.pdf
+======================================================================
+
+Q31. Average age of a group of 20 students is 18 years. By mistake at the time of calculating the 
+average age, age of two students 16years, 15years were taken as 18years and 20years.  Calculate the 
+exact average age of the group? 
+(a)17.65 
+(b)18.65 
+(c)19.65 
+(d)15.65 
+(e)14.65 
+ 
+ 
+9 
+ 
+ 
+Q32. A shopkeeper purchased an item at Rs. 1000. He spent Rs. 500 on transportation, Rs. 200 on 
+Labour, Rs. 300 on packaging. He then sells it at 25% profit to a customer. The customer spent Rs. 
+200 on it and sell it at 30% profit. Selling price of item for shopkeeper is approximately what 
+percent more or less than the selling price for customer? 
+(a)52% 
+(b)29% 
+(c)36% 
+(d)43% 
+(e)25% 
+ 
+Q33. A mixture contains milk and water in the ratio 4:1. On adding another mixture to it containing 
+20 liters milk and 10 liters water to it the new  ratio of water to milk becomes 1:3. Find the difference 
+in the quantity(in litres) of milk and water in the initial mixture. 
+(a)10 
+(b)20 
+(c)30 
+(d)40 
+(e) 50 
+ 
+Q34. A boat can row 20 km downstream and 20 km upstream in 12 hours. If speed of boat in still 
+water is 50% more than the speed of stream. Find in how much time boat will cover 50 km 
+downstream? 
+(a)9hr 
+(b)8hr 
+(c)7hr 
+(d)5hr 
+(e)6hr 
+ 
+Q35. The ratio of age of Ram to Shyam 6 years ago was 1:2. Present age of Ram is 5 years more than 
+the present age of Prem. Ratio of age of Prem and Shyam is 5:14. Find the age of Ram after 10 years 
+(In years). 
+(a)24 
+(b)23 
+(c)21 
+(d)22 
+(e)20 
+ 
+ 
+10 
+ 
+ 
+Q36. The volume of a cylinder is 5280m³ and curved surface area of the cylinder is 704m². Find the 
+ratio of radius to height of the cylinder? 
+(a) 225 : 112 
+(b) 226 : 119 
+(c) 223 : 112 
+(d) 227 : 112 
+(e) 229 :112 
+ 
+Q37. A father had 1000 rupees. He divided the sum between his two sons equally. One son invests 
+the sum at 10% simple interest for 2 years and another son invests the sum at 20% compound 
+interest for 2 years. Find the sum of the interest received by both of them? 
+(a) Rs. 440 
+(b)Rs. 320 
+(c) Rs. 500 
+(d) Rs. 120 
+(e) Rs. 660 
+ 
+Q38. There are x black balls, x-2 yellow balls and x+2 green balls in a bag A. The probability of 
+choosing two black balls when 2 balls are picked at random from the bag is  1/12. Find the total 
+balls in the bag. 
+(a) 9 
+(b) 18 
+(c) 27 
+(d) 36 
+(e) 45 
+ 
+Q39. If an employee spends 20% of the salary on rent, 10% of the remaining he gives to his 
+grandmother and 30% of the remaining spends on food and rest he saves. Find the ratio of savings 
+to expenditure of the employee? 
+(a) 63:62 
+(b) 62:63  
+(c) 64:29 
+(d) 81: 29 
+(e) 29:81 
+ 
+Q40. The cost price of article A is equals to selling price of the article B. if article A is sold at the 
+33⅓% profit and article B is sold at the 50% profit and the sum of the cost price of article B and 
+selling price of article A is Rs. 672, then find the cost price of article A? 
+(a) Rs. 224 
+(b) Rs. 336 
+(c) Rs. 380 
+(d) Rs. 420 
+(e) Rs. 448 
+ 
+ 
+11 
+ 
+ 
+Directions (41-45): In the following bar graph number of shirts and pants manufactured by a 
+company in a month are given. Read the graph carefully and answer the following questions. 
+ 
+ 
+Q41. The total number of shirts and pants manufactured by S is what percent less or more with 
+respect to T? 
+(a) 100% 
+(b) 200% 
+(c) 50% 
+(d) 60% 
+(e) 75% 
+ 
+Q42. If the shirt and pants manufactured by the company R is in the ratio of 1:2. Find the ratio of 
+shirt manufactured by R to the total number of shirts and pants manufactured by T? 
+(a) 7:25 
+(b) 6:25 
+(c)  4:3 
+(d) 3:25 
+(e) 25:6 
+ 
+Q43. Find the average number of shirts and pants manufactured by all the companies? 
+(a) 7290 
+(b) 1210 
+(c) 1430 
+(d) 7150 
+(e) 1420 
+ 
+ 
+12 
+ 
+ 
+Q44. If the ratio of shirt to pant for the company P, R, and T are in the ratio of 3:7, 4:5 and 3:2 
+respectively. Find the total number of shirt and the total number of pants of these three companies 
+respectively? 
+(a) 1000, 2000 
+(b) 2050, 1600 
+(c) 1900, 2200 
+(d) 1600, 2050 
+(e) 1800, 6000 
+ 
+Q45. Find the ratio of total number of shirts and pants manufactured by Q and R together to P and 
+S together? 
+(a) 30:31 
+(b) 23:17 
+(c) 17:23 
+(d) 40:19 
+(e)  19:40 
+ 
+Q46. A, B, and C started a business with the ratio of investment of 2:3:4 respectively. After one year, 
+A doubled the investment and C withdraw half of the investment. Find the ratio of profit earned by 
+B and C at the end of two years.  
+(a) 4:3 
+(b) 3:1 
+(c) 2:1 
+(d) 1:1 
+(e) 5:8 
+ 
+Q47. A is 50% more efficient than B, who take double time than C to complete a work. A can 
+complete the work in ‘x’ days while C can complete the same work in (x – 15) days. In how many 
+days all three can completes the same work together? 
+(a) 36 days 
+(b) 30 days 
+(c) 22.5 days 
+(d) 20 days 
+(e) 18 days 
+ 
+Directions (48-52): The following table shows total no. of laptops sold by five different shops and 
+ratio of Dell laptops to HP laptops sold by each shop. Read the following table carefully and answer 
+the questions given below.  
+ 
+ 
+13 
+ 
+ 
+ 
+Q48. Find the ratio between no. of Dell laptop sold by shop P and R together to number of HP laptop 
+sold by shop Q and S together. 
+(a) 5:8 
+(b) 4:5 
+(c) 5:9 
+(d) 5:4 
+(e) 2:7 
+ 
+Q49. Price of each HP and Dell laptop is Rs.20000 and Rs.22000 respectively find the difference 
+between the amount earned by shop T after selling both type of laptops. 
+(a) Rs. 1050000 
+(b) Rs. 1200000 
+(c) Rs. 1100000 
+(d) Rs. 1240000 
+(e) Rs. 2200000 
+ 
+Q50. Number of HP laptop sold by shop M is 20% more than that of shop S and ratio of Dell to HP 
+laptop sold by shop M is 5:7. Find the total number of laptops sold by shop M. 
+(a) 724 
+(b) 728 
+(c) 712 
+(d) 720 
+(e) 716 
+ 
+Q51. What is the average number of HP laptop sold by S and Q together? 
+(a) 440 
+(b) 400 
+(c) 402 
+(d) 410 
+(e) 448 
+ 
+ 
+14 
+ 
+ 
+Q52. Number of Dell laptop sold by shop R is what % no. of HP laptop sold by shop P. 
+(a) 112.5% 
+(b) 81% 
+(c) 50% 
+(d) 87.5% 
+(e) 85% 
+ 
+Directions (53-57): What approximate value will come in place of question mark (?) in the given 
+questions (You are not expected to calculate the exact value.) 
+ 
+Q53.  
+  
+(a) 12 
+(b) 16 
+(c) 14 
+(d) 18 
+(e) 8 
+ 
+Q54.  
+ 
+(a) 42 
+(b) 21 
+(c) 12 
+(d) 14 
+(e) 4 
+ 
+Q55. ? % of 549.99 + 20.03 % of 649.99 = 349.99 
+(a) 36% 
+(b) 24% 
+(c) 20% 
+(d) 30% 
+(e) 40% 
+ 
+Q56. 5.03 ×(? +12.01)+29.99 % of 899.99= 359.99 
+(a) 10 
+(b) 8 
+(c) 6 
+(d) 4 
+(e) 12 
+ 
+ 
+15 
+ 
+ 
+Q57. 
+ 
+(a) 1250 
+(b) 1050 
+(c) 750 
+(d) 1750 
+(e) 500 
+ 
+Directions (58-60): Read the following information carefully and answer the questions given below.  
+Number of male and female employee work in four different company i.e., P, Q, R and S. Number of male 
+employee in company P is 560 which is 100% more than that of female. Ratio of male to female employee 
+in company Q is 4:5 and number of females in company P is equal to number of male employees in company 
+Q. Total number of male in all the four companies is 1760 and total no. of employees in all the four 
+companies is 3500. no. of male in company S is 420 and no. of female in company R is 650. 
+ 
+Q58. Find the total number of male employees in company R and number of female employees in 
+company S together. 
+(a) 925 
+(b) 980 
+(c) 915 
+(d) 960 
+(e) 940 
+ 
+Q59. Find the average number of female employees in all the four company. 
+(a) 425 
+(b) 465 
+(c) 445 
+(d) 475 
+(e) 435 
+ 
+Q60. Number of female employees in company S is approximately what % no. of male employee in 
+company P. 
+(a) 44% 
+(b) 70% 
+(c) 54% 
+(d) 94% 
+(e) 82% 
+ 
+Directions (61-65): In the following questions, two equations (I) and (II) are given. You have to solve 
+both the equations and answer the following questions. 
+ 
+ 
+16 
+ 
+ 
+Q61.  
+ 
+(a) x<y 
+(b) x>y 
+(c) x≤y 
+(d) x=y or no relation between x & y. 
+(e) x≥y 
+ 
+Q62.  
+ 
+(a) x<y 
+(b) x>y 
+(c) x≤y 
+(d) x=y or no relation between x & y. 
+(e) x≥y 
+ 
+Q63.  
+ 
+(a) x<y 
+(b) x>y 
+(c) x≤y 
+(d) x=y or no relation between x & y. 
+(e) x≥y 
+ 
+Q64.    
+I. 3x + 2y = 7 
+II. 2x + 5y = 12  
+(a) x<y 
+(b) x>y 
+(c) x≤y 
+(d) x=y or no relation between x & y. 
+(e) x≥y 
+ 
+Q65.  
+ 
+ 
+ 
+17 
+ 
+(a) x<y 
+(b) x>y 
+(c) x≤y 
+(d) x=y or no relation between x & y. 
+(e) x≥y 
+ 
+Directions (66-70): Study the following information carefully and answer the questions given 
+below. 
+Ten persons sit in two parallel rows in such a way that the persons sit in row 1 face south while the persons 
+sit in row 2 face north. Persons sit in row 1 face the persons who sits in row 2 and vice versa. One person 
+sits to the left of B. A sits 3rd to the right of E and faces M. O sits immediate left of the person who faces B. P 
+sits 3rd to the right of N who doesn't face C. Q neither sit in row 2 nor with A. M doesn’t sit with B in the 
+same row. D is one of the persons.

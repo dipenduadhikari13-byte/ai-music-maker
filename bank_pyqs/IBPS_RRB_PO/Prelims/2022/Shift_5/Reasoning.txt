@@ -1,0 +1,446 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 5
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152911/RRB-PO-Pre-2022-21st-August-Shift-Wise-Previous-Year-Paper-Mock-05.pdf
+======================================================================
+
+Q1. If S sits at the extreme left end, then how many persons are sitting in the row? 
+(a) 11  
+(b) 17  
+(c) 13  
+(d) 14  
+(e) 12  
+ 
+Q2. If B sits exactly between T and S then what is the position of B with respect to A? 
+(a) Third to the left  
+(b) Third to the right  
+(c)  Second to the left  
+(d) Fourth to the right  
+(e) None of these  
+ 
+Q3. How many persons sit between S and the one who sits immediate left of X?  
+(a) Nine 
+(b) Seven 
+ 
+ 
+(c) Eight 
+ 
+ 
+ 
+(d) Ten 
+ 
+ 
+(e) None of these 
+ 
+Q4. If R sits third to the left of S, then how many persons are sitting between R and D? 
+(a) Twelve 
+ 
+(b) Ten 
+ 
+(c) Fifteen 
+ 
+ 
+(d) Nine 
+ 
+ 
+(e) None of these 
+ 
+Q5. Who among the following sits fifth to the right of A? 
+(a) S 
+(b) P 
+(c) R 
+(d) X 
+(e) Q 
+ 
+ 
+2 
+ 
+ 
+Directions (6-8): In these questions relationship between different elements is shown in the 
+statements. These statements are followed by conclusions. You have to find out which of the 
+conclusions follow or not from the given statements. 
+ 
+Q6.  
+ 
+(a) Only I is true  
+(b) Only II is true  
+(c) Either I or II is true  
+(d) Both I and II are true  
+(e) Neither I nor II is true 
+ 
+Q7.  
+ 
+(a) Only I is true  
+(b) Only II is true  
+(c) Either I or II is true  
+(d) Both I and II are true  
+(e) Neither I nor II is true 
+ 
+Q8.  
+ 
+(a) Only I is true  
+(b) Only II is true  
+(c) Either I or II is true  
+(d) Both I and II are true  
+(e) Neither I nor II is true 
+ 
+Directions (9-11): In each question below are given two/three statements followed by two 
+conclusions numbered I and II. You have to take the given statements to be true even if they seem 
+to be at variance with commonly known facts. Read all the conclusions and then decide which of 
+the given conclusions logically follows from the given statements, disregarding commonly 
+known facts. Give answer- 
+ 
+ 
+3 
+ 
+ 
+Q9. Statements:  
+Some prime are consonant.  
+All consonant are cup.  
+No cup is a cap. 
+Conclusions:  
+I. Some consonant being cap is a possibility. 
+II. All cup being prime is a possibility.  
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows, 
+(e) If both conclusions I and II follow. 
+ 
+Q10. Statements:  
+Some prime are consonant.  
+All consonant are cups.  
+No cup is a cap. 
+Conclusions:  
+I. No cap is consonant. 
+II. Some prime are not caps. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows, 
+(e) If both conclusions I and II follow. 
+ 
+Q11. Statements: All number is digits.  
+No digit is a numeric. 
+Conclusions:  
+I. Some number is not numeric. 
+II. No number is a numeric. 
+(a) If only conclusion I follows. 
+(b) If only conclusion II follows. 
+(c) If either conclusion I or II follows. 
+(d) If neither conclusion I nor II follows, 
+(e) If both conclusions I and II follow. 
+ 
+Directions (12-16): Study the following information to answer the given questions:  
+Twelve persons are sitting in two parallel rows containing six persons in each row in such a way that 
+there is an equal distance between adjacent persons. In the first row- A, B, C, D, E and F are seated and 
+all of them are facing south. In the second row- P, Q, R, S, T and V are seated and all of them are facing 
+north. Therefore, in the given seating arrangement, each member seated in a row faces another member 
+of the other row. 
+ 
+ 
+4 
+ 
+D sits third to the right of B. Either D or B sits at an extreme end of the line. The one who faces B sits 
+second to right of T. Two people sit between Q and V. Neither Q nor V sits at an extreme end of the line. 
+The immediate neighbour of Q faces the person who sits third to left of A. R sits second to the left of P. 
+C and E are immediate neighbours of each other. E does not face the immediate neighbour of S. 
+ 
+Q12. Who among the following person sits third to the right of C? 
+(a) B 
+(b) D 
+(c) F 
+(d) A 
+(e) None of these  
+ 
+Q13. How many persons sit between V and S? 
+(a) One 
+(b) Three 
+(c) Two 
+(d) More than three 
+(e) None  
+ 
+Q14. The number of persons sits between A and E is same as the number of persons sits between 
+_____ and _____. 
+(a) Q, T 
+(b) R, V 
+(c) D, C 
+(d) P, S 
+(e) None of these  
+ 
+Q15. Who among the following sits second to the right of P? 
+(a) V 
+(b) S 
+(c) Q 
+(d) T 
+(e) None of these  
+ 
+Q16. Who among the following sits opposite to V? 
+(a) E 
+(b) C 
+(c) D 
+(d) F 
+(e) None of these  
+ 
+ 
+5 
+ 
+ 
+Directions (17-19): Study the following information carefully and answer the given questions.  
+Point D is 14 m towards the West of Point A. Point B is 4 m towards the South of point D. Point F is 9 m 
+towards the South of point D. Point E is 7 m towards the East of point B. Point C is 4 m towards the 
+North of point E. Point G is 4 m towards the South of point A.  
+ 
+Q17. Which of the following points are in a straight line?  
+(a) D, E, A  
+ 
+ 
+ 
+(b) E, G, C 
+(c) D, B, G  
+ 
+ 
+ 
+(d) E, G, B 
+(e) F, B, C 
+ 
+Q18. Point A is in which direction with respect to Point C?  
+(a) East  
+ 
+ 
+ 
+(b) West 
+(c) North  
+ 
+ 
+ 
+(d) South  
+(e) Cannot be determined  
+ 
+Q19. If a person walks 5 m towards North from point F and takes a right turn, then which of the 
+following points would he reach first?  
+(a) Point G  
+ 
+ 
+ 
+(b) Point D 
+(c) Point E  
+ 
+ 
+ 
+(d) Point A 
+(e) Point C 
+ 
+Q20. The position of how many alphabets will remain unchanged if each of the alphabets in the 
+word ‘MULTINATIONAL’ is arranged in alphabetical order from left to right? 
+(a) One 
+(b) Three 
+(c) Two 
+(d) Four 
+(e) None 
+ 
+Q21. Four of the following five are alike in a certain way so form a group, which of the following 
+does not belong to that group? 
+(a) LMR 
+(b) DEJ 
+(c) TUZ 
+(d) KLP 
+(e) FGL 
+ 
+ 
+6 
+ 
+ 
+Directions (22-26): Study the following information carefully to answer the given questions: 
+Twelve persons are appearing for an exam on 16th and 27th of the six different months of the same year 
+viz.  January, February, April, May, October and November.  
+R has exam on an odd date. Six persons give exams between R and F. Three persons give exams between 
+H and F. R does not give his exam in February. No one gives exam after M. S and N have exams in the 
+same month but not in the month which has 30 days. S and R have exams on different dates. N does not 
+give exam after H. G gives exam immediately after W and in the month which has 30 days. Only four 
+persons give exam between G and P who has exam after R. T has exam before V and both give exams on 
+the same date. U and R has exam on different dates.  
+ 
+Q22. How many persons have exam after V? 
+(a) Three 
+(b) Four 
+(c) Two 
+(d) More than four 
+(e) None of these  
+ 
+Q23. Which of the following pair of persons have exam in February? 
+(a) W, M 
+(b) P, M 
+(c) H, V 
+(d) W, G 
+(e) F, T  
+ 
+Q24. Four of the following five are alike in a certain way so form a group, who among the 
+following does not belong to that group? 
+(a) F 
+(b) W 
+(c) U 
+(d) S 
+(e) T 
+ 
+Q25. Who among the following person appears for exam 
+immediately before N? 
+(a) P 
+(b) U 
+(c) V 
+(d) S 
+(e) None of these  
+ 
+ 
+7 
+ 
+ 
+Q26. Who among the following has exam on 27th May? 
+(a) V 
+(b) U 
+(c) W 
+(d) T 
+(e) None of these  
+ 
+Directions (27-29): Study the following information carefully to answer the given questions: 
+There are seven members in a family P, R, M, K, T, O and S among them only two are married couples. 
+M is the grandson of R and has sibling. K is the daughter of S who is daughter-in-law of P. R has only two 
+children. P is mother of O. T is a female member of the family.  
+ 
+Q27. Who among the following is daughter-in-law of R? 
+(a) T 
+(b) S 
+(c) K 
+(d) Cannot be determined 
+(e) None of these 
+ 
+Q28. How K is related to O? 
+(a) Niece 
+(b) Sister 
+(c) Daughter  
+(d) Aunt 
+(e) None of these 
+ 
+Q29. If T is married to N, then how N is related to P? 
+(a) Nephew 
+(b) Son 
+(c) Son-in-law 
+(d) Father-in-law 
+(e) None of these  
+ 
+Directions (30-34): Study the following information to answer the given questions:  
+Eight persons are living on different floors of an eight-storey building. The ground floor is numbered as 
+1 and the topmost floor is numbered as 8. Four persons live between A and C who lives on an even 
+numbered floor. H lives on an odd numbered floor. Two persons live between A and B. Three persons 
+live between E and D who lives on an odd numbered floor above B’s floor. More than four persons live 
+between F and G who lives above F’s floor. 
+ 
+ 
+8 
+ 
+ 
+Q30. Who among the following person lives on 5th floor? 
+(a) F 
+(b) D 
+(c) B 
+(d) H 
+(e) None of these 
+ 
+Q31. How many persons live below C’s floor? 
+(a) Three 
+(b) More than three 
+(c) Two 
+(d) One 
+(e) None of these 
+ 
+Q32. On which of the following floor does F live? 
+(a) 6th floor 
+(b) 7th floor 
+(c) 2nd floor 
+(d) 4th floor 
+(e) None of these 
+ 
+Q33. The number of persons live between D and H is same as the number of persons live between 
+_____ and _____. 
+(a) E, A 
+(b) H, A 
+(c) D, C 
+(d) B, G 
+(e) None of these 
+ 
+Q34. Which of the following statement is true about G? 
+(a) H lives immediately below G’s floor 
+(b) Not more than four persons live below G’s floor 
+(c) Only two persons live between G and B 
+(d) G lives on an odd numbered floor 
+(e) None is true 
+ 
+Directions (35-39): Study the following information carefully and answer the given questions:  
+Eight students E, F, G, H, J, K, L and M are studying in three different universities viz. BHU, JNU and DU. 
+At least two but not more than three students are studying in the same university. Each of them is doing 
+different degrees viz. M.Sc., M.A. and M. Com, at least two but not more than three students are doing 
+same degree.  
+ 
+ 
+9 
+ 
+L is doing M.Sc. H is doing M.A. and studying in JNU with only J. E and F are not studying in DU and doing 
+the same degree but not M.A. G is doing M.Sc. and studying in DU with M who is doing M.A. L and G are 
+not studying in the same university. K is not doing M.Com. J is doing M.Sc. 
+ 
+Q35. Which of the following combinations is correct? 
+(a) E – M.Sc. 
+(b) F – M. Com 
+(c) K – M.Sc. 
+(d) F – M.Sc. 
+(e) None of these 
+ 
+Q36. Which among the following pair of persons are doing M.A.? 
+(a) M, K 
+(b) H, K 
+(c) Both (a) and (b) 
+(d) E, M 
+(e) None of these 
+ 
+Q37. Who among the following students are studying in BHU? 
+(a) E, K 
+(b) F, K 
+(c) K, L 
+(d) E, F 
+(e) None of these 
+ 
+Q38. In which of the following university K is studying? 
+(a) BHU 
+(b) JNU 
+(c) DU 
+(d) Cannot determined 
+(e) None of these 
+ 
+Q39. Four of the following five belong to a group in a certain way, find which of the one does not 
+belong to that group? 
+(a) E – BHU – M.Sc. 
+(b) L – BHU – M.Sc. 
+(c) F – JNU – M.Com 
+(d) K – DU – M.Sc. 
+(e) E – JNU – M.Com 
+ 
+Q40. Among A, B, C, D and E, each of them has different weights. D’s weight is more than only 
+three persons. B’s weight is more than E and less than C. C is not lighter than D. A is heavier than 
+B. Who among them is the third heaviest?  
+ 
+ 
+10 
+ 
+(a) B  
+(b) D 
+(c) E 
+(d) A 
+(e) C 
+ 
+Directions (41-45): The table given below shows total number of Android mobiles & IOS mobiles 
+available at three different stores P, Q and R and the table shows the percentage of total mobiles 
+(Android mobiles + IOS mobiles) sold by these stores out of total available mobiles. Read the 
+data carefully and answer the questions.

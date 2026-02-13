@@ -1,0 +1,366 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2024
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/17113050/SBI-PO-Pre-2024-25-Memory-Based-Paper-16-Mar-2025-1st-shift.pdf
+======================================================================
+
+Q31. Column-I 
+(A) As the deadline approached, the employees worked late into the night, making sure  
+(B) As the final whistle blew, the underdog team celebrated their unexpected victory, 
+(C) Despite the freezing temperatures and strong winds, the hikers continued their journey 
+Column-II 
+(D) that every detail of the project was perfect before submitting it to their boss 
+(E) proving that perseverance and teamwork could overcome any challenge 
+(F) up the mountain, determined to reach the summit before sunset 
+(a) A-D, B-E & C-F 
+(b) C-E 
+(c) A-D & B-E 
+(d) B-D 
+(e) None of the above 
+ 
+Q32. Column-I 
+(A) Heavy rain caused flooding in several areas of the city last night  
+(B) After years of dedication and hard work, the scientist finally discovered a breakthrough  
+(C) The mother carefully explained to her young son the importance of kindness, reminding 
+Column-II 
+(D) treatment for the rare disease that had puzzled researchers for decades 
+(E) winning a spot on the homecoming court is often associated with being popular 
+(F) him that small acts of generosity could make a big difference in someone’s life 
+(a) A-D & B-F 
+(b) C-E 
+(c) A-E & C-D 
+(d) B-D & C-F 
+(e) None of the above 
+ 
+Directions (33-37): Rearrange the following sentences in the proper sequence to form a 
+meaningful paragraph; then answer the questions given below them. 
+(A) Therefore, while technology offers numerous benefits, it is essential to address its challenges to 
+ensure responsible and sustainable development. 
+(B) With these advancements, businesses can operate more smoothly, and individuals can perform tasks 
+faster than ever before. 
+(C) The rise of the internet and smartphones has made instant communication possible, connecting 
+people across the globe. 
+(D) Additionally, artificial intelligence and automation are reshaping industries by improving efficiency 
+and reducing human effort. 
+(E) Technology has transformed the way we communicate, work, and access information in today’s 
+world. 
+(F) However, the rapid growth of technology also raises concerns about privacy, cybersecurity, and job 
+displacement. 
+ 
+ 
+ 
+Q33. Which of the following should be the THIRD sentence after rearrangement? 
+(a) D 
+(b) A 
+(c) F 
+(d) E 
+(e) C 
+ 
+Q34. Which of the following should be the first sentence after rearrangement? 
+(a) A 
+(b) F 
+(c) E 
+(d) B 
+(e) D 
+ 
+Q35. Which of the following should be the fifth sentence after rearrangement? 
+(a) C 
+(b) E 
+(c) D 
+(d) A 
+(e) F 
+ 
+Q36. Which of the following should be the second sentence after rearrangement? 
+(a) B 
+(b) E 
+(c) F 
+(d) C 
+(e) A 
+ 
+Q37. Which of the following should be the last sentence after rearrangement? 
+(a) C 
+(b) B 
+(c) E 
+(d) D 
+(e) A 
+ 
+Directions (38-40): In the question below, a statement has been given with two words omitted. 
+Following the statement are five set of words which may fit in the blanks in the similar sequence 
+as given. Choose the most appropriate set of words to make the statement contextually correct 
+and grammatically meaningful.  
+ 
+Q38. You must carefully ___________ the best images for your project and then _____________ them to 
+enhance their quality. 
+(a) rectify, survive 
+(b) finalize, submit 
+(c) write, proofread 
+(d) choose, edit 
+(e) create, publish 
+ 
+ 
+ 
+Q39. Regular practice will _____________ your skills and help you _______________ confidence in your abilities. 
+(a) empower, reduce 
+(b) maintain, forfeit 
+(c) enhance, gain 
+(d) deteriorate, break 
+(e) develop, destroy 
+ 
+Q40. She was ________________ about the innovative ideas, which were later __________________ to improve 
+workflow efficiency. 
+(a) realistic, absconded 
+(b) pessimistic, finalized 
+(c) confused, criticized 
+(d) apprehensive, ignored 
+(e) enthusiastic, implemented 
+ 
+Directions (41-45): The bar graph shows the total number of complaints filed and total 
+unaddressed complaints in five different cities. Read the bar graph and answer the following 
+questions.  
+ 
+Note – Total complaints = addressed complaints + unaddressed complaints  
+ 
+Q41. Total complaints filed in city D and E is what percentage of total addressed complaints in A 
+and B. 
+(a) 110.10 
+(b) 166.66 
+(c) 116.13 
+(d) 118.18 
+(e) 110.20  
+ 
+ 
+ 
+Q42. Find the ratio of undressed complaints in C and D together to addressed complaints in A 
+and E. 
+(a) 1:1 
+(b) 6:7 
+(c) 6:5 
+(d) 1:3 
+(e) 3:1 
+ 
+Q43. In city F, total complaint filed are average complaints filed in A and D. The ratio of 
+unaddressed complaints in F to addressed complaints in C is 4:5. Find the addressed complaints 
+in F. 
+(a) 18 
+(b) 60 
+(c) 36 
+(d) 42 
+(e) 40  
+ 
+Q44. If total number of robbery complaints filed in A is 45, rest are theft complaints and out of 
+robbery complaints filed in A , 20% are unaddressed. Find the difference between addressed 
+robbery complaints and total theft complaints. 
+(a) 18 
+(b) 16 
+(c) 6 
+(d) 12 
+(e) 14  
+ 
+Q45.  If the ratio of complaints filed by females and males in A is 7:2 and total 10 complaints are 
+unaddressed which are filed females. Find the complaints address which are filed by females in 
+A is how many more/less than total complaints filed in C. 
+(a) 100 
+(b) 60 
+(c) 63 
+(d) 42 
+(e) 40  
+ 
+Directions (46-50): The table shows the total number of girls, percentage of boys out of total 
+number of students and percentage of students attended the seminar in four different schools. 
+ 
+ 
+ 
+Note – I. x is the 5% of average number students in P & Q and y is 12.5% of the total students attended 
+the seminar in Q. 
+II. Total students = total girls + total boys 
+III. Total students = total students attended the seminar+ total students not attended the seminar.  
+ 
+Q46. Find the students who are not attending the seminar in S is what percentage of the total girl 
+in P and total boys in Q together (approx.). 
+(a) 21 
+(b) 6 
+(c) 11 
+(d) 18 
+(e) 25 
+ 
+Q47. If the ratio of girls and boys who attended the seminar in Q and R is 3:1 and 3:2. Find the 
+sum of the total boys who attended the seminar in Q and R. 
+(a) 100 
+(b) 60 
+(c) 63 
+(d) 42 
+(e) 48  
+ 
+Q48. The difference between boys and girls in R is half of the girls who attended the seminar in 
+Q. Find the ratio of total boys who attended the seminar in Q to total students in R and S.  
+(a) 1:1 
+(b) 6:7 
+(c) 6:5 
+(d) 1:3 
+(e) 3:1 
+ 
+Q49. The average number of boys in P and S is what percentage of the difference between the 
+students who attended seminars in P and R? 
+(a) 1010 
+(b) 1160 
+(c) 1130 
+(d) 1150 
+(e) 1140  
+ 
+Q50. In school E, the ratio of boys to girls is the same as in P, and boys in E are 20% more than 
+girls in R. Find the girls in E. 
+(a) 100 
+(b) 60 
+(c) 63 
+(d) 42 
+(e) 40  
+ 
+ 
+ 
+Directions (51-54): The information about the total number of girls and boys who are appeared 
+and who are not appeared in an exam from three different schools (A, B and C).  
+The total number of students in all the schools is 350, out of which 150 students are in B. Boys in A are 
+equal to girls in C. Boys in C is equal to girls in A, i.e., 25. Equal numbers of boys and girls in B. 
+In A, 20% of boys did not appear in the exam, which is five more than girls who appeared in the 
+examination. 
+In B, girls did not appear in the exam from A are equal to boys who did not appear in the exam from B. 
+The total number of students who did not appear in the exam is 40. 
+In C, the ratio of students who did not appear to those who appeared in the exam is 1:1. 45 girls did not 
+appear for the exam.  
+ 
+Q51. Find the ratio of boys not appeared in exam from A and B together to boys appeared in exam 
+from C. 
+(a) 1:2 
+(b) 3:2 
+(c) 3:1 
+(d) 2:1 
+(e) 1:5 
+ 
+Q52. Find the difference between students who are not appeared in exam from B and students 
+appeared in exam from A. 
+(a) 60 
+(b) 30 
+(c) 36 
+(d) 12 
+(e) 15 
+ 
+Q53. Total boys in A and B together is what percentage of the total girls in C.  
+(a) 200 
+(b) 20 
+(c) 10 
+(d) 100 
+(e) 150 
+ 
+Q54. The ratio of total students in D to total students who are not appeared in exam from C is 3:5. 
+Total girls in D is 20% less than total boys who are not appeared in exam from A. Find the total 
+boys in D. 
+(a) 18 
+(b) 9 
+(c) 36 
+(d) 12 
+(e) 15 
+ 
+ 
+ 
+Q55. What is the S.I accrued on a principle of Rs.6000 in 5 years. 
+Quantity I – The rate of interest for the first 2 years is 10% and for the last 3 years is 15%. 
+Quantity II – Rs.3900 
+(a) Quantity I > Quantity II 
+(b) Quantity I < Quantity II 
+(c) Quantity I ≥ Quantity II 
+(d) Quantity I ≤ Quantity II  
+(e) Quantity I = Quantity II or no relation 
+ 
+Q56. A and B started a business with investments of Rs 8000 and Rs 12000. After four months, A 
+withdrew two-fifths of his investment, and B added Rs 2000 more. If at the end of the year, the 
+profit share of A is Rs 11000, then find the total profit (in Rs). 
+(a) 42500 
+(b) 36000 
+(c) 47800 
+(d) 49000 
+(e) 41000 
+ 
+Q57. A man invested Rs P each in two schemes, A and B, and both schemes offer compound 
+interest at 10% p.a. and 20% p.a. for two years. If the difference between the interest received 
+by the man is Rs 3105, then find P. 
+(a) 13500 
+(b) 14000 
+(c) 12000 
+(d) 12500 
+(e) 14500 
+ 
+Q58. A mixture of milk to water in the ratio of 4:1, respectively. If 10 liters of mixture are taken 
+out, then the water becomes 2/3rd of the milk. Find the initial quantity of water (in liters). 
+(a) 4 
+(b) 12 
+(c) 18 
+(d) 2 
+(e) 10 
+ 
+Q59. The ratio of ages of A to B two years ago was 13:15. After 5 years, the age of B is four years 
+more than the age of A. Find the present age of B (in years). 
+(a) 26 
+(b) 28 
+(c) 32 
+(d) 30 
+(e) 38 
+ 
+ 
+ 
+Q60. A man spends 20% of his income on rent and 25% of the remaining on his clothes, and the 
+remaining income is invested in FD and RD in the ratio of 1:4, respectively. If the difference 
+between the amount invested on FD and the amount spent on cloth is Rs 1680, then find the 
+income of the man (in Rs). 
+(a) 26000 
+(b) 24000 
+(c) 21000 
+(d) 23000 
+(e) 20000 
+ 
+Q61. The ratio of the length to the breadth of a rectangle is 3:2 and the area of the rectangle is 
+216 sq. cm. If the circumference of a circle is 28 cm more than the perimeter of the rectangle, 
+then find the area of the circle (in sq. cm). 
+(a) 616 
+(b) 824 
+(c) 940 
+(d) 756 
+(e) None of these 
+ 
+Q62. The average weight of 15 men and Y women is 18 kg and 12 kg respectively. If the average 
+weight of all men and women together is 15 kg, find Y.  
+(a) 8 
+(b) 12 
+(c) 10 
+(d) 18 
+(e) 15 
+ 
+Q63. A shopkeeper marked an article 60% above its cost price and allowed a 15% discount. He 
+earned a profit of Rs 72. If he had allowed a 30% discount, find the profit he would have earned 
+(in Rs). 
+(a) 24 
+(b) 30 
+(c) 34 
+(d) 18 
+(e) 20 
+ 
+Q64. X, Y, and Z can complete a work in 20 days, 16 days, and 8 days respectively. If X and Z work 
+together for D days, and Y completes the remaining work in 2D days, then find the value of 3D. 
+(a) 15 
+(b) 8 
+(c) 4 
+(d) 12 
+(e) 10 
+ 
+ 
+ 
+Q65. The speed of a stream is 20% of the downstream speed of a boat. The boat covers 180 km 
+upstream in 6 hours. If the boat covers (D - 5) km downstream and (D + 60) km upstream in 5.9 
+hours, then find the value of D. 
+(a) 100 
+(b) 80 
+(c) 75 
+(d) 65 
+(e) 70

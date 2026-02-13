@@ -1,0 +1,344 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 4
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/01/16162245/SBI-PO-Pre-2022-18th-Dec-Shift-Wise-Previous-Year-Paper-Mock-04.pdf
+======================================================================
+
+Q31. A and B together can do a piece of work together in 24 days, while C’s efficiency is half of A’s 
+efficiency. If all three work together, then they can complete the same work in 20 days. Find how 
+many days are required to complete the work, if B and C work together? 
+(a) 45 days 
+ 
+(b) 42 days 
+(c) 30 days 
+(d) 48 days 
+(e) 44 days 
+ 
+ 
+ 
+Q32. Divyam has Rs.40000. He invests some amount in scheme A which offers 30% per annum 
+simple interest and rest of the amount in scheme B which offers 20% compound amount. If after 
+three years, the interest received from scheme A is Rs.9952 more than the interest received from 
+scheme B, then find amount invested in scheme B. 
+(a) Rs.24000 
+(b) Rs.16000 
+(c) Rs.12000 
+(d) Rs.18000 
+(e) Rs.21000 
+ 
+Q33. A mixture contains milk and water in certain ratio. When 24 liters of milk added into the 
+mixture, the quantity of water becomes 30% of milk. If 24 liter of water is added into the mixture 
+instead of milk, the quantity of water becomes 
+less than milk. Find the quantity of milk 
+initially. 
+(a) 48 lit 
+(b) 24 lit 
+(c) 36 lit 
+(d) 56 lit 
+(e) 42 lit 
+ 
+Q34. A man purchased two different articles A and B at the same cost. He sold article A at a profit of 
+20% and article B at 10% loss. If he earned overall profit of Rs.40, then find the cost price of each 
+article. 
+(a) Rs.300 
+(b) Rs.500 
+(c) Rs.400 
+(d) Rs.800 
+(e) Rs.600 
+ 
+Q35. Average monthly income of employees in a company is Rs.21500. The average monthly income 
+of male employees is Rs.20000 while average monthly income of female employees is Rs.24000. 
+Find the ratio of number of male employee and female employee. 
+(a) 5: 3 
+(b) 7: 4 
+(c) 9: 7 
+(d) 8: 5 
+(e) 5: 4 
+ 
+ 
+ 
+Directions (36-40): Table given below shows information about male and female employees in five 
+different companies (A, B, C, D and E) and also shows percentage of employees (male + female) 
+promoted in these five companies. Study the data carefully and answer the following questions. 
+ 
+Note – Total employees in a company = Total (male + female) employees in that company. 
+ 
+Q36. If ratio of male to female employees who are promoted in A is 2 : 3 and male employees who 
+are promoted in B are 100% more than male employees who are promoted in A, then find number 
+of female employees  who are not promoted in A & B together. 
+(a) 256 
+(b) 218 
+(c) 222 
+(d) 206 
+(e) 184 
+ 
+Q37. Find ratio of promoted employees in C and E together to average number of employees in A 
+and D. 
+(a) 6 : 5 
+(b) 3 : 2 
+(c) 9 : 7 
+(d) 11 : 5 
+(e) 5 : 2 
+ 
+Q38. If male employees who are promoted in E are equal to male employees in D and female 
+employees who are promoted in C are 60% more than that of in E, then find male employees who 
+are promoted in C and E together are what percent of total employees in D? 
+(a) 92% 
+(b) 87% 
+(c) 98% 
+(d) 80% 
+(e) 82% 
+ 
+ 
+ 
+Q39. Employees who are promoted in A, B and D together are how much more or less than female 
+employees in B, C and D together? 
+(a) 196 
+(b) 172 
+(c) 190 
+(d) 184 
+(e) 178 
+ 
+Q40. If age of 21% of the promoted employees in E is more than 50 years, then find promoted 
+employees in E whose age is less than or equal to 50 years are what percent less than male 
+employees in B and E together? 
+(a) 64.6% 
+(b) 52.6% 
+(c) 60.6% 
+(d) 68.6% 
+(e) 65.6% 
+Directions (41-45): What approximate value will come in the place of question mark (?) in the 
+following questions (You are not supposed to calculate the exact value). 
+ 
+Q41.  59.77% of 880+79.9% of 591 =? 
+(a) 1000 
+(b) 950 
+(c) 1100 
+(d) 1050 
+(e) 900 
+ 
+Q42. 13.9 × 6.01÷ 41.89 = ? ÷ 5.9 
+(a) 15 
+(b) 12 
+(c) 25 
+(d) 7 
+(e) 18 
+ 
+Q43. 899 ÷ 44.8 × 4.05 × 69.8 =? 
+(a) 6300 
+(b) 5000 
+(c) 5600 
+(d) 5800 
+(e) 6000 
+ 
+ 
+ 
+ 
+Q44.  44.44 ÷ 4.4 ÷ 10.1 = (?)²÷ 100 
+(a) 10 
+(b) 14 
+(c) 20 
+(d) 15 
+(e) 25 
+ 
+Q45. 4.9×11.9+8.9 =? -3.9-11.1 
+(a) 87 
+(b) 91 
+(c) 77 
+(d) 74 
+(e) 84 
+ 
+Q46.  A and B gets 52% and 67% less marks than maximum marks in an exam respectively. A got 
+120 marks more than the passing marks and B got 30 marks less than the passing marks. If C got 
+54% marks of maximum marks, then find C got how many more marks than the passing marks? 
+(a) 190 
+(b) 155 
+(c) 145 
+(d) 180 
+(e) 165 
+ 
+Q47. Distance between two cities P and Q is 900 km. Car A and Car B can cover the distance between 
+P and Q in ‘X’ hours and (X + 4) hours respectively. If Car B and Car A start from city P at 6.00 am 
+and 8.00 am respectively and both Cars meet at 10.30 am, then find the distance between P and the 
+point where both the cars meet? 
+(a) 425 km 
+(b) 475 km 
+(c) 450 km 
+(d) 470 km 
+(e) 400 km 
+ 
+Q48. The ratio of present age of son and his father is 1:3 respectively and four years hence, the age 
+of father will become  5/2  times of the age of his son at that time. Find the age of father four years 
+ago was? 
+(a) 35 years 
+(b) 34 years 
+(c) 37 years 
+(d) 32 years 
+(e) 29 years 
+ 
+ 
+ 
+Q49. Teena and Rajeev entered into a partnership business with capital of Rs. 1200 and Rs. 3200 
+respectively. After seven months, Teena withdrew 50% of her initial investment and Rakesh joined 
+them with amount of Rs. 4800. If total profit at the end of the year is Rs. 1230, then find the profit 
+share of Rajeev is how much more than that of Teena? 
+(a) Rs. 640 
+(b) Rs. 190 
+(c) Rs. 450 
+(d) Rs. 480 
+(e) Rs. 320 
+ 
+Q50. Two pipes P and Q can fill a tank in 25 minutes and 30 minutes respectively. Pipe R can fill the 
+same tank with efficiency of15 litres per minute. If all the three pipes working together can fill the 
+tank in 10 minutes, then find the capacity of the tank (in litres). 
+(a) 500.5 litres 
+(b) 540.25 litres 
+(c) 562.5 litres 
+(d) 584.5 litres 
+(e) 612.5 litres 
+ 
+Directions (51-56): In following questions a number of series is given. In each series only one 
+number is wrong. Find out wrong number. 
+ 
+Q51. 448, 448, 447, 439, 412, 347, 223 
+(a) 347 
+(b) 223 
+(c) 448 
+(d) 447 
+(e) 439 
+ 
+Q52. 32, 16, 16, 32, 128, 975, 16384 
+(a) 32 
+(b) 975 
+(c) 128 
+(d) 16 
+(e) 16384 
+ 
+Q53. 4, 12, 30, 68, 148, 304, 622 
+(a) 12 
+(b) 30 
+(c) 148 
+(d) 622 
+(e) 304 
+ 
+ 
+ 
+Q54. 2, 40, 87,144,211,288,375 
+(a) 40 
+(b) 87 
+(c) 211 
+(d) 2 
+(e) 288 
+ 
+Q55. 6, 19, 58, 124, 214, 331, 474 
+(a) 6 
+(b) 58 
+(c) 474 
+(d) 214 
+(e) 124 
+ 
+Q56. 2, 4, 7, 13, 19, 30, 43 
+(a) 4 
+(b) 7 
+(c) 13 
+(d) 19 
+(e) 30 
+ 
+Directions (57-62): Study the pie chart given below and answer the following questions. 
+Pie charts shows the percentage distribution of total students in five different schools (A, B, C, D 
+and E) and percentage distribution of total boys in these five schools in year 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+Q57. Total girls from school B and D together are what percent total students from school C and D 
+together? 
+(a) 26.1% 
+(b) 23.1% 
+(c) 25.1% 
+(d) 22.1% 
+(e) 24.1% 
+ 
+Q58. What is the ratio of total girls from school C and D together to total girls from school B and E 
+together? 
+(a) 87 : 112 
+(b) 89 : 117 
+(c) 89 : 115 
+(d) 87 : 113  
+ 
+(e) 89 : 113 
+ 
+Q59. If in 2020, the number of girls in school B increased by 20% while number of boys are 
+decreased by 
+over the previous year. Total students in school B in year 2020 are what 
+percent more or less than the total students in school D in year 2019? 
+(a) 28% 
+(b) 24% 
+(c) 20% 
+(d) 27% 
+(e) 26% 
+ 
+Q60. Out of total boys in school A, 
+failed the exam. If out of total students in class A, 7% failed 
+the exam, then girls in school A who failed the exam are what percent of the total girls in school C? 
+(a) 15% 
+(b) 20% 
+(c) 12% 
+(d) 12.5% 
+(e) 16% 
+ 
+Q61. Find the difference between the number of girls and boys in the school in which the number 
+of girls is maximum? 
+(a) 58 
+(b) 61 
+(c) 67 
+(d) 54 
+(e) 32 
+ 
+ 
+ 
+Q62. Find average number of boys in school C, D and E. 
+(a) 588 
+(b) 615 
+(c) 674 
+(d) 549 
+(e) 571 
+ 
+Q63. The volume of a cone and a sphere is equal. If radius of the sphere is 50% of the radius of the cone, 
+then find the ratio of radius of the sphere to height of the cone. 
+(a) 1 : 2 
+(b) 3 : 2 
+(c) 3 : 1 
+(d) 1 :1 
+(e) 2 :1 
+ 
+Q64. Two trains are running on parallel track in the same direction. The faster train crosses a man 
+standing in second train in 30 second. If the speed of faster train is 18 km/h is more than the slower train, 
+find the length of the faster train. (In meters) 
+(a) 150 
+(b) 200 
+(c) 175 
+(d) 145 
+(e) 250 
+ 
+Q65. The speed of a boat in still water is 15 kmph, rate of current is 3 kmph. While moving with the 
+stream the boat covers 108 km, then find out how much distance can be covered in same time while 
+moving against the stream (In km). 
+(a) 76 
+(b) 72 
+(c) 70 
+(d) 80 
+(e) 96 
+ 
+Directions (66-70): Study the given information carefully and answer the questions given below. 
+Nine people P, Q, R, S, T, U, V, W and X were born in different years i.e., 1998, 2000, 2003, 2004, 2005, 2010, 
+2012, 2015 and 2017 on the same date i.e., 31st December but not necessarily in the same order. Their 
+ages are calculated as of 31st December 2021. 
+Q is one year younger than T and one year older than V. P was born one of the years before R. U is older 
+than W. The number of people born before P is same as the number of people born after U. X was born 
+before U but one of the years after S. Present age of R is not a prime number.

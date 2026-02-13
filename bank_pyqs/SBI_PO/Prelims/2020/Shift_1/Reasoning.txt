@@ -1,0 +1,374 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2020
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05020945/SBI-PO-Prelims-2020-2021-Memory-Based-Paper-04-Jan-2021.pdf
+======================================================================
+
+Q66. In the given number “729645138” if all the even digits are added by 1 and all the odd digits are 
+subtracted by 1. What is the resultant when third and sixth digits from the left end are multiplied?  
+(a) 24  
+(b) 18  
+(c) 25  
+(d) 36  
+(e) 32 
+ 
+Directions (67-71): Study the information carefully and answer the questions given below. 
+Nine persons J, K, L, M, N, O, P, Q and R are working in three different department – IT, HR and 
+Production but not necessarily in the same order. At least two persons are working in the same 
+department but not more than four. L works with Q but not in IT. P does not work in HR. Both K and R 
+work in same department but not work with both P and J. M work only with O but not in IT. J work with 
+N. O does not work in production.    
+ 
+Q67. Who among the following work with Q except L? 
+(a) P 
+(b) K 
+(c) N 
+(d) R 
+(e) Both (b) and (d) 
+ 
+Q68. How many persons work in HR? 
+(a) Two 
+(b) One 
+(c) Four 
+(d) Three 
+(e) Can’t be determined  
+ 
+ 
+17 
+ 
+ 
+Q69. In which of the following department R works?  
+(a) IT 
+(b) HR or IT 
+(c) Production 
+(d) HR 
+(e) IT or Production 
+ 
+Q70. Four of the following five are alike in a certain way and so form a group. Find the one who does 
+not belong to that group? 
+(a) P-N 
+(b) J-K 
+(c) L-K 
+(d) Q-R-L 
+(e) M-O 
+ 
+Q71. Which of the following pair/group of persons work in IT? 
+(a) P-J 
+(b) P-K 
+(c) R-J  
+(d) N-R 
+(e) K-N 
+ 
+Directions (72-76): Study the information carefully and answer the questions given below. 
+Six persons take lecture on different topics i.e., Coffee, Tea, Cold Drink, Juice, Diaper and Baby lotion in 
+different months of a same year i.e., January, May, June, July, September and December but not 
+necessarily in the same order.    
+D takes lecture on Baby lotion in the month which has 30 days. E takes lecture on Tea but not just before 
+A. A takes lecture in the month which has even number of days. Two persons take lecture between D 
+and the one who take lecture of Juice. There are as many persons take lecture before A same as the 
+number of persons take lecture after the one who takes lecture on Coffee. C takes lecture just before of 
+the one who takes lecture on Diaper. B neither take lecture on Coffee nor juice. F does not take lecture 
+on cold drink. E does not take lecture after D. 
+ 
+Q72. Which of the following statement is true? 
+(a) C takes lecture before E 
+(b) F takes lecture on Coffee 
+(c) B takes lecture in January 
+(d) C does not take lecture on Juice  
+(e) None is true 
+ 
+Q73. The number of persons take lecture after C is same as number of persons take lecture between ___ 
+and ___? 
+ 
+ 
+18 
+ 
+(a) E and the one who take lecture on Cold drink 
+(b) C and D 
+(c) The one who take lecture on Baby lotion and F 
+(d) Both (a) and (c) 
+(e) None of these 
+ 
+Q74. Who among the following take lecture in May? 
+(a) F 
+(b) E 
+(c) B 
+(d) C 
+(e) None of these 
+ 
+Q75. Four of the following five are alike in a certain way and so form a group. Find the one who does 
+not belong to that group? 
+(a) D 
+(b) B 
+(c) F 
+(d) E 
+(e) C 
+ 
+Q76. Who among the following take lecture just before B? 
+(a) The one who take lecture on Baby lotion 
+(b) E 
+(c) D 
+(d) Both (a) and (c) 
+(e) None of these 
+ 
+Q77. If it is possible to make meaningful word with the 1st, 3rd ,9th and 11th letters of the word 
+‘AGGREGATION’ which would be the third letter of the word from the left? If more than one such 
+meaningful word can be formed give ‘Y’ as the answer. If no such meaningful word can be formed, give 
+‘Z’ as your answer.  
+(a) Y  
+(b) A 
+(c) I 
+(d) Z  
+(e) N 
+ 
+Directions (78-81): Study the information carefully and answer the questions given below.  
+Eight persons A, B, C, D, E, F, G and H are sitting around a square table in such a way that four persons 
+sit on each of the four corner of the table and other four persons sit on the middle of each side. The one 
+who sits at the corner of table faces towards the center of table and the one who sits at the middle side 
+of table faces outside the center of table. 
+ 
+ 
+19 
+ 
+B sits at one of the middle sides. One person sits between B and E. F sits immediate left of E. Three 
+persons sit between A and F. H sits second left of C. D is not an immediate neighbour of B. 
+G and C are not an immediate neighbour to each other.  
+ 
+Q78. How many persons sit between A and H when counted from right of A? 
+(a) One 
+(b) Three 
+(c) Six 
+(d) Five 
+(e) Two 
+ 
+Q79. Who sits immediate left of D? 
+(a) C 
+(b) H 
+(c) B 
+(d) E 
+(e) A  
+ 
+Q80. Four of the following are alike in a certain way, find the one which is different from all? 
+(a) D 
+(b) F 
+(c) C 
+(d) G 
+(e) A 
+ 
+Q81. Which of the following pairs face outside the centre? 
+(a) D, F 
+(b) A, B 
+(c) F, E 
+(d) H, E 
+(e) G, B 
+ 
+Directions (82-85): In each question below are given three statements followed by two 
+conclusions numbered I and II. You have to take the given statements to be true even if they seem 
+to be at variance with commonly known facts and then decide which of the given conclusions 
+logically follows from the given statements, disregarding commonly known facts.  
+Give answer: 
+ 
+Q82. Only points are draw. Only a few points are pins. Some pins are toys. 
+I. All Pins are Points. 
+II. No toys are Point. 
+(a) If only conclusion I follows.  
+(b) If only conclusion II follows.  
+(c) If either conclusion I or II follows.  
+(d) If neither conclusion I nor II follows.  
+(e) If both conclusions I and II follow. 
+ 
+ 
+20 
+ 
+ 
+Q83. Only pennies are coins. Some gems are pennis. Only pennies are dollar. 
+I. Some Pennies are not Gems. 
+II. All coins being gems is a possibility. 
+(a) If only conclusion I follows.  
+(b) If only conclusion II follows.  
+(c) If either conclusion I or II follows.  
+(d) If neither conclusion I nor II follows.  
+(e) If both conclusions I and II follow. 
+ 
+Q84. All caps are bullet. No pill is cap. No bullet is gun. 
+I. Some caps being gun is a possibility 
+II. Some bullets are not pill. 
+(a) If only conclusion I follows.  
+(b) If only conclusion II follows.  
+(c) If either conclusion I or II follows.  
+(d) If neither conclusion I nor II follows.  
+(e) If both conclusions I and II follow. 
+ 
+Q85. Only gloves are socks. No gloves are foot. Only gloves are stands. 
+I. No socks are foot. 
+II. Some gloves are not foot. 
+(a) If only conclusion I follows.  
+(b) If only conclusion II follows.  
+(c) If either conclusion I or II follows.  
+(d) If neither conclusion I nor II follows.  
+(e) If both conclusions I and II follow. 
+ 
+Q86. In the word ‘HANDCRAFT’, how many pairs of the letters have the same number of letters 
+between them in both forward and backward direction in the word as in alphabetical series? 
+(a) One 
+(b) Three 
+(c) Two 
+(d) More than three 
+(e) None 
+ 
+Directions (87-89): Study the information carefully and answer the questions given below. 
+ 
+A certain number of persons sitting in a straight line facing towards the north direction. Three persons 
+sit between A and G. Five persons sit between G and T. As many persons sit between A and T as between 
+A and H. T is third from one of the extreme ends. J is second from the left end. D sits second to the right 
+of J. D sits 2nd to the left of H. J and T are not an immediate neighbour to each other.   
+ 
+ 
+21 
+ 
+ 
+Q87. If X sits fifth to the right of H, then how many persons sit between X and A? 
+(a) Two 
+(b) Five 
+(c) Three 
+(d) Four 
+(e) Seven 
+ 
+Q88. What is the total number of persons sitting in a straight line? 
+(a) 28 
+(b) 14 
+(c) 17 
+(d) 25 
+(e) 32 
+ 
+Q89. How many persons sit between J and H? 
+(a) Five 
+(b) Three 
+(c) Four 
+(d) Six 
+(e) None 
+ 
+Directions (90-93): Study the following information carefully and answer the questions given 
+below: 
+ 
+Eight persons were born in four different months- February, April, August and October Either 13th or 
+24th but not necessarily in the same order. R was born on even date in the month which has 31 days. 
+More than three persons were born between D and R. The number of persons were born before D is 
+same as the number of persons were born after H. No one was born between R and M. Both S and B 
+were born on same date but before August. Not more than two persons were born between P and Q.  
+S was born before Q but not just before.  
+ 
+Q90. Which of the following is true? 
+I. Three persons were between S and R 
+II. M was born in the month which has 30 days 
+III. D was born just before S 
+(a) Only II 
+(b) Both I and III 
+(c) Only I 
+(d) Both II and III 
+(e) None is true 
+ 
+ 
+22 
+ 
+ 
+Q91. How many persons were born before the one who was born just after P? 
+(a) As many persons were born between H and B 
+(b) Two 
+(c) As same the number of persons born after R 
+(d) Five 
+(e) None of these 
+ 
+Q92. How many persons were born between Q and D? 
+(a) 4 
+(b) 2 
+(c) 1 
+(d) 3 
+(e) 5 
+ 
+Q93. Four of the following five are alike in a certain way and so form a group. Find the one who does 
+not belong to that group? 
+(a) D 
+(b) Q 
+(c) M 
+(d) P 
+(e) H 
+ 
+Q94. In the given word “CARBONIZE” if vowel is replaced with its next letter and consonant is replaced 
+with its previous letter then how many letters repeated?  
+(a) Two  
+(b) One  
+(c) Three  
+(d) More than three  
+(e) None 
+ 
+Directions (95-96): Study the following information carefully and answer the questions given 
+below: 
+Seven family members are living in a family. A and C are only sisters of B. H is the father of B. M is 
+married to H. B is married to V. V has no siblings. R is paternal grandfather of B. M has only three 
+children. V is not a son in law of M.  
+ 
+Q95. How many females are living in the family? 
+(a) Two 
+(b) Four 
+(c) More than four  
+(d) Three 
+(e) None of these 
+ 
+ 
+23 
+ 
+ 
+Q96. How is M related to R? 
+(a) Daughter 
+(b) Mother-in-law 
+(c) Daughter in law 
+(d) Mother  
+(e) Wife 
+ 
+Directions (97-100): Study the following information carefully and answer the questions given 
+below: 
+Six jar A, B, C, D, E and F are filled with different quantity of water in litre in integer numbers. The jar 
+filled with 15 litre of water is just more water to jar E. The Jar with maximum quantity has 33 litres of 
+water. Jar D has more water to jar B but not more as jar C. Jar F has more water to jar E but not more as 
+jar A, which has less quantity of water to jar D. Jar B has more quantity of water than the jar filled with 
+15 litres of water. 
+Volume of water is calculated in litre.  
+ 
+Q97. How many jars have fewer water to jar A? 
+(a) One 
+(b) Two 
+(c) Four 
+(d) Three 
+(e) Can’t be determined  
+ 
+Q98. If jar D has twice quantity to Jar F then, what is exact quantity of water in jar D? 
+(a) 66 litres 
+(b) 22 litres 
+(c) 13 litres 
+(d) 30 litres 
+(e) 25 litres 
+ 
+Q99. If box A has 16 litres of water then, what may be the possible quantity of water in jar D? 
+(a) 25 litres 
+(b) 9 litres 
+(c) 12 litres 
+(d) 35 litres 
+(e) 16 litres 
+ 
+Q100. If jar B has 10 litres more water to jar F then, what is the sum of the quantity of water in Jar B 
+and Jar C?  
+(a) 57 litres 
+(b) 56 litres 
+(c) 51 litres 
+(d) 47 litres 
+(e) None of these  
+ 
+ 
+ 
+24 
+ 
+Solutions 

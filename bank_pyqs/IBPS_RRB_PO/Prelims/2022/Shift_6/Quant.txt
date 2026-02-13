@@ -1,0 +1,414 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 6
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152908/RRB-PO-Pre-2022-21st-August-Shift-Wise-Previous-Year-Paper-Mock-06.pdf
+======================================================================
+
+Q41. A can do a piece of work in eighteen days, while B and C together can do the same work in 
+six days. If the ratio of efficiency B to A is 8 : 5, then find in how many days C can complete the 
+same work alone? 
+(a) 
+  
+(b) 
+  
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q42. Speed of a boat in still water is 3.5 km/hr. If the time 
+taken by boat to cover a certain distance in upstream is 250% 
+of the same distance cover in downstream, then find the 
+speed of the stream?  
+ 
+ 
+11 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q43. Manoj & Nilu invested Rs. ‘P’ and Rs. 6000 respectively, while Manoj left the business after 
+eight months. If Manoj got 50% less profit than Nilu at the end of one year, then find ‘P’? 
+(a) Rs 4800 
+(b) Rs 5500 
+(c) Rs 4200 
+(d) Rs 4500 
+(e) Rs 5000 
+ 
+Q44. A is three years elder than B and after two years the ratio of age of A to that of B will be 5 : 
+4. Find the average of age of A and B after four years? (in years) ? 
+(a) 15.5 
+(b) 11.5 
+(c) 12.5 
+(d) 14.5 
+(e) 13.5 
+ 
+Q45. A train running at the speed of 180 kmph passes a pole in 36 second, in how much time the 
+train can cross 1200 meters long another train, which running in opposite direction with the 
+speed of 108 kmph? 
+(a) 32.5 second 
+(b) 37.5 second 
+(c) 35.5 second 
+(d) 30.5 second 
+(e) 27.5 second 
+ 
+Directions (46-50) :- What approximate value should come in place of question mark (?) in 
+following questions.  
+ 
+Q46. 
+ 
+(a) 4 
+(b) 5 
+(c) 3 
+(d) 6 
+(e) 7 
+ 
+ 
+12 
+ 
+ 
+Q47. 
+ 
+(a) 48 
+(b) 36 
+(c) 54 
+(d) 32 
+(e) 40 
+ 
+Q48. 
+ 
+(a) 6 
+(b) 18 
+(c) 15 
+(d) 12 
+(e) 9 
+ 
+Q49. 
+ 
+(a) 14 
+(b) 20 
+(c) 18 
+(d) 10 
+(e) 24 
+ 
+Q50. 
+ 
+(a) 10 
+(b) 5 
+(c) 18 
+(d) 12 
+(e) 8 
+ 
+Directions (51-55) : The following pie–chart shows the percentage break–up of accidents due to 
+various vehicles in a city. 
+Total number of accidents = 24,000 (including both male and females)  
+ 
+ 
+ 
+13 
+ 
+ 
+Q51. Find the average number of accidents that are due to motorcycles, Buses and cars? 
+(a) 4,620 
+(b) 4,820 
+(c) 4,720 
+(d) 4,520 
+(e) 4,500 
+ 
+Q52. Out of the total number of accidents caused by trucks and autos together, the ratio of Death 
+to Injuries is 13 : 11. Then find the number of injuries caused by these two vehicles. 
+(a) 3,300 
+(b) 3,900 
+(c) 4,400 
+(d) 3,410 
+(e) 3,850 
+ 
+Q53. If in total number of accidents 62 ½ %  are male. Male accidents due to cars and cycles is 
+40% of total male accidents, then find the number of female accidents due to cars and cycles 
+together? 
+(a) 720 
+(b) 900 
+(c) 600 
+(d) 960 
+(e) 840 
+ 
+Q54. Find the difference of the central angle corresponding to the number of accidents due to 
+motorcycles and autos together and Trucks and cycles together. 
+(a) 35° 
+(b) 33.4° 
+(c) 32.4° 
+(d) 35.4° 
+(e) 36° 
+ 
+Q55. Out of total accidents, 48% are resulted into spot deaths, which are only 6 ¼ % of the total 
+population of city. Then, find the number of female population, if the ratio of male to female is 
+13 : 11 in the city. 
+(a) 84,480 
+(b) 82,480 
+(c) 86,480 
+(d) 86,640 
+(e) 84,680 
+ 
+ 
+14 
+ 
+ 
+Directions (56-60) : In each of the following questions, two equations (I) and (II) are given, you 
+have to solve both the equations and give answer.   
+ 
+Q56.  
+ 
+(a) If x > y 
+(b) If x ≥ y  
+(c) If x < y 
+(d) If x ≤ y  
+(e) If x = y or no relation can be established between x and y.   
+ 
+Q57.  
+ 
+(a) If x > y 
+(b) If x ≥ y  
+(c) If x < y 
+(d) If x ≤ y  
+(e) If x = y or no relation can be established between x and y.   
+ 
+Q58.  
+ 
+(a) If x > y 
+(b) If x ≥ y  
+(c) If x < y 
+(d) If x ≤ y  
+(e) If x = y or no relation can be established between x and y.   
+ 
+Q59.  
+ 
+(a) If x > y 
+(b) If x ≥ y  
+(c) If x < y 
+(d) If x ≤ y  
+(e) If x = y or no relation can be established between x and y.   
+ 
+Q60.  
+ 
+ 
+ 
+15 
+ 
+(a) If x > y 
+(b) If x ≥ y  
+(c) If x < y 
+(d) If x ≤ y  
+(e) If x = y or no relation can be established between x and y.   
+ 
+Directions(61-65) : Read the data carefully and answer the following questions. 
+People take subscription of Sonysix for watching three games Hockey, Cricket and Football. The ratio of 
+male who take subscription for watching Hockey to that of for Cricket is 5 : 6. Females who take 
+subscription for watching Cricket are 1000 less than the females who take subscription for watching 
+Hockey. Male and Female who take subscription for watching Football are 16750 and 18500 
+respectively. Total male who take subscription for watching Cricket are 4000 less than total female who 
+take subscription for watching cricket. Average of male and female who take subscription for watching 
+cricket is 17000. 
+ 
+Q61. Total male who take subscription for watching Cricket & Hockey together are how many 
+more/less than total female who take subscription for watching Football & Cricket together? 
+(a) 10000 
+(b) 12000 
+(c) 5000 
+(d) 8000 
+(e) 7000 
+ 
+Q62. Total male who take subscription for watching Football is what percent more than total 
+male who take subscription for watching cricket?  
+(a) 18 ⅔% 
+(b) 8 ⅔% 
+(c) 11 ⅔%  
+(d) 15 ⅔% 
+(e) 12 ⅔% 
+ 
+Q63.What is the average of male who take subscription for watching Hockey, Football and 
+Cricket? 
+(a) 14500 
+(b) 13600 
+(c) 11750 
+(d) 14750 
+(e) 15500 
+ 
+Q64. If total female who take subscription for watching Tennis are 40% of total female who take 
+subscription for watching Hockey, Football and Cricket together, then how many females who 
+take subscription for watching Tennis? 
+ 
+ 
+16 
+ 
+(a) 11500 
+(b) 12500 
+(c) 23000 
+(d) 25000 
+(e) None of these 
+ 
+Q65. Total male who take subscription for watching Hockey, Football and Cricket together are 
+how many more/less than total female who take subscription for watching Hockey, Football and 
+Cricket together? 
+(a) 15000 
+(b) 13250 
+(c) 10200 
+(d) 15500 
+(e) 10000 
+ 
+Directions (66-70) : Table given below shows total number of students who appeared for SBI 
+clerk pre-exam in a computer lab in three different shifts on five days. Read the data carefully 
+and answer the following questions? 
+ 
+ 
+Q66. Total number of students appeared in shift1 & shift2 together of day2 are approximately 
+what percent more or less than total number of students appeared in shift3 of day1 & day3 
+together? 
+(a) 11.11% 
+(b) 9.09% 
+(c) 8.25% 
+(d) 11.33% 
+(e) 9.11% 
+ 
+Q67. If 40% of students appeared in shift2 of day4 are girls, then find number of boys appeared 
+in shift2 of day4 are how much less than total students appeared in same shift of day5? 
+(a) 190 
+(b) 105 
+(c) 85 
+(d) 90 
+(e) 120 
+ 
+ 
+17 
+ 
+ 
+Q68. Find the average number of students appeared in shift3 of all five days? 
+(a) 800 
+(b) 820 
+(c) 810 
+(d) 815 
+(e) 805 
+ 
+Q69. If 0.4% and 0.75% of students appeared in shift1 & shift3 of day1 and day5 respectively 
+cleared the pre-exam, then find the ratio of students who cleared pre-exam in shift3 of day5 to 
+that of in shift1 of day1? 
+(a) 1:2 
+(b) 3:2 
+(c) 4:3 
+(d) 2:3 
+(e) 2:1 
+ 
+Q70. Total number of students appeared in shift2 of day4 are what percent of total number of 
+students appeared in shift3 of the same day? 
+(a) 45% 
+(b) 87.5% 
+(c) 62.5% 
+(d) 75% 
+(e) 60% 
+ 
+Q71. A man invested Rs. 4000 at the rate of X% p.a. on simple interest and get Rs. 5440 as amount 
+after three years. Find the value of (X + 3) ? 
+(a) 9 
+(b) 21 
+(c) 18 
+(d) 15 
+(e) 12 
+ 
+Q72. Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of 
+circle to side of square is 7 : 6. Find the area of square (in cm2) . 
+(a) 324 
+(b) 400 
+(c) 441 
+(d) 256 
+(e) 576 
+ 
+ 
+18 
+ 
+ 
+Q73. Pipe A and B alone can fill a tank in ‘x’ hours and ‘x+10’ hours respectively. If both pipes 
+together fill the tank in 12 hours, then the time taken by B alone to fill the tank is what percent 
+of that of A alone? 
+(a) None of these 
+(b) 175% 
+(c) 125% 
+(d) 200% 
+(e) 150% 
+ 
+Q74. 80 liters solutions of sugar and water in the ratio of 2: 3 is mixed with 120 liters solutions 
+of sugar and water. Find the ratio of sugar to water in 120 liters solution, if percentage of sugar 
+in final solution is 38.5%?  
+(a) 3:2 
+(b) 2:3 
+(c) 3:5 
+(d) 7:13 
+(e) 5:7 
+ 
+Q75. A man buys an article and marks it up 30 % above its cost price. At the time of sale, he gives 
+10% discount instead of 15% due to which he earns Rs. 13 more. Find cost price of the article? 
+(a) Rs. 230 
+(b) None of these 
+(c) Rs. 150  
+(d) Rs. 130  
+(e) Rs. 200 
+ 
+Directions (76-80) : Find out the missing term in the given number series. 
+ 
+Q76.    2     8,     40,    240,    1680,    ? 
+(a) 12440 
+(b) 13440 
+(c) 14440 
+(d) 11440 
+(e) 10440 
+ 
+Q77.   1,   6,     16,     31,    51,     ? 
+(a) 79 
+(b) 72 
+(c) 74 
+(d) 76 
+(e) 77 
+ 
+ 
+19 
+ 
+ 
+Q78.   4096,      1024,     512,      128,      64,      ? 
+(a) 2 
+(b) 4 
+(c) 32 
+(d) 8 
+(e) 16 
+ 
+Q79.  21,   42,    64,    87,    111,      ? 
+(a) 136 
+(b) 126 
+(c) 145 
+(d) 129 
+(e) 121 
+ 
+Q80.   65,    126,     217,     344,     513,      ? 
+(a) 728 
+(b) 730 
+(c) 731 
+(d) 729 
+(e) 733 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+Solutions 

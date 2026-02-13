@@ -1,0 +1,816 @@
+======================================================================
+Exam: IBPS PO
+Phase: Mains
+Year: 2020
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2021/12/29144902/IBPS-PO-Mains-Previous-Year-Paper-2020-.pdf
+======================================================================
+
+REASONING ABILITY 
+ 
+2 
+
+ 
+ 
+8. What is the position of ‘beoopv’ from left end in Step 
+IV? 
+ 
+(a) Second 
+(b) Third 
+(c) Fourth 
+ 
+(d) Fifth 
+(e) None of these 
+ 
+9. What will be the last step of the given input? 
+(a) bdfgjmquv befhsva beoopv bffhopsuv bfostv 
+gjsuvww 
+(b) befgjmquv befhsva beoopv bffhopsuv efostv 
+gjsuvww 
+(c) cdfgjmquv befhsva beoopv bffhopsuv efostv 
+gjsuvww 
+(d) bdfgjmquv beoopv bffhopsuv bghjmosv efostv 
+gjsuvww 
+ 
+(e) None of these 
+ 
+10. Which words are immediate left and immediate right 
+of ‘nurdes’ in Step II respectively? 
+(a) uragedz turvivf 
+ 
+(b) eangerout dannou 
+ 
+(c) euplicatf eangerout 
+(d) turvivf , euplicatf  
+(e) None of these 
+ 
+Directions (11-13): Read the following information 
+carefully and answer the following questions. 
+ 
+Eight persons P, Q, R, S, T, U, V, and W lives in a building of 
+eight floors such that the topmost floor is numbered as 8 
+and the lowermost floor is numbered as 1 but not 
+necessarily in the same order. They shops on eight 
+different e-commerce websites viz. Flipkart, Ajio, Myntra, 
+Jabong, Amazon, Shopclues, Jiomart, and Tata Cliq but not 
+necessarily in the same order. 
+ 
+The one who shops on Flipkart lives immediately above the 
+one who shops on Shopclues. Neither V nor P shops on 
+Flipkart, Tata Cliq and Myntra. Three persons live between 
+V and S, who lives below V and also does not shops on 
+Jabong. Only three persons live between W and R, who 
+shops on Amazon. R lives on one of the even numbered 
+floor above W and Q, who does not shops on Flipkart and 
+Myntra and also does not live on the second floor. Two 
+persons live between Q and the one who shops on Jabong. 
+Three persons live between the one who shops on Jabong 
+and the one who shops on Ajio. The number of persons 
+living between the one who shops on Jabong and R is same 
+as the number of persons living between the one who 
+shops on Ajio and P. T lives on one of the floors below U. 
+Both W and Q live on the even numbered floor. 
+ 
+11. Who among the following lives on the fourth floor? 
+ 
+(a) S 
+(b) Q 
+ 
+ 
+(c) The one who shops on Shopclues 
+ 
+(d) U 
+(e) Both (b) and (c) 
+ 
+12. Who among the following shops on JioMart? 
+ 
+(a) V 
+(b) R 
+(c) S 
+ 
+(d) T 
+(e) None of these 
+ 
+13. How many persons live between the one who shops on 
+JioMart and the one who shops on Ajio? 
+ 
+(a) One 
+(b) Two 
+(c) Three 
+ 
+(d) None 
+(e) Four 
+ 
+Directions (14-17): Read the following information 
+carefully and answer the following questions. 
+ 
+Seven persons A, B, C, D, E, F, and G are born on seven 
+different dates in a year but not necessarily in the same 
+order and they like different fruits. There is a gap of three 
+days between the birth dates of every person. Ex- If R was 
+born on 12th May then the person born immediately after 
+R and immediately before R should be born a gap of 3 days. 
+F was born on 16th June. Only two persons were born 
+before F. The number of persons born before D, who likes 
+Apple is equal to the number of persons born after G, who 
+likes Guava. Only one person was born between G and A, 
+who likes Oranges. B does not like Kiwi was born one of the 
+dates before E but after C. B was not born after A. E does 
+not like Grapes, Peach, and Kiwi. F does not like Peach, 
+Kiwi, and Pear. 
+ 
+14. Who among the following was born on 28th June? 
+ 
+(a) The one who likes Pear 
+ 
+ 
+(b) B 
+ 
+ 
+(c) The one who likes Peach 
+ 
+(d) E 
+ 
+ 
+(e) Both (a) and (d) 
+ 
+15. Who among the following was born just after the one 
+who likes Grapes? 
+(a) A 
+ 
+(b) The one who likes Peach 
+ 
+(c) The one who likes Kiwi 
+(d) Both (a) and (b)  
+(e) None of these 
+ 
+16. How many persons were born between the one who 
+likes Guava and the one who likes Grapes? 
+ 
+(a) One 
+(b) Two 
+(c) Three 
+ 
+(d) Four 
+(e) None of these 
+ 
+17. Who among the following was born on 2nd July? 
+ 
+(a) G 
+(b) D 
+(c) E 
+ 
+(d) None of these (e) Either (a) or (b) 
+ 
+Directions (18-20): Each of the questions below consists 
+of a question and two statements numbered I, and II given 
+below it. You have to decide whether the data provided in 
+the statements are sufficient to answer the question. Read 
+all the statements and answer the following questions. 
+(a) If the data in statement I alone are sufficient 
+(b) If the data in statement II alone are sufficient 
+(c) If the data either in statement I alone or statement II 
+alone are sufficient to answer 
+ 
+3 
+
+ 
+ 
+(d) If the data given in both I and II together are not 
+sufficient 
+ 
+(e) If the data in both the statements I and II together are 
+necessary to answer 
+ 
+18. Eight boxes P, Q, R, S, T, U, V and W are arranged one 
+above the other but not necessarily in the same order. 
+Which of the following box is placed just below the box 
+U? 
+ 
+Statements I:  
+More than three boxes are placed 
+between S and T, which is placed 
+below the box S. Box Q and S are 
+placed adjacent to each other. Two 
+boxes are placed between U and Q. 
+Only one box is placed between P and 
+T. 
+ 
+Statements II: One box is placed between Q and R. 
+Two boxes are placed between P and 
+Q. One box is placed between T and R. 
+Box P does not adjacent to box T. Box 
+U is placed exactly in between the 
+boxes P and the box which is placed 
+just above the box R. 
+ 
+19. Eight members A, B, M, N, O, P, Q and R are living in the 
+family. In which only two married couples. How is N 
+related to P? 
+ 
+Statements I:  
+A is the sister-in-law of P, who is the 
+mother-in-law Q. R is the parent of A, 
+who is unmarried. B is the father of N. 
+Q is not the wife of N. N, who is 
+married is not sibling of A. 
+ 
+Statements II:  A is married to B. N is the father of O. 
+A is the father of M. M is the sibling of 
+N. 
+ 
+20. In a certain code language. How is “Utility” coded in the 
+given code language? 
+ 
+Statements I:  
+“man power required” is coded as 
+“N12 E23 G15” and “power sector 
+source” is coded as “N12 D21 Q17” 
+and “man utility source” is coded as 
+“E23 L14 Q17” and “global sector 
+required” is coded as “T34 D21 G15” 
+ 
+Statements II:  “Indian capital income” is coded as 
+“W21 B14 S31” and “source of 
+capital” is coded as “Q17 M29 B14” 
+and “income utility source” is coded 
+as “S31 L14 Q17” and “capital income 
+surplus” is coded as “B14 S31 F18” ` 
+ 
+Directions (21-24): Read the following information 
+carefully and answer the following questions. 
+ 
+Seven persons A, B, C, D, P, R, and S are related to Q in some 
+manner. They all are sitting around a circular table such 
+that some of them are facing the inside and some of them 
+are facing outside. They all have different profession viz. 
+Banker, Writer, Singer, Doctor, Nurse, Dancer, Engineer, 
+and Teacher but not necessarily in the same order. One 
+person has only one profession. Not more than four 
+persons face same direction. 
+ 
+The singer sits second to the right of Q. Three persons sit 
+between A, who doesn’t sit near to Banker and the one who 
+is Nurse. D is an Engineer. P sits opposite to Q, who is a 
+Banker. C is a female but she is not a dancer. The teacher 
+and the writer face inside. The one who is Brother of Q sits 
+second to the left of Banker. Two persons sit between S, 
+who is a doctor and brother of Q. D is the mother of Q and 
+she sits opposite to S. D’s Daughter sits third to the left of 
+D. A is the father of Q, who is a female. Both C and R is 
+children of P, who is married to Q. B and R are the male 
+members. B who faces inside sits opposite to the Dancer. 
+The Writer sits second to the right of the Dancer. The 
+Singer is married to the Doctor. S is the sister-in-law of Q. 
+R does not sit immediate left of S. 
+ 
+21. How is the Singer related to the Nurse? 
+ 
+(a) Aunt 
+(b) Uncle 
+(c) Father 
+ 
+(d) Mother 
+(e) None of these 
+ 
+22. How is the Teacher related to the Engineer? 
+ 
+(a) Wife 
+(b) Husband 
+(c) Nephew 
+ 
+(d) Daughter 
+(e) None of these 
+ 
+23. How many persons sit between the Doctor and 
+Engineer, when counted from the right of Engineer? 
+ 
+(a) One 
+(b) Two 
+(c) Three 
+ 
+(d) Four 
+(e) None of these 
+ 
+24. What is the profession of the person who sits second to 
+the right of S? 
+ 
+(a) Banker 
+(b) Singer 
+(c) Dancer 
+ 
+(d) Nurse 
+(e) Teacher 
+ 
+25. Google is trying to turn its search engine into an 
+employment engine. Job hunters will be able to go to 
+Google and see help-wanted listings that its search 
+engine collects across the internet. The results will aim 
+to streamline such listings by eliminating duplicate 
+jobs posted on different sites. Google will also show 
+employer ratings from current and former workers, as 
+well as typical commute times to job locations. 
+ 
+4 
+
+ 
+ 
+(I)  Now a days Google market is not good that’s why 
+Google launched new service. 
+(II) Google is no more interested in providing other 
+services to its consumer, now Google is focused 
+only on turning its search engine into an 
+employment engine. 
+(III) Google’s search engine results will aim to well-
+organized employment listings by removing 
+duplicate jobs. 
+(IV) Google is not interested to show any kind of 
+ratings in its new employment search engine. 
+ 
+Which of the following can be deduced from the given 
+passage? 
+ 
+(a) Only II and IV  
+ 
+(b) Only I and III 
+ 
+(c) Only II and III 
+ 
+(d) Only III 
+ 
+ 
+(e) None of these 
+ 
+Directions (26-29): Read the following information 
+carefully and answer the following questions. 
+ 
+Eleven Houses A, B, C, D, E, F, P, Q, R, S, and T are located in 
+a straight row such that the opening gates of some of them 
+opens in north direction and some of them opens in south 
+direction but not necessarily in the same order. No two 
+adjacent houses opening gates opens in the same direction. 
+House B is not located near House A. House Q is located to 
+the immediate left of House B. House P is located fourth to 
+the right of House D, which is located to the immediate left 
+of House R. Number of Houses located to the left of House 
+P is one more than the number of Houses located between 
+House R and House P. Only two houses are located to the 
+left of House A. The number of houses located between 
+House P and House A is one less than the number of Houses 
+located between House T and House C. House T is located 
+near House P. Only one house is located between House F 
+and House Q and the Gates of both of the houses doesn’t 
+open in south direction. Only one house is located between 
+House E and House S, which is not located near House C. 
+House D is 2nd from one of the ends. 
+ 
+26. Which of the following pair of Houses represents the 
+immediate neighbors of P’s House? 
+ 
+(a) House D and House F 
+ 
+ 
+(b) House T and House F 
+ 
+ 
+(c) House S and House T 
+ 
+(d) House D and House A 
+ 
+ 
+(e) None of these 
+ 
+27. How many houses are located to the right of House S? 
+ 
+(a) One 
+(b) Four 
+(c) Five 
+ 
+(d) Three 
+(e) Two 
+ 
+28. How many houses are located between House A and 
+House B? 
+ 
+(a) Five 
+(b) Four 
+(c) Three 
+ 
+(d) Six 
+(e) None of these 
+ 
+29. What is the position of House E with respect to House 
+P? 
+ 
+(a) Fourth to the right 
+ 
+ 
+(b) Immediate left 
+ 
+(c) Immediate right 
+ 
+(d) Fourth to the left  
+ 
+(e) None of these 
+ 
+Directions (30): Read the following information carefully 
+and answer the following questions. 
+If 
+(i) A & B means A is 5m west of B. 
+(ii) A % B means A is 4m South of B. 
+(iii) A * B means A is 6m North of B. 
+(iv) A @ B means A is 4m East of B. 
+ 
+30. In expression F&G, B&A%C&D&E*F@H, the Point A is 
+in which direction of Point G? 
+ 
+(a) West 
+(b) North-West (c) East 
+ 
+(d) North-East 
+(e) South 
+ 
+Directions (31-32): Read the following information 
+carefully and answer the following questions. 
+If 
+(i) P & Q means P is the brother Q. 
+(ii) P % Q means P is the father of Q. 
+(iii) P * Q means P is the sister of Q. 
+(iv) P @ Q means P is the Son of Q. 
+(v) P $ Q means P is the daughter Q. 
+(vi) P ? Q means P is the mother of Q. 
+ 
+31. In expression Q&G, G&A%C&D?E*F@H@R, then, how 
+is F related to A? 
+ 
+(a) Son 
+ 
+ 
+(b) Grandson 
+ 
+ 
+(c) Granddaughter 
+ 
+(d) Either (b) or (c)  
+ 
+(e) Either (a) or (b) 
+ 
+32. In expression Q?P, P&A%W&D?E*F@H@R, then, how 
+is Q related to the E’s mother? 
+ 
+(a) Maternal Grandfather 
+ 
+ 
+(b) Paternal Grandfather 
+ 
+ 
+(c) Paternal Grandmother 
+ 
+(d) Maternal Grandmother 
+ 
+ 
+(e) Either (a) or (c) 
+ 
+33. Statement-Highlighting his achievements in present in 
+rooting out corruption, Prime Minister Narendra Modi 
+said that there has been "not even one taint or blot" on 
+his government in these past three years. 
+ 
+Which of the following abrogates the above statement? 
+(I) 
+Technology has brought about transparency and 
+is being used to achieve great heights across 
+sectors in India in Modi governance. 
+ 
+5 
+
+ 
+ 
+(II) 
+In several parameters, the country is moving at a 
+rapid pace under PM Modi’s government. Noting 
+that infrastructure is essential for sustainable 
+development. The increase in aspiration of the 
+common people is the greatest cause of this fast 
+track development of the country. 
+(III) The billion Indians in India are still below 
+poverty line and they are also finding the way to 
+get rid of biggest problem of India which is 
+corruption. 
+(IV) India is now receiving record number of foreign 
+direct investment and all credit agencies and 
+multilateral fora are giving a positive rating 
+about India. 
+ 
+(a) Only II 
+(b) Only III and IV (c) 
+Only III 
+ 
+(d) Only IV 
+(e) Only I and III 
+ 
+34. Statement- “In a big relief to liquor companies which 
+are holding their stocks worth more than Rs. 200 crore 
+in Bihar, the Supreme Court on Monday granted them 
+two months more time to transport liquor out of the 
+state and directed them to dispose off their stocks by 
+July 31.” 
+I. 
+Beverages Companies, contended that it was 
+possible even to destroy the existing stocks by the 
+end of this month. 
+II.  The apex court had earlier fixed a deadline of May 
+31 for the companies to dispose off their stocks. 
+III.  Seeking more time for transporting the stocks out 
+of state, the confederation said in its petition that 
+delay in disposing off stocks was beyond its control 
+as clearances were required from various 
+agencies. 
+ 
+Which of the following can be the Presupposition of the 
+given statement? 
+ 
+(a) Only I 
+ 
+ 
+(b) Only II and III  
+ 
+(c) Only I and III 
+ 
+(d) All of the above 
+ 
+ 
+(e) None of the above 
+ 
+35. Statement-The government has made quoting of 
+Aadhaar mandatory for opening of bank accounts as 
+well as for any financial transaction of 50,000 and 
+above. 
+(I) 
+The government in its Budget 2017 has already 
+mandated seeding of Aadhaar number with 
+Permanent Account Number (PAN) to avoid 
+individuals using multiple PANs to evade taxes. 
+(II) Aadhaar is more secure and reliable than PAN for 
+bank account transactions. 
+(III) Aadhaar number is issued by the Unique 
+Identification Authority of India (UIDAI). 
+ 
+Which of the following statement can be concluded 
+from the given statement? 
+ 
+(a) All except II (b) Both II and III (c) 
+Only I 
+ 
+(d) Only I and II (e) None of the above 
+Direction (36-39): Study the following information 
+carefully and answer the given questions. 
+ 
+Eight persons i.e. A, B, C, D, P, Q, R and S are sitting around 
+two inscribed square table in such a way that four persons 
+are seating at four corners each inner square and outer 
+square. Persons sitting at inner square and outer square 
+are facing to each other. 
+ 
+C faces the one who sits 2nd to the right of S. Q is neither an 
+immediate neighbor of S nor C. D faces to R and is an 
+immediate neighbor of Q. A sits immediate left of R. B faces 
+to P. Both B and C are not an immediate neighbor.  Neither 
+P nor A face outside. 
+ 
+36. Who among the following sits 3rd to the left of the one 
+who faces D? 
+ 
+(a) C 
+(b) B 
+(c) A 
+ 
+(d) P 
+(e) None of these 
+ 
+37. How many persons sit between S and D, when counted 
+to the right of S? 
+ 
+(a) None 
+ 
+ 
+(b) Two 
+ 
+ 
+(c) One 
+ 
+(d) Either One or Two 
+ 
+(e) Both sit on different table 
+ 
+38. Four of the following five are alike in a certain way and 
+so form a group. Find the one who does not belong to 
+that group? 
+ 
+(a) B 
+(b) D 
+(c) S 
+ 
+(d) Q 
+(e) C 
+ 
+39. The number of persons sit between P and R, when 
+counted to the left of R and is same as the number of 
+persons sit between B and ___ when counted to the 
+right of __? 
+ 
+(a) S 
+(b) Q 
+(c) D 
+ 
+(d) Either (a) or (c) (e) 
+None of these 
+ 
+Direction (40-43): Study the following information 
+carefully and answer the given questions. 
+ 
+Eight persons A, B, C, D, E, F, G and H are working in a 
+company in three different departments – Production, 
+Management and Finance on two posts – Manager and 
+General Manager but not necessarily in the same order. All 
+they have different ages in the whole number. 
+ 
+E’s age is twice of C’s age. A is 53 years old and working in 
+production. The persons whose total age is 100 years are 
+working in Finance as General Manager. F is working in 
+Production. B is working in management but not with D 
+and posts of B and D are different. Both H and G are 
+working at same post but not in production department. 
+Both H and F are working at different post. Not more than 
+two persons working on same post in same department. 
+ 
+6 
+
+ 
+ 
+Both E and A working in same department but at different 
+post. Both A and D work in different post. Sum of the ages 
+of C and G is 64 years. Both C and D are manager but in 
+different departments but not in the production. E is 12 
+years older to F and 12 years younger to H. Difference 
+between the age of C and D is equal to H’s age. B is 30 years 
+old and its age is half the H’s age. 
+ 
+40. How many persons are working as manager? 
+ 
+(a) Four 
+(b) Five 
+(c) Three 
+ 
+(d) Two 
+(e) One 
+ 
+41. Who among the following is 40 years old? 
+ 
+(a) C 
+(b) G 
+(c) H 
+ 
+(d) F 
+(e) None of these 
+ 
+42. Four of the following five are alike in a certain way and 
+so form a group. Find the one who does not belong to 
+that group? 
+ 
+(a) E-48 
+(b) D-84 
+(c) G-40 
+ 
+(d) C-36 
+(e) B-30 
+ 
+43. Which of the following is the bpost and department of 
+B respectively? 
+ 
+(a) Manager – Finance 
+ 
+ 
+(b) General Manager – Management 
+ 
+(c) Manager- Management 
+ 
+(d) Can’t be determined 
+ 
+ 
+(e) None of these 
+ 
+Directions (44-45): Travis Kalanick spent most of the past 
+decade turning a taxi app (Uber) into the world's most 
+valuable startup. Uber is ride-hailing service that he helped 
+found in 2009 and built into a transportation colossus. 
+ 
+Travis Kalanick stepped down Tuesday as chief executive 
+of Uber, after a seemingly endless series of scandals raised 
+doubts over his leadership. Kalanick’s resignation doesn’t 
+come as a surprise -- after he was caught on video chewing 
+out an Uber driver who questioned the company’s 
+compensation 
+policies 
+in 
+February. 
+Meanwhile, 
+Shareholders released a damning report on the firm's 
+management culture. 
+(I)  Uber is a riding service that Chief Executive of Uber 
+helped built into transportation prodigious. 
+(II) Shareholders ordered Travis Kalanick to relinquish 
+position of chief executive of Uber. 
+(III) Holder released a report against firm’s management 
+culture that was condemnatory. 
+ 
+44. Which of the following can be hypothesized from the 
+above passage? 
+ 
+(a) Only II 
+ 
+ 
+ 
+ 
+(b) Only I and III  
+ 
+ 
+ 
+(c) Only I and II 
+ 
+(d) All of these 
+ 
+ 
+ 
+ 
+(e) None of these 
+ 
+45. Which of the followings is not in the line with the 
+passage? 
+(I)  Kalanick’s resignation came under the pressure of 
+damning report which is released by the 
+Shareholders on management’s culture, this one 
+of the reason of resignation of Chief executive of 
+Uber. 
+(II)  Travis Kalanick stepped down as chief executive 
+of Uber, because endless series of scandals raised 
+doubts over his leadership as well as he was 
+caught on video chewing out an Uber driver and 
+shareholder’s report was not in a favour of 
+management. 
+(III)  Travis Kalanick spent most of the past decade 
+turning a taxi app (Uber) into the world’s most 
+valuable startup. 
+ 
+(a) Only II 
+(b) Only I and III 
+ 
+ 
+ 
+ 
+(c) Only I and II (d) All of these (e) None of these 
+ 
+ 
+ 
+Direction (46 – 48): Read the data given below carefully 
+and answer the questions. 
+ 
+A train running between four stations i.e. A, B, C & D on 
+Monday and Tuesday. The average speed of train on 
+Monday during whole journey is 50 kmph and average 
+speed of train on Tuesday during whole journey is 62.5 
+kmph. On Monday train takes one hour less to cover 
+distance between A and B as compare to that of on 
+Tuesday. Train takes equal time to cover distance between 
+B to C on both the given days, while train takes three hours 
+more to cover distance between C and D as compare to that 
+of on Tuesday. The distance between A and B is 40% less 
+than that of between C and D. The distance between B and 
+C is 50% more than that of between A and B. 
+Note - There is not any halt or stoppage from the station A 
+to D. 
+ 
+46. Find the total time taken by train to cover distance 
+from A to D on Tuesday? 
+ 
+(a) 6 hours 
+(b) 8 hours 
+(c) 10 hours 
+ 
+(d) 4 hours 
+(e) 12 hours 
+ 
+47. Find the difference between the distance from station 
+A to B and from station C to D? 
+ 
+(a) 60 km 
+(b) 20 km 
+(c) 80 km 
+ 
+(d) 40 km 
+(e) Can’t determined 
+ 
+48. On Monday speed of train between stations B to C is 
+50% more than speed of train between C to D and time 
+taken to cover distance between B to C is 2 hours less

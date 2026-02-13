@@ -1,0 +1,1081 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Mains
+Year: 2020
+Shift: 1
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2021/09/13144018/IBPS-RRB-PO-Mains-2020-Memory-Based-Paper.pdf
+======================================================================
+
+QUANTITATIVE APTITUDE 
+ 
+ 
+21 
+   Adda247 Publications                                                For More Study Material 
+
+ 
+ 
+ 
+From II. 
+ 
+ 
+M.R.P = 750 
+ 
+ 
+So, cost price = 500 
+ 
+ 
+Selling price = 500+ 73.75=573.75 
+ 
+ 
+Aggregate Discount = 
+750−573.75
+750
+× 100 = 23.5% 
+ 
+ 
+Either I or II is sufficient. 
+ 
+49. (e): From I x + y =7 
+ 
+ 
+From II. x~𝑦= 1 
+ 
+ 
+So, we can’t be determined the actual value of x 
+and y. 
+ 
+50. (e): From I 
+ 
+ 
+Ankit Investment share = 1600 Rs.  
+ 
+ 
+Time on which Ankit Invest = 8 months  
+ 
+ 
+Satish investment share = 1200 Rs.  
+ 
+ 
+From II 
+ 
+ 
+Given, profit share of Satish = 630 Rs.  
+ 
+ 
+So, from both sentence we could not find answer, 
+time period on which Satish invest his capital not 
+given, so we could not determine profit ratio of 
+Ankit and Satish.  
+ 
+51. (a): Let amount invested in each scheme = Rs. x  
+ 
+ 
+x×12×6
+100
+− 
+x×8×8
+100  = 1280 
+ 
+ 
+⇒ 
+8x
+100 = 1280 
+ 
+ 
+⇒ x = 16,000 Rs. 
+ 
+52. (c): Let speed of boat in still water v km/hr 
+ 
+ 
+and speed of current be r km/hr 
+ 
+ 
+Speed of boat in upstream = 
+11
+4
+11 × 60  
+ 
+ 
+v– r = 15 km/hr …(i) 
+ 
+ 
+⇒ 
+r
+r+v =
+1
+7 ;  
+ 
+ 
+⇒ 7r = r + v ⇒ 6r = v …(ii) 
+ 
+ 
+Solving eq. (i) and (ii) 
+ 
+ 
+5r = 15 ⇒ r = 3 km/h 
+ 
+ 
+∴ Downstream speed = 18 + 3 = 21 km/hr 
+ 
+ 
+∴ Required distance = 21 ×
+52
+60 = 18.2 km  
+ 
+53. (b): Let the selling price of article be Rs. 100x 
+ 
+ 
+So, the marked price of article =100x ×
+125
+100 = 125𝑥 
+Rs. 
+ 
+ 
+Cost price of article =100𝑥÷ 1.25 = 𝑅𝑠 80𝑥 
+ 
+ 
+ATQ 
+ 
+ 
+(125x – 80) – (100x – 80x) =200 
+ 
+ 
+x=8 Rs. 
+ 
+ 
+Cost price of article =Rs 640 
+ 
+ 
+Required selling price = 640 ×
+11
+8  = 880 Rs. 
+ 
+54. (e): Let the investment of B = 25x 
+ 
+ 
+So, the investment of A = 25x ×
+52
+100 = 13𝑥 
+ 
+ 
+And let the investment of C be Rs y 
+ 
+ 
+So, profit ratio of A, B & C =  
+ 
+ 
+  
+ 
+ 
+ATQ 
+ 
+ 
+8y=2(200x-172x) 
+ 
+ 
+𝑥
+𝑦=
+1
+7  
+ 
+ 
+Required percentage =
+7
+25 × 100 = 28%  
+ 
+55. (b): For I-  number of plastic balls = 10 
+ 
+ 
+ 
+ATQ, number of leather balls = 18-10 =8 
+ 
+ 
+ 
+So, desired probability =10c1×8c1 /18c2 =80/153 
+ 
+ 
+ 
+So, I can be answer. 
+ 
+ 
+For II-  number of plastic balls = 8 
+ 
+ 
+ 
+ATQ, number of leather balls = 18-8=10 
+ 
+ 
+ 
+So, desired probability =8c1×10c1/18c2 = 80/153 
+ 
+ 
+ 
+So, II cannot be answer. 
+ 
+ 
+For III-  number of plastic balls = 6 
+ 
+ 
+ 
+ATQ, number of leather balls = 18-6 =12 
+ 
+ 
+ 
+So, desired probability =6c1×12c1/18c2 = 8/17 
+ 
+ 
+ 
+So, III can be answer. 
+ 
+56. (d): Total people who have under graduate degree 
+from C & D 
+ 
+ 
+= 6000 ×
+28
+100 −880 + 6000 ×
+25
+100 −700 
+ 
+ 
+= 800 + 800= 1600 
+ 
+ 
+Total illiterate people from A & E  
+ 
+ 
+= 6000 ×
+12
+100 ×
+40
+60 + 6000 ×
+20
+100 ×
+50
+50 
+ 
+ 
+= 480 + 1200 = 1680 
+ 
+ 
+Required ratio = 
+1600
+1680 = 20 ∶21 
+ 
+57. (d): Required angle = 
+500+700
+440+500+880+700+360 × 360 
+ 
+ 
+=
+1200
+2880 × 360 = 150° 
+ 
+58. (e): Total literate people from C = 6000 ×
+28
+100 = 1680 
+ 
+ 
+Let total males = 4x 
+ 
+ 
+And, total number of females = 3x 
+ 
+ 
+Total population of C = 6000 ×
+28
+100 ×
+100
+80 = 2100 
+ 
+ 
+Total females in C = 2100 ×
+3𝑥
+7𝑥= 900 
+ 
+ 
+And, total males in C = 2100 ×
+4𝑥
+7𝑥= 1200 
+ 
+ 
+Total literate females from C = 900 ×
+80
+100 = 720 
+ 
+ 
+Total literate males from C = 1680 – 720 = 960 
+ 
+ 
+Total females have post graduate degree from C 
+ 
+ 
+= 880 – 960 ×
+50
+100 = 400 
+ 
+ 
+So total number of females who are literate but do 
+not have post graduate degree from C  
+ 
+ 
+= 720 – 400 = 320 
+ 
+ 
+ 
+22 
+   Adda247 Publications                                                For More Study Material 
+
+ 
+59. (b): Total number of people who have not post 
+graduate degree from A = 6000 ×
+12
+100 −440 = 280 
+ 
+ 
+Total number of people who have not post 
+graduate degree from D = 6000 ×
+25
+100 −700 =
+800 
+ 
+ 
+Total number of people who have not post 
+graduate degree from E = 6000 ×
+20
+100 −360 = 840 
+ 
+ 
+Required average = 
+280+800+840
+3
+ 
+ 
+ 
+ = 
+1920
+3  = 640 
+ 
+60. (a): Total illiterate people from A & C = 6000 
+×
+12
+100 ×
+40
+60 + 6000 ×
+28
+100 ×
+20
+80  
+ 
+ 
+= 480 + 420 
+ 
+ 
+= 900 
+ 
+ 
+total illiterate people from E = 6000 ×
+20
+100 ×
+50
+50 =
+1200 
+ 
+ 
+Required percentage = 
+1200 −900
+1200
+× 100  
+ 
+ 
+ = 
+300
+1200 × 100 = 25% 
+61. (a): Given the total number of Men is N 
+ 
+ 
+We know that(𝑀× 𝐷× 𝐻) = 𝑊𝑜𝑟𝑘 
+ 
+ 
+ATQ (𝑁× 21 × 8) = ((𝑁−1) × 21 ×
+100
+70  × 6) 
+ 
+ 
+𝑁= 15  
+ 
+ 
+Required number of days = 
+15 ×21×8
+(15+3)×10 = 14 days 
+ 
+62. (c): Length of train A = 64 ×
+5
+18 × 27 = 480 m  
+ 
+ 
+Length of train B = 64 ×
+7
+8 ×
+5
+18 × 36 = 560 m  
+ 
+ 
+Relative speed when both train running in 
+opposite direction=(64 + 64 ×
+7
+8) ×
+5
+18 = 
+100
+3 m s
+⁄   
+ 
+ 
+Train A and train B will cross each other in 
+ 
+ 
+=
+(480+560)3
+100
+ = 31.2 sec  
+ 
+63. (a): Let initially strength of class = N 
+ 
+ 
+So, total weight of class= 20N 
+ 
+ 
+When two persons include  
+ 
+ 
+Total weight of class= 22(N + 2) 
+ 
+ 
+Weight of two persons included = 2N + 44 
+ 
+ 
+4 persons excluded weight  
+ 
+ 
+=
+2N+44
+2
+= N + 22  
+ 
+ 
+ATQ, 
+ 
+ 
+22 (N + 2) – (N + 22) = (N + 2 – 4) × 25  
+ 
+ 
+N = 18  
+ 
+64. (b): Let man, his wife age, his elder son’s age and his 
+younger son’s age is 20x, 3y, 9x and y respectively. 
+ 
+ 
+ATQ, 
+ 
+ 
+9x – y = 6 …(i) 
+ 
+ 
+20x + 3y + 9x + y = 26.5 × 4 …(ii) 
+ 
+ 
+Solving (i) & (ii) 
+ 
+ 
+x = 2  
+ 
+ 
+y = 12 
+ 
+ 
+his wife’s age = 12 × 3 = 36  
+ 
+65. (e): Let the quantity of liquid P be 4x in mixture  
+ 
+ 
+So, quantity of liquid Q = 4x ×
+225
+100 = 9x  
+ 
+ 
+In 52 liters,  
+ 
+ 
+Quantity of liquid P 
+ 
+ 
+=
+52×4𝑥
+13𝑥= 16 liters 
+ 
+ 
+Quantity of liquid Q =
+52×9
+13 = 36 liters 
+ 
+ 
+ATQ, 
+ 
+ 
+4𝑥−16
+13𝑥=
+1
+5  
+ 
+ 
+⇒ 20x – 80 = 13x 
+ 
+ 
+⇒ 7x = 80 ⇒ x = 
+80
+7  
+ 
+ 
+Quantity of liquid Q in final mixture = 9 × 
+80
+7  – 36 = 
+468
+7  lit. = 66.86 liters 
+66. (c): Pattern of series 
+ 
+ 
+12 × 0.5 + 1 = 7  
+ 
+ 
+7 × 1 + 1.5 = 8.5 
+ 
+ 
+8.5 × 1.5 + 2 = 14.75 
+ 
+ 
+? = 14.75 × 2 + 2.5 = 32  
+ 
+ 
+32 × 2.5 + 3 = 83  
+ 
+67. (a): Pattern of series — 
+ 
+ 
+12 × 6 + 6 = 78  
+ 
+ 
+78 × 5 + 5 = 395 
+ 
+ 
+395 × 4 + 4 = 1584  
+ 
+ 
+1584 × 3 + 3 = 4755 
+ 
+ 
+? = 4755 × 2 + 2 = 9512 
+ 
+68. (e): 26 × 2 + 1 = 53 
+ 
+ 
+53 × 4 + 2 = 214 
+ 
+ 
+214 × 6 + 3 = 1287  
+ 
+ 
+1287 × 8 + 4 = 10300 
+ 
+ 
+? = 10300 × 10 + 5 = 103005 
+ 
+69. (d): Pattern of series — 
+ 
+ 
+4187 – (113– 1) = 2857  
+ 
+ 
+2857– (93– 1) = 2129  
+ 
+ 
+2129– (73– 1) = 1787  
+ 
+ 
+1787– (53– 1) = 1663  
+ 
+ 
+? = 1663 – (33– 1) = 1637  
+ 
+ 
+ 
+23 
+   Adda247 Publications                                                For More Study Material 
+
+ 
+70. (e): Pattern of series  
+ 
+ 
+27 ÷ 1 = 27  
+ 
+ 
+27 × 2 = 54 
+ 
+ 
+54 ÷ 3 = 18  
+ 
+ 
+18 × 4 = 72  
+ 
+ 
+? = 72 ÷ 5 = 14.4  
+ 
+71. (d): Let the total no. of students in 2015 and 2017 be 
+4x and 5x respectively. 
+ 
+ 
+Given (4𝑥×
+40
+100 −5𝑥×
+30
+100) = 0.1𝑥= 180 
+ 
+ 
+x=1800 
+ 
+ 
+then no. of banking students in 2017= 9000 ×
+36
+100 = 3240 
+ 
+ 
+no. of banking students in 2015  
+ 
+ 
+= 7200 ×
+28
+100 = 2016 
+ 
+ 
+Difference =(3240-2016)=1224 
+ 
+72. (b): No. of Railway students in 2015 
+ 
+ 
+=(8000 ×
+40
+100) = 3200 
+ 
+ 
+No. of Railway students in 2016 
+ 
+ 
+=(8000 ×
+110
+100 ×
+30
+100) = 2640 
+ 
+ 
+No. of Railway students in 2017 
+ 
+ 
+=(8000 ×
+110
+100 ×
+110
+100 ×
+30
+100) = 2904 
+ 
+ 
+No. of Railway students in 2018 
+ 
+ 
+=(8000 ×
+110
+100 ×
+110
+100 ×
+110
+100 ×
+1
+4) = 2662 
+ 
+ 
+As it can be seen that in 2018 the no. of Railway 
+student was third highest. 
+ 
+73. (d): Let total no. of students in 2015,2016,2017,2018 
+be a, b, c ,d respectively 
+ 
+ 
+For 2015,  
+ 
+ 
+no. of Railway students = a ×
+40
+100 = 0.4a 
+ 
+ 
+average of Banking and SSC students 
+ 
+ 
+=
+0.28𝑎+0.32𝑎
+2
+= 0.3𝑎  
+ 
+ 
+For 2016, 
+ 
+ 
+no. of Railway students = a ×
+30
+100 = 0.3a 
+ 
+ 
+average of Banking and SSC students 
+ 
+ 
+=
+0.42𝑎+0.28𝑎
+2
+= 0.35𝑎  
+ 
+ 
+For 2017, 
+ 
+ 
+no. of Railway students = a ×
+30
+100 = 0.3a 
+ 
+ 
+average of Banking and SSC students 
+ 
+ 
+=
+0.36𝑎+0.34𝑎
+2
+= 0.35𝑎  
+ 
+ 
+For 2018  
+ 
+ 
+no. of Railway students = a ×
+25
+100 = 0.25a 
+ 
+ 
+average of Banking and SSC students 
+ 
+ 
+=
+0.30+0.45𝑎
+2
+= 0.375𝑎  
+ 
+ 
+So, there is one year i.e. 2015 in which no. of 
+Railway students is more than average of Banking 
+and SSC students together. 
+ 
+74. (c): Let the total no. of students be x for all of the given 
+year, then 
+ 
+ 
+For 2015 
+ 
+ 
+Difference between Railway and SSC students 
+ 
+ 
+= (0.4𝑥−0.32𝑥) = 0.08𝑥 
+ 
+ 
+For 2016 
+ 
+ 
+Difference between Railway and SSC students 
+ 
+ 
+= (0.30𝑥−0.28𝑥) = 0.02𝑥 
+ 
+ 
+For 2017 
+ 
+ 
+Difference between Railway and SSC students 
+ 
+ 
+= (0.34𝑥−0.30𝑥) = 0.04𝑥 
+ 
+ 
+For 2018 
+ 
+ 
+Difference between Railway and SSC students 
+ 
+ 
+= (0.45𝑥−0.25𝑥) = 0.20𝑥 
+ 
+ 
+As it can be seen that difference between no. of 
+Railway students and SSC students is second 
+lowest is in 2017. 
+ 
+75. (e): Let the total no. of students in 2018 be x  
+ 
+ 
+Then ATQ 
+ 
+ 
+(. 45𝑥−.30𝑥) = 300 
+ 
+ 
+X=2000 and no. of Railway students in 2018 = 500 
+ 
+ 
+So, no. of Railway students in 2015 and 2017 will 
+be 600 and 300 respectively 
+ 
+ 
+So, no. of SSC students in 2015= (
+600
+40 × 32) = 480 
+ 
+ 
+no. of SSC students in 2017= (
+300
+30 × 34) = 340 
+ 
+ 
+average no. of SSC students in 2015 and 2017 
+together=
+480+340
+2
+= 410 
+ 
+Solution (76-80): 
+Let total number of students in civil = x  
+So, total number of students in IT = 2x 
+Total students in Mechanical = 2x ×
+2
+3 = 
+4x
+3  
+Total students in CS = 
+8x
+9   
+Total students in Electrical = (
+8𝑥
+9 + 120)  
+Total students in Electronic = (
+8𝑥
+9 + 120) – 60 = (
+8𝑥
+9 + 60) 
+Given,  
+𝑥+
+8𝑥
+9 + 60 = 400   
+9x + 8x = 3600 – 540 
+17x = 3060  
+x = 180 
+ 
+Stream 
+Students 
+Mechanical 
+4×180
+3
+ = 240 
+Civil 
+180 
+CS 
+8×180
+9
+ = 160 
+IT 
+180 × 2 = 360 
+Electronic 
+280 – 60 = 220 
+Electrical 
+160 + 120 = 280 
+ 
+ 
+ 
+24 
+   Adda247 Publications                                                For More Study Material 
+
+ 
+76. (d): Required difference = 360 –  280 =  80 
+ 
+77. (b): Total CS students in college ‘B’  
+ 
+ 
+= 720 – (
+120
+100 × 240 +
+125
+100 × 180) 
+ 
+ 
+ = 720 –  513 
+ 
+ 
+= 207 
+ 
+78. (c): Required ratio = 
+160
+220 = 8 : 11 
+ 
+79. (a): Required average = 
+240+180+360
+3
+  = 260 
+ 
+80. (e): Required percentage = 
+240−220
+240
+× 100   = 8 
+1
+3% 
+ 
+ 
+ 
+ 
+ 
+ 
+81. (b): The correct answer is option is b.  
+ 
+ 
+Refer to the THIRD paragraph where it mentions- 
+The Economic Survey cites several reasons for 
+the declining women workforce …………. gender 
+pay parity……. pressures from society are the 
+major stumbling blocks for women. 
+ 
+82. (e): The correct answer is option e.  
+ 
+ 
+Refer to the FOURTH, FIFTH & the LAST 
+paragraph. 
+ 
+ 
+Where it mentions- While appointing more 
+women onto banking supervision boards can 
+………………. supporting greater bank stability and 
+financial sector resilience.  
+ 
+ 
+A change in mindset ………. enable and empower 
+women. 
+ 
+83. (c): The correct answer is option c.  
+ 
+ 
+Refer to the SECOND paragraph where it 
+mentions– 
+ 
+ 
+From 30.3% in 1990, India’s FLFP dropped to 
+20.3% percent in 2020. 
+ 
+84. (e): The correct answer is option e. 
+ 
+ 
+From the passage we can infer that - giving equal 
+opportunities, education, work, salary to not only 
+men but also to women will help to boost the 
+economy. 
+ 
+ 
+Refer to the following lines from the passage 
+which implies the same thing. 
+ 
+ 
+The Economic Survey finds that 60 per cent of 
+women in India in the productive age bracket of 
+15-59 
+years 
+are 
+engaged 
+in 
+full-time 
+housework. India has been working towards 
+becoming a $5-trillion economy, but it seems to 
+do that minus its female population. 
+ 
+ 
+Raising women's labour force participation to 
+that of men can boost GDP……….as per the paper 
+published by the World Economic Forum. 
+ 
+85. (e): The correct answer is option e. 
+ 
+ 
+Refer to the FOURTH & FIFTH paragraph where it 
+mentions – To improve female participation in 
+the workforce, the Economic Survey says, several 
+reforms have been introduced such as increase in 
+maternal leave to 26 weeks…... 
+ 
+ 
+Vocational and technical training…………… help 
+them develop marketable skills and better 
+decision-making abilities. 
+ 
+86. (d): The correct answer is option d. 
+ 
+ 
+Ethos - The set of beliefs, ideas, etc. about the 
+social behaviour and relationships of a person or 
+group. The word “Custom’’ implies the same 
+meaning & hence, it is the correct choice. 
+ 
+ 
+Spirit - (contextually incorrect) - To show 
+enthusiasm and enjoyment. 
+ 
+ 
+Constitution - (contextually incorrect) - The set of 
+political 
+principles 
+by 
+which 
+a 
+state 
+or 
+organization is governed, especially in relation to 
+the rights of the people it governs. 
+ 
+ 
+Character - (contextually incorrect) - The 
+particular combination of qualities in a person or 
+place that makes them different from others 
+ 
+ 
+Sentiment - (contextually incorrect) - A thought, 
+opinion, or idea based on a feeling about a 
+situation, or a way of thinking about something. 
+ 
+87. (c): The correct answer is option c. 
+ 
+ 
+Stumbling – As per the context of the sentence, 
+here ‘Stumbling’ means an obstacle to progress. 
+ 
+ 
+Rectify - (Grammatically incorrect) - To correct by 
+removing errors. 
+ 
+ 
+Overlook - (Grammatically incorrect) - To rise 
+above or afford a view of. 
+ 
+ 
+Encouraging - (contextually incorrect) - Giving 
+hope or promise.

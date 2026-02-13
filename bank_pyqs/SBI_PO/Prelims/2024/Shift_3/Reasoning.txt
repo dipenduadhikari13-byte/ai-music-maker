@@ -1,0 +1,363 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2024
+Shift: 3
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/16102954/SBI-PO-Pre-2024-25-Memory-Based-Paper-8-March-2025-3rd-shift-2.pdf
+======================================================================
+
+Q66.  He spends 30.1% of his monthly income on groceries, 20.1% of the remaining on rent, and 
+1/4th of the remaining income on EMI. If he saved Rs 1260, then find the approximate monthly 
+income of A (in Rs). 
+(a) 3000 
+(b) 3200 
+(c) 3050 
+(d) 2950 
+(e) 2440 
+ 
+Q67. The speed of train A is 150% more than that of train B. The speed of train A is 90 km/hr, 
+and it crossed a pole in 16 seconds. The ratio of the length of the trains A to B is 8:5; then find 
+the time taken for train B to cross 150 meters long platform (in seconds). 
+(a) 20 
+(b) 40 
+(c) 60 
+(d) 45 
+(e) 55 
+ 
+ 
+ 
+Q68. The ratio of cost price to selling price of an article is 4:7, and the ratio of the marked price 
+to selling price of the article is 36:35. If the markup price of the article is Rs 160, then find the 
+profit (in Rs). 
+(a) 180 
+(b) 120 
+(c) 140 
+(d) 160 
+(e) 150 
+ 
+Q69. A man invested Rs (P+500) at 10% p.a. compound interest for two years, and he received 
+interest of Rs 1785. If he invested Rs (P-1000) at the same rate for same period, then find the 
+compound interest received by him (in Rs).  
+(a) 1470 
+(b) 1520 
+(c) 2190 
+(d) 1860 
+(e) 1660 
+ 
+Q70. A and B started a business with investments of Rs 6000 and Rs 8000. After nine months, A 
+withdrew half of his investment, and B added Rs X. If at the end of the year the profit-sharing 
+ratio of A to B is 21:34, then find X. 
+(a) 3000 
+(b) 2000  
+(c) 1000 
+(d) 1500 
+(e) 2500 
+ 
+Directions (71-75): Study the following information carefully and answer the given questions: 
+Eight persons A, B, C, D, E, F, G, and H sit around a circular shaped table, but not necessarily in the same 
+order. Three persons face inside and rest face outside the centre. 
+Three persons sit between C and E. A is an immediate neighbour of C. Both the immediate neighbours 
+of E face inside. D is neither an immediate neighbour of E nor C. G sits third to the left of D. G doesn’t 
+face inside. Both the immediate neighbours of F face outside. F is not an immediate neighbour of D. H 
+doesn’t face in the same  
+direction as G. Immediate neighbours of G face opposite  
+direction to each other. 
+ 
+Q71. What is the position of B with respect to A? 
+(a) Immediate right 
+(b) Fifth to the right 
+(c) Third to the right 
+(d) Fourth to the left 
+(e) None of these 
+ 
+ 
+ 
+Q72. How many persons sit between G and E when counted from right of G? 
+(a) Three 
+(b) Two 
+(c) One 
+(d) Four 
+(e) None 
+ 
+Q73. Four of the following five are alike in a certain way and thus form a group. Find the one 
+which doesn’t belong to the group. 
+(a) F-C 
+(b) C-G 
+(c) H-D 
+(d) F-E 
+(e) A-C 
+ 
+Q74. Who among the following sit between H and B when counted in clockwise  
+direction from B? 
+I. A 
+II. F 
+III. D 
+(a) Both I and II 
+(b) Only III 
+(c) Both II and III 
+(d) Both I and III 
+(e) Only I 
+ 
+Q75. Which of the following statements is/are true? 
+(a) A sits immediate right of D. 
+(b) B and H face the same  
+direction. 
+(c) D sits second to the left of E. 
+(d) H and A sit opposite to each other. 
+(e) F sits second to the right of G. 
+ 
+Q76. In the word ‘HOVERING’, how many pairs of the letters have the same number of letters 
+between them (both forward and backward  
+direction) as in the English alphabet? 
+(a) Four 
+(b) Two 
+(c) One 
+(d) Three 
+(e) More than four 
+ 
+ 
+ 
+Directions (77-81): Study the following information carefully and answer the given questions: 
+Eleven persons lives in three different states: Goa, Bihar and Sikkim. Not more than four and not less 
+than three persons lives in the same state. 
+J lives in Goa. H doesn’t live in the same state as J. H and E lives in the same state. M doesn’t live in the 
+same state as J. G, N and K live in the same state. J and Q live in the same state. R doesn’t live in the same 
+state as Q. Even number of persons live with H. Q and L live in the same state. Odd number of persons 
+live with P. R neither live in Bihar nor live with N. 
+ 
+Q77. Four of the following five are alike in a certain way and thus form a group. Find the one who 
+doesn’t belong to the group. 
+(a) M 
+(b) G 
+(c) Q 
+(d) K 
+(e) N 
+ 
+Q78. Who among the following persons lives in Goa? 
+I. J 
+II. P and R 
+III. L  
+(a) Both I and II 
+(b) Only III 
+(c) Both II and III 
+(d) Both I and III 
+(e) Only I 
+ 
+Q79. Which among the following pair of persons belong to the same state? 
+(a) J and N 
+(b) H and R 
+(c) K and P 
+(d) L and G 
+(e) None of these 
+ 
+Q80. If N is related to G, and in the same way Q is related to P, then who among the following is 
+related to E? 
+(a) J 
+(b) L 
+(c) G 
+(d) M 
+(e) R 
+ 
+ 
+ 
+Q81. The number of persons lives with E is ______ the number of persons lives with ____. 
+(a) Two less than, G 
+(b) Same as, P 
+(c) One less than, N 
+(d) One more than, H 
+(e) One more than, Q 
+ 
+Directions (82-86): Read the given information carefully and answer the related questions: 
+Seven boxes A, B, C, D, E, F, G – are placed one above another. Each box has either fruit or vegetable in 
+it. 
+The box which has orange is placed just above box C. Four boxes are in between box C and box G. One 
+box is placed between box G and the box which has tomato. The box which has potato is placed three 
+boxes below box D. Number of boxes placed above box D is same as the number of boxes placed below 
+the box which has mango. Box F is placed two boxes above the box which has cherry. Box F is not the 
+topmost box. One box is placed between box A and box E which has apple. One of the boxes has carrot.  
+ 
+Q82. Box B has which of the following Fruit/Vegetable? 
+(a) Potato 
+(b) Carrot 
+(c) Cherry 
+(d) Orange 
+(e) Tomato 
+ 
+Q83. How many boxes are placed between box G and the box which has carrot? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) Five 
+ 
+Q84. Which of the following box has cherry?  
+(a) Box B 
+(b) Box D 
+(c) Box C 
+(d) Box G 
+(e) Box E 
+ 
+Q85. Choose the incorrect combination. 
+(a) D - Orange 
+(b) F - Tomato 
+(c) C - Carrot 
+(d) G - Mango 
+(e) B - Cherry 
+ 
+ 
+ 
+Q86. Which of the following statement is correct? 
+(a) Box D has mango 
+(b) One box is placed between box F and box E 
+(c) Box B is bottommost box 
+(d) The box which has apple is placed above box C 
+(e) Two boxes are placed above box A 
+ 
+Q87. Find the odd-one out. 
+(a) GBE 
+(b) MHK 
+(c) YUX 
+(d) PKN 
+(e) OJM 
+ 
+Directions (88-92): Read the given information carefully and answer the related questions: 
+Seven persons – P, Q, R, S, T, U and V – live on seven different floors (but not necessarily in the same 
+order) of a seven-floor building where the floors are numbered as 1 to 7 (from bottom to top 
+respectively). Each of them has a different item – Glue, Paper, Iron, Scissors, Pens, Pencil, and Colour. 
+T lives on floor number 5. R lives on an even-number floor below floor 5. Two persons live between R 
+and the one who has Glue. The one who has glue lives immediately above the one who has Scissors. The 
+number of persons live above the one who has scissors is one more than the number of persons lives 
+below the one who has Pens. One person was born between the one who has Pens and U. P lives on a 
+prime number floor below T. Two persons live between P and the person who has Iron. The one who 
+has Iron lives below V. As many persons live above V as after the one who has Colours. S lives above the 
+one who has Paper and below the one who has pencil. S lives above Q.  
+ 
+Q88. Who among the persons live on a prime numbered floor? 
+I. The one who has Pens. 
+II. V 
+III. The one who has colours. 
+(a) Both I and II 
+(b) Only II 
+(c) Only III 
+(d) Both II and III 
+(e) All I, II and III 
+ 
+Q89. How many persons live between P and the one who has Pencil? 
+(a) Four 
+(b) Two 
+(c) Three 
+(d) Five 
+(e) None 
+ 
+ 
+ 
+Q90. Which of the following item is with the person living on Floor 4? 
+(a) Iron 
+(b) Scissors 
+(c) Paper 
+(d) Glue 
+(e) Colour 
+ 
+Q91. If S is related to Glue and in the same way P is related to Paper then R is related to which 
+item? 
+(a) Glue 
+(b) Pens 
+(c) Paper 
+(d) Colours 
+(e) Iron 
+ 
+Q92. Which among the following statement is/are false? 
+(a) P has Pens. 
+(b) V lives above Q 
+(c) R lives immediately below T. 
+(d) Three persons live between S and the person who has Paper. 
+(e) U lives below P 
+ 
+Directions (93-97): Read the given information carefully and answer the questions below: 
+Six Persons–E, H, J, K, M and N– were born on two different dates – either 9 or 26 of three different 
+months – March, April and May. No two persons were born on the same date. Each of them likes a 
+different fruit – Cherry, Grape, Orange, Mango, Apple and Pear. All the information is not necessarily in 
+the same order. 
+J was born on an odd numbered date in the month having odd number of days. Three persons were 
+born between J and the one who likes Grape. E was born on an odd number date but doesn’t like Grape. 
+The one who likes Cherry was born three persons after E. The number of persons born after the one 
+who likes Cherry is one less than the number of persons born before M. M was born immediately before 
+the one who likes Orange. One person was born between the one who likes Orange and N. H likes Mango. 
+The one who likes Pear was born after the one who likes Apple. The one who likes Apple was not born 
+on an even number date. 
+ 
+Q93. N was born on which date and month? 
+(a) 26 April 
+(b) 9 May 
+(c) 9 April 
+(d) 26 March 
+(e) 9 March 
+ 
+ 
+ 
+Q94. How many persons were born before K? 
+(a) Five 
+(b) One 
+(c) Two 
+(d) Three 
+(e) Four 
+ 
+Q95. The number of persons born after the one who likes Apple is same as the number of persons 
+born between K and ____. 
+(a) M 
+(b) J 
+(c) N 
+(d) E 
+(e) H 
+ 
+Q96. Which among the following combination is incorrect? 
+(a) M- Pear 
+(b) E- Orange 
+(c) N- Cherry 
+(d) J- Apple 
+(e) All are correct 
+ 
+Q97. Which of the following statement is correct? 
+I. J was born after H. 
+II. M and E were born in the same month 
+III. M likes Pear 
+(a) Only I 
+(b) Only I and II 
+(c) Only II 
+(d) Only I and III 
+(e) Only III 
+ 
+Directions (98-100): Study the following information carefully and answer the questions given 
+below. 
+N is the sibling of H. D is the father of H and grandfather of L. M is the only sibling of L. F is the daughter-
+in-law of P. L is the husband of K. F has only one son and one daughter. F is the sister-in-law of N. D has 
+only one son. 
+ 
+Q98. How is M related to N? 
+(a) Mother 
+(b) Granddaughter 
+(c) Daughter 
+(d) Niece 
+(e) Aunt 
+ 
+ 
+ 
+Q99. How many female members are in the family? 
+(a) Three 
+(b) Five 
+(c) Four 
+(d) Two 
+(e) None of these 
+ 
+Q100. Which among the following pair are married couples? 
+I. N and D 
+II. D and P 
+III. M and H 
+(a) Only II 
+(b) Both I and II 
+(c) Both II and III 
+(d) Only I 
+(e) Only III 
+ 
+Solutions 

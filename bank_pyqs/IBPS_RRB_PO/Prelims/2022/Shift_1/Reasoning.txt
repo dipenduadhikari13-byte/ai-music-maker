@@ -1,0 +1,565 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2023/05/01114729/IBPS-RRB-PO-Prelims-Previous-Year-Paper-2022-Question-PDF.pdf
+======================================================================
+
+Q1. Who sits 4th left of L? 
+L के बायें से चौथे स्थाि पर कौि बैठा है? 
+(a) P 
+(b) S 
+(c) O 
+(d) M 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q2. Who among the following persons face outside? 
+निम्ननिनित में से कौि-सा व्यनि बाहर की ओर उन्मुि है? 
+(a) M, O 
+(b) N, L 
+(c) R, L 
+(d) O, P 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q3. Who among the flowing are immediate neighbour of R? 
+निम्ननिनित में से कौि R का निकटतम पडोसी है? 
+(a) P 
+(b) M 
+(c) S 
+(d) Q 
+(e) O 
+ 
+2 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q4. Which of the following statement is true? 
+निम्ननिनित में से कौि सा कथि सत्य है? 
+I. P and Q sit diagonally opposite to each other 
+P और Q एक िूसरे के नर्कर्वत: नर्परीत बैठे हैं। 
+II. S does not face outside  
+S बाहर की ओर उन्मुि िहीं है। 
+III. N and R are immediate neighbours 
+N और R निकटतम पडोसी हैं।  
+(a) Both I and II are true / I और II िोिों सत्य हैं। 
+(b) Only III is true / केर्ि III सत्य है।  
+(c) Both II and III are true / II और III िोिों सत्य हैं। 
+(d) Both I and III are true / I और III िोिों सत्य हैं। 
+(e) None is true / कोई भी सत्य िहीं है। 
+ 
+Q5. What is the position of S with respect to M? 
+M के सन्िभव में S का स्थाि क्या है? 
+(a) 2nd to the right / िाएं से िूसरा 
+(b) Immediate left / ठीक बाएं 
+(c) 2nd to the left / बाएं से िूसरा 
+(d) 3rd to the right / िाएं से तीसरा 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Directions (6-9): Study the following information carefully and answer the questions given below: 
+निम्ननिनित जािकारी का ध्यािपूर्वक अध्ययि कीनजए और िीचे दिए गए प्रश्नों के उत्तर िीनजए: 
+ 
+R has 2 children of different gender. A is the brother-in-law of T who is unmarried. D is the cousin of M who 
+is granddaughter of R. B is the aunt of L who is the only daughter of K. Q is the mother of B. A is the spouse 
+of K. T is the aunt of L and have only one sibling. C is the son in law of R.  
+R के अिग-अिग जेंडर की 2 संताि हैं। A, T का ब्रिर-इि-िॉ है, T जो अनर्र्ानहत है। D, M का कनजि है, M जो R की ग्रैंड डॉटर 
+है । B, L की आंट है, L जो K की इकिौती बेटी है। Q, B की माँ है। A, K का जीर्िसाथी है। T, L की आंट है, और उसका केर्ि एक 
+सहोिर है। C, R का सि-इि-िॉ है। 
+ 
+Q6. Who is the grandson of Q? 
+Q का ग्रैंडसि कौि है? 
+(a) M 
+(b) T 
+(c) L 
+(d) D 
+(e) None of these / इिमें से कोई िहीं 
+ 
+3 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q7. How many females are in the family? 
+पररर्ार में दकतिी मनहिाएं हैं? 
+(a) Four / चार  
+(b) More than five / पांच से अनिक 
+(c) Five / पांच 
+(d) Three / तीि 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q8. Who is the brother-in-law of A? 
+A का ब्रिर-इि-िॉ कौि है? 
+(a) D 
+(b) L 
+(c) M 
+(d) C 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q9. Who is the mother-in-law of K? 
+K की मिर-इि-िॉ कौि है? 
+(a) Q 
+(b) B 
+(c) M 
+(d) T 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q10. How many pairs of letters are there in the word ‘REFRIGERATOR’, each of which have as many letters 
+between them in the word as they have in English alphabetical series (both forward and backward 
+direction)? 
+शब्ि ‘REFRIGERATOR’ में अक्षरों के ऐसे दकतिे युग्म हैं, नजिमें से प्रत्येक के बीच उतिे ही अक्षर हैं नजतिे दक अंग्रेजी र्र्वमािा 
+श्रंििा (आगे और पीछे िोिों दिशाओं) में हैं? 
+(a) One / एक 
+(b) Three / तीि 
+(c) None / कोई िहीं 
+(d) Two / िो 
+(e) More than four / चार से अनिक 
+ 
+Directions (11-15): Study the following information carefully and answer the questions given below: 
+निम्ननिनित जािकारी का ध्यािपूर्वक अध्ययि कीनजए और िीचे दिए गए प्रश्नों के उत्तर िीनजए: 
+ 
+A certain number of persons sit in a linear row facing north. R sits 4th from one of the extreme ends. S sits 
+3rd to the left of R. One person sits between D and S. D sits 3rd to the left of T. Two persons sit between T 
+and U who sits just left of B. More than one person sits between R and B. X sits 2nd to the left of L and is an 
+immediate neighbour of B.  
+व्यनियों की एक निनित संख्या उत्तर की ओर उन्मुि होकर एक रैनिक पंनि में बैठी है। R दकसी एक अंनतम छोर से चौथे स्थाि 
+पर बैठा है। S, R के बायें से तीसरे स्थाि पर बैठा है। D और S के मध्य एक व्यनि बैठा है। D, T के बायें से तीसरे स्थाि पर बैठा है। 
+T और U के मध्य िो व्यनि बैठे हैं, U जो B के ठीक बायें बैठा है। R और B के मध्य एक से अनिक व्यनि बैठे हैं। X, L के बायें से 
+िूसरे स्थाि पर बैठा है और र्ह B का निकटतम पडोसी है। 
+ 
+4 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q11. What is the possible minimum number of persons sit in the row?  
+पंनि में बैठे व्यनियों की संभानर्त न्यूितम संख्या दकतिी हो सकती है?  
+(a) 17 
+(b) 18 
+(c) 14 
+(d) 13 
+(e) 12 
+ 
+Q12. How many persons sit between R and X? 
+R और X के मध्य दकतिे व्यनि बैठे हैं? 
+(a) Six / छह 
+(b) Four / चार 
+(c) More than seven / सात से अनिक 
+(d) Three / तीि 
+(e) One / एक  
+ 
+Q13. What is the position of D with respect to B? 
+B के सन्िभव में D का स्थाि क्या है? 
+(a) 7th to the right / िाएं से सातर्ां 
+(b) 2nd to the right / िाएं से िूसरा 
+(c) Immediate left / ठीक बाएं 
+(d) 3rd to the left / बाएं से तीसरा 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q14. The number of persons sit between S and T is same as the number of persons sit to the right of _____ 
+(in case of minimum number of persons).  
+S और T के मध्य बैठे व्यनियों की संख्या उतिी ही है, नजतिी ________ के िाईं ओर बैठे व्यनियों की संख्या है।(व्यनियों की न्यूितम 
+संख्या के मामिे में)। 
+(a) X 
+(b) B 
+(c) U 
+(d) R 
+(e) L 
+ 
+Q15. Who among the following sits near to D? 
+निम्ननिनित में से कौि D के निकट बैठा है? 
+(a) U 
+(b) B 
+(c) R 
+(d) X 
+(e) S  
+ 
+5 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Directions (16-20): In each of the questions below are given some statements followed by some 
+conclusions. You have to take the given statements to be true even if they seem to be at variance with 
+commonly known facts. Read all the conclusions and then decide which of the given conclusions logically 
+follows from the given statements disregarding commonly known facts. 
+िीचे दिए गए प्रत्येक प्रश्न में कुछ कथि और उसके बाि कुछ निष्कषव दिए गए हैं। आपको दिए गए कथिों को सत्य माििा है, भिे 
+ही र्े सर्वज्ञात तथ्यों से नभन्न प्रतीत होते हों। सभी निष्कषों को पढें और दिर तय कीनजए दक दिए गए निष्कषों में से कौि सा 
+निष्कषव सामान्य रूप से ज्ञात तथ्यों की परर्ाह दकए नबिा दिए गए कथिों का तार्कवक रूप से अिुसरर् करता है। 
+ 
+Q16. Statements:  
+Some Rocks are Marble.  
+No Marble is Concrete.  
+कथि:  
+कुछ रॉक, माबवि हैं।  
+कोई माबवि, कंक्रीट िहीं है। 
+Conclusions: / निष्कषव: 
+I. Some Rock are concrete. / कुछ रॉक, कंक्रीट हैं। 
+II. No Rock is concrete. / कोई रॉक, कंक्रीट िहीं है। 
+(a) If only conclusion I follows. 
+यदि केर्ि निष्कषव I अिुसरर् करता है। 
+(b) If only conclusion II follows. 
+यदि केर्ि निष्कषव II अिुसरर् करता है। 
+(c) If either conclusion I or II follows.  
+यदि या तो निष्कषव I या II अिुसरर् करता है। 
+(d) If neither conclusion I nor II follows. 
+यदि ि तो निष्कषव I और ि ही II अिुसरर् करता है। 
+(e) If both conclusions I and II follow. 
+यदि निष्कषव I और II िोिों अिुसरर् करते हैं। 
+ 
+Q17. Statements:  
+Some City are not Town.  
+All Town are Metro.  
+कथि:  
+कुछ नसटी, टाउि िहीं हैं।  
+सभी टाउि, मेट्रो हैं। 
+Conclusions: / निष्कषव: 
+I. Some City are Metro. / कुछ नसटी, मेट्रो हैं। 
+II. All City being Metro is a possibility. / सभी नसटी के मेट्रो होिे की संभार्िा है। 
+(a) If only conclusion I follows. 
+यदि केर्ि निष्कषव I अिुसरर् करता है। 
+(b) If only conclusion II follows. 
+यदि केर्ि निष्कषव II अिुसरर् करता है। 
+(c) If either conclusion I or II follows. 
+यदि या तो निष्कषव I या II अिुसरर् करता है। 
+(d) If neither conclusion I nor II follows. 
+यदि ि तो निष्कषव I और ि ही II अिुसरर् करता है। 
+(e) If both conclusions I and II follow. 
+यदि निष्कषव I और II िोिों अिुसरर् करते हैं। 
+ 
+6 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q18. Statements:  
+Only a few Fish are Turtle.  
+All Turtle are Rabbit.  
+कथि:  
+केर्ि कुछ दिश, टटवि हैं।  
+सभी टटवि, रैनबट हैं। 
+Conclusions: निष्कषव: 
+I. Some Fish are not turtle. / कुछ दिश, टटवि िहीं हैं। 
+II. No Turtle is Fish. / कोई टटवि, दिश िहीं है। 
+(a) If only conclusion I follows. 
+यदि केर्ि निष्कषव I अिुसरर् करता है। 
+(b) If only conclusion II follows. 
+यदि केर्ि निष्कषव II अिुसरर् करता है। 
+(c) If either conclusion I or II follows. 
+यदि या तो निष्कषव I या II अिुसरर् करता है। 
+(d) If neither conclusion I nor II follows. 
+यदि ि तो निष्कषव I और ि ही II अिुसरर् करता है। 
+(e) If both conclusions I and II follow. 
+यदि निष्कषव I और II िोिों अिुसरर् करते हैं। 
+ 
+Q19. Statements:  
+Some clouds are water.  
+Some waters are Star.  
+कथि:  
+कुछ क्िाउड, र्ाटर हैं।  
+कुछ र्ाटर, स्टार हैं।  
+Conclusions: / निष्कषव: 
+I. Some cloud can never be star. / कुछ क्िाउड, कभी स्टार िहीं हो सकते। 
+II. All Could being water is a possibility. सभी क्िाउड, के र्ाटर होिे की संभार्िा है। 
+(a) If only conclusion I follows. 
+यदि केर्ि निष्कषव I अिुसरर् करता है। 
+(b) If only conclusion II follows. 
+यदि केर्ि निष्कषव II अिुसरर् करता है। 
+(c) If either conclusion I or II follows. 
+यदि या तो निष्कषव I या II अिुसरर् करता है। 
+(d) If neither conclusion I nor II follows. 
+यदि ि तो निष्कषव I और ि ही II अिुसरर् करता है। 
+(e) If both conclusions I and II follow. 
+यदि निष्कषव I और II िोिों अिुसरर् करते हैं। 
+ 
+7 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q20. Statements:  
+Some earbuds are phone.  
+All phone are charger.  
+कथि: कुछ ईयरबड, िोि हैं।  
+सभी िोि, चाजवर हैं। 
+Conclusions: / निष्कषव: 
+I. All earbuds can be charger. / सभी ईयरबड्स, चाजवर हो सकते हैं। 
+II. Some Phone are not charger. / कुछ िोि, चाजवर िहीं हैं। 
+(a) If only conclusion I follows. 
+यदि केर्ि निष्कषव I अिुसरर् करता है। 
+(b) If only conclusion II follows. 
+यदि केर्ि निष्कषव II अिुसरर् करता है। 
+(c) If either conclusion I or II follows. 
+यदि या तो निष्कषव I या II अिुसरर् करता है। 
+(d) If neither conclusion I nor II follows. 
+यदि ि तो निष्कषव I और ि ही II अिुसरर् करता है। 
+(e) If both conclusions I and II follow. 
+यदि निष्कषव I और II िोिों अिुसरर् करते हैं। 
+ 
+Q21. If in the given number “3852364718” 1 is added to the odd digits and 1 is subtracted from the even 
+digits then what will be the sum of the digits which are 3rd from the right end and 5th from the left end in 
+the number thus formed after rearrangement? 
+यदि िी गई संख्या “3852364718” के नर्षम अंकों में 1 जोडा जाता है और सम अंकों में से 1 घटाया जाता है,तो पुिव्यवर्स्था के 
+बाि निर्मवत संख्या में िायें छोर से तीसरे और बाएाँ छोर से पांचर्ें अंक का योग दकतिा होगा?  
+(a) 15 
+(b) 13 
+(c) 16 
+(d) 12 
+(e) 11 
+ 
+Directions (22-25): In these questions, relationship between different elements is shown in the 
+statements. The statements are followed by two conclusions. Give answer. 
+इि प्रश्नों में, कथिों में नर्नभन्न तत्र्ों के बीच संबंि को िशावया गया है। कथिों के बाि िो निष्कषव दिए गए हैं। उत्तर िीनजए। 
+ 
+Q22.  
+ 
+8 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+(a) If only conclusion I is true.  
+यदि केर्ि निष्कषव I सत्य है। 
+(b) If only conclusion II is true.  
+यदि केर्ि निष्कषव II सत्य है। 
+(c) If either conclusion I or II is true.  
+यदि या तो निष्कषव I या II सत्य है। 
+(d) If neither conclusion I nor II is true.  
+यदि ि तो निष्कषव I और ि ही II सत्य है। 
+(e) If both conclusions I and II are true.  
+यदि निष्कषव I और II िोिों सत्य हैं। 
+ 
+Q23.  
+ 
+(a) If only conclusion I is true.  
+यदि केर्ि निष्कषव I सत्य है। 
+(b) If only conclusion II is true.  
+यदि केर्ि निष्कषव II सत्य है। 
+(c) If either conclusion I or II is true.  
+यदि या तो निष्कषव I या II सत्य है। 
+(d) If neither conclusion I nor II is true.  
+यदि ि तो निष्कषव I और ि ही II सत्य है। 
+(e) If both conclusions I and II are true.  
+यदि निष्कषव I और II िोिों सत्य हैं। 
+ 
+Q24.  
+ 
+(a) If only conclusion I is true.  
+यदि केर्ि निष्कषव I सत्य है। 
+(b) If only conclusion II is true.  
+यदि केर्ि निष्कषव II सत्य है। 
+(c) If either conclusion I or II is true.  
+यदि या तो निष्कषव I या II सत्य है। 
+(d) If neither conclusion I nor II is true.  
+यदि ि तो निष्कषव I और ि ही II सत्य है। 
+(e) If both conclusions I and II are true.  
+यदि निष्कषव I और II िोिों सत्य हैं। 
+ 
+9 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q25.  
+ 
+(a) If only conclusion I is true.  
+यदि केर्ि निष्कषव I सत्य है। 
+(b) If only conclusion II is true.  
+यदि केर्ि निष्कषव II सत्य है। 
+(c) If either conclusion I or II is true.  
+यदि या तो निष्कषव I या II सत्य है। 
+(d) If neither conclusion I nor II is true.  
+यदि ि तो निष्कषव I और ि ही II सत्य है। 
+(e) If both conclusions I and II are true.  
+यदि निष्कषव I और II िोिों सत्य हैं। 
+ 
+Directions (26-30): Study the following information carefully and answer the questions given below: 
+निम्ननिनित जािकारी का ध्यािपूर्वक अध्ययि कीनजए और िीचे दिए गए प्रश्नों के उत्तर िीनजए: 
+ 
+Eight persons were born on two dates- 15th and 22nd of four different months i.e. September, October, 
+November and December in the same year.  
+Two persons were born between S and A. S was born on an even date in the month having even number of 
+days. The number of persons born before A is one less than the number of persons born after B. Q born just 
+before B and two persons after R. C born after D and before P. 
+आठ व्यनियों का जन्म एक ही र्षव के चार अिग-अिग महीिों अथावत् नसतंबर, अक्टूबर, िर्ंबर और दिसंबर की िो नतनथयों- 15 
+और 22 को हुआ था। 
+S और A के मध्य िो व्यनियों का जन्म हुआ था। S का जन्म सम दििों की संख्या र्ािे महीिे में एक सम नतनथ को हुआ था। A से 
+पहिे जन्मे व्यनियों की संख्या, B के बाि जन्मे व्यनियों की संख्या से एक कम है। Q का जन्म B के ठीक पहिे और R के िो बाि 
+जन्में िो व्यनियों के बाि हुआ है। C का जन्म D के बाि और P से पहिे हुआ है। 
+ 
+Q26. Who among the following was born on 15th September? 
+निम्ननिनित में से दकसका जन्म 15 नसतंबर को हुआ? 
+(a) A 
+(b) R 
+(c) D 
+(d) C 
+(e) None of these / इिमें से कोई िहीं 
+ 
+10 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q27. How many persons were born between R and P? 
+R और P के मध्य दकतिे व्यनियों का जन्म हुआ था? 
+(a) Six / छह 
+(b) Five / पांच 
+(c) Four / चार 
+(d) Three / तीि 
+(e) None / कोई िहीं 
+ 
+Q28. Four among the following five pairs are alike in a certain manner and related to a group, who among 
+the following does not belong to the group? 
+निम्ननिनित पांच युग्मों में से चार एक निनित तरीके से समाि हैं और एक समूह से संबंनित हैं, निम्ननिनित में से कौि-सा उस 
+समूह से संबंनित िहीं है? 
+(a) S 
+(b) R 
+(c) B 
+(d) D 
+(e) Q 
+ 
+Q29. Which among the following statement is not true? 
+निम्ननिनित में से कौि सा कथि सत्य िहीं है? 
+(a) R was born just before A  
+R का जन्म A से ठीक पहिे हुआ था। 
+(b) C was born in December month  
+C का जन्म दिसंबर महीिे में हुआ था। 
+(c) A was born before P  
+A का जन्म P से पहिे हुआ था। 
+(d) Q and B born in the same month  
+Q और B का जन्म एक ही महीिे में हुआ। 
+(e) All are true  
+सभी सत्य हैं। 
+ 
+Q30. The number of persons born before Q is same as the number of persons born after____. 
+Q से पहिे जन्मे व्यनियों की संख्या ________ के बाि जन्मे व्यनियों की संख्या के समाि है। 
+(a) B 
+(b) S 
+(c) C 
+(d) P 
+(e) None of these / इिमें से कोई िहीं 
+ 
+11 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Directions (31-34): Study the following information carefully and answer the questions given below: 
+निम्ननिनित जािकारी का ध्यािपूर्वक अध्ययि कीनजए और िीचे दिए गए प्रश्नों के उत्तर िीनजए: 
+ 
+Pont A is 6m to the north of point H which is 8m to the east of point B. Point B is 5m to the north of point 
+F. Point E is 9m to the north of point D and 8m to the east of point F. Point G is 5m to the north of point J. 
+Point D is 4m to the east of point G.  
+बबंिु A, बबंिु H के 6 मीटर उत्तर में है, बबंिु H जो बबंिु B के 8 मीटर पूर्व में है। बबंिु B, बबंिु F के 5 मीटर उत्तर में है। बबंिु E, बबंिु 
+D के 9मी उत्तर में और बबंिु F के 8मी पूर्व में है। बबंिु G, बबंिु J के 5मी उत्तर में है। बबंिु D, बबंिु G के 4मी पूर्व में है। 
+ 
+Q31. In which direction is point E with respect to point A? 
+बबंिु A के सन्िभव में बबंिु E दकस दिशा में है? 
+(a) South / िनक्षर् 
+(b) North / उत्तर 
+(c) North west / उत्तर पनिम 
+(d) South east / िनक्षर् पूर्व 
+(e) East / पूर्व 
+ 
+Q32. What is the shortest distance between point D and point J? 
+बबंिु D और बबंिु J के मध्य न्यूितम िूरी दकतिी है? 
+(a) √33m / √33 मीटर 
+(b)√41m / √41 मीटर 
+(c) 41m / 41 मीटर 
+(d) 35m / 35 मीटर  
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q33. What is the total distance from point E to point J? 
+बबंिु E से बबंिु J तक कुि िूरी दकतिी है? 
+(a) 23m / 23 मीटर 
+(b) 20m / 20 मीटर 
+(c) 18m / 18 मीटर 
+(d) 25m / 25 मीटर 
+(e) 19m / 19 मीटर 
+ 
+Q34. Four among the following five pairs are alike in a certain manner and related to a group, which among 
+the following does not belong to the group? 
+निम्ननिनित पांच युग्मों में से चार एक निनित तरीके से समाि हैं और एक समूह से संबंनित हैं, निम्ननिनित में से कौि-सा उस 
+समूह से संबंनित िहीं है? 
+(a) A-F 
+(b) E-G 
+(c) D-J 
+(d) B-D 
+(e) E-J 
+ 
+12 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Directions (35-39): Study the following information carefully and answer the questions given below: 
+निम्ननिनित जािकारी का ध्यािपूर्वक अध्ययि कीनजए और िीचे दिए गए प्रश्नों के उत्तर िीनजए: 
+ 
+Seven persons from A to G sit in a row such that all of them face north. Each of them likes different colour 
+– Black, Blue, Red, Pink, Green, Golden and White. All the information is not necessarily in the same order. 
+Two persons sit between E and the one who likes red. A is the only neighbour of the one who likes red. D 
+sits second to the left of E. The one who likes golden sits adjacent to D and sits second to the right of C. 
+More than three persons sit between C and F. B sits second to the left of the one who likes White. Three 
+persons sit between G and the one who likes blue. The one who likes black sits left to the one who likes 
+green and right to the one who likes pink. 
+A से G तक सात व्यनि एक पंनि में इस प्रकार बैठते हैं दक र्े सभी उत्तर की ओर उन्मुि हैं। उिमें से प्रत्येक को अिग-अिग रंग 
+पसंि हैं - कािा, िीिा, िाि, गुिाबी, हरा, गोल्डि और सिेि। जरूरी िहीं दक सभी जािकारी इसी क्रम में हों। 
+E और िाि रंग पसंि करिे र्ािे व्यनि के मध्य िो व्यनि बैठे हैं। A, िाि रंग पसंि करिे र्ािे का एकमात्र पडोसी है। D, E के 
+बायें से िूसरे स्थाि पर बैठा है। र्ह व्यनि नजसे गोल्डि रंग पसंि है र्ह D के आसन्न और C के िायें से िूसरे स्थाि पर बैठा है। C 
+और F के मध्य तीि से अनिक व्यनि बैठे हैं। B, सिेि रंग पसंि करिे र्ािे के बायें से िूसरे स्थाि पर बैठा है। G और िीिा रंग पसंि 
+करिे र्ािे के मध्य तीि व्यनि बैठे हैं। र्ह व्यनि नजसे कािा रंग पसंि है र्ह हरे रंग को पसंि करिे र्ािे के बायें और गुिाबी रंग 
+पसंि करिे र्ािे के िायें बैठा है। 
+ 
+Q35. Who among the following likes pink? 
+निम्ननिनित में से दकसे गुिाबी रंग पसंि है? 
+(a) C 
+(b) D 
+(c) B 
+(d) A 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q36. Which among the following combination is correct? 
+निम्ननिनित में से कौि सा संयोजि सही है? 
+(a) C- Black / C – कािा 
+(b) A- White / A – सिेि 
+(c) E- Blue / E - िीिा 
+(d) A- Green / A – हरा 
+(e) None is correct / कोई भी सही िहीं है। 
+ 
+Q37. How many persons sit between F and B?  
+F और B के मध्य दकतिे व्यनि बैठे हैं?  
+(a) One / एक 
+(b) Two / िो 
+(c) None / कोई िहीं 
+(d) Three / तीि 
+(e) More than three / तीि से अनिक 
+ 
+13 
+Adda247 | No. 1 APP for Banking & SSC Preparation 
+
+ 
+Q38. F likes which among the following colours? 
+F को निम्ननिनित में से कौि सा रंग पसंि है? 
+(a) White / सफेि 
+(b) Blue / िीिा 
+(c) Red / िाि 
+(d) Either red or blue / या तो िाि या िीिा 
+(e) None of these / इिमें से कोई िहीं 
+ 
+Q39. Which among the following statement(s) is/are true? 
+निम्ननिनित में से कौि सा/से कथि सत्य है/हैं? 
+(a) C sits adjacent to D  
+C, D के आसन्न बैठा है। 
+(b) E likes Black colour  
+E कािा रंग पसंि करता है। 
+(c) One person sits between C and B  
+एक व्यनि C और B के मध्य बैठा है। 
+(d) F sits at the extreme end  
+F अंनतम छोर पर बैठा है। 
+(e) All are true / सभी सत्य हैं। 
+ 
+Q40. If we form a four-letter meaningful word by using the second, third, fifth and ninth letter 
+from the left end of the word ‘MICROPHONE’, then which of the following will be the fourth letter of the 
+meaningful word thus formed. If more than one word is formed mark Z as your answer. If no meaningful 
+word is formed, mark X as your answer? 
+यदि हम शब्ि ‘MICROPHONE’ के बाएं छोर से िूसरे, तीसरे, पांचर्ें और िौर्ें अक्षर का उपयोग करके चार अक्षरों का अथवपूर्व 
+शब्ि बिाते हैं, तो निम्न में से कौि सा अथवपूर्व शब्ि का चौथा अक्षर होगा। यदि एक से अनिक शब्ि बिते हैं तो Z को अपिा उत्तर 
+िें। यदि कोई साथवक शब्ि िहीं बिता है, तो X को अपिा उत्तर िें?  
+(a) O 
+(b) I 
+(c) C 
+(d) X 
+(e) Z 
+ 
+Directions (41-45): Find the wrong number in following number series. 
+निम्ननिनित संख्या श्ंििा में गित संख्या ज्ञात कीनजए।

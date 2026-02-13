@@ -1,0 +1,397 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 7
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/03/05021229/SBI-PO-Pre-2022-19th-Dec-Shift-Wise-Previous-Year-Paper-Mock-07.pdf
+======================================================================
+
+Q66. In the word ‘ENVIRONMENT’, if all the consonants are replaced with their immediate 
+previous letter and all the vowels are replaced with their immediate next letter according to 
+alphabetical series, then how many vowels are there in the new word formed after the 
+rearrangement? 
+(a) One 
+(b) Two 
+(c) Four 
+(d) Three 
+(e) None of these 
+ 
+Directions (67-69) : Study the following information carefully and answer the questions given 
+below: 
+Six persons sit around a circular table but not necessarily in the same order. Three of them face inside 
+while rest three face outside the centre. All of them get different marks in an examination viz. 16, 18, 
+20, 25, 27 and 36 but not in the same order as given.  
+T sits second to the right of O and gets the marks which is a cube of a number. One person sits between 
+T and X who faces the same direction as O. The one who gets double the marks of O is an immediate 
+neighbour of T. L sits second to the right of R who gets 7 marks less than T. L does not get the highest 
+marks. R and O face opposite directions. Immediate neighbours of R facing the same direction. K is not 
+an immediate neighbour of X. The one who gets 16 marks sits second to the right of T but immediate 
+left of the one who gets 25 marks. R doesn’t face inside 
+ 
+Q67. Who among the following sits second to the right of the one who gets 25 marks? 
+(a) R 
+(b) O 
+(c) K 
+(d) T 
+(e) None of these 
+ 
+Q68. What is the difference between the marks got by X and O? 
+(a) 7 
+(b) 4 
+(c) 5 
+(d) 2 
+(e) None of these  
+ 
+ 
+18 
+ 
+ 
+Q69. Who among the following sits second to the left of the one who gets fourth lowest marks? 
+(a) O 
+(b) R 
+(c) K 
+(d) T 
+(e) None of these  
+ 
+Q70. If 1 is added to each even digit and 2 is subtracted from each odd digit in the number 
+39225685459, then how many digits will appear more than twice in the new number thus 
+formed?  
+(a) One 
+(b) Two 
+(c) Three 
+(d) None 
+(e) Four 
+ 
+Directions (71-75) : Study the following information carefully and answer the question given 
+below: 
+Seven persons sit in a row facing to the south and they all have different ages. E sits 2nd from one of the 
+extreme ends. Three persons sit between E and the one who is 25 years old. The one who is 25 years 
+old is the only neighbour of A. D sits to the right of C. The Age of D is equal to the total age of his 
+immediate neighbours. C is 15 years old and sits 3rd to the right of E. B is 10 years older than A and 10 
+years younger than G who sits at one of the extreme ends. F sits to the right of B who is 1 year younger 
+than E whose age is thrice of age of F.  
+ 
+Q71. What is the sum of the ages of F and G? 
+(a) 45 years 
+(b) 37 years 
+(c) 30 years 
+(d) 22 years 
+(e) None of these 
+ 
+Q72. Who among the following sits 3rd to the left of F? 
+(a) G 
+(b) E 
+(c) B  
+(d) None of these 
+(e) C 
+ 
+Q73. Four of the following five are alike in a certain way and so form a group. Find the one who 
+does not belong to that group? 
+(a) D 
+(b) F 
+(c) C 
+(d) E 
+(e) A 
+ 
+ 
+19 
+ 
+ 
+Q74. ___ sits 2nd to the right of the one who is ___ years old. 
+(a) A, 15 
+(b) F, 25 
+(c) B, 30 
+(d) G, 20 
+(e) Both (a) and (c)  
+ 
+Q75. What is the sum of the ages of D, F and E? 
+(a) 57 years 
+(b) 53 years 
+(c) 42 years 
+(d) 38 years 
+(e) None of these 
+ 
+Directions (76-80) : Study the following information carefully and answer the questions given 
+below: 
+Nine boxes are placed one above the other. The bottommost shelf is numbered as 1 and just above it is 
+numbered as 2 and so on till the topmost shelf is numbered as 9.  
+Box C is placed at the position which is a multiple of 3. Three boxes are placed between Box C and Box 
+H. There are as many boxes placed below Box H as above Box L. Box G is placed just above Box E but not 
+placed just below Box C. Box D is placed below Box E. More than two boxes are placed between Box M 
+and Box B. Box F is placed above Box M.   
+ 
+Q76. How many boxes are placed between Box E and Box F? 
+(a) None 
+(b) Two 
+(c) Four 
+(d) Five 
+(e) Three 
+ 
+Q77. How many boxes are placed below Box M? 
+(a) Three 
+(b) Five 
+(c) Four 
+(d) One 
+(e) None  
+ 
+Q78. How many boxes are placed between Box H and Box C? 
+(a) None 
+(b) Two 
+(c) Four 
+(d) Five 
+(e) None of these 
+ 
+ 
+20 
+ 
+ 
+Q79. The number of boxes placed between Box D and Box M is half of the number of boxes placed 
+above Box _____.  
+(a) Box F 
+(b) Box E 
+(c) Box L 
+(d) Box B 
+(e) Box C 
+ 
+Q80. Four of the following five are alike in a certain way and hence form a group. Which of the 
+following does not belong to that group? 
+(a) Box E 
+(b) Box H 
+(c) Box L 
+(d) Box C 
+(e) Box G 
+ 
+Q81. If we form a five-letter meaningful word by using the 2nd, 5th, 6th, 7th and 11th letter from the 
+left end of the word ‘APPLICATION’ (Using each letter once) , then which of the following will be 
+the fourth letter of the meaningful word thus formed. If more than one word is formed then mark 
+Z as your answer. If no meaningful word is formed, mark X as your answer.  
+(a) N 
+(b) I 
+(c) C 
+(d) X 
+(e) Z 
+ 
+Directions (82-83) : Study the following information carefully and answer the related questions. 
+There are seven members in a family of three generations. There is no single parent in the family. 
+J is the father-in-law of N who is the father of both R and X. O is the mother of S. A is the only son of J. 
+Female members are more than male members. 
+ 
+Q82. How R is related to O? 
+(a) Grandson 
+(b) Granddaughter 
+(c) Daughter-in-law 
+(d) Sister 
+(e) Son-in-law 
+ 
+Q83. How A is related to X? 
+(a) Brother 
+(b) Paternal Uncle 
+(c) Maternal Uncle 
+(d) Brother–in–law 
+(e) None of these 
+ 
+ 
+21 
+ 
+ 
+Directions (84-87) : Study the following information carefully and answer the questions given 
+below: 
+A certain number of persons sit in a row facing north direction. Two persons sit between N and Q who 
+is the only neighbour of B. W sits 5th to the left of L who sits immediately right of N. W sits exactly middle 
+of the row. The number of persons sit between W and N is the same as the number of persons sit 
+between W and T. Z sits 2nd to the right of H. Three person sits between T and H. O sits just left of A and 
+just right of E who doesn’t sit adjacent to W. 
+ 
+Q84. How many persons sit in the row? 
+(a) 15 
+(b) 21 
+(c) 19 
+(d) 17 
+(e) Can’t be determined 
+ 
+Q85. How many persons sit between E and W? 
+(a) None 
+(b) Three 
+(c) Five 
+(d) Two 
+(e) More than five 
+ 
+Q86. The number of persons sit between H and N is _______. 
+(a) Multiple of 5  
+(b) Prime number 
+(c) Even Number 
+(d) Multiple of 6 
+(e) Can’t be determined 
+ 
+Q87. Which of the following pair of persons are adjacent to each other? 
+(a) A, T 
+(b) E, N 
+(c) L, E 
+(d) None of these 
+(e) T, E 
+ 
+Directions (88-90) : Study the following information carefully and answer the questions given 
+below: 
+Six pairs of shoes are arranged in a shoe rack according to their length from left to right. Shoe A is shorter 
+than only Shoe K and Shoe L. Shoe S is longer than Shoe B and shorter than Shoe Z. The Length of Shoe 
+K is 52cm and the length of Shoe Z is 46cm. The length of shoe L is 55cm. 
+ 
+ 
+22 
+ 
+ 
+Q88. Which of the following shoes is 2nd shortest? 
+(a) Shoe Z 
+(b) Shoe S 
+(c) Shoe B 
+(d) Either shoe S or shoe B 
+(e) Either shoe Z or shoe B 
+ 
+Q89. What will the possible Length of Shoe A? 
+(a) 44cm 
+(b) 40cm 
+(c) 50cm 
+(d) 59cm 
+(e) Can’t be determined 
+ 
+Q90. If the length of Shoe Z is 35cm, then what will be the difference between the length of Shoe 
+K and Shoe Z? 
+(a) 27cm 
+(b) 15cm 
+(c) 26cm 
+(d) 17cm 
+(e) None of these 
+ 
+Directions (91-95) : Study the following information carefully and answer the questions given 
+below: 
+Eight persons P, Q, R, S, T, U, V and W (but not necessarily in the same order) were born on the 21st of 
+eight different months i.e., January, February, March, April, May, June, July and August of the same year. 
+Four persons were born between R and W who was born just after S. R and T were born in the adjacent 
+month having 31 days. P was born three months before V. U was neither born in May nor in June. 
+ 
+Q91. How many persons were born between Q and S? 
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four 
+ 
+Q92. Who among the following was born in April?  
+(a) W 
+(b) P 
+(c) Q 
+(d) U 
+(e) None of these 
+ 
+ 
+23 
+ 
+ 
+Q93. Four of the following five are alike in a certain way and thus form a group, then who among 
+the following doesn’t belong to that group? 
+(a) R 
+(b) S 
+(c) P 
+(d) V 
+(e) T 
+ 
+Q94. Who among the following was born two months after W? 
+(a) V 
+(b) U 
+(c) Q 
+(d) None of these 
+(e) P 
+ 
+Q95. Q was born in _________ month. 
+(a) April 
+(b) February 
+(c) March 
+(d) May 
+(e) July 
+ 
+Directions (96-100) : In the question below three statements are given followed by two 
+conclusions. You have to take the given statements to be true even if they seem to be at variance 
+with commonly known facts. Read all the conclusions and then decide which of the given 
+conclusions logically follows from the given statements disregarding commonly known facts. 
+ 
+Q96.  
+Statements:  
+Only a few Gun is Point 
+No Point is Pin 
+All Pin is Glue 
+Conclusions:  
+I. Some Glue is not Point 
+II. Some Gun is not Pin. 
+(a) Only conclusion I follow  
+(b) Only conclusion II follow  
+(c) Either conclusion I or II follows  
+(d) Both conclusions I and II follow  
+(e) Neither conclusion I nor II follows 
+ 
+ 
+24 
+ 
+ 
+Q97.  
+Statements:  
+Each Moon is Night 
+80% Night is Good  
+Only a few Good is Morning 
+Conclusions:  
+I. Some Moon is Good 
+II. All Morning can be Night 
+(a) Only conclusion I follow 
+(b) Only conclusion II follow  
+(c) Either conclusion I or II follows  
+(d) Both conclusions I and II follow  
+(e) Neither conclusion I nor II follows 
+ 
+Q98.  
+Statements:  
+Some M are K. 
+All K are N.  
+No N is S. 
+Conclusions:  
+I.  Some M are N 
+II. No S is K 
+(a) Only conclusion I follow  
+(b) Only conclusion II follow 
+(c) Either conclusion I or II follows  
+(d) Both conclusions I and II follow  
+(e) Neither conclusion I nor II follows 
+ 
+Q99.  
+Statements:  
+A few 345 are 836 
+Only 836 is 912  
+No 345 is 523 
+Conclusions:  
+I. Some 523 can be 836 
+II. A few 912 is 345 
+(a) Only conclusion I follow 
+(b) Only conclusion II follow  
+(c) Either conclusion I or II follows  
+(d) Both conclusions I and II follow  
+(e) Neither conclusion I nor II follows 
+ 
+ 
+25 
+ 
+ 
+Q100.  
+Statements:  
+All God is Pod  
+Mostly Pod is Good  
+No Good is Pond  
+Conclusions:  
+I. Some God is Pond 
+II. No Pod is Pond  
+(a) Only conclusion I follow  
+(b) Only conclusion II follow  
+(c) Either conclusion I or II follows  
+(d) Both conclusions I and II follow  
+(e) Neither conclusion I nor II follows 
+ 
+ 
+Solutions 

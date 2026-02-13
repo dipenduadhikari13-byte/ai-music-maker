@@ -1,0 +1,504 @@
+======================================================================
+Exam: SBI PO
+Phase: Mains
+Year: 2021
+Shift: 1
+Subject: Reasoning
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2022/12/16175829/SBI-PO-Mains-Previous-Year-Paper-2021.pdf
+======================================================================
+
+Q1. Which word represents “#” in the given input? 
+(a) Capture 
+(b) Product 
+(c) Bracket 
+(d) Ranging 
+(e) Correct 
+ 
+Q2. Which word represents “$” in the step III? 
+(a) dtbfm 
+(b) ctbfv 
+(c) dttbm 
+(d) dtbmv 
+(e) None of these 
+ 
+Q3. Which among the following is the wrong word in step 
+IV? 
+(a) htbu 
+(b) mqp 
+(c) dtbmu 
+(d) rtbuj 
+(e) am 
+ 
+Q4. Which word represents “@” in the step IV? 
+(a) tupdm 
+(b) tupdn 
+(c) supdn 
+(d) tvpdn 
+(e) tupcn 
+ 
+Q5. Which word represents “%” in the step V? 
+(a) pqp 
+(b) opq 
+(c) mwp 
+(d) prp 
+(e) mqs 
+ 
+Directions (6-9):  Read the given information and answer 
+the following questions: 
+ 
+There are eight children A, B, C, D, L, M, N and O in a batch (but 
+not necessarily in the same order) and they are of different 
+age. They are born in four months from January to April (not 
+in same year) i.e., two children in each month. Age of all 
+children is between 7 to 19 years. No one has the same age.  
+Total age of C and A is a multiple of 5 and they are not born in 
+the same month. Difference between the age of C and N is 5 
+less than the age of M. L is older than D and his age is not 16. 
+M is not born after march. A is not born in the month having 
+31 days. D is neither born with A nor born in January. L is born 
+in march but not with M and D.C is neither born with L nor 
+born in January. Age of both the persons born in January is 
+prime number. Neither C nor N is youngest and oldest 
+children in batch. B’s age is 5 more than A’s age and they are 
+not born in the same month. M’s age is a multiple of 7 and 1 
+more than the age of the one who is born with N. Age 
+difference between A and M is same as the age difference 
+between L and D. C’s age is a perfect cube number. A’s age is 
+not an even number. 
+ 
+Q6. Which among the following pair of persons born in 
+March?  
+(a) O, L 
+(b) C, B 
+(c) L, B 
+(d) O, C 
+(e) None of these 
+ 
+Q7. What is the age of D? 
+(a) 13 
+(b) 9 
+(c) 11 
+(d) 10 
+(e) None of these 
+ 
+ 
+2 
+
+ 
+Q8. Which among the following combination is not 
+correct? 
+(a) O- 13 
+(b) April - A 
+(c) March - B 
+(d) L - 18 
+(e) February - M 
+ 
+Q9. What is the total age of the persons born in April? 
+(a) 20 
+(b) 30 
+(c) 21 
+(d) 19 
+(e) None of these 
+ 
+Directions (10-11): At least 85 forest fires are raging in 
+Uttarakhand and have destroyed 165 acres of land in the 
+past 24 hours to 48 hours, forcing the state to seek the 
+Centre’s intervention. Several sorties of the Indian Air 
+Force were pressed into service to spray water over the 
+fires even as it became clear that the state, with a forest 
+cover of 71% of its area, still does not have an effective 
+strategy to deal with forest fires. 
+ 
+Q10. What course of action State Government should take 
+to deal with forest fire issue which may prevent it in 
+future? 
+(a) All the trees should be cut down and it should be made 
+plain areas to intercept fire issues in future. 
+(b) State Government should seek the help of van panchayats 
+and local people in checking forest fires and set up fire control 
+rooms and fire stations at tehsil and block levels. 
+(c) The only effective way to deal with forest fires is getting 
+locals involved to ensure that such fires aren’t man-made and 
+when fires start, enough people are mobilised to fight them. 
+(d) Both (b) and (c) 
+(e) Both (a) and (c) 
+ 
+Q11. Which of the following can be assumed from the 
+above statement? 
+(I) CM of Uttarakhand will resign as a failure to prevent the 
+forest fire issues.  
+(II) Forest fires in the state is a long-term issue which are from 
+years. 
+(III) Air force personnel got training to handle this type of 
+situation. 
+(IV) Other states which covers major forest areas will be alert 
+and take preventive measures. 
+(V) All the animals in Uttarakhand Forest will be shifted to 
+another state forest area. 
+(a) Only II and IV 
+(b) Only I, III and V 
+(c) Only I and V 
+(d) Only II, IV and V 
+(e) Only II, III and IV 
+ 
+Directions (12-13): Read the information given below 
+and answer the related questions: 
+In a certain code language 
+‘Union vote count structure’ is written as ‘plm hbu bnp rdc’ 
+‘Federal unit structure’ is written as ‘hbu  scr  tby’ 
+‘Federal states count’ is written as ‘scr  bnp  qaz’ 
+ 
+Q12. What will be the code for ‘union states unit’ as per 
+the given code language? 
+(a) bnp  scr  qaz 
+(b) rdc qaz thy 
+(c) thy plm hbu 
+(d) plm qaz thy 
+(e) Can’t be determined 
+ 
+Q13. The codes ‘hbu  bnp  scr’ stand for which among the 
+following words? 
+(a) Federal unit vote 
+(b) Union states count 
+(c) Count structure vote 
+(d) Structure count federal 
+(e) None of these 
+ 
+Directions (14-17): Read the given information carefully 
+and answer the questions given below: 
+ 
+Seven students give exams of different subjects on different 
+days of a week starting from Monday. They got different ranks 
+from I to VII in their exams. B gives the exams of physics but 
+not on Tuesday and Friday. Three days are there between 
+Math and Physics exam. English exam is given after math 
+exam but not on Saturday and Sunday. The one who gives 
+Hindi exam got rank I. One person gives exam between 
+English and Hindi. More than three persons give exam before 
+Hindi exam. Computer exam is given just after V who does not 
+get an even rank. H neither gives exam of English and Math 
+nor gets rank I and IV. T gives the exam of Bio but four days 
+after the one who gets rank VII. G neither gives exam on 
+Thursday nor gets rank I and II. K gets rank III but does not 
+give the exam of history. C gives the exam just before the one 
+who gets an odd rank and just after the one who gets rank II. 
+T gets neither IV rank nor VI rank. 
+ 
+Q14. Which among the following combination is correct? 
+(a) Monday - III 
+(b) Saturday - Hindi 
+(c) K - Math 
+(d) Physics - II 
+(e) T - V 
+ 
+Q15. C gives the exam on which among the following 
+days? 
+(a) Monday  
+(b) Thursday 
+(c) Tuesday 
+(d) Saturday 
+(e) None of these 
+ 
+3 
+
+ 
+Q16. How many persons give exams between T and H? 
+(a) Four 
+(b) Three 
+(c) Two 
+(d) One 
+(e) None of these 
+ 
+Q17. What is the subject and rank of V? 
+(a) Math - VII 
+(b) History- VII 
+(c) Math - III 
+(d) English - VII 
+(e) None of these 
+ 
+Q18. Which of the following arguments is strong in 
+respect of the given statement? 
+Statement: An apple a day, keeps a doctor away-Instruction 
+given by Health ministry of India. 
+Arguments: 
+I. Every individual should consume an apple daily to keep 
+himself fit physically and mentally. 
+II. Real juice of apple flavor should be banned as it is 
+contaminated with harmful chemicals. 
+III. To consume an apple daily by every individual is not 
+possible as it is costly in summer season. 
+IV.  An individual can be healthy by taking green vegetables 
+and alternative cheap fruits. 
+ 
+(a) I and III 
+(b) I, II and III 
+(c) I, III and IV 
+(d) All I, II, III and IV 
+(e) None of these 
+ 
+Directions (19-20): In each of the questions given below, 
+two conclusions are given followed by five set of 
+statements. You have to take the given conclusions to be 
+true even if they seem to be at variance with commonly 
+known facts and then decide that the conclusions 
+logically follow for which of the given statements 
+disregarding commonly known facts. 
+ 
+Q19. Conclusions:  
+I. All letter can be down is not a possibility.  
+II. No mark being button is a possibility. 
+Statements: 
+(a) All down is mark. All mark is button. Only a few letter is 
+arrow. No arrow is down.  
+(b) Some letter is button. Only a few button is down. All arrow 
+is down. No mark is arrow.  
+(c) Only a few arrow are button. No down is arrow. Only mark 
+is letter. Some arrow is mark.  
+(d) All arrow is down. No letter is arrow. All button is letter. 
+Some mark is not letter.  
+(e) No letter is arrow. All down is button. All button is arrow. 
+No mark is button.  
+ 
+Q20. Conclusions:  
+I. Some ball being not box is not a possibility.  
+II. No box being bottle is a possibility.  
+Statements: 
+(a)Only a few ball is colour. Only a few colour is water. No 
+water is box. All ball are bottle. 
+(b)Some water is ball. All ball is bottle. No colour is ball. Some 
+box is bottle.   
+(c)No colour is box. Only a few water is box. Some ball is 
+bottle. No bottle is box. 
+(d) Some water is not bottle. Only ball is colour. All bottle is 
+ball. All box is water.  
+(e)Only water is bottle. Only a few ball is water. Some box is 
+water. Some water is not colour.  
+ 
+Directions (21-25): Read the given information carefully 
+and answer the related questions.  
+ 
+Ten persons A to J (according to alphabet series) of three 
+generations live in a family and they sit in a linear row for a 
+game but not necessarily in the same order. Some of them face 
+north while some face south.  
+Three persons sit between A’s husband and G’s husband and 
+both face the same direction. H is the only son of B and sits 
+adjacent to G’s husband. Immediate neighbours of H do not 
+face north. Mother of E sits immediate right of H who sits sixth 
+to the right of C. One person sits between C and G who is the 
+sibling of H and J. D’s wife is the only neighbour of G. E sits 
+second to the left of J’ brother and faces south. Two persons 
+sit between B and A. F and A sits immediate left to each other. 
+C is son of F. Father of E sits immediate right of B. G and D face 
+the same direction but opposite to J’s mother-in-law. E and G 
+have same gender. 
+ 
+Q21. How many persons face north? 
+(a) Four 
+(b) Three 
+(c) Five 
+(d) Six 
+(e) None of these 
+ 
+Q22. Who among the following sits third to the right of C’s 
+father-in-law? 
+(a) B 
+(b) C 
+(c) I 
+(d) F 
+(e) None of these 
+ 
+Q23. How many persons sit between I and his wife? 
+(a) Two 
+(b) Four 
+(c) Five 
+(d) Seven 
+(e) None of these 
+ 
+4 
+
+ 
+Q24. Who among the following is brother-in-law of C? 
+(a) F 
+(b) D 
+(c) H 
+(d) Both H and I 
+(e) I 
+ 
+Q25. What is the relation of E with respect to the one who 
+sits just left of A? 
+(a) Wife 
+(b) Sister 
+(c) Granddaughter 
+(d) Daughter-in-law 
+(e) None of these 
+ 
+Directions (26-27): According to the study, Air pollution 
+accounts for one out of every eight deaths in India. India 
+has one of the highest annual average ambient 
+particulate matter PM2.5 exposure levels in the world. 
+The effects of PM2.5 are more dangerous than any other 
+particulate matter, as these particles with a size equal to, 
+or smaller than 2.5mm, can easily get into the respiratory 
+tract and settle in the lungs, and some may even get into 
+our bloodstream. 
+ 
+Q26. Which of the following abrogates the fact found in 
+study? 
+(I) At least 11% of premature deaths in people less than 70 
+years of age is due to air pollution. 
+(II) The life expectancy in India will be increased by 1.7 years 
+if pollution levels will get lower than the minimum levels 
+associated with health loss. 
+(III) There are total of 7 cities of India in the list of top 20 
+world safest cities to breathe. 
+(a) Only II 
+(b) Only I and III 
+(c) Only III 
+(d) All I, II & III 
+(e) None of these 
+ 
+Q27. Which of the followings are not in line as per the 
+above statement? 
+(I) The rising population will further increase the vehicle 
+growth and so emissions will increase to a larger extent. 
+(II) The switch to public transport is needed to resolve the 
+situation of air pollution. 
+(III) There is an emergent need for people to adopt a 
+sustainable lifestyle that relies on lesser energy consumption 
+technologies and equipment. 
+(a) Only III 
+(b) Only II and III 
+(c) Only I and III 
+(d) Only I and II 
+(e) None of these 
+ 
+Directions (28-29): Study the following information 
+carefully and answer the questions given below. 
+ 
+The first 15 consecutive odd numbers are written from top to 
+bottom such that the letters of the word “MEAT” are arranged 
+in alphabetical order corresponding to the numbers which are 
+consecutive multiple of 3 (multiple starts from 3).  
+Three letters are placed between J and T.  The odd number 
+placed above J is same as the odd number placed below K.  K 
+is placed corresponding to the prime number.  I is placed 
+corresponding to the number which is multiple of 5. No two 
+vowels are placed at adjacent positions. L is placed below I. L 
+is placed corresponding to the prime number. 
+ 
+Q28. How many four-letter meaningful words can be 
+formed with the letters placed corresponding to the given 
+numbers i.e., 9, 15, 25 and 29(each letter used once only)? 
+(a) One 
+(b) Two 
+(c) Three  
+(d) None 
+(e) More than three 
+ 
+Q29.  How many letters according to the English 
+alphabetical series are placed between the letters placed 
+corresponding to numbers 13 and 21? 
+(a) One 
+(b) Five 
+(c) Three  
+(d) Four 
+(e) More than five 
+ 
+Directions (30-33): In the following questions, the 
+symbols %, @, &, $ and # are used with the following 
+meaning as illustrated below- 
+ 
+‘A$B’ means ‘A is not greater than B’ 
+‘A%B’ means ‘A is not smaller than B’ 
+‘A@B’ means ‘A is neither smaller nor greater than B’ 
+‘A&B’ means ‘A is neither equal to nor smaller than B’ 
+‘A#B’ means ‘A is neither equal to nor greater than B’ 
+Now in each of the following questions assuming the given 
+statements to be true, find which of the three conclusions I, II 
+and III given below them is/are definitely true and give your 
+answer accordingly. 
+ 
+Q30.Statements:  
+P&Q#U$W; Q%S&T; W#Y@Z 
+Conclusions:  
+I.Q#Z                 
+II.S&W         
+III.P%Y 
+(a) Only I is true 
+(b) Only II is true 
+(c) Both I and II are true 
+(d) Both III and I are true 
+(e) All are true 
+ 
+5 
+
+ 
+Q31. Statements:  
+C#D$F&E; F%I&J$K; J#M@N 
+Conclusions:  
+I.I$D  
+II. K&N       
+III.K$M 
+(a) Only I is true 
+(b) Only II is true 
+(c) Both I and II are true 
+(d) Either II or III is true 
+(e) Either I or II is true 
+ 
+Q32. Statements:   
+V&Y%K; U@V$W#X; R%J@W 
+Conclusions:  
+I. V$R                
+II. K#U       
+III.R&U 
+(a) Only I is true 
+(b) Only II is true 
+(c) Both I and II are true 
+(d) Only I and either II or III are true 
+(e) Both I and III are true 
+ 
+Q33.Statements:  
+H&I%G; P@N#L$I; N%Q&R@T 
+Conclusions:  
+I. P$G              
+II. R#L       
+III.I&P 
+(a) Only I is true 
+(b) Only II is true 
+(c) Both I and II are true 
+(d) Only III is true 
+(e) Both II and III are true 
+ 
+Directions (34-35): Study the following information 
+carefully and answer the questions given below. 
+ 
+16 letters from K to Z (according to alphabet series) are placed 
+in the form of a 4*4 matrix.  
+Note- Consecutive letters according to the English 
+alphabetical series are neither placed in the same row nor in 
+the same column. Ex- B is not placed in the column of A and 
+row of A.  
+R is placed to the north of M but not just north. Only X is placed 
+to the west of M. One letter is placed between R and T either 
+in the same row or in the same column. S is placed neither in 
+the row of X nor in the column of X. L is placed just south-west 
+of S and north of V. Q is placed in the south-east of Y and Z. Y 
+and Z are placed in adjacent columns. O is placed just north-
+west of W. P is not placed in the same row of R and S. Z is not 
+placed in the row of U which is placed to the west of N.  
+ 
+Q34. Name the letters which are placed to the south of K? 
+(a) P, X 
+(b) Z, P, X 
+(c) U, P, X 
+(d) S, W, Q 
+(e) None of these 
+ 
+Q35. Which among the following letter is placed to the 
+north-east of O? 
+(a) T 
+(b) R 
+(c) Y 
+(d) N 
+(e) None of these

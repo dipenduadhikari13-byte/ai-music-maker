@@ -1,0 +1,404 @@
+======================================================================
+Exam: IBPS RRB PO
+Phase: Prelims
+Year: 2022
+Shift: 4
+Subject: Quant
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/04/22152914/RRB-PO-Pre-2022-20th-August-Shift-Wise-Previous-Year-Paper-Mock-04.pdf
+======================================================================
+
+Q41. Present age of Deepa is 50% more than that of Shiva and 
+age of Deepa 5 years ago was 50% of the age of Shiva 10 years 
+hence. Find sum of their age 5 years later? 
+(a) 30 years 
+(b) 25 years 
+(c) 45 years 
+(d) 35 years 
+(e) 20 years 
+ 
+ 
+11 
+ 
+ 
+Q42. Two types of rice which cost Rs. 40/kg and Rs. 60/kg are mixed and marked at Rs. 
+𝟐𝟎𝟎
+𝟑𝐊𝐠. If 
+shopkeeper earns 25% profit after allow a discount of 10% on mixture, then find in what 
+respective ratio these two types of rice are mixed? 
+(a) 3 : 2  
+(b) 6 : 5  
+(c) 6 : 1  
+(d) 4 : 3  
+(e) 4 : 5  
+ 
+Q43. Q invested 25% more than P in a partnership business. After six-months, P & Q increased 
+their amount by Rs. 3000 and Rs. 1000 respectively. If at the end of a year, ratio of profit share 
+of P to Q is 27 : 31 then find initial investment of P? 
+(a) Rs. 8000  
+(b) Rs. 16000  
+(c) Rs. 12000  
+(d) Rs. 24000  
+(e) Rs. 20000 
+ 
+Q44. The difference between interest received when a sum is invested at 15% p.a. at. CI 
+compounded annually for two years & that of when that sum is invested at 15% p.a. at SI for two 
+years is 270. Find the SI when the same sum is invested for 1.5 years at 18% p.a? 
+(a) Rs. 2880  
+(b) Rs. 2970 
+(c) Rs. 3240 
+(d) Rs. 3180 
+(e)  Rs. 3360 
+ 
+Q45. To complete a work, A works for 15 days & B works for 8 days. It can also be completed when 
+they together work for 12 days. Find the difference between wages received by them if A works 
+for 9 days & B works for 16 days on the same work and total wages received for the work is Rs. 
+4200.  
+(a) Rs. 600 
+(b) Rs.800 
+(c) Rs.500 
+(d) Rs.900 
+(e) Rs.1000 
+ 
+Directions (46-50): Find the wrong number in the following number series. 
+ 
+ 
+12 
+ 
+ 
+Q46. 97, 108, 205, 313, 518, 831, 1347 
+(a) 97 
+(b) 1347 
+(c) 518 
+(d) 205 
+(e) 108 
+ 
+Q47. 120, 83, 113, 93, 105, 99, 101 
+(a) 120 
+(b) 101 
+(c) 99 
+(d) 83 
+(e) 93 
+ 
+Q48. 15, 1015, 1096, 1608, 1657, 1870, 1898 
+(a) 1898 
+(b) 1096 
+(c) 1608 
+(d) 1870 
+(e) 15 
+ 
+Q49. 1, 2, 4, 16, 128, 2048, 65536  
+(a) 1 
+(b) 65536 
+(c) 128 
+(d) 16 
+(e) 4 
+ 
+Q50. 12, 17, 32, 77, 212, 615, 1832 
+(a) 77 
+(b) 1832 
+(c) 12 
+(d) 17 
+(e) 615 
+ 
+Directions (51-55):- In each of these questions, two equations (I) and (II) are given. You have to 
+solve both the equations and give answer 
+ 
+Q51.  
+ 
+ 
+ 
+13 
+ 
+(a) if x>y 
+(b) if x≥y 
+(c) if x<y 
+(d) if x ≤y 
+(e) if x = y or no relation can be established between x and y 
+ 
+Q52.  
+ 
+(a) if x>y 
+(b) if x≥y 
+(c) if x<y 
+(d) if x ≤y 
+(e) if x = y or no relation can be established between x and y 
+ 
+Q53. 
+ 
+(a) if x>y 
+(b) if x≥y 
+(c) if x<y 
+(d) if x ≤y 
+(e) if x = y or no relation can be established between x and y 
+ 
+Q54. 
+ 
+(a) if x>y 
+(b) if x≥y 
+(c) if x<y 
+(d) if x ≤y 
+(e) if x = y or no relation can be established between x and y 
+ 
+Q55. 
+ 
+(a) if x>y 
+(b) if x≥y 
+(c) if x<y 
+(d) if x ≤y 
+(e) if x = y or no relation can be established between x and y 
+ 
+ 
+14 
+ 
+ 
+Directions (56-61): What approximate value should come in the place of (?) mark : 
+ 
+Q56.  
+ 
+(a) 325 
+(b) 375 
+(c) 225 
+(d) 405 
+(e) 625 
+ 
+Q57. 
+ 
+(a) 125 
+(b) 225 
+(c) 275 
+(d) 350 
+(e) 625 
+ 
+Q58.  
+ 
+(a) 6 
+(b) 12 
+(c) 4 
+(d) 16 
+(e)  8 
+ 
+Q59.  
+  
+(a) 2 
+(b) 6 
+(c) 3 
+(d) 8 
+(e) 4 
+ 
+Q60.  
+ 
+(a) 54 
+(b) 60 
+(c) 64 
+(d) 50 
+(e) 55 
+ 
+Q61. 
+ 
+ 
+ 
+15 
+ 
+(a) 17 
+(b) 19 
+(c) 18 
+(d) 16 
+(e) 15 
+ 
+Q62. If ratio between total surface area of cylinder to its curved surface area is 4 : 3 then radius 
+of cylinder is what percent less then height of cylinder?  
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+ 
+Q63. The average age of Satish, Sandy & Abhi is 32 years and the ratio of their ages 10 years ago 
+was 2 : 4 : 5 respectively . Find the present age of Satish? 
+(a) 16 years 
+(b) 12 years 
+(c) 10 years 
+(d) 22 years 
+(e) 18 years  
+ 
+Q64. Ten men or 8 women can complete a piece of work in 4 days and 5 days respectively. Find 
+in how many days 2 men and 3 women together can complete the same piece of work. 
+(a) 10 days 
+(b) 4 days 
+(c) 6 days 
+(d) 7 days 
+(e) 8 days 
+ 
+Q65. Ratio of two numbers is 5 : 7. If 30 is added in each number, the ratio becomes 3 : 4. Find the 
+ratio of the number if 10 is subtracted from each number. 
+(a) 5 : 8 
+(b) 8 : 11 
+(c) 7 : 10 
+(d) 6 : 11 
+(e) 7 : 9 
+ 
+ 
+16 
+ 
+ 
+Directions (66-70): The pie chart given below shows the percentage distribution of employees 
+of a company using different transport for daily commute. 
+ 
+ 
+Q66. No. of employee who use bike as daily commute is what percentage more/less than that use 
+Bicycle as daily commute? 
+(a) 75% 
+(b) 25% 
+(c) 37.5% 
+(d) 62.5% 
+(e) 80% 
+ 
+Q67. What is the central angle made by the no. of employee who use Car as daily commute? 
+(a) 72° 
+(b) 84° 
+(c) 65° 
+(d) 81° 
+(e) 90° 
+ 
+Q68. If 40% of the employee who use Car are females and 75% of employee who use Rickshaw 
+are males, then find the difference between the no. of males who use Car and no. of females who 
+use Rickshaw for daily commute. 
+(a) 68 
+(b) 78 
+(c) 62 
+(d) 48 
+(e) 84 
+ 
+ 
+17 
+ 
+ 
+Q69. What is the difference between average no. of employee use Car, Bus and Bike and no. of 
+employee who use Rickshaw and Bicycle together? 
+(a) 120 
+(b) 160 
+(c) 90 
+(d) 150 
+(e) 0 
+ 
+Q70. New employee join the company and they don’t use any transport (they walk), and they 
+consist of 20% of the total employee of the company, then find the ratio of no. of employee who 
+don’t use any transport to that of who use Bus. 
+(a) 2 : 3 
+(b) 5 : 4 
+(c) 3 : 4 
+(d) 1 : 1 
+(e) 4 : 3 
+ 
+Q71. The population of city A is 20% more than that of city B and the population of city C is 40% 
+more than that of city B. Find 30% of population of city A is what percent less than 𝟐𝟖
+𝟒
+𝟕% of 
+population of city C? 
+(a) 7.5% 
+(b) 10% 
+(c) 12% 
+(d) 15% 
+(e) 20% 
+ 
+Q72.  A train running at the speed of 144 km/hr crosses a man who is running at the speed of 18 
+km/hr in opposite direction of train in 8 sec. Find time taken by train to cross a platform, whose 
+length is 𝟔𝟔
+𝟐
+𝟑% more than length of train? 
+(a) 36 sec 
+(b) 24 sec 
+(c) 12 sec 
+(d) 28 sec 
+(e) 15 sec 
+ 
+Q73. Speed of boat in still water is twice the speed of stream and difference between upstream 
+and downstream speed of boat is 8 km/hours. Find total time taken by boat to cover 48 km 
+distance in downstream and 32 km distance in upstream?  
+(a) 10 hours 
+(b) 12 hours 
+(c) 16 hours 
+(d) 18 hours 
+(e) 20 hours 
+ 
+ 
+18 
+ 
+ 
+Q74. In a vessel quantity of water is 40% of quantity of milk. If 42 liter of mixture is taken out 
+from the vessel and 32 liter of water is added, then new ratio of milk to water in vessel becomes 
+7 : 6. Find initial quantity of mixture in vessel? 
+(a) 84 liters 
+(b) 98 liters 
+(c) 126 liters 
+(d) 154 liters 
+(e) 140 liters 
+ 
+Q75. The mark price of a jeans is Rs 700 and shopkeeper allows a discount of Rs. x and makes a 
+profit of 12.5% on it. If manufacturing cost of jeans is Rs 560, then find the discount percent 
+allowed by shopkeeper on jeans? 
+(a) 10% 
+(b) 6% 
+(c) 4% 
+(d) 3% 
+(e) 5% 
+ 
+Directions (76-80): Table shows the total (sold + unsold) number of units manufactured (in ‘000) 
+of five different products (A, B, C, D & E) and percentage of unsold units of these products. Study 
+the table given below carefully and answer the following questions. 
+ 
+ 
+Q76. Sold units of B & C together are what percent of total units manufactured of E? 
+(a) 70% 
+(b) 50% 
+(c) 90% 
+(d) 80% 
+(e) 60% 
+ 
+ 
+19 
+ 
+ 
+Q77. Find ratio of sold units of D & E together to unsold units of A & B together. 
+(a) 13 : 120 
+(b) 132 : 17 
+(c) 109 : 11 
+(d) 120 : 13 
+(e) 17 : 132 
+ 
+Q78. Find the average of unsold units of C, D and E. 
+(a) 6000 units 
+(b) 8000 units 
+(c) 5500 units 
+(d) 4000 units 
+(e) 3500 units 
+ 
+Q79. Total units manufactured of B & C together are what percent more or less than total units 
+manufactured of A & E together? 
+(a) 75% 
+(b) 50% 
+(c) 62.5% 
+(d) 87.5% 
+(e) 37.5% 
+ 
+Q80. Find total units sold of A, B, C, D and E together. 
+(a) 128500 units 
+(b) 134500 units 
+(c) 116500 units 
+(d) 124500 units 
+(e) 130500 units 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+Solutions 

@@ -1,0 +1,727 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2023
+Shift: 4
+Subject: English
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/08/15011058/SBI-PO-Pre-2023-1st-Nov-Shift-wise-Paper-Mock-04.pdf
+======================================================================
+
+Q1. Why has cyber security evolved to be the prime priority for an organisation? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) Cyber security plays a pivotal role in those organisations where reliability of the data is prerequisite. 
+(b) With organizations’ continuous reliance on computerization, cybersecurity has taken the front row seat 
+even for governing the day-to-day operations. 
+(c) The potential data theft that resulted from the organizational shift, i.e., to work from home culture, could put 
+the organisation at monetary risk. 
+(d) Only (a) and (b) 
+(e) All of these 
+ 
+ 
+2 
+ 
+ 
+Q2. Which of the following can be listed as the cause of cyber-attack as mentioned in the passage? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) Data breach could happen to the systems that have unprotected or unchanged password as these are easily 
+accessible and highly vulnerable. 
+(b) Sometimes malware disguised or embedded within the targeted computer waiting to be executed by the 
+end user. 
+(c) Open or shared networks, such as common Wi Fi, are more entailed cyber attack 
+(d) Only (b) and (c) 
+(e) All of these 
+ 
+Q3. How organisations can safeguard themselves from malicious cyber threat? 
+Read the passage to answer the following questions. 
+ 
+ 
+3 
+ 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) By educating employees on common safety measures such as creating strong password and following 
+prescribed protocols. 
+(b) By ensuring that their firewalls are equipped with proper updates to resist the malware attack. 
+(c) Organisations should be confided to virtual private network. 
+(d) Only (b) and (c) 
+(e) All of these 
+ 
+Q4. Which of the following is/are FALSE as per the given passage? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+ 
+ 
+4 
+ 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) An internal threat can be defined as a former employee, competitor or hacker who access the organization’s 
+data to misuse them. 
+(b) A cyber threat is any organizational damage, conceivably reputational or financial loss, litigation, whereby 
+loss in revenue. 
+(c) Within the span of 10 months, 26000 websites were reportedly being hacked in India. 
+(d) Companies mostly get into cyber insurance solutions even though they don’t want to 
+(e) All are correct. 
+ 
+Q5. Which of the following does not come under the category of losses that cyber insurance solution covers? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+ 
+ 
+5 
+ 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) first party 
+(b) second party 
+(c) third party 
+(d) cyber extortion 
+(e) None of these 
+ 
+Q6. What is cyber extortion? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+ 
+ 
+6 
+ 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) Crime involves individuals within corporations or government bureaucracies deliberately altering data for 
+either profit or political objectives. 
+(b) When the attacker communicates through digital medium though the attack happened in real world. 
+(c) It is a crime involving an attack or threat of an attack coupled with a demand for money in return for 
+stopping or remediating the act. 
+(d) Only (b) and (c) 
+(e) All of these 
+ 
+Q7. Which of the following can fit into the given blank provided in the passage? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+ 
+ 
+7 
+ 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) devising 
+(b) stemming 
+(c) inventor 
+(d) whittling 
+(e) None of these 
+ 
+Q8. Which of the following can act as the antonym of “infringement”? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+ 
+ 
+8 
+ 
+(a) compliance 
+(b) tantamount 
+(c) transgression 
+(d) sabotage 
+(e) None of these 
+ 
+Q9. Which of the following words can replace “fraudulent” from the given passage? 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) prevaricate 
+(b) allusive 
+(c) deceitful 
+(d) righteous 
+(e) All of these 
+ 
+ 
+9 
+ 
+ 
+Q10. . Which of the following statements is/are correct as per the given passage? 
+(I) Cyber insurance helps organizations recover quickly post a cyberattack by covering legal expenses and 
+damages. 
+(II) Weak passwords and shared networks are highlighted as primary reasons for cyberattacks. 
+(III) Internal threats are solely caused by hackers who access sensitive corporate data. 
+Read the passage to answer the following questions. 
+As enterprises, the government and public moving towards digitalization, cybersecurity has become pivotal to 
+their basic functioning nowadays. Cyberattacks have been on the rise over the past 12-18 months, affecting 
+businesses of all nature and sizes, where the safety of the data network is essential to their operations. As a 
+result, cybersecurity has come to occupy a prime position in a company’s list of governance priorities. As more 
+companies shifted to work from home, there were database breaches and hackings, leading to loss of revenue 
+opportunity across industries. Even systems believed to be highly secure could be breached in cyberattacks. 
+Reports say almost 26,000 Indian websites were hacked in the 10-month period ended October. The hackers 
+had been operating from different parts of the world with hidden identities. 
+While weak passwords are the common cause for such attacks, systems with unprotected or unchanged 
+passwords are highly vulnerable. Second, different types of malwares in many cases hidden in another type of 
+document only waiting to be executed by the target user. Third, working in unsecured environments such as a 
+common Wi-Fi network to access private emails and USB drives may prove risky. The onus is on the 
+organisation to take steps to prevent and counter potential threats. They should educate their employees to 
+create strong passwords, follow proper protocols in keeping passwords secure. Also, an organisation should 
+regularly ensure that its firewalls are capable to resist any malware attack, by installing regular software 
+updates. This is also why virtual private networks are being insisted upon in organisations. 
+Internal threats could be a result of employee negligence or ignorance, while external threats could be from 
+former employees, competitors, and hackers who steal corporate data and money through spoofing and 
+phishing. These would obviously lead to reputational damage, financial loss, litigation, regulatory probes, and 
+above all, loss of clients and thereby revenue. Ransomware attacks continue to evolve in the market, with the 
+past 8-10 months witnessing the highest number of threats of sensitive data exposure. A leading social network 
+platform suffered a data breach, wherein millions of profiles containing email addresses, names, dates of birth, 
+and phone numbers were sold on the dark Web. 
+There are cyber insurance solutions available in the market to protect against losses caused by cyberattacks, 
+including first-party and third-party losses, and cyber extortion. 
+First-party insurance covers loss caused due to electronic theft, loss of electronic communication, e-vandalism, 
+business interruption (income loss due to fraudulent access causing impairment of operations), and the like. 
+Third-party loss covers disclosure liability (any customer claims due to system security failures resulting in 
+unauthorized access), content liability (for alleged copyright infringement). Cyber extortion occurs when 
+cybercriminals threaten to disable the operations of a target business or compromise its confidential data 
+unless they receive a payment. Companies usually get cyber insurance solution to eliminate the risk, without 
+willingly. Cyber insurance helps cover legal expenses ___________________ from damages due to a cyberattack. It 
+should be part of the company’s overall business continuity strategy, as it helps quickly recover post an 
+incident. 
+(a) Only (I) and (II) 
+(b) Only (II) and (III) 
+(c) Only (I) 
+(d) All of these 
+(e) Only (I) and (III) 
+ 
+ 
+10 
+ 
+ 
+Q11. India mainly depends on (A)/wheat for its daily meals (B)/ despite of many other kinds (C)/ of cereal 
+available globally. (D) 
+Read the sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be 
+in one part of the sentence. The corresponding letter of that part is the answer. If the given sentence is correct 
+as it is, then choose option ‘No error’ as the answer response. (Ignore errors of punctuation, if any). 
+(a) B 
+(b) C 
+(c) D 
+(d) A 
+(e) No error 
+ 
+Q12. He will return back (A)/ to India after (B)/ completing his degree (C)/ this year. (D) 
+Read the sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be 
+in one part of the sentence. The corresponding letter of that part is the answer. If the given sentence is correct 
+as it is, then choose option ‘No error’ as the answer response. (Ignore errors of punctuation, if any). 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) No error 
+ 
+Q13. All the interesting (A)/ employees should (B)/ be invited and (C)/involved in the discussion. (D) 
+Read the sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be 
+in one part of the sentence. The corresponding letter of that part is the answer. If the given sentence is correct 
+as it is, then choose option ‘No error’ as the answer response. (Ignore errors of punctuation, if any). 
+(a) B 
+(b) D 
+(c) A 
+(d) C 
+(e) No error 
+ 
+Q14. If he has come here, (A)/ I would have given (B)/him the amount he (C)/needed to pay his fees. (D) 
+Read the sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be 
+in one part of the sentence. The corresponding letter of that part is the answer. If the given sentence is correct 
+as it is, then choose option ‘No error’ as the answer response. (Ignore errors of punctuation, if any). 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) No error 
+ 
+Q15. The Chinese produced (A)/ primarily cast coinage, (B)/ and this spread to (C)/ South-East Asia and Japan. 
+(D) 
+Read the sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be 
+in one part of the sentence. The corresponding letter of that part is the answer. If the given sentence is correct 
+as it is, then choose option ‘No error’ as the answer response. (Ignore errors of punctuation, if any). 
+ 
+ 
+11 
+ 
+(a) D 
+(b) C 
+(c) B 
+(d) A 
+(e) No error 
+ 
+Q16.  
+(A) one of the oldest of the 
+(B) ayurveda is considered as 
+(C) medicine accepted worldwide 
+(D) traditional systems of 
+In the question below, a grammatically correct and meaningful sentence is given which is divided into four 
+parts namely (A), (B), (C) and (D). Rearrange these four parts to make a contextually and grammatically 
+meaningful sentence. If no such rearrangement is needed, mark 'No rearrangement required' as the answer 
+choice. 
+(a) DBAC 
+(b) BADC 
+(c) CDAB 
+(d) ADCB 
+(e) No rearrangement required 
+ 
+Q17.  
+(A) warmth was needed, 
+(B) such as China and Japan 
+(C) wood was the earliest fuel used in 
+(D) places where only moderate 
+In the question below, a grammatically correct and meaningful sentence is given which is divided into four 
+parts namely (A), (B), (C) and (D). Rearrange these four parts to make a contextually and grammatically 
+meaningful sentence. If no such rearrangement is needed, mark 'No rearrangement required' as the answer 
+choice. 
+(a) CDBA 
+(b) BCAD 
+(c) CDAB 
+(d) ADCB 
+(e) No rearrangement required 
+ 
+Q18.  
+(A) in medicine to provide 
+(B) to keep abreast of evolving knowledge 
+(C) all practitioners of medicine need 
+(D) competent care to patients 
+In the question below, a grammatically correct and meaningful sentence is given which is divided into four 
+parts namely (A), (B), (C) and (D). Rearrange these four parts to make a contextually and grammatically 
+meaningful sentence. If no such rearrangement is needed, mark 'No rearrangement required' as the answer 
+choice. 
+(a) DBAC 
+(b) BCAD 
+(c) CDAB 
+(d) CBAD 
+(e) No rearrangement required 
+ 
+ 
+12 
+ 
+ 
+Q19. To some, this situation cries out for draconian measures to inject more compatition. 
+In the sentence given below, four words have been highlighted which may be misspelt or inappropriate in their 
+usage. Mark the erroneous word as the answer and if all the words are correct, then choose option ‘No error’ as 
+the answer. 
+(a) situation 
+(b) inject 
+(c) draconian 
+(d) compatition 
+(e) No error 
+ 
+Q20. The objective of the reserch is to gain a better insight into labour market processes 
+In the sentence given below, four words have been highlighted which may be misspelt or inappropriate in their 
+usage. Mark the erroneous word as the answer and if all the words are correct, then choose option ‘No error’ as 
+the answer. 
+(a) objective 
+(b) reserch 
+(c) insight 
+(d) processes 
+(e) No error 
+ 
+Q21. With parts of the pipes (1) being covered after laying of the canal (2) and construction material and debris 
+strewn ( 3) along the banks, encroachers (4) are taking over the canal. 
+In the question below four words are given in bold. These 
+four words are may not be in their correct position. The sentence is then followed by options with the correct 
+combination of words that should replace each other in order to make the sentence grammatically and 
+contextually correct. Find the correct combination of the words that replace each other. 
+(a) 2-4 and 1-3 
+(b) Only 2 - 4 
+(c) No correction required 
+(d) Only 1- 2 
+(e) 1-4 and 2-3 
+ 
+Q22. People thronged the burial families ( 1) to offer a range of dishes and departed (2) to the deceased 
+members of their ground (3) in a symbolic gesture of love towards the desserts (4) ones . 
+In the question below four words are given in bold. These 
+four words are may not be in their correct position. The sentence is then followed by options with the correct 
+combination of words that should replace each other in order to make the sentence grammatically and 
+contextually correct. Find the correct combination of the words that replace each other. 
+(a) 1-3 and 2-4 
+(b) Only 1 -3 
+(c) Only 2 -4 
+(d) No correction required 
+(e) 1-2 and 3-4 
+ 
+Q23. Authoritarian regimes, in strength ( 1), are static regimes where ( 2) a supreme leader assumes (3) know-
+it-all power and essence ( 4). 
+In the question below four words are given in bold. These four words are may not be in their correct position. 
+The sentence is then followed by options with the correct combination of words that should replace each other 
+in order to make the sentence grammatically and contextually correct. Find the correct combination of the 
+words that replace each other. 
+ 
+ 
+13 
+ 
+(a) Only 2 -3 
+(b) 1-3 and 2-4 
+(c) 1 -4 only 
+(d) No correction required 
+(e) Only 2 -4 
+ 
+Q24. Indian news consumers’ trust in lower (1) TV news channels is much private (2) than their belief in 
+newspapers and yet source (3) continues to be the dominant news television (4). 
+In the question below four words are given in bold. These 
+four words are may not be in their correct position. The sentence is then followed by options with the correct 
+combination of words that should replace each other in order to make the sentence grammatically and 
+contextually correct. Find the correct combination of the words that replace each other. 
+(a) Only 2 -3 
+(b) 1-2 and 3-4 
+(c) 1 -4 only 
+(d) No correction required 
+(e) Only 2 -4 
+ 
+Q25. The Commission for Air Quality Management in NCR and the adjoining (1) areas (2) has developed a 
+framework for the effective ( 3) prevention and control of stubble burning ( 4). 
+In the question below four words are given in bold. These 
+four words are may not be in their correct position. The sentence is then followed by options with the correct 
+combination of words that should replace each other in order to make the sentence grammatically and 
+contextually correct. Find the correct combination of the words that replace each other. 
+(a) Only 1 and 2 
+(b) Only 1 and 3 
+(c) 1-3 and 2-4 
+(d) 1-4 and 2-3 
+(e) No correction required 
+ 
+Q26. A good percentage of all homeless people suffer of some untreated mental affliction. 
+Which of the following phrases given below the sentence should replace the phrase printed in bold letters to 
+make the sentence grammatically correct? Choose the best option among the five given alternatives that reflect 
+the correct use of phrase in the context of the grammatically correct sentence. If the sentence is correct as it is, 
+mark “No improvement required” as the answer. 
+(a) from some untreated mental 
+(b) from some untreated mind 
+(c) with some untreat mental 
+(d) with untreated mind 
+(e) No improvement required 
+ 
+Q27. Although the government claims the unemployment rate is decreasing, there is still a paucity of jobs 
+available. 
+Which of the following phrases given below the sentence should replace the phrase printed in bold letters to 
+make the sentence grammatically correct? Choose the best option among the five given alternatives that reflect 
+the correct use of phrase in the context of the grammatically correct sentence. If the sentence is correct as it is, 
+mark “No improvement required” as the answer. 
+(a) is decreased, there are still a 
+(b) decreasing, their is still a 
+(c) are decreasing, there is a 
+(d) are decreased, there is still a 
+(e) No improvement required 
+ 
+ 
+14 
+ 
+ 
+Q28. My financial advisor was helping me to pay up a massive amount from debt I incurred after medical 
+school. 
+Which of the following phrases given below the sentence should replace the phrase printed in bold letters to 
+make the sentence grammatically correct? Choose the best option among the five given alternatives that reflect 
+the correct use of phrase in the context of the grammatically correct sentence. If the sentence is correct as it is, 
+mark “No improvement required” as the answer. 
+(a) pay a massive amount of 
+(b) paying a massive amount from 
+(c) to pay off a massive amount of 
+(d) to pay with a massive amount of 
+(e) No improvement required 
+ 
+Q29. When the king was accompany with his stalwart bodyguards, he felt safe walking among his people. 
+Which of the following phrases given below the sentence should replace the phrase printed in bold letters to 
+make the sentence grammatically correct? Choose the best option among the five given alternatives that reflect 
+the correct use of phrase in the context of the grammatically correct sentence. If the sentence is correct as it is, 
+mark “No improvement required” as the answer. 
+(a) is accompany with his 
+(b) were accompanied by his 
+(c) was accompanied by their 
+(d) was accompanied by his 
+(e) No improvement required 
+ 
+Q30. Since the prisoner couldn’t coexist by another convicts, he spent a lot of time in solitary confinement. 
+Which of the following phrases given below the sentence should replace the phrase printed in bold letters to 
+make the sentence grammatically correct? Choose the best option among the five given alternatives that reflect 
+the correct use of phrase in the context of the grammatically correct sentence. If the sentence is correct as it is, 
+mark “No improvement required” as the answer. 
+(a) coexists with other convict, he 
+(b) coexisted among other convicts, he 
+(c) coexist with other convicts, he 
+(d) coexist within other convicts, it 
+(e) No improvement required

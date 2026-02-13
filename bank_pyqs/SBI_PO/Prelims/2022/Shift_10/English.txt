@@ -1,0 +1,327 @@
+======================================================================
+Exam: SBI PO
+Phase: Prelims
+Year: 2022
+Shift: 10
+Subject: English
+Source: https://www.bankersadda.com/wp-content/uploads/multisite/2025/01/30113028/SBI-PO-Pre-2022-20th-Dec-Shift-Wise-Previous-Year-Paper-Mock-10.pdf
+======================================================================
+
+Q1. Which of the following statements is inferred from the passage? 
+(a) People, processes and technology all play very important roles in keeping information safe. 
+(b) Cyber-attacks can have various objectives like financial gain, disruption and revenge and cyberwarfare. 
+(c) Every square is a rectangle but every rectangle is not a square. 
+(d) Brutal terrorist attacks all take place due to lack of cyber security. 
+(e) None of these. 
+ 
+Q2. Choose the most appropriate antonym of the word ‘MALICIOUS’, as highlighted in the given passage. 
+(a) malignant 
+(b) decent 
+(c) mischievous 
+(d) nasty 
+(e) None of these 
+ 
+ 
+ 
+2 
+ 
+ 
+Q3. Choose the most appropriate word from the following options to fill in the blank in the given 
+passage. 
+(a) worsening 
+(b) earnest 
+(c) reluctant 
+(d) connected 
+(e) esurient 
+ 
+Q4. Choose the most appropriate synonym of the word ‘CONVENIENCE’, as highlighted in the given 
+passage. 
+(a) annihilation 
+(b) usefulness 
+(c) hindrance 
+(d) accessory 
+(e) All of these 
+ 
+Q5. What are the threats to the electronic assets mentioned in the passage? 
+(a) Exploitation of weakness of and breaches in data security by hackers 
+(b) Governments that try to incept data transmissions for the purposes of spying 
+(c) Inter-governmental policies putting up restrictions on means of data security 
+(d) Knowledge of mechanisms of cybersecurity widely available to the public  
+(e) All of these 
+ 
+Q6. Which of the following most resembles the definition of cybersecurity according to the author? 
+(a) Cybersecurity is defined as the maintenance of internet resources in order of sustenance of security 
+measures. 
+(b) Cybersecurity can be defined as the measures taken by a particular service to strengthen the security 
+on the service for the protection of data. 
+(c) Cybersecurity incorporates any measures taken towards securing electronic assets responsible for 
+storage or transmission of data. 
+(d) Cybersecurity involves the privacy settings chosen by the user on an electronic platform regarding the 
+sharing of private data. 
+(e) None of these 
+ 
+Q7. Which of the following statements does the passage mention to be true? 
+(a) Cybersecurity initiatives are non-essential to overall structure of society and thus, can be neglected in 
+that regard only. 
+(b) The full measure of cybersecurity can only be realised by the evolution of cybersecurity tools designed 
+to protect confidential data from unauthorized access. 
+(c) Both (a) and (b) 
+(d) It’s incredibly difficult to conduct work, manage your social calendar, shop and make appointments 
+from your smartphone or device 
+(e) None of these 
+ 
+ 
+3 
+ 
+ 
+Q8. Which of the given statements cannot be justified from the information in the passage? 
+(a) Malware is a software used to disrupt computer operation, gather sensitive information, or gain access 
+to private computer systems. 
+(b) Both a) and c) 
+(c) It is said that future wars will not be like traditional wars fought on land and air but will take the form 
+of cyber warfare. 
+(d) Cybersecurity is often confused with IT security and information security due to lack of awareness. 
+(e) None of these 
+ 
+Directions (9-14): In the following questions, a grammatically correct and meaningful sentence is 
+given which is divided into four parts namely (A),(B),(C) and (D) You have to arrange the four parts 
+to make a contextually and grammatically meaningful sentence. If no such rearrangement is 
+possible mark (E) as your answer i.e. 'No rearrangement possible. 
+ 
+Q9. to position itself as a major (A)/ the country has an opportunity (B)/ tourism destination during 
+(C)/ India’s presidency of the G20 (D). 
+(a) DBAC 
+(b) BACD 
+(c) CDAB 
+(d) ADCB 
+(e) No rearrangement possible 
+ 
+Q10. demand a cessation of hostilities (A)/ with Russia, was the only country to (B)/ India, with its 
+special historic bonds (C)/ and want diplomacy and democracy (D). 
+(a) DBAC 
+(b) BCAD 
+(c) CBAD 
+(d) ADCB 
+(e) No rearrangement possible 
+ 
+Q11. both India and South Africa (A)/ the final dress rehearsal (B)/ to put in their best efforts in 
+(C)/ would be particularly keen (D). 
+(a) DBAC 
+(b) BCAD 
+(c) CDAB 
+(d) ADCB 
+(e) No rearrangement possible 
+ 
+ 
+4 
+ 
+ 
+Q12. the growing food insecurity (A)/ crisis in the Asia Pacific (B)/ the Asian Development Bank is 
+(C)/ allocating 14 $ billion to fight (D). 
+(a) DBAC 
+(b) BCAD 
+(c) CDAB 
+(d) ADCB 
+(e) No rearrangement possible 
+ 
+Q13. camera to observe the collision (A)/high-resolution DRACO (B)/ the DART craft carried a (C)/ 
+and its consequences (D). 
+(a) CDAB 
+(b) BCAD 
+(c) CBAD 
+(d) ADCB 
+(e) No rearrangement possible 
+ 
+Q14. investments, and innovations (A)/ gaining prominence globally and (B)/ satellite 
+communication has been (C)/ is seeing a lot of interest, (D) 
+(a) DCBA 
+(b) ADCB 
+(c) CBDA 
+(d)BCAD 
+(e)ABCD 
+ 
+Directions (15-18): In the following questions, a sentence has been given and been divided into five 
+parts. One of the parts is highlighted to show that it is the grammatically correct part of the sentence. 
+Choose from the other parts the one that contains the error, or choose “No error” if no errors exist. 
+ 
+Q15. If an invention claimed in (A) / a patent can be (B) / shown to exist or (C) / been described 
+previously, it / invalidates the patent. (D) / No error (E) 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Q16. The firm stated that it (A) / maintained a strong balance sheet (B) /  due to rigorous (C) / cash 
+management and a robust / implementation of internal policies. (D) / No error (E) 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+ 
+5 
+ 
+ 
+Q17. In the mid-1800s an American / businessman, Charles Goodyear, dropped (A) / a rubber mixture 
+contain (B) / sulphur on his hot stove (C) / and invented vulcanization. (D) / No error (E) 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Q18. Abdominal pain, one of the / most common symptom of (A) / childhood, can be indicative of (B) / 
+many gastrointestinal disorders but usually (C) / occurs without evidence of disease. (D) / No error (E) 
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+ 
+Directions (19-21): In each of the questions given below four words are given in bold. These four 
+words may or may not be in their correct position. The sentence is then followed by options with 
+the correct combination of words that should replace each other in order to make the sentence 
+grammatically and contextually correct. Find the correct combination of the words that replace each 
+other. If the sentence is correct as it is then select option ‘No correction required’ as your choice. 
+ 
+Q19.With parts of the pipes (1) being covered after laying of the canal (2) and construction material and 
+debris strewn (3) along the banks, encroachers (4) are taking over the canal. 
+(a) 2-4 and 1-3 
+(b) Only 2 - 4 
+(c) No correction required 
+(d) Only 1- 2 
+(e) 1-4 and 2-3 
+ 
+Q20. People thronged the burial families (1) to offer a range of dishes and departed (2) to the deceased 
+members of their ground (3) in a symbolic gesture of love towards the desserts (4) ones. 
+(a)1-3 and 2-4 
+(b) Only 1 -3 
+(c) Only 2 -4 
+(d) No correction required 
+(e) 1-2 and 3-4 
+ 
+ 
+6 
+ 
+ 
+Q21. Authoritarian regimes, in strength (1), are static regimes where (2) a supreme leader assumes (3) 
+know-it-all power and essence (4). 
+(a) Only 2 -3  
+(b) 1-3 and 2-4 
+(c) 1 -4 only 
+(d) No correction required 
+(e) Only 2 -4 
+ 
+Directions (22-24): Each of the following questions has two sentences. Each sentence has a blank. 
+From the options given below the sentence, choose the set of words which fits into both the blanks 
+and mark the same as your answer. 
+ 
+Q22. Mobile signal ____________is weak in _____________regions. 
+(a) reachability, hill 
+(b) volume, central 
+(c)affordability, outskirts 
+(d) strength, interior 
+(e)strength, hill 
+ 
+Q23. A large part of the world has ______________the Russian______________. 
+(a) condemned, invasion 
+(b)criticize, welcome 
+(c)appreciated, intrude 
+(d)condemned, abandon 
+(e)criticism, invasion 
+ 
+Q24. The history of communal ______________of India is___________-. 
+(a) dissonance, benign 
+(b)dissonance, exemplifying 
+(c) harmony, unique 
+(d) riots, smashing 
+(e) harmony, reprove 
+ 
+Directions (25-27): In the following questions two columns are given containing three 
+sentences/phrases each. In first column, sentences/phrases are A, B and C and in the second column 
+the sentences/phrases are D, E and F. A sentence/phrase from the first column may or may not 
+connect with another sentence/phrase from the second column to make a grammatically and 
+contextually correct sentence. Each question has five options, four of which display the sequence(s) 
+in which the sentences/phrases can be joined to form a grammatically and contextually correct 
+sentence. 
+ 
+ 
+7 
+ 
+ 
+Q25. Column (1) 
+(A)His parents love him so much that 
+(B)He can finish ten pizzas in one go 
+(C)Tomorrow is his birthday party 
+Column (2) 
+(D) we bought him a house as a wedding gift 
+(E) I am going to get a lot many gifts from my friends 
+(F) She has not been active on any social media platforms 
+(a) A-D 
+(b) B-E 
+(c) B-F 
+(d) B-E & C-F 
+(e) none of these 
+ 
+Q26. Column (1) 
+(A)The textbook of mathematics written by my uncle 
+(B) His mother has raised him to be a good man 
+(C) In the search for few diamonds, he lost  
+Column (2) 
+(D)the kilograms worth of gold she had 
+(E)is used by my teachers at school 
+(F) and respect all women 
+(a) A-E 
+(b) B-E & C-F 
+(c) A-E & B-F 
+(d) A-F & B-D 
+(e) None of these 
+ 
+Q27. Column (1) 
+(A) Indian workers, most of them in the informal sector 
+(B) We have to come up with some innovative mechanism 
+(C) The matching contribution should ensure that 
+Column (2) 
+(D) have no social security net 
+(E) for people to opt for such a useful product 
+(F) had become increasingly relevant 
+(a) A-D 
+(b) A-D & B-E 
+(c) C-F 
+(d) A-E & C-F 
+(e) None of these 
+ 
+ 
+8 
+ 
+ 
+Directions (28-30): In the following question, sentences are given with a part in bold. The given 
+phrase in the bold may or may not contain an error. The options following can replace the incorrect 
+phrase. The correct phrase that is to be replaced will be your answer. If the sentences are correct 
+then select ‘No improvement required’ as your answer. 
+ 
+Q28. Central India and the southern peninsula were expected to get most rain than their historical 
+average. 
+(a)were expect to get more 
+(b)were expected to got more 
+(c)were expected to get mostly 
+(d)were expected to get more 
+(e)No improvement required 
+ 
+Q29. The hybrid pitches could now been used for ODIs and T20Is, for men and women if both the rival 
+teams agree. 
+(a)could now been use for 
+(b)could now be used for 
+(c)could now be use for 
+(d)could now being used for 
+(e)No improvement required 
+ 
+Q30. In economics, the supply and the demand normally correlated because one factor determines 
+another element. 
+(a) demand normally correlated as 
+(b) demand normal correlated because 
+(c) demands normally correlated because 
+(d) demand normally correlate because 
+(e) No improvement needed
