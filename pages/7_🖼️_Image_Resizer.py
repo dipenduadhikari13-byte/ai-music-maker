@@ -742,40 +742,190 @@ with main_tab1:
 
         # --- Crop ---
         with tab_crop:
-            enable_crop = st.checkbox("Enable visual crop", value=False, key="en_crop")
+            enable_crop = st.checkbox("Enable crop & transform", value=False, key="en_crop")
 
             if enable_crop:
-                st.markdown("##### ✂️ Visual Crop Tool")
-                st.caption("Drag and resize the crop box directly on the image below. "
-                           "The area inside the box will be kept.")
+                # ── Gallery-style CSS for crop controls ──
+                st.markdown("""
+                <style>
+                    .crop-toolbar {
+                        display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 16px 0;
+                        justify-content: center;
+                    }
+                    .crop-pill {
+                        display: inline-block; padding: 6px 16px; border-radius: 20px;
+                        font-size: 0.85em; font-weight: 600; cursor: pointer;
+                        border: 1.5px solid #555; background: #1a1a2e; color: #ccc;
+                        transition: all 0.15s ease;
+                    }
+                    .crop-pill.active { background: #ff4b4b; border-color: #ff4b4b; color: #fff; }
+                    .crop-info-bar {
+                        display: flex; justify-content: center; gap: 24px;
+                        padding: 8px 16px; background: #111827; border-radius: 10px;
+                        font-family: monospace; color: #94a3b8; font-size: 0.9em;
+                        margin: 8px 0;
+                    }
+                    .crop-info-bar span { color: #60a5fa; font-weight: 700; }
+                    .transform-btn-row {
+                        display: flex; justify-content: center; gap: 8px; margin: 12px 0;
+                    }
+                </style>
+                """, unsafe_allow_html=True)
 
-                # Aspect ratio constraint for the crop box
-                crop_aspect_options = {
-                    "Free (any shape)": None,
-                    "1:1 (Square)": (1, 1),
-                    "4:3": (4, 3),
-                    "3:4": (3, 4),
-                    "16:9": (16, 9),
-                    "9:16": (9, 16),
-                    "3:2": (3, 2),
-                    "2:3": (2, 3),
-                }
-                crop_aspect_name = st.selectbox(
-                    "Crop aspect ratio",
-                    list(crop_aspect_options.keys()),
-                    key="crop_aspect",
-                )
-                crop_aspect = crop_aspect_options[crop_aspect_name]
+                # ── 1) Rotate & Flip toolbar ──
+                st.markdown("##### 🔄 Transform")
+                tf_c1, tf_c2, tf_c3, tf_c4, tf_c5 = st.columns(5)
+                with tf_c1:
+                    rot_left = st.button("↺ 90°", key="crop_rot_l", help="Rotate left 90°", use_container_width=True)
+                with tf_c2:
+                    rot_right = st.button("↻ 90°", key="crop_rot_r", help="Rotate right 90°", use_container_width=True)
+                with tf_c3:
+                    flip_h = st.button("↔ Flip H", key="crop_flip_h_btn", help="Flip horizontally", use_container_width=True)
+                with tf_c4:
+                    flip_v = st.button("↕ Flip V", key="crop_flip_v_btn", help="Flip vertically", use_container_width=True)
+                with tf_c5:
+                    rot_custom = st.button("⟳ Custom", key="crop_rot_custom", help="Custom rotation angle", use_container_width=True)
 
-                crop_box_color = st.color_picker("Crop box color", "#FF4B4B", key="crop_box_clr")
-                crop_realtime = st.checkbox("Real-time preview", value=True, key="crop_rt",
-                                           help="Update crop preview as you drag. Uncheck for large images.")
+                # Track transforms in session state
+                if "crop_rotation" not in st.session_state:
+                    st.session_state.crop_rotation = 0
+                if "crop_flip_h_state" not in st.session_state:
+                    st.session_state.crop_flip_h_state = False
+                if "crop_flip_v_state" not in st.session_state:
+                    st.session_state.crop_flip_v_state = False
+                if "crop_custom_angle" not in st.session_state:
+                    st.session_state.crop_custom_angle = 0
 
-                # --- Visual cropper widget ---
-                crop_img_input = img.copy()
-                # st_cropper needs RGB
+                if rot_left:
+                    st.session_state.crop_rotation = (st.session_state.crop_rotation - 90) % 360
+                    st.rerun()
+                if rot_right:
+                    st.session_state.crop_rotation = (st.session_state.crop_rotation + 90) % 360
+                    st.rerun()
+                if flip_h:
+                    st.session_state.crop_flip_h_state = not st.session_state.crop_flip_h_state
+                    st.rerun()
+                if flip_v:
+                    st.session_state.crop_flip_v_state = not st.session_state.crop_flip_v_state
+                    st.rerun()
+
+                if rot_custom:
+                    st.session_state["_show_custom_rotation"] = True
+
+                if st.session_state.get("_show_custom_rotation", False):
+                    custom_angle = st.slider("Rotation angle (°)", -180, 180,
+                                             st.session_state.crop_custom_angle, step=1, key="crop_angle_slider")
+                    if custom_angle != st.session_state.crop_custom_angle:
+                        st.session_state.crop_custom_angle = custom_angle
+
+                # Show current transform status
+                transforms = []
+                if st.session_state.crop_rotation != 0:
+                    transforms.append(f"Rotated {st.session_state.crop_rotation}°")
+                if st.session_state.crop_custom_angle != 0:
+                    transforms.append(f"Fine-rotated {st.session_state.crop_custom_angle}°")
+                if st.session_state.crop_flip_h_state:
+                    transforms.append("Flipped H")
+                if st.session_state.crop_flip_v_state:
+                    transforms.append("Flipped V")
+                if transforms:
+                    st.caption(f"Active transforms: {' · '.join(transforms)}")
+                    if st.button("🔄 Reset transforms", key="crop_reset_tf"):
+                        st.session_state.crop_rotation = 0
+                        st.session_state.crop_flip_h_state = False
+                        st.session_state.crop_flip_v_state = False
+                        st.session_state.crop_custom_angle = 0
+                        st.session_state["_show_custom_rotation"] = False
+                        st.rerun()
+
+                # Apply transforms to get the crop source image
+                crop_source = img.copy()
+                if st.session_state.crop_rotation != 0:
+                    crop_source = crop_source.rotate(-st.session_state.crop_rotation, expand=True, resample=Image.BICUBIC)
+                if st.session_state.crop_custom_angle != 0:
+                    crop_source = crop_source.rotate(-st.session_state.crop_custom_angle, expand=True,
+                                                     resample=Image.BICUBIC, fillcolor=(255, 255, 255) if crop_source.mode == "RGB" else None)
+                if st.session_state.crop_flip_h_state:
+                    crop_source = crop_source.transpose(Image.FLIP_LEFT_RIGHT)
+                if st.session_state.crop_flip_v_state:
+                    crop_source = crop_source.transpose(Image.FLIP_TOP_BOTTOM)
+
+                st.markdown("---")
+
+                # ── 2) Quick aspect-ratio pill toolbar (gallery style) ──
+                st.markdown("##### ✂️ Crop")
+
+                CROP_ASPECT_PRESETS = [
+                    ("Free",    None),
+                    ("1:1",     (1, 1)),
+                    ("4:3",     (4, 3)),
+                    ("3:4",     (3, 4)),
+                    ("16:9",    (16, 9)),
+                    ("9:16",    (9, 16)),
+                    ("3:2",     (3, 2)),
+                    ("2:3",     (2, 3)),
+                    ("4:5",     (4, 5)),
+                    ("5:4",     (5, 4)),
+                    ("21:9",    (21, 9)),
+                ]
+
+                # Render aspect-ratio buttons as a horizontal row
+                ar_cols = st.columns(len(CROP_ASPECT_PRESETS))
+                if "crop_aspect_idx" not in st.session_state:
+                    st.session_state.crop_aspect_idx = 0
+
+                for idx, (label, _ratio) in enumerate(CROP_ASPECT_PRESETS):
+                    with ar_cols[idx]:
+                        btn_type = "primary" if st.session_state.crop_aspect_idx == idx else "secondary"
+                        if st.button(label, key=f"ar_btn_{idx}", use_container_width=True, type=btn_type):
+                            st.session_state.crop_aspect_idx = idx
+                            st.rerun()
+
+                crop_aspect = CROP_ASPECT_PRESETS[st.session_state.crop_aspect_idx][1]
+                crop_aspect_label = CROP_ASPECT_PRESETS[st.session_state.crop_aspect_idx][0]
+
+                # Social media presets
+                with st.expander("📱 Social media presets", expanded=False):
+                    SOCIAL_PRESETS = {
+                        "Instagram Post (1:1)":      (1, 1),
+                        "Instagram Story (9:16)":    (9, 16),
+                        "Instagram Portrait (4:5)":  (4, 5),
+                        "YouTube Thumbnail (16:9)":  (16, 9),
+                        "Facebook Post (1.91:1)":    (191, 100),
+                        "Twitter Post (16:9)":       (16, 9),
+                        "TikTok (9:16)":             (9, 16),
+                        "LinkedIn Banner (4:1)":     (4, 1),
+                        "Pinterest Pin (2:3)":       (2, 3),
+                    }
+                    social_choice = st.selectbox("Quick preset", ["None"] + list(SOCIAL_PRESETS.keys()),
+                                                 key="crop_social_preset")
+                    if social_choice != "None":
+                        crop_aspect = SOCIAL_PRESETS[social_choice]
+                        crop_aspect_label = social_choice
+
+                # ── 3) Settings row ──
+                with st.expander("⚙️ Crop settings", expanded=False):
+                    s_c1, s_c2 = st.columns(2)
+                    with s_c1:
+                        crop_box_color = st.color_picker("Box color", "#FF4B4B", key="crop_box_clr")
+                        crop_stroke = st.slider("Box thickness", 1, 8, 3, key="crop_stroke_w")
+                    with s_c2:
+                        crop_realtime = st.checkbox("Real-time preview", value=True, key="crop_rt",
+                                                    help="Update as you drag. Disable for large images.")
+
+                # ── 4) Visual cropper — hero element ──
+                crop_img_input = crop_source.copy()
                 if crop_img_input.mode != "RGB":
                     crop_img_input = crop_img_input.convert("RGB")
+
+                src_w, src_h = crop_img_input.size
+                st.markdown(
+                    f'<div class="crop-info-bar">'
+                    f'Source: <span>{src_w} × {src_h}</span> px'
+                    f'&nbsp;&nbsp;|&nbsp;&nbsp;Ratio: <span>{crop_aspect_label}</span>'
+                    f'</div>',
+                    unsafe_allow_html=True,
+                )
 
                 cropped_result = st_cropper(
                     crop_img_input,
@@ -783,34 +933,67 @@ with main_tab1:
                     box_color=crop_box_color,
                     aspect_ratio=crop_aspect,
                     return_type="both",
+                    stroke_width=crop_stroke,
                     key="visual_cropper",
                 )
 
-                # st_cropper with return_type="both" returns (cropped_image, crop_box_dict)
+                # Parse result
                 if isinstance(cropped_result, tuple) and len(cropped_result) == 2:
                     cropped_img, crop_box = cropped_result
                 else:
-                    # Fallback for older versions that return just the image
                     cropped_img = cropped_result
                     crop_box = None
 
-                # Show crop info
+                # ── 5) Crop info & manual coordinate entry ──
                 if cropped_img is not None:
                     cw, ch = cropped_img.size
-                    if crop_box:
-                        st.success(
-                            f"Crop region: **{cw} × {ch} px** — "
-                            f"Left: {crop_box.get('left', 0)}, Top: {crop_box.get('top', 0)}, "
-                            f"Width: {crop_box.get('width', cw)}, Height: {crop_box.get('height', ch)}"
-                        )
-                    else:
-                        st.success(f"Crop region: **{cw} × {ch} px**")
+                    box_left = int(crop_box.get("left", 0)) if crop_box else 0
+                    box_top = int(crop_box.get("top", 0)) if crop_box else 0
+                    box_w = int(crop_box.get("width", cw)) if crop_box else cw
+                    box_h = int(crop_box.get("height", ch)) if crop_box else ch
 
-                    st.markdown("###### Cropped Preview")
-                    st.image(cropped_img, caption="Cropped result", use_container_width=True)
+                    st.markdown(
+                        f'<div class="crop-info-bar">'
+                        f'Crop: <span>{cw} × {ch}</span> px'
+                        f'&nbsp;&nbsp;|&nbsp;&nbsp;Position: <span>({box_left}, {box_top})</span>'
+                        f'&nbsp;&nbsp;|&nbsp;&nbsp;Size: <span>{box_w} × {box_h}</span>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
+
+                    # Manual coordinate entry (collapsible)
+                    with st.expander("📏 Manual crop coordinates", expanded=False):
+                        st.caption("Enter exact pixel coordinates for precise cropping.")
+                        mc1, mc2, mc3, mc4 = st.columns(4)
+                        man_left = mc1.number_input("Left (X)", 0, src_w - 1, box_left, key="man_crop_l")
+                        man_top = mc2.number_input("Top (Y)", 0, src_h - 1, box_top, key="man_crop_t")
+                        man_right = mc3.number_input("Right (X)", 1, src_w, min(box_left + box_w, src_w), key="man_crop_r")
+                        man_bottom = mc4.number_input("Bottom (Y)", 1, src_h, min(box_top + box_h, src_h), key="man_crop_b")
+
+                        if st.button("Apply manual coordinates", key="apply_man_crop", type="primary"):
+                            if man_right > man_left and man_bottom > man_top:
+                                cropped_img = crop_img_input.crop((man_left, man_top, man_right, man_bottom))
+                                cw, ch = cropped_img.size
+                                st.success(f"Manual crop applied: **{cw} × {ch} px**")
+                            else:
+                                st.error("Invalid coordinates. Right must be > Left, Bottom must be > Top.")
+
+                    # ── 6) Side-by-side preview ──
+                    st.markdown("---")
+                    prev_c1, prev_c2 = st.columns(2)
+                    with prev_c1:
+                        st.markdown("###### 📷 Original (transformed)")
+                        st.image(crop_img_input, use_container_width=True)
+                    with prev_c2:
+                        st.markdown(f"###### ✂️ Cropped — {cw} × {ch} px")
+                        st.image(cropped_img, use_container_width=True)
+                else:
+                    st.warning("Could not produce a crop. Try adjusting the crop box.")
+                    cropped_img = None
             else:
                 cropped_img = None
-                st.info("☝ Click **Enable visual crop** above to activate the interactive crop tool.")
+                st.info("☝ Enable **crop & transform** above to open the interactive crop tool "
+                        "with aspect ratios, rotation, flip, and manual coordinates.")
 
         # --- Background ---
         with tab_bg:
