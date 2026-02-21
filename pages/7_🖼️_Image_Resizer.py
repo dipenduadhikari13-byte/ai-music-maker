@@ -111,6 +111,9 @@ def format_size(size_bytes: int) -> str:
 def prepare_for_format(img: Image.Image, fmt: str) -> Image.Image:
     """Ensure image mode is compatible with the output format."""
     fmt = INTERNAL_FMT.get(fmt, fmt)  # Normalize JPG → JPEG etc.
+    # Convert CMYK to RGB first (common in print-ready images)
+    if img.mode == "CMYK":
+        img = img.convert("RGB")
     if fmt in ("JPEG", "BMP", "PPM", "ICO") and img.mode in ("RGBA", "P", "LA", "PA"):
         background = Image.new("RGB", img.size, (255, 255, 255))
         if img.mode == "P":
@@ -138,7 +141,13 @@ def get_image_bytes(img: Image.Image, fmt: str, quality: int, dpi: tuple | None 
         save_kwargs["method"] = 4
     elif fmt == "JPEG":
         save_kwargs["quality"] = quality
-        save_kwargs["optimize"] = True
+        # Baseline JPEG settings for maximum government/portal compatibility:
+        # - subsampling=0 → 4:4:4 chroma (no colour info dropped, passes strict validators)
+        # - progressive=False → force baseline (not progressive) JPEG
+        # - optimize=False → standard Huffman tables (some strict validators reject optimized tables)
+        save_kwargs["subsampling"] = 0
+        save_kwargs["progressive"] = False
+        save_kwargs["optimize"] = False
     elif fmt == "TIFF":
         save_kwargs["compression"] = "tiff_deflate"
     elif fmt == "GIF":
@@ -353,7 +362,7 @@ DPI_PRESETS = {
 def _jpeg_compress_image(img: Image.Image, quality: int = 85) -> Image.Image:
     """JPEG round-trip to compress an image in memory — dramatically reduces PDF size."""
     buf = io.BytesIO()
-    img.save(buf, format="JPEG", quality=quality, optimize=True)
+    img.save(buf, format="JPEG", quality=quality, subsampling=0, progressive=False, optimize=False)
     buf.seek(0)
     return Image.open(buf).copy()  # .copy() so buffer can be freed
 
@@ -449,7 +458,7 @@ def images_to_pdf(images: list[Image.Image], page_size: str = "A4", orientation:
 
         # ── Single JPEG encoding — then embed directly into PDF ──
         jbuf = io.BytesIO()
-        final_img.save(jbuf, format="JPEG", quality=jpeg_quality, optimize=True)
+        final_img.save(jbuf, format="JPEG", quality=jpeg_quality, subsampling=0, progressive=False, optimize=False)
         jpeg_data = jbuf.getvalue()
 
         image_obj = pikepdf.Stream(pdf, jpeg_data)
@@ -557,8 +566,10 @@ def merge_images(
     buf = io.BytesIO()
     save_fmt = INTERNAL_FMT.get(output_format, output_format)
     save_img = prepare_for_format(canvas, save_fmt)
-    if save_fmt in ("JPEG", "WEBP"):
-        save_img.save(buf, format=save_fmt, quality=quality, optimize=True)
+    if save_fmt == "JPEG":
+        save_img.save(buf, format="JPEG", quality=quality, subsampling=0, progressive=False, optimize=False)
+    elif save_fmt == "WEBP":
+        save_img.save(buf, format="WEBP", quality=quality, method=4)
     elif save_fmt == "PNG":
         save_img.save(buf, format="PNG", compress_level=6)
     else:
