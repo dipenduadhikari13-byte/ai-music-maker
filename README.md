@@ -24,6 +24,6 @@
 
 3.  **Launch**
     ```bash
-    py music_architect.py
+    python app.py
     ```
 *Architect Your Legacy.*
