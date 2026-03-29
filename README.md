@@ -2,7 +2,7 @@
 
 > **"Design Your Sound. Architect Your Soul."**
 
-[![Status](https://img.shields.io/badge/Status-Free for all-red.svg)]()
+[![Status](https://img.shields.io/badge/Status-Freeforall-red.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![YouTube](https://img.shields.io/badge/Channel-Soul%20Note%20Originals-red.svg)](https://www.youtube.com/@genmusiccreator)
 
